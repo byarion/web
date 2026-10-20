@@ -87,8 +87,8 @@ def fetch_news():
                 if not title or not link.startswith("http"):
                     continue
                 title = re.sub(r"\s+", " ", title)
-                     if filtered and (not ECON.search(title) or FRENCH.search(title)):
-                        continue
+                if filtered and (not ECON.search(title) or FRENCH.search(title)):
+                    continue
                 items.append({
                     "lang": lang, "source": source, "title": title, "link": link,
                     "image": find_image(it),
