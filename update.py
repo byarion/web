@@ -26,6 +26,7 @@ ECON = re.compile(r"econom|empresa|banc|bolsa|ibex|inflaci|salari|sueldo|precio|
                   r"comercio|turismo|financ|presupuesto|euro\b|euros\b|d[oó]lar|petr[oó]leo|"
                   r"energ|\bpib\b|d[eé]ficit|hipoteca|convenio|huelga|trabajador|aranc", re.I)
 
+FRENCH = re.compile(r"\b(chez|des|une|dans|pour|avec|sont|mais|aux|cette|leur)\b", re.I)
 MEDIA = "{http://search.yahoo.com/mrss/}"
 CONTENT = "{http://purl.org/rss/1.0/modules/content/}encoded"
 BAD_IMG = ("imrworldwide", "doubleclick", "pixel", "tracking", "1x1")
@@ -86,8 +87,8 @@ def fetch_news():
                 if not title or not link.startswith("http"):
                     continue
                 title = re.sub(r"\s+", " ", title)
-                if filtered and not ECON.search(title):
-                    continue
+                     if filtered and (not ECON.search(title) or FRENCH.search(title)):
+                        continue
                 items.append({
                     "lang": lang, "source": source, "title": title, "link": link,
                     "image": find_image(it),
