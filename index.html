@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Ondexi · Economía explicada fácil</title>
+<meta name="description" content="Noticias de economía, mercados al día, guías para aprender finanzas y una calculadora de ahorro. Todo en un lugar.">
+<link rel="alternate" hreflang="en" href="en/">
+<link rel="stylesheet" href="style.css">
+<!-- Cuando AdSense te apruebe, pega aquí su código de verificación -->
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="./">Ondexi<span>.</span></a>
+  <nav>
+    <a href="#noticias">Noticias</a><a href="#mercados">Mercados</a><a href="#guias">Guías</a><a href="#calculadora">Calculadora</a>
+    <a class="lang" href="en/">EN</a>
+  </nav>
+</div></header>
+
+<div class="hero"><div class="wrap">
+  <h1>La economía, explicada sin complicaciones</h1>
+  <p>Las noticias que importan, los mercados al día y guías sencillas para entender tu dinero.</p>
+</div></div>
+
+<main class="wrap">
+  <section id="mercados">
+    <h2>Mercados</h2>
+    <div class="grid" id="markets"></div>
+    <p class="note">Datos orientativos, pueden tener retraso. No es asesoramiento financiero.</p>
+  </section>
+
+  <div class="ad">Espacio para anuncio</div>
+
+  <section id="noticias">
+    <h2>Últimas noticias</h2>
+    <ul class="news-list" id="news-list"><li>Cargando…</li></ul>
+    <p class="note" id="updated"></p>
+  </section>
+
+  <section id="guias">
+    <h2>Guías para aprender</h2>
+    <div class="grid">
+      <div class="card guide"><h3>¿Qué es la inflación?</h3><p>Es la subida general de los precios. Si sube un 3 %, con los mismos euros compras un 3 % menos que hace un año.</p></div>
+      <div class="card guide"><h3>Interés compuesto</h3><p>Los intereses que ganas también generan intereses. Por eso empezar pronto, aunque sea con poco, marca mucha diferencia.</p></div>
+      <div class="card guide"><h3>Qué es el Ibex 35</h3><p>Es la lista de las 35 empresas más grandes de la bolsa española. Si sube, en general esas empresas valen más.</p></div>
+      <div class="card guide"><h3>Fondo de emergencia</h3><p>Un colchón de 3 a 6 meses de gastos guardado aparte para imprevistos, antes de plantearte invertir.</p></div>
+    </div>
+  </section>
+
+  <section id="calculadora">
+    <h2>Calculadora de ahorro</h2>
+    <div class="card">
+      <form id="calc" class="calc">
+        <div><label>Dinero inicial (€)</label><input name="ini" type="number" min="0" value="1000"></div>
+        <div><label>Aportación mensual (€)</label><input name="mon" type="number" min="0" value="100"></div>
+        <div><label>Rentabilidad anual (%)</label><input name="rate" type="number" step="0.1" value="4"></div>
+        <div><label>Años</label><input name="years" type="number" min="1" value="10"></div>
+        <div><button type="submit">Calcular</button></div>
+      </form>
+      <div class="result" id="result"></div>
+      <p class="note">Simulación con rentabilidad constante; la realidad varía. No es asesoramiento financiero.</p>
+    </div>
+  </section>
+</main>
+
+<footer><div class="wrap">© Ondexi · Contenido informativo, no es asesoramiento financiero. Los titulares enlazan a sus fuentes originales.</div></footer>
+<script src="app.js"></script>
+</body>
+</html>
