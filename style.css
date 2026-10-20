@@ -50,3 +50,15 @@ footer{background:var(--navy);color:#cbd5e1;padding:24px 0;font-size:.85rem}
 .page ul{padding-left:20px}
 .page a{color:#047857}
 .page .big{font-size:1.2rem}
+a.card{display:block;text-decoration:none;transition:border-color .15s,transform .15s}
+a.card:hover{border-color:var(--accent);transform:translateY(-2px)}
+.guide .more{display:inline-block;margin-top:10px;color:#047857;font-weight:600;font-size:.9rem}
+.page .lead{font-size:1.12rem;color:var(--ink)}
+.page ol{padding-left:22px}
+.page .formula{background:#ecfdf5;border-left:4px solid var(--accent);padding:10px 14px;border-radius:6px}
+.page .sum{margin-top:28px;border-left:4px solid var(--accent)}
+.page .sum p{margin:6px 0 0}
+.page .crumb{margin:0 0 14px;font-size:.9rem}
+.page .grid{margin-top:8px}
+.page a.card h3{margin:0;font-size:1rem;color:var(--ink)}
+
