@@ -1,29 +1,133 @@
 {
- "updated": "2026-10-21T08:03:12.789386+00:00",
+ "updated": "2026-10-21T14:11:49.783828+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El Ibex busca una tregua por encima de los 19.000 puntos",
+   "title": "ACS se impone a FCC para construir el 'superhub' de Melbourne",
+   "link": "https://www.expansion.com/empresas/construccion-servicios/2026/10/21/6ad8c381468aeb46388b4581.html",
+   "image": "",
+   "date": "2026-10-21T15:52:03+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "BBVA y Santander colaborarán con Nvidia en seguridad para agentes de IA",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/21/6ad8b465468aeb8d408b4582.html",
+   "image": "",
+   "date": "2026-10-21T15:08:09+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
+   "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca73/live/aa125910-cd46-11f1-8177-0f8bd59b54c4.jpg",
+   "date": "2026-10-21T14:04:52+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno vasco compra 510 viviendas a Blackstone para mantenerlos como pisos protegidos",
+   "link": "https://elpais.com/sociedad/2026-10-21/el-gobierno-vasco-compra-510-viviendas-a-blackstone-para-mantenerlos-como-pisos-protegidos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/H4F4U2WAKJE4XDP4QARMJJ5FCU.jpg?auth=1dd67aea632c518bcb7f9bbc5c900e4ffe8fc4eb5befbd3f6cb0abeb2b42ce36",
+   "date": "2026-10-21T13:31:43+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Ibex supera los 19.200 puntos apoyado en los bancos",
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/21/6ad854efe5fdea57578b458a.html",
    "image": "",
-   "date": "2026-10-21T10:00:18+02:00"
+   "date": "2026-10-21T13:03:25+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La Fiscalía mantiene su petición por la filtración de la OPE de Osakidetza",
+   "link": "https://www.naiz.eus/info/noticia/20261021/la-fiscalia-mantiene-su-peticion-por-la-filtracion-de-la-ope-de-osakidetza",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/714/news_landscape/nicolau.jpg",
+   "date": "2026-10-21T12:01:00+00:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Iberdrola se lanza a por 10.000 millones de ganancias en 2030",
-   "link": "https://www.expansion.com/empresas/energia/2026/10/21/6ad85fa4e5fdea0a278b458a.html",
+   "title": "Bruselas investiga a Booking por sospechas de riesgo sistémico de fraude",
+   "link": "https://www.expansion.com/empresas/2026/10/21/6ad8898ee5fdea5d338b4582.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925757683060.jpg",
+   "date": "2026-10-21T12:00:21+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Los Cosmen y Asterion lanzan una opa de exclusión sobre Mobico",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/21/6ad88969e5fdea20258b4585.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925775781399.jpg",
+   "date": "2026-10-21T11:44:24+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+   "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
    "image": "",
-   "date": "2026-10-21T08:46:01+02:00"
+   "date": "2026-10-21T11:20:58+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Garamendi mantiene a sus vicepresidentes en CEOE y Sánchez Llibre volverá a ser el enlace con las Cortes",
+   "link": "https://elpais.com/economia/2026-10-21/garamendi-mantiene-a-sus-vicepresidentes-en-ceoe-y-sanchez-llibre-volvera-a-ser-el-enlace-con-las-cortes.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GX2LIWE2ZJJGJDETJJOOCYYK24.jpg?auth=bfc74ac690ed7fccd5e47e026dfa9711526ac4a6370a9d4af2a5b906634d2612",
+   "date": "2026-10-21T11:19:54+00:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "SpaceX y Tesla estudian una posible fusión",
-   "link": "https://www.expansion.com/economia/financial-times/2026/10/21/spacex-tesla-estudian-posible-fusion.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925635284156.jpg",
-   "date": "2026-10-21T08:07:35+02:00"
+   "title": "Netflix tiene un problema de 300.000 millones de dólares",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/21/netflix-problema-300-000-millones-dolares.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925711254256.jpg",
+   "date": "2026-10-21T10:25:35+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d837/live/21441720-cd34-11f1-935f-b9c228680c6f.jpg",
+   "date": "2026-10-21T10:20:15+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/2e2e9560-cd3d-11f1-9a39-31b474234113.jpg",
+   "date": "2026-10-21T10:16:17+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Convocan movilizaciones por un convenio digno en el sector vitivinícola alavés",
+   "link": "https://www.naiz.eus/info/noticia/20261021/convocan-movilizaciones-por-un-convenio-digno-en-el-sector-vitivinicola-alaves",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/691/news_landscape/vendimia.jpg",
+   "date": "2026-10-21T09:57:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
+   "date": "2026-10-21T08:42:49+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What is happening to UK prices?",
+   "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73aa/live/9eb3d5f0-a8dd-11f0-a522-95977dce8b09.jpg",
+   "date": "2026-10-21T08:35:47+00:00"
   },
   {
    "lang": "en",
@@ -36,50 +140,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Surging fuel prices push UK inflation rate to 3.5% ahead of Budget",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a99/live/ca0d4520-cc85-11f1-bed8-c51b95c602ec.jpg",
-   "date": "2026-10-21T07:32:24+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La Primera de Expansión sobre Sabadell, Waymo, Moeve, Milei, SpaceX, Tesla y OpenAI",
-   "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/21/primera-expansion-sobre-sabadell-waymo-moeve-milei-spacex-tesla-open-ai.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925617989737.jpg",
-   "date": "2026-10-21T07:23:03+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Iberdrola eleva sus ganancias un 10%, a 5.816 millones, con el precio de la luz en máximos",
-   "link": "https://www.naiz.eus/info/noticia/20261021/iberdrola-eleva-sus-ganancias-un-10-a-5-816-millones-con-el-precio-de-la-luz-en-maximos",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/659/news_landscape/Iberdrola.jpg",
-   "date": "2026-10-21T07:11:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Gasteizko Turismo Bulegoko bisitarien %20tik gora atzerritarrak izan dira udan",
-   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261021/gasteizko-turismo-bulegoko-bisitarien-20tik-gora-atzerritarrak-izan-dira-udan",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/376/366/news_landscape/SantaMaria_Katedrala.jpg",
-   "date": "2026-10-21T06:48:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
    "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b71f/live/c95f8940-cce3-11f1-94ca-a129a5a527a6.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png",
    "date": "2026-10-21T06:36:39+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Elon Musk confirms talks to merge Tesla and SpaceX",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
-   "date": "2026-10-21T05:48:46+00:00"
   },
   {
    "lang": "es",
@@ -131,30 +195,6 @@
   },
   {
    "lang": "es",
-   "source": "El País",
-   "title": "De los 292 euros de Valencia a los 42 en Soria: ¿cuánto cuesta la tasa de basuras en cada capital?",
-   "link": "https://elpais.com/economia/2026-10-21/de-los-292-euros-de-valencia-a-los-42-en-soria-cuanto-cuesta-la-tasa-de-basuras-en-cada-capital.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/WRFH3DWNOREIDN3BKBOCJW6MP4.jpg?auth=e138e5b96dfe282f59348232eefeecffa78e9cdba7da5453c122080b15a3a909",
-   "date": "2026-10-21T03:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Taku Morikawa (Uniqlo): “Estamos en plena fase de aprender del cliente español”",
-   "link": "https://elpais.com/economia/2026-10-21/uniqlo-priorizara-mas-aperturas-en-madrid-y-barcelona-antes-de-lanzarse-a-otras-ciudades-en-espana.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/T7U4KDUW4ZHUBH7X6IHXYGAFWI.jpg?auth=b1c83bfe3e6f1a89d8964ecbead54ce83e8c27c660e8375a4a83652afc0921db",
-   "date": "2026-10-21T03:15:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Moeve y Naturgy abren una guerra de precios con Repsol e Iberdrola",
-   "link": "https://www.expansion.com/empresas/energia/2026/10/21/6ad7bfbd468aeb60108b4590.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925241921433.jpg",
-   "date": "2026-10-21T02:37:48+02:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
    "title": "Batalla de los robotaxis: los coches sin conductor de Google y Uber comienzan a circular por Madrid",
    "link": "https://www.expansion.com/tecnologia/2026/10/21/batalla-robotaxis-coches-conductor-google-uber-comienzan-circular-madrid.html",
@@ -168,14 +208,6 @@
    "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
    "image": "",
    "date": "2026-10-21T01:01:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Centros de datos: ¿es excesivo el castigo a ACS, Merlin y Solaria?",
-   "link": "https://www.expansion.com/mercados/2026/10/21/6ad7aad6468aeb3f5f8b456d.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925189736676.jpg",
-   "date": "2026-10-21T00:45:09+02:00"
   },
   {
    "lang": "es",
@@ -196,50 +228,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Audit regulator looking into Manchester City accounting",
-   "link": "https://www.bbc.co.uk/news/articles/cm93z1xlgqxqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/969d/live/e4786420-ccb8-11f1-b6d1-8953b372d724.jpg",
-   "date": "2026-10-20T20:56:53+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Trump sued over Canadian tariffs in latest legal challenge",
-   "link": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18fe/live/5bca92c0-ccb7-11f1-a64c-550be9e3c66b.jpg",
-   "date": "2026-10-20T19:30:05+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-   "image": "",
-   "date": "2026-10-20T19:28:43+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Lakua compra a Testa las 510 viviendas en Benta Berri para que sean protegidas «a perpetuidad»",
-   "link": "https://www.naiz.eus/info/noticia/20261020/lakua-compra-las-510-viviendas-en-benta-berri-para-que-sean-protegidas-a-perpetuidad",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/550/news_landscape/alokairu_bentaberri.jpg",
-   "date": "2026-10-20T18:13:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Google resolves cloud outage affecting UK banks and websites",
-   "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06fb/live/5e172460-ccc3-11f1-951b-8fbc7a9ea030.jpg",
-   "date": "2026-10-20T18:03:19+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "link": "https://www.bbc.co.uk/news/articles/cqzrdpkm3g84o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/826e/live/4d1d92e0-cc80-11f1-9a39-31b474234113.jpg",
-   "date": "2026-10-20T15:53:13+00:00"
+   "title": "What is the Budget and what could be in it?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+   "date": "2026-10-20T08:31:36+00:00"
   },
   {
    "lang": "en",
