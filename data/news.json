@@ -1,13 +1,69 @@
 {
- "updated": "2026-10-21T19:00:22.698089+00:00",
+ "updated": "2026-10-21T23:46:12.643288+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The \"trillion pound\" oil fund the government believes Britain could have built",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
+   "date": "2026-10-21T23:27:05+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The grads ditching the UK for a fresh start abroad",
+   "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png",
+   "date": "2026-10-21T23:12:06+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
+   "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png",
+   "date": "2026-10-21T23:04:03+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+   "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg",
+   "date": "2026-10-21T22:54:58+00:00"
+  },
   {
    "lang": "es",
    "source": "Expansión",
    "title": "EEUU impone una multa histórica de 25.000 millones de dólares a Meta",
    "link": "https://www.expansion.com/empresas/2026/10/21/6ad90019e5fdea0a278b45b4.html",
    "image": "",
-   "date": "2026-10-21T20:11:03+02:00"
+   "date": "2026-10-21T22:44:32+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Murtra desplaza a toda la cúpula directiva de Telefónica a Brasil en plena campaña electoral",
+   "link": "https://elpais.com/economia/2026-10-21/murtra-desplaza-a-toda-la-cupula-directiva-de-telefonica-a-brasil-en-plena-campana-electoral.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/YOHDB4X6XDSSFUTEQJLKQTCPA4.jpg?auth=43c9c1b28020da8a3093de655a7402018bf0afd969acba5f0e79680e22995751",
+   "date": "2026-10-21T22:16:28+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Meta fined $25bn for 'lies' over user data privacy",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
+   "date": "2026-10-21T21:49:07+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Websites taken down worldwide as critical cyber-security update issued",
+   "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+   "date": "2026-10-21T19:54:57+00:00"
   },
   {
    "lang": "es",
@@ -26,12 +82,12 @@
    "date": "2026-10-21T18:56:28+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Meta fined $25bn for 'lies' over user data privacy",
-   "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
-   "date": "2026-10-21T18:40:39+00:00"
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Un juez de EEUU condena a Meta a pagar 25.000 millones de dólares por engañar a usuarios",
+   "link": "https://www.naiz.eus/info/noticia/20261021/un-juez-de-eeuu-condena-a-meta-a-pagar-25-000-millones-de-dolares-por-enganar-a-usuarios",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/796/news_landscape/meta.jpg",
+   "date": "2026-10-21T18:56:00+00:00"
   },
   {
    "lang": "es",
@@ -40,22 +96,6 @@
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/21/6ad854efe5fdea57578b458a.html",
    "image": "",
    "date": "2026-10-21T17:39:57+02:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Burnham proposes plan to cut standing charges from gas bills",
-   "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7c/live/04502cf0-cd5a-11f1-b962-b7ff822cde72.jpg",
-   "date": "2026-10-21T17:06:16+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
-   "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca73/live/aa125910-cd46-11f1-8177-0f8bd59b54c4.jpg",
-   "date": "2026-10-21T15:58:05+00:00"
   },
   {
    "lang": "es",
@@ -115,14 +155,6 @@
   },
   {
    "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno vasco compra 510 viviendas a Blackstone para mantenerlos como pisos protegidos",
-   "link": "https://elpais.com/sociedad/2026-10-21/el-gobierno-vasco-compra-510-viviendas-a-blackstone-para-mantenerlos-como-pisos-protegidos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/H4F4U2WAKJE4XDP4QARMJJ5FCU.jpg?auth=1dd67aea632c518bcb7f9bbc5c900e4ffe8fc4eb5befbd3f6cb0abeb2b42ce36",
-   "date": "2026-10-21T13:31:43+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
    "title": "Los Cosmen y Asterion lanzan una opa de exclusión sobre Mobico",
    "link": "https://www.expansion.com/empresas/transporte/2026/10/21/6ad88969e5fdea20258b4585.html",
@@ -162,12 +194,12 @@
    "date": "2026-10-21T10:16:17+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What is happening to UK prices?",
-   "link": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73aa/live/9eb3d5f0-a8dd-11f0-a522-95977dce8b09.jpg",
-   "date": "2026-10-21T08:35:47+00:00"
+   "lang": "es",
+   "source": "Expansión",
+   "title": "SpaceX y Tesla estudian una posible fusión",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/21/spacex-tesla-estudian-posible-fusion.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925635284156.jpg",
+   "date": "2026-10-21T08:07:35+02:00"
   },
   {
    "lang": "en",
@@ -204,9 +236,9 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Las claves: frente común de las telecos europeas ante Starlink",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-21/las-claves-frente-comun-de-las-telecos-europeas-ante-starlink.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EYKPENAMRRE45A77OIW6RXY6WM.png?auth=30e8dde6f2738cbad28b8be73c9d540e73682bb1ba7003fedb7b21121144e50d",
+   "title": "La viabilidad de las pensiones en tiempo electoral: así está el tema",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-21/la-viabilidad-de-las-pensiones-en-tiempo-electoral-asi-esta-el-tema.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/HAO5NG32OREGBJWVIFZBTBGAPM.jpg?auth=60889a698c68601aff7aaf28cc05af82e53d3d9de4ae73d611bbac9b2455e83f",
    "date": "2026-10-21T03:40:00+00:00"
   },
   {
@@ -232,30 +264,6 @@
    "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
    "image": "",
    "date": "2026-10-21T01:01:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "¿Están las Bolsas ante un cambio de ciclo?",
-   "link": "https://www.expansion.com/mercados/2026/10/21/6ad7af43468aeb1d488b458b.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/20/17925199721275.jpg",
-   "date": "2026-10-21T00:32:43+02:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "The tech helping crack decades-old cold cases",
-   "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d033/live/5b8c8300-c16c-11f1-babe-4199b0e7ccea.jpg",
-   "date": "2026-10-20T23:13:24+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What is the Budget and what could be in it?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
-   "date": "2026-10-20T08:31:36+00:00"
   },
   {
    "lang": "en",
