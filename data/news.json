@@ -1,21 +1,53 @@
 {
- "updated": "2026-10-21T14:11:49.783828+00:00",
+ "updated": "2026-10-21T19:00:22.698089+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "ACS se impone a FCC para construir el 'superhub' de Melbourne",
-   "link": "https://www.expansion.com/empresas/construccion-servicios/2026/10/21/6ad8c381468aeb46388b4581.html",
+   "title": "EEUU impone una multa histórica de 25.000 millones de dólares a Meta",
+   "link": "https://www.expansion.com/empresas/2026/10/21/6ad90019e5fdea0a278b45b4.html",
    "image": "",
-   "date": "2026-10-21T15:52:03+02:00"
+   "date": "2026-10-21T20:11:03+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "BBVA y Santander colaborarán con Nvidia en seguridad para agentes de IA",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/21/6ad8b465468aeb8d408b4582.html",
+   "title": "La IA detecta un fallo que pone en riesgo hasta el 70% de las páginas web del mundo",
+   "link": "https://www.expansion.com/tecnologia/2026/10/21/ia-detecta-fallo-pone-riesgo-70-paginas-web-mundo.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926044789737.jpg",
+   "date": "2026-10-21T19:41:21+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Multa histórica para Meta: pagará 25.000 millones de dólares en Nuevo México por las malas prácticas de Facebook",
+   "link": "https://elpais.com/us/2026-10-21/multa-historica-para-meta-debera-pagar-25000-millones-de-dolares-en-nuevo-mexico.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JJ73DYGMCBEKDBNNACJD2MZE54.jpg?auth=db50aefd8710c24532fd3ff729128910c2503915b94ecbba8d756e42e5f57826",
+   "date": "2026-10-21T18:56:28+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Meta fined $25bn for 'lies' over user data privacy",
+   "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
+   "date": "2026-10-21T18:40:39+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La banca aúpa el Ibex por encima de los 19.300 puntos",
+   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/21/6ad854efe5fdea57578b458a.html",
    "image": "",
-   "date": "2026-10-21T15:08:09+02:00"
+   "date": "2026-10-21T17:39:57+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Burnham proposes plan to cut standing charges from gas bills",
+   "link": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b7c/live/04502cf0-cd5a-11f1-b962-b7ff822cde72.jpg",
+   "date": "2026-10-21T17:06:16+00:00"
   },
   {
    "lang": "en",
@@ -23,7 +55,63 @@
    "title": "Civil servant admits he 'made mistakes' juggling five government jobs",
    "link": "https://www.bbc.co.uk/news/articles/cmze4w63ly42o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca73/live/aa125910-cd46-11f1-8177-0f8bd59b54c4.jpg",
-   "date": "2026-10-21T14:04:52+00:00"
+   "date": "2026-10-21T15:58:05+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los sindicatos franceses anuncian huelga el 5 de noviembre al desoír el Gobierno sus demandas",
+   "link": "https://www.naiz.eus/info/noticia/20261021/los-sindicatos-franceses-anuncian-huelga-el-5-de-noviembre-al-desoir-el-gobierno-sus-demandas",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/750/news_landscape/Binet.jpg",
+   "date": "2026-10-21T15:37:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Galdakaoko Udalak 50.000 euro banatuko ditu gazteen alokairurako laguntzetan",
+   "link": "https://gaur8.naiz.eus/info_gaur8/20261021/galdakaoko-udalak-50-000-euro-banatuko-ditu-gazteen-alokairurako-laguntzetan",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/754/news_landscape/Galdakao.jpg",
+   "date": "2026-10-21T15:31:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Los clientes de Iberia podrán pagar con Avios en El Corte Inglés",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/21/6ad8b983468aeb8d408b4589.html",
+   "image": "",
+   "date": "2026-10-21T15:23:54+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "ELA y LAB defenderán la viabilidad de todas las plantas de Tubos Reunidos y el empleo",
+   "link": "https://www.naiz.eus/info/noticia/20261021/ela-y-lab-defenderan-la-viabilidad-de-todas-las-plantas-de-tubos-reunidos-y-el-empleo",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/743/news_landscape/1022_eko_tubore.jpg",
+   "date": "2026-10-21T14:41:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "PNV y PSE siguen negociando la reforma fiscal en Bizkaia mientras tumban propuestas de EH Bildu",
+   "link": "https://www.naiz.eus/info/noticia/20261021/pnv-y-pse-siguen-negociando-la-reforma-fiscal-en-bizkaia-mientras-tumban-propuestas-de-eh-bildu",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/762/news_landscape/pleno_gernika.jpeg",
+   "date": "2026-10-21T14:30:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "EHU no renovará el convenio de colaboración con CAF por sus proyectos con Israel",
+   "link": "https://www.naiz.eus/info/noticia/20261021/ehu-no-renovara-el-convenio-de-colaboracion-con-caf-por-sus-proyectos-con-israel",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/741/news_landscape/NAIZ_EHU.jpg",
+   "date": "2026-10-21T14:18:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La deuda pública en la UE sube a su máximo nivel desde la pandemia",
+   "link": "https://elpais.com/economia/2026-10-21/la-deuda-publica-en-la-ue-sube-a-su-maximo-nivel-desde-la-pandemia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/V22J3HRFWVPBTNOVJGDWHQAX2Q.jpg?auth=a64dfe5636155220959d271d085eae79963f7498aab6e9af9816686c9eff01ef",
+   "date": "2026-10-21T13:55:44+00:00"
   },
   {
    "lang": "es",
@@ -32,30 +120,6 @@
    "link": "https://elpais.com/sociedad/2026-10-21/el-gobierno-vasco-compra-510-viviendas-a-blackstone-para-mantenerlos-como-pisos-protegidos.html",
    "image": "https://imagenes.elpais.com/resizer/v2/H4F4U2WAKJE4XDP4QARMJJ5FCU.jpg?auth=1dd67aea632c518bcb7f9bbc5c900e4ffe8fc4eb5befbd3f6cb0abeb2b42ce36",
    "date": "2026-10-21T13:31:43+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El Ibex supera los 19.200 puntos apoyado en los bancos",
-   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/21/6ad854efe5fdea57578b458a.html",
-   "image": "",
-   "date": "2026-10-21T13:03:25+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La Fiscalía mantiene su petición por la filtración de la OPE de Osakidetza",
-   "link": "https://www.naiz.eus/info/noticia/20261021/la-fiscalia-mantiene-su-peticion-por-la-filtracion-de-la-ope-de-osakidetza",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/714/news_landscape/nicolau.jpg",
-   "date": "2026-10-21T12:01:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Bruselas investiga a Booking por sospechas de riesgo sistémico de fraude",
-   "link": "https://www.expansion.com/empresas/2026/10/21/6ad8898ee5fdea5d338b4582.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925757683060.jpg",
-   "date": "2026-10-21T12:00:21+02:00"
   },
   {
    "lang": "es",
@@ -72,14 +136,6 @@
    "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
    "image": "",
    "date": "2026-10-21T11:20:58+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Garamendi mantiene a sus vicepresidentes en CEOE y Sánchez Llibre volverá a ser el enlace con las Cortes",
-   "link": "https://elpais.com/economia/2026-10-21/garamendi-mantiene-a-sus-vicepresidentes-en-ceoe-y-sanchez-llibre-volvera-a-ser-el-enlace-con-las-cortes.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GX2LIWE2ZJJGJDETJJOOCYYK24.jpg?auth=bfc74ac690ed7fccd5e47e026dfa9711526ac4a6370a9d4af2a5b906634d2612",
-   "date": "2026-10-21T11:19:54+00:00"
   },
   {
    "lang": "es",
@@ -106,22 +162,6 @@
    "date": "2026-10-21T10:16:17+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Convocan movilizaciones por un convenio digno en el sector vitivinícola alavés",
-   "link": "https://www.naiz.eus/info/noticia/20261021/convocan-movilizaciones-por-un-convenio-digno-en-el-sector-vitivinicola-alaves",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/691/news_landscape/vendimia.jpg",
-   "date": "2026-10-21T09:57:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-   "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/819f/live/f7b5d9b0-ccd0-11f1-b06b-25a52a186d15.png",
-   "date": "2026-10-21T08:42:49+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "What is happening to UK prices?",
@@ -136,14 +176,6 @@
    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
    "image": "",
    "date": "2026-10-21T07:50:10+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Why is Elon Musk plotting a mega-merger of SpaceX and Tesla?",
-   "link": "https://www.bbc.co.uk/news/articles/cr93z1e87e0do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a691/live/0777e580-cd28-11f1-bc2e-018d645d8d21.png",
-   "date": "2026-10-21T06:36:39+00:00"
   },
   {
    "lang": "es",
@@ -172,9 +204,9 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "La viabilidad de las pensiones en tiempo electoral: así está el tema",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-21/la-viabilidad-de-las-pensiones-en-tiempo-electoral-asi-esta-el-tema.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/HAO5NG32OREGBJWVIFZBTBGAPM.jpg?auth=60889a698c68601aff7aaf28cc05af82e53d3d9de4ae73d611bbac9b2455e83f",
+   "title": "Las claves: frente común de las telecos europeas ante Starlink",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-21/las-claves-frente-comun-de-las-telecos-europeas-ante-starlink.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EYKPENAMRRE45A77OIW6RXY6WM.png?auth=30e8dde6f2738cbad28b8be73c9d540e73682bb1ba7003fedb7b21121144e50d",
    "date": "2026-10-21T03:40:00+00:00"
   },
   {
@@ -183,14 +215,6 @@
    "title": "Pablo Hernández de Cos busca apoyos en Francia y Alemania para impulsar su candidatura a presidente del BCE",
    "link": "https://elpais.com/economia/2026-10-21/pablo-hernandez-de-cos-busca-apoyos-en-francia-y-alemania-para-impulsar-su-candidatura-a-presidente-del-bce.html",
    "image": "https://imagenes.elpais.com/resizer/v2/IRRJL3I3WVGSTHO2TLAIL65OYY.jpg?auth=2c20f7cccedfe92f09a1a005e7311463bc57495a28402577798990e11be52dd2",
-   "date": "2026-10-21T03:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La brecha entre salarios y precios se ensancha por el pico de la inflación y la parálisis en los convenios",
-   "link": "https://elpais.com/economia/2026-10-21/la-brecha-entre-salarios-y-precios-se-ensancha-por-el-pico-de-la-inflacion-y-la-paralisis-en-los-convenios.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CWGGQQWDTJK4BBSEBJSZS663U4.jpg?auth=bd8c5dc04ecc0e15688bfc1186ce217a3fae53dd459dc48c1069edc3876c1c14",
    "date": "2026-10-21T03:30:01+00:00"
   },
   {
