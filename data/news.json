@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T08:01:29.066736+00:00",
+ "updated": "2026-10-22T14:09:35.487654+00:00",
  "items": [
   {
    "lang": "es",
@@ -7,23 +7,111 @@
    "title": "El Ibex corrige su optimismo con los resultados",
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/22/6ad9a54ae5fdea1b788b457d.html",
    "image": "",
-   "date": "2026-10-22T09:45:41+02:00"
+   "date": "2026-10-22T15:39:34+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Bankinter gana 901 millones hasta septiembre, un 11% más",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/22/6ad99f1be5fdea25648b4573.html",
+   "title": "Golpe del Supremo a las herencias aplazadas: sus rendimientos tributan de inmediato",
+   "link": "https://www.expansion.com/economia/2026/10/22/golpe-supremo-herencias-aplazadas-rendimientos-tributan-inmediato.html",
    "image": "",
-   "date": "2026-10-22T07:49:55+02:00"
+   "date": "2026-10-22T14:07:04+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
+   "date": "2026-10-22T14:05:23+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+   "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+   "image": "",
+   "date": "2026-10-22T13:58:22+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Tank barrel production returns to UK after 20 years",
+   "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ea/live/ff2243b0-ce05-11f1-8991-296181d7e3de.jpg",
+   "date": "2026-10-22T13:45:19+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Cómo sacar partido a la lluvia de dividendos del Ibex 35",
+   "link": "https://www.expansion.com/podcasts/en-accion/2026/10/22/sacar-partido-lluvia-dividendos-ibex-35.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2025/03/11/17417056715104.jpg",
+   "date": "2026-10-22T13:26:00+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+   "image": "",
+   "date": "2026-10-22T13:18:36+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El PP propone segregar pisos de gran tamaño como remedio ante la falta de vivienda",
+   "link": "https://elpais.com/economia/vivienda/2026-10-22/el-pp-propone-segregar-pisos-de-gran-tamano-como-remedio-ante-la-falta-de-vivienda.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ACQCJF2U45AHJKWLQ76IIHN7VQ.jpg?auth=0de9059a440dba22943433042d4d2cf3d431ecd1e812b8175aa9d9d4a44df431",
+   "date": "2026-10-22T13:02:45+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Las Bolsas mundiales se desploman ante la subida del precio del petróleo",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/22/bolsas-mundiales-desploman-subida-precio-petroleo.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926640010966.jpg",
+   "date": "2026-10-22T12:13:36+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Vicinay plantea 60 despidos y un ERTE para el resto de trabajadores en su planta de Sestao",
+   "link": "https://www.naiz.eus/info/noticia/20261022/vicinay-plantea-60-despidos-y-un-erte-para-el-resto-de-trabajadores-en-su-planta-de-sestao",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/051/news_landscape/1023_eko_vici.jpg",
+   "date": "2026-10-22T11:57:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Rueda: \"Las rebajas fiscales han ahorrado a los gallegos más de 2.000 millones\"",
+   "link": "https://www.expansion.com/galicia/2026/10/22/rueda-rebajas-fiscales-han-ahorrado-gallegos-2-000-millones-euros.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926607720080.jpg",
+   "date": "2026-10-22T11:19:40+02:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "What is PHP and why did it spark a global cyber-security scramble?",
    "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15df/live/bbb61e90-cddc-11f1-bc2e-018d645d8d21.jpg",
-   "date": "2026-10-22T06:24:59+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg",
+   "date": "2026-10-22T11:15:58+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los multipropietarios suben el alquiler casi el doble que los caseros con un solo piso",
+   "link": "https://elpais.com/economia/vivienda/2026-10-22/los-multipropietarios-suben-el-alquiler-casi-el-doble-que-los-caseros-con-un-solo-piso.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PPYCTCHT5NF4VJKIX5ITQJSRFA.jpg?auth=a148a8eb9ac52994b3fcc2761620b019be8aaa2e4bd8be11d9b306851906821b",
+   "date": "2026-10-22T10:39:19+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Bankinter gana 901 millones hasta septiembre, un 11% más",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/22/6ad99f1be5fdea25648b4573.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926470476919.jpg",
+   "date": "2026-10-22T07:49:55+02:00"
   },
   {
    "lang": "en",
@@ -44,25 +132,9 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Buscador | Madrid copa los barrios más caros para comprar o alquilar casa en las grandes ciudades",
-   "link": "https://elpais.com/economia/vivienda/2026-10-22/buscador-madrid-copa-los-barrios-mas-caros-para-comprar-o-alquilar-casa-en-las-grandes-ciudades.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/2BFQ64YRENHNVPMEX5VZS5EW44.jpg?auth=ac24c6cdde0c8b7fe0ce06173fb1034bb4595f5502a5c1ea736a80850f0cef17",
-   "date": "2026-10-22T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
    "title": "John Kerry: “La decisión de Trump de permitir la compra de petróleo ruso es contraproducente y peligrosa”",
    "link": "https://elpais.com/economia/2026-10-22/john-kerry-la-decision-de-trump-de-permitir-la-compra-de-petroleo-ruso-es-contraproducente-y-peligrosa.html",
    "image": "https://imagenes.elpais.com/resizer/v2/YUBXCFAT7ZHHJAGYUHSZG5W6HU.jpg?auth=9194f66faf769fe7986f5a56e247ff945b7811b9742e8e033b76ae6f4c2c8838",
-   "date": "2026-10-22T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "¿Cuántas casas más puede construir España?",
-   "link": "https://elpais.com/economia/vivienda/2026-10-22/cuantas-casas-mas-puede-construir-espana.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/MSCCR5ORCJBB7HOXXGQM2DMMTY.jpg?auth=7e1bf68b2a697f52a8582b5d2e3be0018122e56f610790f4ebf3c9380ff22bad",
    "date": "2026-10-22T03:45:01+00:00"
   },
   {
@@ -108,34 +180,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El gigante del Ibex que encandila al mercado y tiene recorrido al alza",
-   "link": "https://www.expansion.com/inversion/2026/10/22/6ad735f6e5fdea3c0b8b4594.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925851154646.jpg",
-   "date": "2026-10-22T02:18:25+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Alerta en el mercado europeo: el bono francés ya rinde más del 5%",
-   "link": "https://www.expansion.com/mercados/renta-fija/2026/10/22/6ad8f415468aebb12e8b458e.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926031330260.jpg",
+   "title": "Magallanes apuesta por los \"perdedores\" de la inteligencia artificial",
+   "link": "https://www.expansion.com/mercados/fondos/2026/10/22/6ad927eb468aeb89578b458e.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926184822015.jpg",
    "date": "2026-10-22T02:18:24+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Cuatro sectores bursátiles para \"comprar Europa\"",
-   "link": "https://www.expansion.com/mercados/2026/10/22/6ad8ab2f468aeb010f8b45d3.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925862671802.jpg",
-   "date": "2026-10-22T02:18:17+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La banca europea, con colchón para mejorar el dividendo",
-   "link": "https://www.expansion.com/inversion/2026/10/22/6ad90076e5fdea12568b4597.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926065852083.jpg",
-   "date": "2026-10-22T02:18:16+02:00"
   },
   {
    "lang": "es",
@@ -144,14 +192,6 @@
    "link": "https://www.expansion.com/empresas/2026/10/22/6ad9060de5fdea73488b4581.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2022/09/29/16644300948506.jpg",
    "date": "2026-10-22T02:18:15+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Los pequeños caseros y los futuros inquilinos, los más castigados por los decretos de vivienda",
-   "link": "https://www.expansion.com/economia/2026/10/22/pequenos-caseros-futuros-inquilinos-castigados-decretos-vivienda.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926206229041.jpg",
-   "date": "2026-10-22T00:10:37+02:00"
   },
   {
    "lang": "en",
@@ -172,34 +212,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
-   "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5a8/live/221cd660-cda1-11f1-96a8-11b361e3c25f.jpg",
-   "date": "2026-10-21T22:54:58+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Meta fined $25bn for 'lies' over user data privacy",
-   "link": "https://www.bbc.co.uk/news/articles/cqdr8zxrr3dxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6026/live/1fd68c80-cd78-11f1-bc2e-018d645d8d21.jpg",
-   "date": "2026-10-21T21:49:07+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "Websites taken down worldwide as critical cyber-security update issued",
    "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
    "date": "2026-10-21T19:54:57+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Un juez de EEUU condena a Meta a pagar 25.000 millones de dólares por engañar a usuarios",
-   "link": "https://www.naiz.eus/info/noticia/20261021/un-juez-de-eeuu-condena-a-meta-a-pagar-25-000-millones-de-dolares-por-enganar-a-usuarios",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/796/news_landscape/meta.jpg",
-   "date": "2026-10-21T18:56:00+00:00"
   },
   {
    "lang": "en",
@@ -248,22 +264,6 @@
    "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
    "image": "",
    "date": "2026-10-16T22:34:29+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Analysis: Everyone expects the Fed to hold rates in October. Kevin Warsh could surprise us all",
-   "link": "https://www.cnbc.com/2026/10/16/kevin-warsh-fed-october-rate-hike-interest-rates-markets.html",
-   "image": "",
-   "date": "2026-10-16T16:27:31+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Economists: Hot PPI shows Fed's work is not done",
-   "link": "https://www.cnbc.com/2026/10/15/pce-ppi-september-fed-reserve-rate-hike.html",
-   "image": "",
-   "date": "2026-10-15T15:37:59+00:00"
   }
  ]
 }
