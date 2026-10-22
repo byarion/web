@@ -1,13 +1,93 @@
 {
- "updated": "2026-10-22T14:09:35.487654+00:00",
+ "updated": "2026-10-22T18:54:36.458250+00:00",
  "items": [
   {
    "lang": "es",
+   "source": "Naiz",
+   "title": "La crisis de la vivienda fuerza a PNV y PSE a presentar nuevas medidas fiscales",
+   "link": "https://www.naiz.eus/info/noticia/20261022/la-crisis-de-la-vivienda-fuerza-a-pnv-y-pse-a-presentar-nuevas-medidas-fiscales",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/111/news_landscape/diputadas_hacienda.jpg",
+   "date": "2026-10-22T18:30:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+   "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
+   "date": "2026-10-22T18:26:56+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las grandes empresas de España tributan solo un 8,9% de sus beneficios",
+   "link": "https://elpais.com/economia/2026-10-22/las-grandes-empresas-de-espana-tributan-solo-un-89-de-sus-beneficios.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/RWGR46TAVM4FNMND6WOTGHUBMM.jpg?auth=dba5aef1fc7f314d289ba7dafc16786bdb653afba4159b9140800aff51c688c6",
+   "date": "2026-10-22T17:59:19+00:00"
+  },
+  {
+   "lang": "es",
    "source": "Expansión",
-   "title": "El Ibex corrige su optimismo con los resultados",
+   "title": "El Ibex pierde los 19.000 puntos por las fuertes caídas de los bancos",
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/22/6ad9a54ae5fdea1b788b457d.html",
    "image": "",
-   "date": "2026-10-22T15:39:34+02:00"
+   "date": "2026-10-22T17:41:57+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El Gobierno navarro adquiere 27 viviendas cuya protección tenía fecha de vencimiento",
+   "link": "https://www.naiz.eus/info/noticia/20261022/el-gobierno-navarro-adquiere-27-viviendas-cuya-proteccion-tenia-fecha-de-vencimiento",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/104/news_landscape/fachada.jpg",
+   "date": "2026-10-22T17:37:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "No habrá guerras ni inflación: ¿Ha cumplido Donald Trump sus grandes promesas?",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/22/habra-guerras-inflacion-cumplido-donald-trump-grandes-promesas.html",
+   "image": "",
+   "date": "2026-10-22T17:10:11+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
+   "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
+   "image": "",
+   "date": "2026-10-22T16:40:09+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "CC OO y UGT piden evitar el teletrabajo como forma de “esquirolaje tecnológico” en la huelga del 11-N",
+   "link": "https://elpais.com/economia/2026-10-22/cc-oo-y-ugt-piden-evitar-el-teletrabajo-como-forma-de-esquirolaje-tecnologico-en-la-huelga-del-11-n.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QFKMALLEABOMJDR3CFG6F5LBF4.jpg?auth=0211ae9110c1021cdff399a99743878893ce91ffeb1ce51373f6bc48b8339849",
+   "date": "2026-10-22T15:53:35+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los cinco inversores interesados en Tubos Reunidos no quieren asumir la deuda con la SEPI",
+   "link": "https://www.naiz.eus/info/noticia/20261022/los-cinco-interesados-en-tubos-reunidos-no-quieren-asumir-la-deuda-con-la-sepi",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/082/news_landscape/tubos_bilbo.jpg",
+   "date": "2026-10-22T15:53:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'I wasn't thinking straight' says five jobs civil servant",
+   "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg",
+   "date": "2026-10-22T15:05:47+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8549/live/51056ff0-ce37-11f1-9a39-31b474234113.jpg",
+   "date": "2026-10-22T14:28:59+00:00"
   },
   {
    "lang": "es",
@@ -16,22 +96,6 @@
    "link": "https://www.expansion.com/economia/2026/10/22/golpe-supremo-herencias-aplazadas-rendimientos-tributan-inmediato.html",
    "image": "",
    "date": "2026-10-22T14:07:04+02:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d20/live/5fb48ff0-622b-11f0-8e4a-613b923287ab.jpg",
-   "date": "2026-10-22T14:05:23+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-   "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-   "image": "",
-   "date": "2026-10-22T13:58:22+00:00"
   },
   {
    "lang": "en",
@@ -59,27 +123,11 @@
   },
   {
    "lang": "es",
-   "source": "El País",
-   "title": "El PP propone segregar pisos de gran tamaño como remedio ante la falta de vivienda",
-   "link": "https://elpais.com/economia/vivienda/2026-10-22/el-pp-propone-segregar-pisos-de-gran-tamano-como-remedio-ante-la-falta-de-vivienda.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ACQCJF2U45AHJKWLQ76IIHN7VQ.jpg?auth=0de9059a440dba22943433042d4d2cf3d431ecd1e812b8175aa9d9d4a44df431",
-   "date": "2026-10-22T13:02:45+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
-   "title": "Las Bolsas mundiales se desploman ante la subida del precio del petróleo",
+   "title": "Las Bolsas mundiales se tambalean ante la subida del precio del petróleo",
    "link": "https://www.expansion.com/economia/financial-times/2026/10/22/bolsas-mundiales-desploman-subida-precio-petroleo.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926640010966.jpg",
    "date": "2026-10-22T12:13:36+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Vicinay plantea 60 despidos y un ERTE para el resto de trabajadores en su planta de Sestao",
-   "link": "https://www.naiz.eus/info/noticia/20261022/vicinay-plantea-60-despidos-y-un-erte-para-el-resto-de-trabajadores-en-su-planta-de-sestao",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/051/news_landscape/1023_eko_vici.jpg",
-   "date": "2026-10-22T11:57:00+00:00"
   },
   {
    "lang": "es",
@@ -108,18 +156,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Bankinter gana 901 millones hasta septiembre, un 11% más",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/22/6ad99f1be5fdea25648b4573.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926470476919.jpg",
-   "date": "2026-10-22T07:49:55+02:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Is an 'AI war' complicating your job search?",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qzgg5z89no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0fd/live/7fe856d0-cca1-11f1-94e6-edd4c60b2e1d.jpg",
-   "date": "2026-10-22T05:01:31+00:00"
+   "title": "Por qué un fallo descubierto por la IA ha puesto en riesgo hasta el 70% de las páginas web del mundo",
+   "link": "https://www.expansion.com/tecnologia/2026/10/22/php-fallo-descubierto-ia-disparado-alarmas-internet.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/22/17926538320080.jpg",
+   "date": "2026-10-22T09:24:02+02:00"
   },
   {
    "lang": "en",
@@ -171,22 +211,6 @@
   },
   {
    "lang": "es",
-   "source": "El País",
-   "title": "La banca afronta una factura millonaria al tener que devolver el dinero a sus clientes víctimas de fraude",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-22/la-banca-afronta-una-factura-milmillonaria-al-tener-que-devolver-el-dinero-a-sus-clientes-victimas-de-fraude.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/UXDHR4MGTFIGLFOQIDIAYTTVK4.jpg?auth=0a7daf4abcbfdb45b38dada3e3889a06bab8120afae44c05d59ac4318f706e74",
-   "date": "2026-10-22T03:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Magallanes apuesta por los \"perdedores\" de la inteligencia artificial",
-   "link": "https://www.expansion.com/mercados/fondos/2026/10/22/6ad927eb468aeb89578b458e.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17926184822015.jpg",
-   "date": "2026-10-22T02:18:24+02:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
    "title": "Santander ficha al exCEO de El Corte Inglés Santiago Bau",
    "link": "https://www.expansion.com/empresas/2026/10/22/6ad9060de5fdea73488b4581.html",
@@ -200,14 +224,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
    "date": "2026-10-21T23:27:05+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "The grads ditching the UK for a fresh start abroad",
-   "link": "https://www.bbc.co.uk/news/articles/cmzxj4e8w44vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a70c/live/920779f0-cd4f-11f1-a64c-550be9e3c66b.png",
-   "date": "2026-10-21T23:12:06+00:00"
   },
   {
    "lang": "en",
