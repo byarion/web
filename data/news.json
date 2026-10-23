@@ -1,37 +1,85 @@
 {
- "updated": "2026-10-23T18:46:29.128033+00:00",
+ "updated": "2026-10-23T23:36:34.444183+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Volvo Cars se estrella en Bolsa",
-   "link": "https://www.expansion.com/mercados/2026/10/23/6adb1c23468aebeb088b4599.html",
+   "title": "El proyecto estrella de Escrivá elimina despachos de directivos en el Banco de España",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/24/6adb9c3e468aebc56f8b457c.html",
    "image": "",
-   "date": "2026-10-23T18:10:28+02:00"
+   "date": "2026-10-24T00:05:50+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El Ibex cierra por debajo de los 19.000 puntos tras caer un 1,7% en la semana",
-   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/23/6adaf7cc468aebbd528b458e.html",
+   "title": "Mahou, Damm, Estrella Galicia y Cruzcampo aceleran en el exterior",
+   "link": "https://www.expansion.com/empresas/2026/10/24/6adbbcc0e5fdea321d8b4591.html",
    "image": "",
-   "date": "2026-10-23T17:49:07+02:00"
+   "date": "2026-10-24T00:04:52+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Telefónica e Indra estudian crear una 'joint venture' para ofrecer servicios de nube en Europa",
-   "link": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/23/6adb797f468aebc56f8b4571.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927687479895.jpg",
-   "date": "2026-10-23T17:16:07+02:00"
+   "title": "BYD da el 'sorpasso' a MG y ya es la marca china más vendida en España",
+   "link": "https://www.expansion.com/empresas/motor/2026/10/24/6adb7767468aeb866d8b45aa.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927679134099.jpg",
+   "date": "2026-10-24T00:04:18+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El invierno llega a los mercados",
-   "link": "https://www.expansion.com/economia/financial-times/2026/10/23/invierno-llega-mercados.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927645781302.jpg",
-   "date": "2026-10-23T15:37:07+02:00"
+   "title": "Cómo cobrar más de 10.000 millones de euros en dividendos en la recta final del año",
+   "link": "https://www.expansion.com/inversion/2026/10/24/6adb8e09468aeb3f6b8b4577.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927784398519.jpg",
+   "date": "2026-10-24T00:03:18+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La IA agéntica, la cuenta europea y la deuda soberana amenazan los depósitos de la banca",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/24/6ad74ae7e5fdeadc6a8b45a5.html",
+   "image": "",
+   "date": "2026-10-24T00:02:18+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Cambio de etapa a la vista en el mercado hipotecario español",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/24/6adbb92ce5fdead5478b4591.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927847862064.jpg",
+   "date": "2026-10-24T00:01:38+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La banca recupera las bonificaciones por traspasos de fondos de inversión",
+   "link": "https://www.expansion.com/mercados/2026/10/23/6adbd24a468aeb97768b456f.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927916011433.jpg",
+   "date": "2026-10-23T23:40:50+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "De Palladium a Ramat: Marc Rahola Matutes y su apuesta por emprender fuera del grupo hotelero familiar",
+   "link": "https://www.expansion.com/estilo-vida/viajes/2026/10/23/palladium-ramat-marc-rahola-matutes-apuesta-emprender-fuera-grupo-hotelero-familiar.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927890897945.jpg",
+   "date": "2026-10-23T22:58:16+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+   "date": "2026-10-23T22:54:57+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
+   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
+   "image": "",
+   "date": "2026-10-23T20:49:42+00:00"
   },
   {
    "lang": "en",
@@ -40,30 +88,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg",
    "date": "2026-10-23T15:15:13+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El Valencia CF abre su capital a EEUU: Pitchwise toma el 42% e inyecta 100 millones",
-   "link": "https://www.expansion.com/deporte-negocio/2026/10/23/valencia-cf-abre-capital-eeuu-pitchwise-toma-42-e-inyecta-100-millones.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927612189744.jpg",
-   "date": "2026-10-23T15:13:47+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Qué está provocando el desplome del oro",
-   "link": "https://www.expansion.com/mercados/2026/10/23/6adb41d9e5fdea8e478b457c.html",
-   "image": "",
-   "date": "2026-10-23T14:18:50+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Los Sainz de Vicuña irrumpen en Acerinox y afloran un 3% valorado en 125 millones",
-   "link": "https://www.expansion.com/empresas/2026/10/23/6adb4e53468aeb866d8b4598.html",
-   "image": "",
-   "date": "2026-10-23T14:10:35+02:00"
   },
   {
    "lang": "en",
@@ -88,14 +112,6 @@
    "link": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
    "image": "https://imagenes.elpais.com/resizer/v2/427XEKKRUVJ3DPQ6BH33V7YQKI.jpg?auth=49bd499217eba7da33d04ea25ff712fb4a1fc030e1bedbe0a4823823f5ea27d5",
    "date": "2026-10-23T10:27:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Las ventas mundiales de valores tecnológicos provocan una huida hacia activos seguros",
-   "link": "https://www.expansion.com/economia/financial-times/2026/10/23/ventas-mundiales-valores-tecnologicos-provocan-huida-activos-seguros.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927417646908.jpg",
-   "date": "2026-10-23T09:49:29+02:00"
   },
   {
    "lang": "es",
@@ -192,22 +208,6 @@
    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
    "image": "",
    "date": "2026-10-22T16:40:09+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'I wasn't thinking straight' says five jobs civil servant",
-   "link": "https://www.bbc.co.uk/news/articles/cmx23dwp3qzro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a08/live/66d2ad60-ce29-11f1-9f18-490cec60aa0f.jpg",
-   "date": "2026-10-22T15:05:47+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-   "image": "",
-   "date": "2026-10-22T13:18:36+00:00"
   },
   {
    "lang": "en",
