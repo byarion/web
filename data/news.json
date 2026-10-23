@@ -1,45 +1,109 @@
 {
- "updated": "2026-10-23T08:00:29.832308+00:00",
+ "updated": "2026-10-23T13:53:04.298970+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El petróleo da un paso más en su escalada",
+   "title": "El invierno llega a los mercados",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/23/invierno-llega-mercados.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927625896453.jpg",
+   "date": "2026-10-23T15:37:07+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El petróleo da un paso más en su escalada al tocar los 115 dólares",
    "link": "https://www.expansion.com/mercados/materias-primas/2026/10/23/6adb0f83e5fdea04318b45ba.html",
    "image": "",
-   "date": "2026-10-23T09:50:21+02:00"
+   "date": "2026-10-23T15:19:22+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El Ibex para las caídas cerca de los 19.000 puntos",
+   "title": "El Valencia CF abre su capital a EEUU: Pitchwise toma el 42% e inyecta 100 millones",
+   "link": "https://www.expansion.com/deporte-negocio/2026/10/23/valencia-cf-abre-capital-eeuu-pitchwise-toma-42-e-inyecta-100-millones.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927612189744.jpg",
+   "date": "2026-10-23T15:13:47+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Ibex intenta resistir cerca de los 19.000 puntos",
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/23/6adaf7cc468aebbd528b458e.html",
    "image": "",
-   "date": "2026-10-23T09:16:30+02:00"
+   "date": "2026-10-23T15:07:31+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "OpenAI rebaja su objetivo de valoración a 1,25 billones a las puertas de su salida a Bolsa",
-   "link": "https://www.expansion.com/tecnologia/2026/10/23/openai-rebaja-objetivo-valoracion-1-25-billones-puertas-salida-bolsa.html",
+   "title": "Qué está provocando el desplome del oro",
+   "link": "https://www.expansion.com/mercados/2026/10/23/6adb41d9e5fdea8e478b457c.html",
    "image": "",
-   "date": "2026-10-23T09:06:37+02:00"
+   "date": "2026-10-23T14:18:50+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "La Primera de Expansión sobre coches chinos, Colonial, Iberia, barcos chinos, el Yen y Open AI",
-   "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/23/primera-expansion-sobre-coches-chinos-colonial-iberia-barcos-chinos-yen-open-ai.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915231159305.jpg",
-   "date": "2026-10-23T07:31:39+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Geely, MG y Chery sacrifican su margen para conquistar Europa",
-   "link": "https://www.expansion.com/empresas/motor/2026/10/23/6adae32de5fdead16a8b45ae.html",
+   "title": "Los Sainz de Vicuña irrumpen en Acerinox y afloran un 3% valorado en 125 millones",
+   "link": "https://www.expansion.com/empresas/2026/10/23/6adb4e53468aeb866d8b4598.html",
    "image": "",
-   "date": "2026-10-23T07:02:08+02:00"
+   "date": "2026-10-23T14:10:35+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Volvo Cars se estrella en Bolsa",
+   "link": "https://www.expansion.com/mercados/2026/10/23/6adb1c23468aebeb088b4599.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927446194291.jpg",
+   "date": "2026-10-23T12:12:55+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1887/live/ab960500-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
+   "date": "2026-10-23T11:48:04+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El precio de la vivienda en propiedad ha crecido casi cuatro veces más que los salarios en los últimos 13 años",
+   "link": "https://elpais.com/economia/vivienda/2026-10-23/el-precio-de-la-vivienda-en-propiedad-ha-crecido-casi-cuatro-veces-mas-que-los-salarios-en-los-ultimos-13-anos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QR23TZPUXBIONC56QIULT53DDE.jpg?auth=3853572e43d68b88f8b3cffc7211cea10fe335e0f522fa4d331147c9e8478d3c",
+   "date": "2026-10-23T11:22:02+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
+   "link": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/427XEKKRUVJ3DPQ6BH33V7YQKI.jpg?auth=49bd499217eba7da33d04ea25ff712fb4a1fc030e1bedbe0a4823823f5ea27d5",
+   "date": "2026-10-23T10:27:15+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Las ventas mundiales de valores tecnológicos provocan una huida hacia activos seguros",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/23/ventas-mundiales-valores-tecnologicos-provocan-huida-activos-seguros.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927417646908.jpg",
+   "date": "2026-10-23T09:49:29+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El lapsus de Feijóo sobre el salario mínimo y el IRPF agita la campaña",
+   "link": "https://elpais.com/economia/2026-10-23/las-palabras-de-feijoo-sobre-el-salario-minimo-agitan-la-campana-electoral.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1228885_101936_video_1800.mp4",
+   "date": "2026-10-23T08:53:53+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The Indian workers filming their work to train AI",
+   "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg",
+   "date": "2026-10-23T08:04:17+00:00"
   },
   {
    "lang": "en",
@@ -56,46 +120,6 @@
    "link": "https://cincodias.elpais.com/opinion/2026-10-23/que-necesita-francia-para-no-terminar-como-grecia-crecer-y-politicos-creibles.html",
    "image": "https://imagenes.elpais.com/resizer/v2/BR5LQVLU3IEGCUTLV7ABHTS75M.jpg?auth=5fbc356c55e44269bdd93f5df0d5d9cbef20b2b7f4b022b9d285caa885c53e0d",
    "date": "2026-10-23T06:15:44+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Pradales evoca a Korta para instar a empresarios y sindicatos a «negociar sin condiciones»",
-   "link": "https://www.naiz.eus/info/noticia/20261023/pradales-evoca-a-korta-para-instar-a-empresarios-y-sindicatos-a-negociar-sin-condiciones",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/352/news_landscape/korta.jpg",
-   "date": "2026-10-23T06:06:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
-   "link": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/427XEKKRUVJ3DPQ6BH33V7YQKI.jpg?auth=49bd499217eba7da33d04ea25ff712fb4a1fc030e1bedbe0a4823823f5ea27d5",
-   "date": "2026-10-23T06:00:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Canon Français : les organisateurs doivent payer 45 000 euros de frais de sécurité",
-   "link": "https://www.mediabask.eus/info_mbsk/20261023/canon-francais-les-organisateurs-doivent-payer-45-000-euros-de-frais-de-securite",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/212/news_landscape/canon_francais.jpg",
-   "date": "2026-10-23T05:00:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El nuevo impuesto complementario a las multinacionales solo recauda 46 millones en su primer ejercicio",
-   "link": "https://elpais.com/economia/2026-10-23/el-nuevo-impuesto-complementario-a-las-multinacionales-solo-recauda-46-millones-en-su-primer-ejercicio.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/B64JIEZYYBG5RMAOWYXSVL7W5M.jpg?auth=670382aa3b9734ef4fe15e03c6ef79f9037375cefb524fef2009403abd0c878b",
-   "date": "2026-10-23T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "España sufre más muertes en el trabajo que la media de la UE y se aleja de los países más seguros",
-   "link": "https://elpais.com/economia/2026-10-23/espana-sufre-mas-muertes-en-el-trabajo-que-la-media-de-la-ue-y-se-aleja-de-los-paises-mas-seguros.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/L2HNOIARU5BTDFK4KY2YRPOP4A.jpg?auth=6c431a4785454fa58ae06706fd78bdb91f33b8167fcf14cc504a432eeaaf8207",
-   "date": "2026-10-23T03:45:01+00:00"
   },
   {
    "lang": "es",
@@ -130,30 +154,6 @@
    "date": "2026-10-23T03:30:01+00:00"
   },
   {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Viviendas de autor recién salidas de la fábrica",
-   "link": "https://www.expansion.com/inmobiliario/casas/2026/10/23/viviendas-autor-recien-salidas-fabrica.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927124673838.png",
-   "date": "2026-10-23T01:41:27+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Colonial negocia vender la sede de Iberia en Madrid",
-   "link": "https://www.expansion.com/inmobiliario/2026/10/23/colonial-negocia-vender-sede-iberia-madrid.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927120327369.jpg",
-   "date": "2026-10-23T01:34:05+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La cruda realidad europea sobre los bonos de EEUU",
-   "link": "https://www.expansion.com/economia/financial-times/2026/10/23/cruda-realidad-europea-sobre-bonos-eeuu.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927087641369.jpg",
-   "date": "2026-10-23T00:39:32+02:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
@@ -170,28 +170,12 @@
    "date": "2026-10-22T22:27:53+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La crisis de la vivienda fuerza a PNV y PSE a presentar nuevas medidas fiscales",
-   "link": "https://www.naiz.eus/info/noticia/20261022/la-crisis-de-la-vivienda-fuerza-a-pnv-y-pse-a-presentar-nuevas-medidas-fiscales",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/111/news_landscape/diputadas_hacienda.jpg",
-   "date": "2026-10-22T18:30:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
    "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0031/live/77724130-ce2e-11f1-9f18-490cec60aa0f.jpg",
    "date": "2026-10-22T18:26:56+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El Gobierno navarro adquiere 27 viviendas cuya protección tenía fecha de vencimiento",
-   "link": "https://www.naiz.eus/info/noticia/20261022/el-gobierno-navarro-adquiere-27-viviendas-cuya-proteccion-tenia-fecha-de-vencimiento",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/104/news_landscape/fachada.jpg",
-   "date": "2026-10-22T17:37:00+00:00"
   },
   {
    "lang": "en",
@@ -219,27 +203,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Tank barrel production returns to UK after 20 years",
-   "link": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/57ea/live/ff2243b0-ce05-11f1-8991-296181d7e3de.jpg",
-   "date": "2026-10-22T13:45:19+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
    "image": "",
    "date": "2026-10-22T13:18:36+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/219e/live/8e724170-cda0-11f1-9a39-31b474234113.jpg",
-   "date": "2026-10-21T23:27:05+00:00"
   },
   {
    "lang": "en",
