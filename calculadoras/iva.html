@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Calculadora de IVA · Ondexi</title>
+<meta name="description" content="Calcula el IVA de un precio en España: añade o quita el 21 %, 10 % o 4 % y ve la base imponible, el IVA y el total.">
+<link rel="canonical" href="https://ondexi.com/calculadoras/iva.html">
+<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/vat.html">
+<link rel="stylesheet" href="../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Inicio</a><a href="../#calculadoras">Calculadoras</a><a class="lang" href="../en/calculators/vat.html">EN</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="../#calculadoras">← Todas las calculadoras</a></p>
+<h1>Calculadora de IVA</h1>
+<div class="card" style="margin:18px 0">
+<form id="calc" class="calc">
+<div><label>Cantidad (€)</label><input name="amt" type="number" min="0" step="0.01" value="100"></div>
+<div><label>¿Qué quieres hacer?</label><select name="mode"><option value="add">Añadir IVA (tengo el precio sin IVA)</option><option value="rem">Quitar IVA (tengo el precio con IVA)</option></select></div>
+<div><label>Tipo de IVA</label><select name="rate"><option value="21">21 % (general)</option><option value="10">10 % (reducido)</option><option value="4">4 % (superreducido)</option></select></div>
+</form>
+<div class="result" id="result" aria-live="polite"></div>
+<p class="note">Resultado orientativo. No es asesoramiento financiero.</p>
+</div>
+<h2>Cómo se calcula el IVA</h2>
+<p>Para <b>añadir</b> el IVA a un precio, se multiplica por 1 más el tipo: con un 21 %, precio × 1,21. Para <b>quitarlo</b>, se divide entre ese mismo número: precio con IVA ÷ 1,21.</p>
+<p>Ejemplo: un producto cuesta 100 € sin IVA. Con el 21 % pagas 21 € de IVA y el total es 121 €. Si en cambio sabes que el total es 121 €, la base es 121 ÷ 1,21 = 100 €.</p>
+<h2>Tipos de IVA en España</h2>
+<ul><li><b>21 % (general):</b> la mayoría de productos y servicios.</li><li><b>10 % (reducido):</b> por ejemplo, ciertos alimentos elaborados, el transporte de viajeros o la hostelería.</li><li><b>4 % (superreducido):</b> productos básicos como pan, leche, huevos, frutas o libros.</li></ul>
+<p class="note">Los tipos y a qué se aplican pueden cambiar. Compruébalo en la Agencia Tributaria si necesitas certeza para facturas o impuestos.</p>
+<h2>Preguntas frecuentes</h2><h3>¿Cómo quito el 21 % de IVA a un precio?</h3><p>Divide el precio con IVA entre 1,21. Por ejemplo, 242 ÷ 1,21 = 200 € de base.</p><h3>¿El IVA es lo mismo que el IRPF?</h3><p>No. El IVA es un impuesto sobre el consumo que paga quien compra. El IRPF es el impuesto sobre la renta de las personas.</p>
+<h2>Sigue aprendiendo</h2>
+<div class="grid"><a class="card guide" href="../guias/inflacion.html"><h3>¿Qué es la inflación?</h3></a><a class="card guide" href="../guias/pib.html"><h3>Qué es el PIB</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad.html">Privacidad</a><a href="../aviso-legal.html">Aviso legal</a><a href="../contacto.html">Contacto</a></div>© Ondexi</div></footer>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"base": "Base imponible (sin IVA)", "iva": "IVA", "tot": "Total (con IVA)"},loc="es-ES";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var a=parseFloat(f.amt.value)||0,r=parseFloat(f.rate.value)/100,base,iva,tot;if(f.mode.value==="add"){base=a;iva=a*r;tot=a+iva}else{tot=a;base=a/(1+r);iva=tot-base}out.innerHTML=L.base+': <b>'+m(base)+'</b><br>'+L.iva+': <b>'+m(iva)+'</b><br>'+L.tot+': <b>'+m(tot)+'</b>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+</body>
+</html>

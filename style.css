@@ -61,4 +61,5 @@ a.card:hover{border-color:var(--accent);transform:translateY(-2px)}
 .page .crumb{margin:0 0 14px;font-size:.9rem}
 .page .grid{margin-top:8px}
 .page a.card h3{margin:0;font-size:1rem;color:var(--ink)}
-
+select{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;font-size:1rem;background:#fff;color:var(--ink)}
+.page h3{font-size:1.02rem;margin:18px 0 4px}

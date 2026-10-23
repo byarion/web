@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mortgage and loan calculator · Ondexi</title>
+<meta name="description" content="Work out the monthly payment of a mortgage or loan, how much interest you will pay and the total repaid.">
+<link rel="canonical" href="https://ondexi.com/en/calculators/mortgage.html">
+<link rel="alternate" hreflang="es" href="https://ondexi.com/calculadoras/hipoteca.html">
+<link rel="stylesheet" href="../../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Home</a><a href="../#calculators">Calculators</a><a class="lang" href="../../calculadoras/hipoteca.html">ES</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="../#calculators">← All calculators</a></p>
+<h1>Mortgage and loan calculator</h1>
+<div class="card" style="margin:18px 0">
+<form id="calc" class="calc">
+<div><label>Loan amount (€)</label><input name="cap" type="number" min="0" value="150000"></div>
+<div><label>Annual interest (%)</label><input name="rate" type="number" min="0" step="0.01" value="3"></div>
+<div><label>Term (years)</label><input name="yrs" type="number" min="1" step="1" value="25"></div>
+</form>
+<div class="result" id="result" aria-live="polite"></div>
+<p class="note">Indicative result. Not financial advice.</p>
+</div>
+<h2>How the payment is calculated</h2>
+<p>This calculator uses the most common system, constant payments (the French method): you pay the same amount each month, and at first most of it is interest, which falls over time.</p>
+<p class="formula"><b>Payment = principal × i ÷ (1 − (1 + i)<sup>−n</sup>)</b></p>
+<p>Where <i>i</i> is the monthly interest rate (the annual rate divided by 12) and <i>n</i> is the number of months.</p>
+<h2>Fixed or variable mortgage</h2>
+<p>If your mortgage is <b>fixed</b>, enter its rate as it is. If it is <b>variable</b>, the rate is the <a href="../guides/euribor.html">Euribor</a> plus a spread, so you can add the two for an estimate. That payment will change when the rate is reviewed.</p>
+<h2>What it does not include</h2>
+<p>The result is indicative. It does not include fees, insurance, valuation or notary costs, or taxes. For the exact payment, check your bank's offer.</p>
+<h2>Frequently asked questions</h2><h3>What would the payment be on a €150,000 mortgage over 25 years?</h3><p>At 3% interest, about €711 a month. Change the figures above to see your case.</p><h3>Does it work for a personal or car loan too?</h3><p>Yes. Enter the loan amount, the annual interest and the term.</p>
+<h2>Keep learning</h2>
+<div class="grid"><a class="card guide" href="../guides/euribor.html"><h3>What is the Euribor?</h3></a><a class="card guide" href="../guides/ecb-interest-rates.html"><h3>The ECB and interest rates</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacy.html">Privacy</a><a href="../legal-notice.html">Legal notice</a><a href="../contact.html">Contact</a></div>© Ondexi</div></footer>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"q": "Monthly payment", "tot": "Total you will repay", "int": "Of which, interest"},loc="en-GB";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var P=parseFloat(f.cap.value)||0,r=(parseFloat(f.rate.value)||0)/100/12,n=Math.round((parseFloat(f.yrs.value)||0)*12),q;if(n<=0){out.innerHTML="";return}q=r===0?P/n:P*r/(1-Math.pow(1+r,-n));var tot=q*n;out.innerHTML=L.q+': <b>'+m(q)+'</b><br>'+L.tot+': <b>'+m(tot)+'</b><br><span class="note">'+L.int+': '+m(tot-P)+'</span>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+</body>
+</html>

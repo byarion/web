@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Inflation calculator · Ondexi</title>
+<meta name="description" content="See how much your money will lose in value because of inflation and how much you will need in the future to buy the same things.">
+<link rel="canonical" href="https://ondexi.com/en/calculators/inflation.html">
+<link rel="alternate" hreflang="es" href="https://ondexi.com/calculadoras/inflacion.html">
+<link rel="stylesheet" href="../../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Home</a><a href="../#calculators">Calculators</a><a class="lang" href="../../calculadoras/inflacion.html">ES</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="../#calculators">← All calculators</a></p>
+<h1>Inflation calculator</h1>
+<div class="card" style="margin:18px 0">
+<form id="calc" class="calc">
+<div><label>Amount (€)</label><input name="amt" type="number" min="0" value="1000"></div>
+<div><label>Annual inflation (%)</label><input name="inf" type="number" step="0.1" value="3"></div>
+<div><label>Years</label><input name="yrs" type="number" min="1" step="1" value="10"></div>
+</form>
+<div class="result" id="result" aria-live="polite"></div>
+<p class="note">Indicative result. Not financial advice.</p>
+</div>
+<h2>How it is calculated</h2>
+<p>Inflation builds up year after year, like compound interest. To know what something that costs a given amount today will cost in <i>n</i> years, multiply by (1 + inflation)<sup>n</sup>.</p>
+<p>Example: with 3% inflation for 10 years, something that costs €1,000 today will cost about €1,344. In reverse, €1,000 kept earning nothing will buy what about €744 buys today.</p>
+<h2>Why it matters</h2>
+<p>Leaving money idle makes it lose purchasing power every year. That is why it is worth looking at returns <b>after inflation</b>. To understand the concept better, read the guide <a href="../guides/inflation.html">What is inflation?</a>.</p>
+<p class="note">Real inflation changes every year. This tool assumes a constant figure, so it is only an estimate.</p>
+<h2>Frequently asked questions</h2><h3>What inflation rate should I use?</h3><p>You can use the latest annual CPI figure published by the INE, or any number you want to simulate, such as 2% or 3%.</p><h3>How much does my money lose with 2% inflation?</h3><p>Each year it buys roughly 2% less. Over 10 years, €1,000 will buy what about €820 buys today.</p>
+<h2>Keep learning</h2>
+<div class="grid"><a class="card guide" href="../guides/compound-interest.html"><h3>Compound interest</h3></a><a class="card guide" href="../guides/emergency-fund.html"><h3>Emergency fund</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacy.html">Privacy</a><a href="../legal-notice.html">Legal notice</a><a href="../contact.html">Contact</a></div>© Ondexi</div></footer>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"a": "To buy what you can buy today with", "b": "you will need, after that time,", "c": "And if you keep", "d": "earning nothing, it will have the purchasing power of about", "e": "of today."},loc="en-GB";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var a=parseFloat(f.amt.value)||0,i=(parseFloat(f.inf.value)||0)/100,y=parseFloat(f.yrs.value)||0,g=Math.pow(1+i,y);out.innerHTML=L.a+' '+m(a)+' '+L.b+' <b>'+m(a*g)+'</b>.<br>'+L.c+' '+m(a)+' '+L.d+' <b>'+m(a/g)+'</b> '+L.e;}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+</body>
+</html>

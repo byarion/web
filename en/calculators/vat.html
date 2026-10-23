@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spanish VAT (IVA) calculator · Ondexi</title>
+<meta name="description" content="Add or remove Spanish VAT (IVA) at 21%, 10% or 4% and see the net price, the VAT amount and the total.">
+<link rel="canonical" href="https://ondexi.com/en/calculators/vat.html">
+<link rel="alternate" hreflang="es" href="https://ondexi.com/calculadoras/iva.html">
+<link rel="stylesheet" href="../../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Home</a><a href="../#calculators">Calculators</a><a class="lang" href="../../calculadoras/iva.html">ES</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="../#calculators">← All calculators</a></p>
+<h1>Spanish VAT (IVA) calculator</h1>
+<div class="card" style="margin:18px 0">
+<form id="calc" class="calc">
+<div><label>Amount (€)</label><input name="amt" type="number" min="0" step="0.01" value="100"></div>
+<div><label>What do you want to do?</label><select name="mode"><option value="add">Add VAT (I have the price without VAT)</option><option value="rem">Remove VAT (I have the price with VAT)</option></select></div>
+<div><label>VAT rate</label><select name="rate"><option value="21">21% (standard)</option><option value="10">10% (reduced)</option><option value="4">4% (super-reduced)</option></select></div>
+</form>
+<div class="result" id="result" aria-live="polite"></div>
+<p class="note">Indicative result. Not financial advice.</p>
+</div>
+<h2>How VAT is calculated</h2>
+<p>To <b>add</b> VAT to a price, multiply it by 1 plus the rate: at 21%, price × 1.21. To <b>remove</b> it, divide by that same number: price with VAT ÷ 1.21.</p>
+<p>Example: a product costs €100 without VAT. At 21% you pay €21 of VAT and the total is €121. If you only know the total is €121, the net price is 121 ÷ 1.21 = €100.</p>
+<h2>VAT (IVA) rates in Spain</h2>
+<ul><li><b>21% (standard):</b> most goods and services.</li><li><b>10% (reduced):</b> for example, some prepared foods, passenger transport or hospitality.</li><li><b>4% (super-reduced):</b> basic goods such as bread, milk, eggs, fruit or books.</li></ul>
+<p class="note">Rates and what they apply to can change. Check the Spanish Tax Agency if you need certainty for invoices or taxes.</p>
+<h2>Frequently asked questions</h2><h3>How do I remove 21% VAT from a price?</h3><p>Divide the price including VAT by 1.21. For example, 242 ÷ 1.21 = €200 net.</p><h3>Is VAT the same as income tax?</h3><p>No. VAT is a consumption tax paid by the buyer. Income tax (IRPF) is a tax on people's earnings.</p>
+<h2>Keep learning</h2>
+<div class="grid"><a class="card guide" href="../guides/inflation.html"><h3>What is inflation?</h3></a><a class="card guide" href="../guides/gdp.html"><h3>What is GDP?</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacy.html">Privacy</a><a href="../legal-notice.html">Legal notice</a><a href="../contact.html">Contact</a></div>© Ondexi</div></footer>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"base": "Net price (without VAT)", "iva": "VAT", "tot": "Total (with VAT)"},loc="en-GB";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var a=parseFloat(f.amt.value)||0,r=parseFloat(f.rate.value)/100,base,iva,tot;if(f.mode.value==="add"){base=a;iva=a*r;tot=a+iva}else{tot=a;base=a/(1+r);iva=tot-base}out.innerHTML=L.base+': <b>'+m(base)+'</b><br>'+L.iva+': <b>'+m(iva)+'</b><br>'+L.tot+': <b>'+m(tot)+'</b>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+</body>
+</html>

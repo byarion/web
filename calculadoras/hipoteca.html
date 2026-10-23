@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Calculadora de hipoteca y préstamos · Ondexi</title>
+<meta name="description" content="Calcula la cuota mensual de una hipoteca o préstamo, cuánto pagarás en intereses y el total devuelto.">
+<link rel="canonical" href="https://ondexi.com/calculadoras/hipoteca.html">
+<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/mortgage.html">
+<link rel="stylesheet" href="../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Inicio</a><a href="../#calculadoras">Calculadoras</a><a class="lang" href="../en/calculators/mortgage.html">EN</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="../#calculadoras">← Todas las calculadoras</a></p>
+<h1>Calculadora de hipoteca y préstamos</h1>
+<div class="card" style="margin:18px 0">
+<form id="calc" class="calc">
+<div><label>Importe del préstamo (€)</label><input name="cap" type="number" min="0" value="150000"></div>
+<div><label>Interés anual (%)</label><input name="rate" type="number" min="0" step="0.01" value="3"></div>
+<div><label>Plazo (años)</label><input name="yrs" type="number" min="1" step="1" value="25"></div>
+</form>
+<div class="result" id="result" aria-live="polite"></div>
+<p class="note">Resultado orientativo. No es asesoramiento financiero.</p>
+</div>
+<h2>Cómo se calcula la cuota</h2>
+<p>Esta calculadora usa el sistema más habitual, el de cuota constante (método francés): pagas la misma cantidad cada mes, y al principio la mayor parte son intereses, que van bajando con el tiempo.</p>
+<p class="formula"><b>Cuota = capital × i ÷ (1 − (1 + i)<sup>−n</sup>)</b></p>
+<p>Donde <i>i</i> es el interés mensual (el anual entre 12) y <i>n</i> es el número de meses.</p>
+<h2>Hipoteca fija o variable</h2>
+<p>Si tu hipoteca es <b>fija</b>, escribe su interés tal cual. Si es <b>variable</b>, el tipo es el <a href="../guias/euribor.html">Euríbor</a> más un diferencial, así que puedes sumar los dos para una estimación. Esa cuota cambiará cuando se revise el tipo.</p>
+<h2>Qué no incluye</h2>
+<p>El resultado es orientativo. No incluye comisiones, seguros, gastos de tasación o notaría, ni impuestos. Para saber la cuota exacta, consulta la oferta del banco (FEIN).</p>
+<h2>Preguntas frecuentes</h2><h3>¿Cuánto pagaría de cuota por una hipoteca de 150.000 € a 25 años?</h3><p>Con un interés del 3 %, unos 711 € al mes. Cambia los datos de arriba para ver tu caso.</p><h3>¿Sirve también para un préstamo personal o de coche?</h3><p>Sí. Pon el importe, el interés anual y el plazo del préstamo.</p>
+<h2>Sigue aprendiendo</h2>
+<div class="grid"><a class="card guide" href="../guias/euribor.html"><h3>Qué es el Euríbor</h3></a><a class="card guide" href="../guias/bce-tipos-de-interes.html"><h3>El BCE y los tipos de interés</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad.html">Privacidad</a><a href="../aviso-legal.html">Aviso legal</a><a href="../contacto.html">Contacto</a></div>© Ondexi</div></footer>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"q": "Cuota mensual", "tot": "Total que devolverás", "int": "De los cuales, intereses"},loc="es-ES";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var P=parseFloat(f.cap.value)||0,r=(parseFloat(f.rate.value)||0)/100/12,n=Math.round((parseFloat(f.yrs.value)||0)*12),q;if(n<=0){out.innerHTML="";return}q=r===0?P/n:P*r/(1-Math.pow(1+r,-n));var tot=q*n;out.innerHTML=L.q+': <b>'+m(q)+'</b><br>'+L.tot+': <b>'+m(tot)+'</b><br><span class="note">'+L.int+': '+m(tot-P)+'</span>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+</body>
+</html>

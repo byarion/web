@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Calculadora de inflación · Ondexi</title>
+<meta name="description" content="Calcula cuánto perderá de valor tu dinero con la inflación y cuánto necesitarás en el futuro para comprar lo mismo.">
+<link rel="canonical" href="https://ondexi.com/calculadoras/inflacion.html">
+<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/inflation.html">
+<link rel="stylesheet" href="../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Inicio</a><a href="../#calculadoras">Calculadoras</a><a class="lang" href="../en/calculators/inflation.html">EN</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="../#calculadoras">← Todas las calculadoras</a></p>
+<h1>Calculadora de inflación</h1>
+<div class="card" style="margin:18px 0">
+<form id="calc" class="calc">
+<div><label>Cantidad (€)</label><input name="amt" type="number" min="0" value="1000"></div>
+<div><label>Inflación anual (%)</label><input name="inf" type="number" step="0.1" value="3"></div>
+<div><label>Años</label><input name="yrs" type="number" min="1" step="1" value="10"></div>
+</form>
+<div class="result" id="result" aria-live="polite"></div>
+<p class="note">Resultado orientativo. No es asesoramiento financiero.</p>
+</div>
+<h2>Cómo se calcula</h2>
+<p>La inflación se acumula año a año, como el interés compuesto. Para saber cuánto costará dentro de <i>n</i> años lo que hoy vale una cantidad, se multiplica por (1 + inflación)<sup>n</sup>.</p>
+<p>Ejemplo: con una inflación del 3 % durante 10 años, algo que hoy cuesta 1.000 € costará unos 1.344 €. Al revés, 1.000 € guardados sin rentabilidad comprarán lo que hoy comprarían unos 744 €.</p>
+<h2>Por qué importa</h2>
+<p>Dejar el dinero parado hace que pierda poder de compra cada año. Por eso conviene mirar la rentabilidad <b>después de inflación</b>. Si quieres entender mejor el concepto, lee la guía <a href="../guias/inflacion.html">¿Qué es la inflación?</a>.</p>
+<p class="note">La inflación real cambia cada año. Esta herramienta supone una cifra constante, así que es solo una estimación.</p>
+<h2>Preguntas frecuentes</h2><h3>¿Qué inflación debo poner?</h3><p>Puedes usar la última cifra anual del IPC publicada por el INE o la que quieras simular, por ejemplo un 2 % o un 3 %.</p><h3>¿Cuánto pierde mi dinero con un 2 % de inflación?</h3><p>Cada año compra aproximadamente un 2 % menos. En 10 años, 1.000 € comprarán lo que hoy comprarían unos 820 €.</p>
+<h2>Sigue aprendiendo</h2>
+<div class="grid"><a class="card guide" href="../guias/interes-compuesto.html"><h3>Interés compuesto</h3></a><a class="card guide" href="../guias/fondo-de-emergencia.html"><h3>Fondo de emergencia</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad.html">Privacidad</a><a href="../aviso-legal.html">Aviso legal</a><a href="../contacto.html">Contacto</a></div>© Ondexi</div></footer>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"a": "Para comprar lo mismo que hoy con", "b": "dentro de ese tiempo necesitarás", "c": "Y si guardas", "d": "sin que generen nada, tendrán el poder de compra de unos", "e": "de hoy."},loc="es-ES";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var a=parseFloat(f.amt.value)||0,i=(parseFloat(f.inf.value)||0)/100,y=parseFloat(f.yrs.value)||0,g=Math.pow(1+i,y);out.innerHTML=L.a+' '+m(a)+' '+L.b+' <b>'+m(a*g)+'</b>.<br>'+L.c+' '+m(a)+' '+L.d+' <b>'+m(a/g)+'</b> '+L.e;}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+</body>
+</html>
