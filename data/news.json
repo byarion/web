@@ -1,29 +1,133 @@
 {
- "updated": "2026-10-23T02:11:56.416069+00:00",
+ "updated": "2026-10-23T08:00:29.832308+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Así es Family Enterprise Partners, el 'family office' que asesora a grandes fortunas mexicanas",
-   "link": "https://www.expansion.com/mercados/fondos/2026/10/23/6ad8bcbde5fdea2f4c8b458e.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/21/17925888055572.jpg",
-   "date": "2026-10-23T02:04:17+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Los Cosmen fichan a CaixaBank y Santander para la opa sobre Mobico",
-   "link": "https://www.expansion.com/empresas/transporte/2026/10/23/6ada74a4e5fdead95e8b45d0.html",
+   "title": "El petróleo da un paso más en su escalada",
+   "link": "https://www.expansion.com/mercados/materias-primas/2026/10/23/6adb0f83e5fdea04318b45ba.html",
    "image": "",
-   "date": "2026-10-23T02:04:16+02:00"
+   "date": "2026-10-23T09:50:21+02:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "La crisis de la deuda francesa tensa el coste de financiación de bancos y empresas",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/23/6ad2161be5fdea54478b458e.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/16/17921530531713.jpg",
-   "date": "2026-10-23T02:04:15+02:00"
+   "title": "El Ibex para las caídas cerca de los 19.000 puntos",
+   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/23/6adaf7cc468aebbd528b458e.html",
+   "image": "",
+   "date": "2026-10-23T09:16:30+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "OpenAI rebaja su objetivo de valoración a 1,25 billones a las puertas de su salida a Bolsa",
+   "link": "https://www.expansion.com/tecnologia/2026/10/23/openai-rebaja-objetivo-valoracion-1-25-billones-puertas-salida-bolsa.html",
+   "image": "",
+   "date": "2026-10-23T09:06:37+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La Primera de Expansión sobre coches chinos, Colonial, Iberia, barcos chinos, el Yen y Open AI",
+   "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/23/primera-expansion-sobre-coches-chinos-colonial-iberia-barcos-chinos-yen-open-ai.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/09/17915231159305.jpg",
+   "date": "2026-10-23T07:31:39+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Geely, MG y Chery sacrifican su margen para conquistar Europa",
+   "link": "https://www.expansion.com/empresas/motor/2026/10/23/6adae32de5fdead16a8b45ae.html",
+   "image": "",
+   "date": "2026-10-23T07:02:08+02:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Lights will stay on this winter, grid operator says after concerns",
+   "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
+   "date": "2026-10-23T06:47:10+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Qué necesita Francia para no terminar como Grecia: crecer y políticos creíbles",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-23/que-necesita-francia-para-no-terminar-como-grecia-crecer-y-politicos-creibles.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BR5LQVLU3IEGCUTLV7ABHTS75M.jpg?auth=5fbc356c55e44269bdd93f5df0d5d9cbef20b2b7f4b022b9d285caa885c53e0d",
+   "date": "2026-10-23T06:15:44+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Pradales evoca a Korta para instar a empresarios y sindicatos a «negociar sin condiciones»",
+   "link": "https://www.naiz.eus/info/noticia/20261023/pradales-evoca-a-korta-para-instar-a-empresarios-y-sindicatos-a-negociar-sin-condiciones",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/352/news_landscape/korta.jpg",
+   "date": "2026-10-23T06:06:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
+   "link": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/427XEKKRUVJ3DPQ6BH33V7YQKI.jpg?auth=49bd499217eba7da33d04ea25ff712fb4a1fc030e1bedbe0a4823823f5ea27d5",
+   "date": "2026-10-23T06:00:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Canon Français : les organisateurs doivent payer 45 000 euros de frais de sécurité",
+   "link": "https://www.mediabask.eus/info_mbsk/20261023/canon-francais-les-organisateurs-doivent-payer-45-000-euros-de-frais-de-securite",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/212/news_landscape/canon_francais.jpg",
+   "date": "2026-10-23T05:00:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El nuevo impuesto complementario a las multinacionales solo recauda 46 millones en su primer ejercicio",
+   "link": "https://elpais.com/economia/2026-10-23/el-nuevo-impuesto-complementario-a-las-multinacionales-solo-recauda-46-millones-en-su-primer-ejercicio.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/B64JIEZYYBG5RMAOWYXSVL7W5M.jpg?auth=670382aa3b9734ef4fe15e03c6ef79f9037375cefb524fef2009403abd0c878b",
+   "date": "2026-10-23T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "España sufre más muertes en el trabajo que la media de la UE y se aleja de los países más seguros",
+   "link": "https://elpais.com/economia/2026-10-23/espana-sufre-mas-muertes-en-el-trabajo-que-la-media-de-la-ue-y-se-aleja-de-los-paises-mas-seguros.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/L2HNOIARU5BTDFK4KY2YRPOP4A.jpg?auth=6c431a4785454fa58ae06706fd78bdb91f33b8167fcf14cc504a432eeaaf8207",
+   "date": "2026-10-23T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Más protección para un usuario digital de banca más vulnerable",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-23/mas-proteccion-para-un-usuario-digital-de-banca-mas-vulnerable.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GUF2YQE3AZDXZFVWLSOZ4WHHMY.jpg?auth=3bb4e77b5cc7902669edbf050f17945b8a81f616e5887c83252e096019ba1d00",
+   "date": "2026-10-23T03:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El fabricante de Ray-Ban, ‘fashion victim’ de la IA",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-23/el-fabricante-de-ray-ban-fashion-victim-de-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/AD774RR5INJWPNHS4XDQNP2NJM.jpg?auth=77380a5a5e1ccfce61bfb194360d1ce0d19366367d22fe66c5fcb016752b9eb0",
+   "date": "2026-10-23T03:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "SpaceX hará a Tesla una oferta difícil de rechazar",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-23/spacex-hara-a-tesla-una-oferta-dificil-de-rechazar.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/UZKV2TEQRRKR5D7FOITTMG3G2I.jpg?auth=dad36e2d72e129abea45bd6fefcdedec77cff5bb65ca90537729b52865c2aa8d",
+   "date": "2026-10-23T03:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los expertos prevén una oleada de reclamaciones de los clientes a los bancos por las ciberestafas",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/los-expertos-preven-una-oleada-de-reclamaciones-de-los-clientes-a-los-bancos-por-las-ciberestafas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JGV5KNQLCFIFHEUVHV3NZLSO5U.jpg?auth=016e58b8c9d17ac92b0e881e70485c948b879f2bd699b9dc8ba3e4651838d4b8",
+   "date": "2026-10-23T03:30:01+00:00"
   },
   {
    "lang": "es",
@@ -32,14 +136,6 @@
    "link": "https://www.expansion.com/inmobiliario/casas/2026/10/23/viviendas-autor-recien-salidas-fabrica.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927124673838.png",
    "date": "2026-10-23T01:41:27+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Bankinter y Sonae ponen a la venta su Socimi comercial",
-   "link": "https://www.expansion.com/inmobiliario/2026/10/23/bankinter-sonae-ponen-venta-socimi-comercial.html",
-   "image": "",
-   "date": "2026-10-23T01:34:15+02:00"
   },
   {
    "lang": "es",
@@ -54,40 +150,24 @@
    "source": "Expansión",
    "title": "La cruda realidad europea sobre los bonos de EEUU",
    "link": "https://www.expansion.com/economia/financial-times/2026/10/23/cruda-realidad-europea-sobre-bonos-eeuu.html",
-   "image": "",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927087641369.jpg",
    "date": "2026-10-23T00:39:32+02:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Grid operator says lights will stay on this winter after concerns",
-   "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
-   "date": "2026-10-22T23:04:38+00:00"
+   "title": "'I'm 96 and have 15 million followers': The grannies taking over TikTok",
+   "link": "https://www.bbc.co.uk/news/articles/c63r5xpezz51o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c74/live/1831c620-ce40-11f1-9a39-31b474234113.jpg",
+   "date": "2026-10-22T23:20:38+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
+   "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
    "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04f7/live/62d395b0-ce5d-11f1-a64c-550be9e3c66b.jpg",
    "date": "2026-10-22T22:27:53+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "CEOE rectifica y no impugnará finalmente la huelga general por la vivienda antes del 11 de noviembre",
-   "link": "https://elpais.com/economia/2026-10-22/ceoe-rectifica-y-no-impugnara-finalmente-la-huelga-general-por-la-vivienda-antes-del-11-de-noviembre.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FGIHT5W2JJNCRERWB4VZA6Q4FU.jpg?auth=450560bb0fe3063b333fa7ce7668762a5c6277902188ab4f03b1023482b10294",
-   "date": "2026-10-22T19:07:59+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Los coches eléctricos se disparan más del 70% en Europa y suponen casi un tercio del mercado",
-   "link": "https://www.expansion.com/empresas/motor/2026/10/22/6ada3d54e5fdea67028b4588.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2025/12/31/17671845751334.jpg",
-   "date": "2026-10-22T18:57:15+02:00"
   },
   {
    "lang": "es",
@@ -107,14 +187,6 @@
   },
   {
    "lang": "es",
-   "source": "El País",
-   "title": "Las grandes empresas de España tributan solo un 8,9% de sus beneficios",
-   "link": "https://elpais.com/economia/2026-10-22/las-grandes-empresas-de-espana-tributan-solo-un-89-de-sus-beneficios.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/RWGR46TAVM4FNMND6WOTGHUBMM.jpg?auth=dba5aef1fc7f314d289ba7dafc16786bdb653afba4159b9140800aff51c688c6",
-   "date": "2026-10-22T17:59:19+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Naiz",
    "title": "El Gobierno navarro adquiere 27 viviendas cuya protección tenía fecha de vencimiento",
    "link": "https://www.naiz.eus/info/noticia/20261022/el-gobierno-navarro-adquiere-27-viviendas-cuya-proteccion-tenia-fecha-de-vencimiento",
@@ -128,14 +200,6 @@
    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
    "image": "",
    "date": "2026-10-22T16:40:09+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Los cinco inversores interesados en Tubos Reunidos no quieren asumir la deuda con la SEPI",
-   "link": "https://www.naiz.eus/info/noticia/20261022/los-cinco-interesados-en-tubos-reunidos-no-quieren-asumir-la-deuda-con-la-sepi",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/082/news_landscape/tubos_bilbo.jpg",
-   "date": "2026-10-22T15:53:00+00:00"
   },
   {
    "lang": "en",
@@ -168,62 +232,6 @@
    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
    "image": "",
    "date": "2026-10-22T13:18:36+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fccd/live/bf4a03d0-ce15-11f1-9a39-31b474234113.jpg",
-   "date": "2026-10-22T11:15:58+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los multipropietarios suben el alquiler casi el doble que los caseros con un solo piso",
-   "link": "https://elpais.com/economia/vivienda/2026-10-22/los-multipropietarios-suben-el-alquiler-casi-el-doble-que-los-caseros-con-un-solo-piso.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PPYCTCHT5NF4VJKIX5ITQJSRFA.jpg?auth=a148a8eb9ac52994b3fcc2761620b019be8aaa2e4bd8be11d9b306851906821b",
-   "date": "2026-10-22T10:39:19+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "John Kerry: “La decisión de Trump de permitir la compra de petróleo ruso es contraproducente y peligrosa”",
-   "link": "https://elpais.com/economia/2026-10-22/john-kerry-la-decision-de-trump-de-permitir-la-compra-de-petroleo-ruso-es-contraproducente-y-peligrosa.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/YUBXCFAT7ZHHJAGYUHSZG5W6HU.jpg?auth=9194f66faf769fe7986f5a56e247ff945b7811b9742e8e033b76ae6f4c2c8838",
-   "date": "2026-10-22T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Construir más, construir ya",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-22/construir-mas-construir-ya.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/WPMNJ5WPBFPWZG377DS76P252U.jpg?auth=2e53dcbf69e67e322124c53966fc6da7545bd784ec29ec06018c2a86066b7d2f",
-   "date": "2026-10-22T03:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: el cerebro de SpaceX, el cuerpo de Tesla y el control de Musk",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-22/las-claves-el-cerebro-de-spacex-el-cuerpo-de-tesla-y-el-control-de-musk.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/LCRZSIVIPBOF7NDRKCUS6F5NKM.jpg?auth=22632e9169a1eeaf4acdac7b1d05eba1190dacdb3cef7588b2b90a4b3838da79",
-   "date": "2026-10-22T03:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La evidencia sobre inmigración desmonta ideas falsas",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-22/la-evidencia-sobre-inmigracion-desmonta-ideas-falsas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6XDVHIPIPVCVLAKKRWJGOC3NPY.jpg?auth=509f3bd571394f535098ea62cc20d049f31d29c31a730601705458e911fac49b",
-   "date": "2026-10-22T03:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Israel se juega su economía en las urnas",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-22/israel-se-juega-su-economia-en-las-urnas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/XPDMODFFABK23DPURGZE2KBJZQ.jpg?auth=667547b3c2826b4b0388aabd640b78574dbc9468ae3cb1007a6f203b3234adf1",
-   "date": "2026-10-22T03:40:00+00:00"
   },
   {
    "lang": "en",
