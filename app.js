@@ -46,6 +46,18 @@
       }).join('');
       mEl.style.setProperty('--dur', Math.max(40, items.length * 6) + 's');
       mEl.innerHTML = '<div class="track"><div class="seg">' + one + '</div><div class="seg" aria-hidden="true">' + one + '</div></div>';
+      if (!mEl.nextElementSibling || !mEl.nextElementSibling.classList.contains('tk-toggle')) {
+        const btn = document.createElement('button');
+        btn.type = 'button'; btn.className = 'tk-toggle';
+        const lbl = { es: ['Pausar', 'Reanudar'], en: ['Pause', 'Resume'] }[lang];
+        btn.textContent = '⏸ ' + lbl[0];
+        btn.addEventListener('click', () => {
+          const p = mEl.classList.toggle('paused');
+          btn.textContent = (p ? '▶ ' + lbl[1] : '⏸ ' + lbl[0]);
+          btn.setAttribute('aria-pressed', p ? 'true' : 'false');
+        });
+        mEl.insertAdjacentElement('afterend', btn);
+      }
     }).catch(() => { mEl.innerHTML = ''; });
   }
 

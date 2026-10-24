@@ -75,10 +75,6 @@ select{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;fo
 .tk-val{font-size:1.1rem;font-weight:700;font-variant-numeric:tabular-nums}
 .tk-chg{font-size:.85rem;font-weight:600}
 @keyframes tk-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
-@media (prefers-reduced-motion:reduce){
-  .ticker{-webkit-mask-image:none;mask-image:none}
-  .ticker .track{animation:none;width:auto;display:block}
-  .ticker .seg{display:flex;flex-wrap:wrap}
-  .ticker .seg[aria-hidden="true"]{display:none}
-}
-
+.ticker.paused .track{animation-play-state:paused}
+.tk-toggle{display:block;margin:8px 0 0 auto;background:none;border:0;padding:4px 6px;color:var(--muted);font-size:.8rem;font-weight:500;cursor:pointer;border-radius:6px}
+.tk-toggle:hover,.tk-toggle:focus-visible{color:var(--ink);background:var(--line)}
