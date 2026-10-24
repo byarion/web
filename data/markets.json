@@ -1,25 +1,89 @@
 {
- "updated": "2026-10-24T12:58:36.084851+00:00",
+ "updated": "2026-10-24T13:48:46.355738+00:00",
  "items": [
   {
    "name": "Ibex 35",
+   "name_en": "Ibex 35",
    "price": 18989.8,
-   "change": -0.25998854999921217
+   "change": 0.40341554973960014
+  },
+  {
+   "name": "Euro Stoxx 50",
+   "name_en": "Euro Stoxx 50",
+   "price": 6068.22,
+   "change": -0.30868630655253193
+  },
+  {
+   "name": "DAX (Alemania)",
+   "name_en": "DAX (Germany)",
+   "price": 25181.65,
+   "change": -0.7492585257225005
+  },
+  {
+   "name": "FTSE 100 (Reino Unido)",
+   "name_en": "FTSE 100 (UK)",
+   "price": 10690.36,
+   "change": -0.3229836829836775
   },
   {
    "name": "S&P 500",
+   "name_en": "S&P 500",
    "price": 7623.68,
-   "change": -0.466874862914251
+   "change": -0.5186995231831334
+  },
+  {
+   "name": "Nasdaq",
+   "name_en": "Nasdaq",
+   "price": 25955.342,
+   "change": -0.20576594393616868
+  },
+  {
+   "name": "Dow Jones",
+   "name_en": "Dow Jones",
+   "price": 52215.16,
+   "change": -1.23481257078824
+  },
+  {
+   "name": "Nikkei 225 (Japón)",
+   "name_en": "Nikkei 225 (Japan)",
+   "price": 62693.16,
+   "change": -0.3412608734987827
+  },
+  {
+   "name": "Oro (USD)",
+   "name_en": "Gold (USD)",
+   "price": 4007.9,
+   "change": -1.292973687479547
+  },
+  {
+   "name": "Petróleo Brent (USD)",
+   "name_en": "Brent crude (USD)",
+   "price": 111.7,
+   "change": -1.2989292151006573
   },
   {
    "name": "EUR/USD",
+   "name_en": "EUR/USD",
    "price": 1.1204,
-   "change": -0.18708240534521076
+   "change": -0.15555322455957482
   },
   {
    "name": "Bitcoin (EUR)",
-   "price": 72058,
-   "change": -1.127680814571657
+   "name_en": "Bitcoin (EUR)",
+   "price": 71952,
+   "change": -1.635014010964482
+  },
+  {
+   "name": "Ethereum (EUR)",
+   "name_en": "Ethereum (EUR)",
+   "price": 2110.68,
+   "change": -1.9172670911926284
+  },
+  {
+   "name": "Solana (EUR)",
+   "name_en": "Solana (EUR)",
+   "price": 90.43,
+   "change": -3.3641618845285466
   }
  ]
 }
