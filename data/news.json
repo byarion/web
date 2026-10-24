@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-24T17:41:50.849225+00:00",
+ "updated": "2026-10-24T19:53:37.693697+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El alquiler cae en un tercio de Madrid",
+   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html",
+   "image": "",
+   "date": "2026-10-24T19:32:58+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Las grandes capitales pierden fuerza",
+   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/grandes-capitales-pierden-fuerza.html",
+   "image": "",
+   "date": "2026-10-24T19:30:40+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Barcelona: incertidumbre en el alquiler",
+   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-incertidumbre-alquiler.html",
+   "image": "",
+   "date": "2026-10-24T19:27:41+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Barcelona se dispara un 11% a pesar del freno de la compraventa",
+   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928626976290.jpg",
+   "date": "2026-10-24T19:25:32+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La fiscalidad de la vivienda para uso propio y alquiler",
+   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/fiscalidad-vivienda-propio-alquiler.html",
+   "image": "",
+   "date": "2026-10-24T19:23:39+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La rentabilidad se modera al 6,2%",
+   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/rentabilidad-modera-6-2.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928636718603.jpg",
+   "date": "2026-10-24T19:21:53+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Madrid: la escalada se desacelera, pero el precio sigue en máximos",
+   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/madrid-escalada-desacelera-precio-sigue-maximos.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/04/17/17764142292314.jpg",
+   "date": "2026-10-24T19:20:14+02:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
+   "link": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/IHHS26D5Z5DAROXNV5MVOZ6KXU.jpg?auth=083884b73057fd8e02aa31345034343a910ea84711577784963c92d50194e896",
+   "date": "2026-10-24T17:41:18+00:00"
+  },
   {
    "lang": "es",
    "source": "Naiz",
@@ -14,16 +78,8 @@
    "source": "El País",
    "title": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
    "link": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CSWARPDUZ5BTDGIGW4SQ55IWVY.jpeg?auth=6557ca86764b51d925c48e7efc7d4859722f514b4bcb2f4990b320e17df2b9b9",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229502_184701_video_1800.mp4",
    "date": "2026-10-24T11:09:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
-   "link": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/2IN3G4H3GVH75N2IMGNDI5BCCY.jpg?auth=da3b1e00cae609796e0502993a9ae94966f9fd257f817e2cc3a50e8ceed77db3",
-   "date": "2026-10-24T03:45:01+00:00"
   },
   {
    "lang": "es",
@@ -31,6 +87,14 @@
    "title": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
    "link": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
    "image": "https://imagenes.elpais.com/resizer/v2/OFYBLJ4OWVANTO2KFQXDOKTGRY.jpg?auth=9f4dd8b587c029f42f94f2df31e65cd8fceb4d489379c2b7415611f834a4e297",
+   "date": "2026-10-24T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
+   "link": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/2IN3G4H3GVH75N2IMGNDI5BCCY.jpg?auth=da3b1e00cae609796e0502993a9ae94966f9fd257f817e2cc3a50e8ceed77db3",
    "date": "2026-10-24T03:45:01+00:00"
   },
   {
@@ -66,14 +130,6 @@
    "date": "2026-10-24T03:40:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los gigantes tecnológicos preparan el asalto a la industria de los viajes a través de la IA",
-   "link": "https://elpais.com/economia/2026-10-24/los-gigantes-tecnologicos-preparan-el-asalto-a-la-industria-de-los-viajes-a-traves-de-la-ia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/JV3NUWVANRDHTCUYI7JTGGJJDU.jpg?auth=4977339cd0860808e1d451647826fec04fabfe2b8cd36741faaa6990e05fd49a",
-   "date": "2026-10-24T03:15:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
@@ -90,14 +146,6 @@
    "date": "2026-10-24T00:09:12+00:00"
   },
   {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El proyecto estrella de Escrivá elimina despachos de directivos en el Banco de España",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/24/6adb9c3e468aebc56f8b457c.html",
-   "image": "",
-   "date": "2026-10-24T00:05:50+02:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
@@ -108,58 +156,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Mahou, Damm, Estrella Galicia y Cruzcampo aceleran en el exterior",
-   "link": "https://www.expansion.com/empresas/2026/10/24/6adbbcc0e5fdea321d8b4591.html",
-   "image": "",
-   "date": "2026-10-24T00:04:52+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "BYD da el 'sorpasso' a MG y ya es la marca china más vendida en España",
-   "link": "https://www.expansion.com/empresas/motor/2026/10/24/6adb7767468aeb866d8b45aa.html",
-   "image": "",
-   "date": "2026-10-24T00:04:18+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
    "title": "Cómo cobrar más de 10.000 millones en dividendos en la recta final del año",
    "link": "https://www.expansion.com/inversion/2026/10/24/6adb8e09468aeb3f6b8b4577.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927784398519.jpg",
    "date": "2026-10-24T00:03:18+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La IA agéntica, la cuenta europea y la deuda soberana amenazan los depósitos de la banca",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/24/6ad74ae7e5fdeadc6a8b45a5.html",
-   "image": "",
-   "date": "2026-10-24T00:02:18+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Cambio de etapa a la vista en el mercado hipotecario español",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/24/6adbb92ce5fdead5478b4591.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927847862064.jpg",
-   "date": "2026-10-24T00:01:38+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La banca recupera las bonificaciones por traspasos de fondos de inversión",
-   "link": "https://www.expansion.com/mercados/2026/10/23/6adbd24a468aeb97768b456f.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927916011433.jpg",
-   "date": "2026-10-23T23:40:50+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "De Palladium a Ramat: Marc Rahola Matutes y su apuesta por emprender fuera del grupo hotelero familiar",
-   "link": "https://www.expansion.com/estilo-vida/viajes/2026/10/23/palladium-ramat-marc-rahola-matutes-apuesta-emprender-fuera-grupo-hotelero-familiar.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927890897945.jpg",
-   "date": "2026-10-23T22:58:16+02:00"
   },
   {
    "lang": "en",
