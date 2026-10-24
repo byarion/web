@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-24T02:10:34.954355+00:00",
+ "updated": "2026-10-24T07:40:16.446771+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
+   "link": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/2IN3G4H3GVH75N2IMGNDI5BCCY.jpg?auth=da3b1e00cae609796e0502993a9ae94966f9fd257f817e2cc3a50e8ceed77db3",
+   "date": "2026-10-24T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
+   "link": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/OFYBLJ4OWVANTO2KFQXDOKTGRY.jpg?auth=9f4dd8b587c029f42f94f2df31e65cd8fceb4d489379c2b7415611f834a4e297",
+   "date": "2026-10-24T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Hacia un BCE ¿aperturista o halcón?",
+   "link": "https://elpais.com/economia/2026-10-24/hacia-un-bce-aperturista-o-halcon.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QBA56LE6TZBQHLOTKDLRNXTRWA.jpg?auth=195fea5792bda609e62752412b408aca66914393642ed1af4f57df67a3464de4",
+   "date": "2026-10-24T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "¿Vuelven las preferentes?",
+   "link": "https://elpais.com/economia/2026-10-24/vuelven-las-preferentes.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EEDIG6X4PBMO7BYOUAOYX6GGOE.jpg?auth=2dff4c48c3c8b28c0a51216f450c7910a2555cc8b8846f6c8b0748160937e964",
+   "date": "2026-10-24T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Nueva política industrial",
+   "link": "https://cincodias.elpais.com/economia/2026-10-24/nueva-politica-industrial.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/Z4TUUGFCPNHBPJ2PF2R7SSVOX4.jpg?auth=716d01053e437e2c6e046bb55ed7889640db0f3488497e0342984b9412de706e",
+   "date": "2026-10-24T03:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los inversores franceses afrontan la prueba de la rana hervida",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-24/los-inversores-franceses-afrontan-la-prueba-de-la-rana-hervida.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/U4INHTBAO5NYBB6NWCELHCP3ZQ.jpg?auth=1fe253d92503c5c809f87d6696ae3c928eddf08e8d63f522653ec5a813b418bd",
+   "date": "2026-10-24T03:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "España surfea la crisis del motor transformando sus plantas al eléctrico: la producción se duplicará en 2026",
+   "link": "https://cincodias.elpais.com/companias/2026-10-24/espana-surfea-la-crisis-del-motor-transformando-sus-plantas-al-electrico-la-produccion-se-duplicara-en-2026.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/B7QCILGQKBH2LOPUWCYS5XTZHM.png?auth=438be689fdf8706cc9f010670a2c2173d26ef25594343a4a6f64deda03a3c30c",
+   "date": "2026-10-24T03:15:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los gigantes tecnológicos preparan el asalto a la industria de los viajes a través de la IA",
+   "link": "https://elpais.com/economia/2026-10-24/los-gigantes-tecnologicos-preparan-el-asalto-a-la-industria-de-los-viajes-a-traves-de-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JV3NUWVANRDHTCUYI7JTGGJJDU.jpg?auth=4977339cd0860808e1d451647826fec04fabfe2b8cd36741faaa6990e05fd49a",
+   "date": "2026-10-24T03:15:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -114,30 +178,6 @@
    "date": "2026-10-23T11:48:04+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "El precio de la vivienda en propiedad ha crecido casi cuatro veces más que los salarios en los últimos 13 años",
-   "link": "https://elpais.com/economia/vivienda/2026-10-23/el-precio-de-la-vivienda-en-propiedad-ha-crecido-casi-cuatro-veces-mas-que-los-salarios-en-los-ultimos-13-anos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QR23TZPUXBIONC56QIULT53DDE.jpg?auth=3853572e43d68b88f8b3cffc7211cea10fe335e0f522fa4d331147c9e8478d3c",
-   "date": "2026-10-23T11:22:02+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Consumo ordena retirar 8.300 anuncios irregulares de alquiler de temporada, la mayoría en Madrid",
-   "link": "https://elpais.com/economia/vivienda/2026-10-23/consumo-ordena-retirar-8300-anuncios-irregulares-de-alquiler-de-temporada-la-mayoria-en-madrid.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/427XEKKRUVJ3DPQ6BH33V7YQKI.jpg?auth=49bd499217eba7da33d04ea25ff712fb4a1fc030e1bedbe0a4823823f5ea27d5",
-   "date": "2026-10-23T10:27:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El lapsus de Feijóo sobre el salario mínimo y el IRPF agita la campaña",
-   "link": "https://elpais.com/economia/2026-10-23/las-palabras-de-feijoo-sobre-el-salario-minimo-agitan-la-campana-electoral.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1228885_101936_video_1800.mp4",
-   "date": "2026-10-23T08:53:53+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "The Indian workers filming their work to train AI",
@@ -152,46 +192,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
    "date": "2026-10-23T06:47:10+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Qué necesita Francia para no terminar como Grecia: crecer y políticos creíbles",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-23/que-necesita-francia-para-no-terminar-como-grecia-crecer-y-politicos-creibles.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/BR5LQVLU3IEGCUTLV7ABHTS75M.jpg?auth=5fbc356c55e44269bdd93f5df0d5d9cbef20b2b7f4b022b9d285caa885c53e0d",
-   "date": "2026-10-23T06:15:44+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El fabricante de Ray-Ban, ‘fashion victim’ de la IA",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-23/el-fabricante-de-ray-ban-fashion-victim-de-la-ia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/AD774RR5INJWPNHS4XDQNP2NJM.jpg?auth=77380a5a5e1ccfce61bfb194360d1ce0d19366367d22fe66c5fcb016752b9eb0",
-   "date": "2026-10-23T03:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Más protección para un usuario digital de banca más vulnerable",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-23/mas-proteccion-para-un-usuario-digital-de-banca-mas-vulnerable.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GUF2YQE3AZDXZFVWLSOZ4WHHMY.jpg?auth=3bb4e77b5cc7902669edbf050f17945b8a81f616e5887c83252e096019ba1d00",
-   "date": "2026-10-23T03:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "SpaceX hará a Tesla una oferta difícil de rechazar",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-23/spacex-hara-a-tesla-una-oferta-dificil-de-rechazar.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/UZKV2TEQRRKR5D7FOITTMG3G2I.jpg?auth=dad36e2d72e129abea45bd6fefcdedec77cff5bb65ca90537729b52865c2aa8d",
-   "date": "2026-10-23T03:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los expertos prevén una oleada de reclamaciones de los clientes a los bancos por las ciberestafas",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-10-23/los-expertos-preven-una-oleada-de-reclamaciones-de-los-clientes-a-los-bancos-por-las-ciberestafas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/JGV5KNQLCFIFHEUVHV3NZLSO5U.jpg?auth=016e58b8c9d17ac92b0e881e70485c948b879f2bd699b9dc8ba3e4651838d4b8",
-   "date": "2026-10-23T03:30:01+00:00"
   },
   {
    "lang": "en",
