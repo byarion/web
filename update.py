@@ -102,26 +102,73 @@ def fetch_news():
     return items
 
 
-def yahoo(symbol, name):
+# Índices y activos que se muestran en la cinta de mercados: (símbolo en Yahoo, nombre ES, nombre EN)
+MARKETS = [
+    ("^IBEX", "Ibex 35", "Ibex 35"),
+    ("^STOXX50E", "Euro Stoxx 50", "Euro Stoxx 50"),
+    ("^GDAXI", "DAX (Alemania)", "DAX (Germany)"),
+    ("^FTSE", "FTSE 100 (Reino Unido)", "FTSE 100 (UK)"),
+    ("^GSPC", "S&P 500", "S&P 500"),
+    ("^IXIC", "Nasdaq", "Nasdaq"),
+    ("^DJI", "Dow Jones", "Dow Jones"),
+    ("^N225", "Nikkei 225 (Japón)", "Nikkei 225 (Japan)"),
+    ("GC=F", "Oro (USD)", "Gold (USD)"),
+    ("BZ=F", "Petróleo Brent (USD)", "Brent crude (USD)"),
+    ("EURUSD=X", "EUR/USD", "EUR/USD"),
+]
+# Criptomonedas (en euros): (símbolo Yahoo, id CoinGecko, nombre)
+CRYPTO = [
+    ("BTC-EUR", "bitcoin", "Bitcoin (EUR)"),
+    ("ETH-EUR", "ethereum", "Ethereum (EUR)"),
+    ("SOL-EUR", "solana", "Solana (EUR)"),
+]
+
+
+def daily_change(price, closes, last_ts, market_ts):
+    """Variación respecto al cierre del día anterior (no respecto a hace 5 días)."""
+    closes = [c for c in closes if c is not None]
+    if not closes:
+        return None
+    # Si la última vela es la de hoy, el cierre anterior es la penúltima; si no, es la última.
+    same_day = last_ts and market_ts and datetime.fromtimestamp(last_ts, timezone.utc).date() == \
+        datetime.fromtimestamp(market_ts, timezone.utc).date()
+    prev = closes[-2] if same_day and len(closes) >= 2 else closes[-1]
+    return (price - prev) / prev * 100 if prev else None
+
+
+def yahoo(symbol, name_es, name_en):
     url = f"https://query1.finance.yahoo.com/v8/finance/chart/{symbol}?interval=1d&range=5d"
-    meta = json.loads(get(url))["chart"]["result"][0]["meta"]
-    price, prev = meta["regularMarketPrice"], meta.get("chartPreviousClose")
-    change = (price - prev) / prev * 100 if prev else None
-    return {"name": name, "price": price, "change": change}
+    res = json.loads(get(url))["chart"]["result"][0]
+    meta = res["meta"]
+    price = meta["regularMarketPrice"]
+    closes = res["indicators"]["quote"][0].get("close", [])
+    stamps = res.get("timestamp") or []
+    change = daily_change(price, closes, stamps[-1] if stamps else None, meta.get("regularMarketTime"))
+    return {"name": name_es, "name_en": name_en, "price": price, "change": change}
 
 
 def fetch_markets():
     out = []
-    for symbol, name in [("^IBEX", "Ibex 35"), ("^GSPC", "S&P 500"), ("EURUSD=X", "EUR/USD")]:
+    for symbol, es, en in MARKETS:
         try:
-            out.append(yahoo(symbol, name))
+            out.append(yahoo(symbol, es, en))
+        except Exception as e:
+            print(f"[aviso] {es} falló: {e}", file=sys.stderr)
+    # Cripto: primero CoinGecko (una sola llamada); si falla, Yahoo como respaldo
+    ids = ",".join(c[1] for c in CRYPTO)
+    try:
+        j = json.loads(get(f"https://api.coingecko.com/api/v3/simple/price?ids={ids}&vs_currencies=eur&include_24hr_change=true"))
+    except Exception as e:
+        print(f"[aviso] CoinGecko falló: {e}", file=sys.stderr)
+        j = {}
+    for sym, cid, name in CRYPTO:
+        try:
+            if cid in j:
+                out.append({"name": name, "name_en": name, "price": j[cid]["eur"], "change": j[cid].get("eur_24h_change")})
+            else:
+                out.append(yahoo(sym, name, name))
         except Exception as e:
             print(f"[aviso] {name} falló: {e}", file=sys.stderr)
-    try:
-        j = json.loads(get("https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=eur&include_24hr_change=true"))
-        out.append({"name": "Bitcoin (EUR)", "price": j["bitcoin"]["eur"], "change": j["bitcoin"].get("eur_24h_change")})
-    except Exception as e:
-        print(f"[aviso] Bitcoin falló: {e}", file=sys.stderr)
     return out
 
 

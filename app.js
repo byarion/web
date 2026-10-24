@@ -28,18 +28,24 @@
     }).catch(() => { newsEl.innerHTML = '<li>' + T.none + '</li>'; });
   }
 
-  // Mercados
+  // Mercados: cinta que se desplaza de derecha a izquierda, un valor tras otro
   const mEl = document.getElementById('markets');
   if (mEl) {
     getJSON(base + 'data/markets.json').then(d => {
-      mEl.innerHTML = (d.items || []).map(m => {
+      const items = d.items || [];
+      if (!items.length) { mEl.innerHTML = ''; return; }
+      const one = items.map(m => {
         const ch = m.change;
-        const cls = ch >= 0 ? 'up' : 'down';
-        const arrow = ch >= 0 ? '▲' : '▼';
-        return '<div class="card market"><div class="name">' + esc(m.name) + '</div><div class="val">' +
-          Number(m.price).toLocaleString(T.locale, { maximumFractionDigits: 2 }) + '</div>' +
-          (ch === null || ch === undefined ? '' : '<div class="' + cls + '">' + arrow + ' ' + Math.abs(ch).toFixed(2) + '%</div>') + '</div>';
+        const price = Number(m.price);
+        const dec = Math.abs(price) < 10 ? 4 : 2;
+        const name = lang === 'en' && m.name_en ? m.name_en : m.name;
+        const chg = (ch === null || ch === undefined) ? '' :
+          '<span class="tk-chg ' + (ch >= 0 ? 'up' : 'down') + '">' + (ch >= 0 ? '▲' : '▼') + ' ' + Math.abs(ch).toFixed(2) + '%</span>';
+        return '<span class="tk"><span class="tk-name">' + esc(name) + '</span><span class="tk-val">' +
+          price.toLocaleString(T.locale, { minimumFractionDigits: dec === 4 ? 4 : 0, maximumFractionDigits: dec }) + '</span>' + chg + '</span>';
       }).join('');
+      mEl.style.setProperty('--dur', Math.max(40, items.length * 6) + 's');
+      mEl.innerHTML = '<div class="track"><div class="seg">' + one + '</div><div class="seg" aria-hidden="true">' + one + '</div></div>';
     }).catch(() => { mEl.innerHTML = ''; });
   }
 

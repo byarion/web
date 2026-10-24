@@ -63,3 +63,22 @@ a.card:hover{border-color:var(--accent);transform:translateY(-2px)}
 .page a.card h3{margin:0;font-size:1rem;color:var(--ink)}
 select{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;font-size:1rem;background:#fff;color:var(--ink)}
 .page h3{font-size:1.02rem;margin:18px 0 4px}
+/* Cinta de mercados */
+.ticker{overflow:hidden;background:var(--card);border-top:1px solid var(--line);border-bottom:1px solid var(--line);border-radius:12px;
+  -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 7%,#000 93%,transparent 100%);mask-image:linear-gradient(90deg,transparent 0,#000 7%,#000 93%,transparent 100%)}
+.ticker .track{display:flex;width:max-content;animation:tk-scroll var(--dur,60s) linear infinite;will-change:transform}
+.ticker:hover .track,.ticker:focus-within .track{animation-play-state:paused}
+.ticker .seg{display:flex;flex:none}
+.tk{display:flex;align-items:baseline;gap:10px;padding:16px 26px;white-space:nowrap}
+.tk::after{content:"";align-self:center;width:1px;height:22px;background:var(--line);margin-left:16px}
+.tk-name{color:var(--muted);font-size:.85rem}
+.tk-val{font-size:1.1rem;font-weight:700;font-variant-numeric:tabular-nums}
+.tk-chg{font-size:.85rem;font-weight:600}
+@keyframes tk-scroll{from{transform:translateX(0)}to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){
+  .ticker{-webkit-mask-image:none;mask-image:none}
+  .ticker .track{animation:none;width:auto;display:block}
+  .ticker .seg{display:flex;flex-wrap:wrap}
+  .ticker .seg[aria-hidden="true"]{display:none}
+}
+
