@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-25T20:05:27.704610+00:00",
+ "updated": "2026-10-25T22:52:29.635906+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El inversor apuesta por los cambios de uso para rentabilizar los inmuebles",
+   "link": "https://www.expansion.com/empresas/2026/10/25/6ade85dde5fdeadf2c8b457f.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929679152551.jpg",
+   "date": "2026-10-25T23:42:39+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "¿Es posible que los planes de pensiones sean obligatorios?",
+   "link": "https://www.expansion.com/mercados/2026/10/25/6ade81c0468aeb067f8b4583.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929670553488.jpg",
+   "date": "2026-10-25T23:26:24+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Seat negocia con Aggity fabricar drones en su planta de Martorell",
+   "link": "https://www.expansion.com/empresas/2026/10/25/6ade3949e5fdea3d1c8b4575.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/25/17929483817741.jpg",
+   "date": "2026-10-25T23:11:05+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Los socios de Madrileña Red de Gas fichan a Goldman Sachs para su venta",
+   "link": "https://www.expansion.com/empresas/2026/10/25/6ade3190e5fdeabf608b4587.html",
+   "image": "",
+   "date": "2026-10-25T23:02:23+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Santander, BBVA y Sabadell relanzan la banca personal para frenar a los neobancos",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/25/6adb9512468aeb852b8b4580.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927760851006.png",
+   "date": "2026-10-25T23:00:03+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Más de 3,6 millones de trabajadores tienen blindado el sueldo ante la escalada del IPC",
+   "link": "https://www.expansion.com/economia/politica/2026/10/25/3-6-millones-trabajadores-blindado-sueldo-escalada-ipc.html",
+   "image": "",
+   "date": "2026-10-25T22:52:32+01:00"
+  },
   {
    "lang": "es",
    "source": "El País",
@@ -99,54 +147,6 @@
   },
   {
    "lang": "es",
-   "source": "Expansión",
-   "title": "El alquiler cae en un tercio de Madrid",
-   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html",
-   "image": "",
-   "date": "2026-10-24T19:32:58+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Las grandes capitales pierden fuerza",
-   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/grandes-capitales-pierden-fuerza.html",
-   "image": "",
-   "date": "2026-10-24T19:30:40+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Barcelona: incertidumbre en el alquiler",
-   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-incertidumbre-alquiler.html",
-   "image": "",
-   "date": "2026-10-24T19:27:41+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Barcelona se dispara un 11% a pesar del freno de la compraventa",
-   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/24/17928626976290.jpg",
-   "date": "2026-10-24T19:25:32+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La fiscalidad de la vivienda para uso propio y alquiler",
-   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/fiscalidad-vivienda-propio-alquiler.html",
-   "image": "",
-   "date": "2026-10-24T19:23:39+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Madrid: la escalada se desacelera, pero el precio sigue en máximos",
-   "link": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/madrid-escalada-desacelera-precio-sigue-maximos.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/04/17/17764142292314.jpg",
-   "date": "2026-10-24T19:20:14+02:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "Los ‘milquini’, los nuevos mileuristas en la economía de 2026: “El ocio lo reducimos al mínimo”",
    "link": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
@@ -172,18 +172,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "BYD destrona a MG en España y apunta a un objetivo más ambicioso",
-   "link": "https://www.expansion.com/empresas/motor/2026/10/24/6adb7767468aeb866d8b45aa.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/08/07/17860891011904.jpg",
-   "date": "2026-10-24T00:04:18+02:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Cómo cobrar más de 10.000 millones en dividendos en la recta final del año",
-   "link": "https://www.expansion.com/inversion/2026/10/24/6adb8e09468aeb3f6b8b4577.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927784398519.jpg",
-   "date": "2026-10-24T00:03:18+02:00"
+   "title": "Las claves bursátiles de la próxima semana",
+   "link": "https://videos.expansion.com/v/xbqs95e-las-claves-bursatiles-de-la-proxima-semana-23-10-2026?uetv_pl=0",
+   "image": "",
+   "date": "2026-10-23T23:28:12+02:00"
   },
   {
    "lang": "en",
@@ -240,6 +232,14 @@
    "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
    "image": "",
    "date": "2026-10-21T01:01:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Sabadell y CaixaBank son los bancos que más condicionan el bonus; Bankinter, el que menos",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/20/6a54c287468aebff568b45a6.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/07/08/17835239453357.jpg",
+   "date": "2026-10-20T07:36:13+02:00"
   },
   {
    "lang": "en",
