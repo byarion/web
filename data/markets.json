@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T01:56:57.361375+00:00",
+ "updated": "2026-10-25T07:51:40.223521+00:00",
  "items": [
   {
    "name": "Ibex 35",
@@ -70,20 +70,20 @@
   {
    "name": "Bitcoin (EUR)",
    "name_en": "Bitcoin (EUR)",
-   "price": 72089,
-   "change": -0.1513520852767874
+   "price": 71953,
+   "change": -0.13532819692639886
   },
   {
    "name": "Ethereum (EUR)",
    "name_en": "Ethereum (EUR)",
-   "price": 2106.29,
-   "change": -0.8867083655997523
+   "price": 2094.56,
+   "change": -1.2078951652534435
   },
   {
    "name": "Solana (EUR)",
    "name_en": "Solana (EUR)",
-   "price": 91.3,
-   "change": -0.2606357190729796
+   "price": 90.73,
+   "change": -0.26886223518798497
   }
  ]
 }

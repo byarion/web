@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-25T01:56:56.625301+00:00",
+ "updated": "2026-10-25T07:51:38.513116+00:00",
  "items": [
   {
    "lang": "en",
@@ -7,7 +7,71 @@
    "title": "Rosebank: Life on the oil field at the centre of a political storm",
    "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-   "date": "2026-10-24T23:15:18+00:00"
+   "date": "2026-10-25T07:15:38+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4709/live/59ef3fb0-ceff-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-25T06:00:15+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El modelo vasco para la crisis de la vivienda: más pisos protegidos, reserva de suelo y hasta reconvertir una antigua cárcel",
+   "link": "https://elpais.com/economia/vivienda/2026-10-25/el-modelo-vasco-para-la-crisis-de-la-vivienda-mas-pisos-protegidos-reserva-de-suelo-y-hasta-reconvertir-una-antigua-carcel.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/UW4LYQ25WFHMTNR46JYJGNQZW4.jpg?auth=8306b1e593cb405196e58642d2051d5c4c1cb302d4db7e7fc664975b241e66c1",
+   "date": "2026-10-25T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Valeria Racu: “Todos los gobiernos han promovido el rentismo”",
+   "link": "https://elpais.com/economia/vivienda/2026-10-25/valeria-racu-todos-los-gobiernos-han-promovido-el-rentismo.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261023/1229047_143943_video_1800.mp4",
+   "date": "2026-10-25T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: las ‘midterms’ abren un horizonte de incertidumbre en Wall Street",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-25/las-claves-las-midterms-abren-un-horizonte-de-incertidumbre-en-wall-street.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/DRXTJQATTJO73GEL2KI2WASGKA.jpg?auth=f0627d5ffc48249c822a6060a48b55bc444d2b2159aad22acba88316be92af5e",
+   "date": "2026-10-25T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Whitney Wolfe Herd, la mujer detrás del auge y la caída de las ‘apps’ de citas",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-25/whitney-wolfe-herd-la-mujer-detras-del-auge-y-la-caida-de-las-apps-de-citas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ZURNIIFJWRF4XFSW2CFF26FZIE.jpg?auth=b6eab8afc47c6dbd7f44252217f7d5329b0599c9b7b96a308aa49ede16f86acf",
+   "date": "2026-10-25T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Francia en aprietos: enseñanzas para España",
+   "link": "https://elpais.com/economia/negocios/2026-10-25/francia-en-aprietos-ensenanzas-para-espana.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/CHWBIT4BKRGUHPC3BP45GPVX4E.jpg?auth=d18435142bad48dd573bb853a3f7db1839b8bf99cc6b0b1787acfd73fa004a71",
+   "date": "2026-10-25T04:30:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La rabia de las revueltas francesas por acabar con el malestar social",
+   "link": "https://elpais.com/economia/negocios/2026-10-25/la-rabia-de-las-revueltas-francesas-por-acabar-con-el-malestar-social.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/YX2YAG3HQBCFZG7VWZCDMQCCV4.jpg?auth=e11d11055ccc5ae1285042a66a3592e0c19274f3ad90b64aedd7e59758d98293",
+   "date": "2026-10-25T04:30:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Budget to include £1bn for social and affordable housing",
+   "link": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ec8/live/67f00de0-cfe2-11f1-aa62-a1cf89c34605.jpg",
+   "date": "2026-10-25T02:57:30+00:00"
   },
   {
    "lang": "es",
@@ -84,58 +148,10 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Miles de personas se manifiestan en Madrid en defensa del sistema de pensiones: “¡No se venden!”",
-   "link": "https://elpais.com/economia/2026-10-24/miles-de-personas-se-manifiestan-en-madrid-en-defensa-del-sistema-de-pensiones-no-se-venden.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261024/1229502_184701_video_1800.mp4",
-   "date": "2026-10-24T11:09:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
    "title": "Cuando rejuvenecer las plantillas no es barato: las empresas se gastan 27.000 millones al año en reemplazar a los trabajadores séniors",
    "link": "https://elpais.com/economia/2026-10-24/cuando-rejuvenecer-las-plantillas-no-es-barato-las-empresas-se-gastan-27000-millones-al-ano-en-reemplazar-a-los-trabajadores-seniors.html",
    "image": "https://imagenes.elpais.com/resizer/v2/OFYBLJ4OWVANTO2KFQXDOKTGRY.jpg?auth=9f4dd8b587c029f42f94f2df31e65cd8fceb4d489379c2b7415611f834a4e297",
    "date": "2026-10-24T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
-   "link": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/2IN3G4H3GVH75N2IMGNDI5BCCY.jpg?auth=da3b1e00cae609796e0502993a9ae94966f9fd257f817e2cc3a50e8ceed77db3",
-   "date": "2026-10-24T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Hacia un BCE ¿aperturista o halcón?",
-   "link": "https://elpais.com/economia/2026-10-24/hacia-un-bce-aperturista-o-halcon.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QBA56LE6TZBQHLOTKDLRNXTRWA.jpg?auth=195fea5792bda609e62752412b408aca66914393642ed1af4f57df67a3464de4",
-   "date": "2026-10-24T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "¿Vuelven las preferentes?",
-   "link": "https://elpais.com/economia/2026-10-24/vuelven-las-preferentes.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EEDIG6X4PBMO7BYOUAOYX6GGOE.jpg?auth=2dff4c48c3c8b28c0a51216f450c7910a2555cc8b8846f6c8b0748160937e964",
-   "date": "2026-10-24T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Nueva política industrial",
-   "link": "https://cincodias.elpais.com/economia/2026-10-24/nueva-politica-industrial.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/Z4TUUGFCPNHBPJ2PF2R7SSVOX4.jpg?auth=716d01053e437e2c6e046bb55ed7889640db0f3488497e0342984b9412de706e",
-   "date": "2026-10-24T03:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los inversores franceses afrontan la prueba de la rana hervida",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-24/los-inversores-franceses-afrontan-la-prueba-de-la-rana-hervida.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/U4INHTBAO5NYBB6NWCELHCP3ZQ.jpg?auth=1fe253d92503c5c809f87d6696ae3c928eddf08e8d63f522653ec5a813b418bd",
-   "date": "2026-10-24T03:40:00+00:00"
   },
   {
    "lang": "en",
@@ -171,6 +187,14 @@
   },
   {
    "lang": "en",
+   "source": "BBC Business",
+   "title": "Are California voters about to impose 'world's first' tax on billionaires?",
+   "link": "https://www.bbc.co.uk/news/articles/ck4g1jg4n9dno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b0f/live/ff750910-ce7d-11f1-bc2e-018d645d8d21.jpg",
+   "date": "2026-10-23T23:11:31+00:00"
+  },
+  {
+   "lang": "en",
    "source": "CNBC Economy",
    "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
    "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
@@ -180,34 +204,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Civil servant who juggled five jobs says he was 'surprised' to be charged with fraud",
-   "link": "https://www.bbc.co.uk/news/articles/c6lykzwjkj1eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ce/live/5103dfb0-ceef-11f1-b2ae-23f8d2a0e0c0.jpg",
-   "date": "2026-10-23T15:15:13+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Earnings limit of up to £140K for first-time buyers loan scheme",
-   "link": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1887/live/ab960500-cec9-11f1-bed9-e3a2c35dfdd6.jpg",
-   "date": "2026-10-23T11:48:04+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "The Indian workers filming their work to train AI",
    "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6fc/live/3dab9740-bbe0-11f1-bd21-bdf910f2cec6.jpg",
    "date": "2026-10-23T08:04:17+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Lights will stay on this winter, grid operator says after concerns",
-   "link": "https://www.bbc.co.uk/news/articles/cmy56q2n1veqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4ec/live/bd0928a0-ce22-11f1-9f18-490cec60aa0f.jpg",
-   "date": "2026-10-23T06:47:10+00:00"
   },
   {
    "lang": "en",
