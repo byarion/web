@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-25T13:24:56.979109+00:00",
+ "updated": "2026-10-25T17:55:26.003554+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La industria pone coto a completar el salario a los trabajadores de baja: así lucha el metal contra el absentismo",
+   "link": "https://elpais.com/economia/2026-10-25/la-industria-pone-coto-a-completar-el-salario-a-los-trabajadores-de-baja-asi-lucha-el-metal-contra-el-absentismo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EOPD2ARX2UP2TRT2Z5Y5YBQIC4.jpg?auth=61fb752d8c79cc661861f29717a04ec72b58129f50fd2bba141087016c419e8c",
+   "date": "2026-10-25T17:25:37+00:00"
+  },
   {
    "lang": "es",
    "source": "Naiz",
@@ -152,22 +160,6 @@
    "link": "https://elpais.com/economia/2026-10-24/los-milquini-los-nuevos-mileuristas-en-la-economia-de-2026-el-ocio-lo-reducimos-al-minimo.html",
    "image": "https://imagenes.elpais.com/resizer/v2/IHHS26D5Z5DAROXNV5MVOZ6KXU.jpg?auth=083884b73057fd8e02aa31345034343a910ea84711577784963c92d50194e896",
    "date": "2026-10-24T17:41:18+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Activistas contra la «Banca Armada» protestan ante la sucursal del Banco Santander en Iruñea",
-   "link": "https://www.naiz.eus/info/noticia/20261024/activivistas-contra-la-banca-armada-protestan-ante-la-sucursal-del-banco-santander-en-irunea",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/381/914/news_landscape/Banca_armada.png",
-   "date": "2026-10-24T16:03:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "¿Dónde viven los caseros? Barrios de renta alta y zonas turísticas concentran a quienes declaran ingresos de alquiler",
-   "link": "https://elpais.com/economia/2026-10-24/donde-viven-los-caseros-barrios-de-renta-alta-y-zonas-turisticas-concentran-a-quienes-declaran-ingresos-de-alquiler.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/2IN3G4H3GVH75N2IMGNDI5BCCY.jpg?auth=da3b1e00cae609796e0502993a9ae94966f9fd257f817e2cc3a50e8ceed77db3",
-   "date": "2026-10-24T03:45:01+00:00"
   },
   {
    "lang": "en",
