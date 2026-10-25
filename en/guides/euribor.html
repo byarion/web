@@ -26,6 +26,23 @@
 <p class="crumb"><a href="../#guides">← All guides</a></p>
 <h1>What is the Euribor?</h1>
 <p class="lead">The Euribor is the average interest rate at which major European banks lend to each other. It is the reference used in many mortgages in Spain.</p>
+<div class="card" id="euribor-now" hidden>
+<div class="note">12-month Euribor</div>
+<div style="font-size:2rem;font-weight:800;line-height:1.2"><span id="eu-val"></span> <span id="eu-date" class="note" style="font-weight:400"></span></div>
+<p class="note" id="eu-hist" style="margin:8px 0 0"></p>
+<p class="note" style="margin:6px 0 0">Source: European Central Bank. Indicative data.</p>
+</div>
+<script>
+(function(){var box=document.getElementById("euribor-now");if(!box)return;
+fetch("../../data/euribor.json",{cache:"no-cache"}).then(function(r){return r.json()}).then(function(d){
+var it=d.items||{};if(!it.latest)return;var loc="en-GB";
+var f=function(n){return n.toLocaleString(loc,{minimumFractionDigits:2,maximumFractionDigits:3})+" %"};
+document.getElementById("eu-val").textContent=f(it.latest.value);
+var dt=it.latest.kind==="monthly"?"(monthly average "+it.latest.date+")":"("+new Date(it.latest.date).toLocaleDateString(loc)+")";
+document.getElementById("eu-date").textContent=dt;
+if(it.monthly&&it.monthly.length){document.getElementById("eu-hist").textContent="Monthly averages: "+it.monthly.slice(-6).map(function(m){return m.month+" "+f(m.value)}).join(" · ")}
+box.hidden=false}).catch(function(){})})();
+</script>
 <h2>What the name means</h2>
 <p>Euribor stands for <i>Euro Interbank Offered Rate</i>. It is published for different terms, and the most used for mortgages is the 12-month one.</p>
 <h2>How it affects a variable-rate mortgage</h2>

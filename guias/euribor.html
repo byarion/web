@@ -26,6 +26,23 @@
 <p class="crumb"><a href="../#guias">← Todas las guías</a></p>
 <h1>Qué es el Euríbor</h1>
 <p class="lead">El Euríbor es el tipo de interés medio al que los principales bancos europeos se prestan dinero entre sí. Es la referencia que se usa en muchas hipotecas en España.</p>
+<div class="card" id="euribor-now" hidden>
+<div class="note">Euríbor a 12 meses</div>
+<div style="font-size:2rem;font-weight:800;line-height:1.2"><span id="eu-val"></span> <span id="eu-date" class="note" style="font-weight:400"></span></div>
+<p class="note" id="eu-hist" style="margin:8px 0 0"></p>
+<p class="note" style="margin:6px 0 0">Fuente: Banco Central Europeo. Dato orientativo.</p>
+</div>
+<script>
+(function(){var box=document.getElementById("euribor-now");if(!box)return;
+fetch("../data/euribor.json",{cache:"no-cache"}).then(function(r){return r.json()}).then(function(d){
+var it=d.items||{};if(!it.latest)return;var loc="es-ES";
+var f=function(n){return n.toLocaleString(loc,{minimumFractionDigits:2,maximumFractionDigits:3})+" %"};
+document.getElementById("eu-val").textContent=f(it.latest.value);
+var dt=it.latest.kind==="monthly"?"(media del mes "+it.latest.date+")":"("+new Date(it.latest.date).toLocaleDateString(loc)+")";
+document.getElementById("eu-date").textContent=dt;
+if(it.monthly&&it.monthly.length){document.getElementById("eu-hist").textContent="Medias mensuales: "+it.monthly.slice(-6).map(function(m){return m.month+" "+f(m.value)}).join(" · ")}
+box.hidden=false}).catch(function(){})})();
+</script>
 <h2>Qué significa el nombre</h2>
 <p>Euríbor viene del inglés <i>Euro Interbank Offered Rate</i>: tipo de oferta en el mercado interbancario del euro. Se publica para distintos plazos, y el más usado en las hipotecas es el de 12 meses.</p>
 <h2>Cómo afecta a una hipoteca variable</h2>

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Robot de Ondexi: descarga titulares (RSS) y precios de mercado y los guarda en data/*.json.
 Solo guarda titular + enlace + fuente + fecha (nunca el texto completo de los artículos)."""
-import json, re, sys, urllib.request
+import csv, io, json, re, sys, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
@@ -172,6 +172,32 @@ def fetch_markets():
     return out
 
 
+def fetch_euribor():
+    """Euríbor a 12 meses desde la API de datos del BCE: último valor diario (si existe) y medias mensuales."""
+    url = "https://data-api.ecb.europa.eu/service/data/FM/{}.U2.EUR.RT.MM.EURIBOR1YD_.HSTA?lastNObservations={}&format=csvdata"
+
+    def series(freq, n):
+        rows = csv.DictReader(io.StringIO(get(url.format(freq, n)).decode("utf-8-sig")))
+        return [(r["TIME_PERIOD"], float(r["OBS_VALUE"])) for r in rows if r.get("OBS_VALUE")]
+
+    out = {}
+    try:
+        d = series("D", 5)
+        if d:
+            out["latest"] = {"date": d[-1][0], "value": d[-1][1], "kind": "daily"}
+    except Exception as e:
+        print(f"[aviso] Euríbor diario falló: {e}", file=sys.stderr)
+    try:
+        m = series("M", 12)
+        if m:
+            out["monthly"] = [{"month": t, "value": v} for t, v in m]
+            if "latest" not in out:
+                out["latest"] = {"date": m[-1][0], "value": m[-1][1], "kind": "monthly"}
+    except Exception as e:
+        print(f"[aviso] Euríbor mensual falló: {e}", file=sys.stderr)
+    return out
+
+
 def save(name, items):
     path = DATA / name
     # Si todo falló, conserva los datos anteriores en vez de dejar la web vacía.
@@ -186,4 +212,5 @@ if __name__ == "__main__":
     DATA.mkdir(exist_ok=True)
     save("news.json", fetch_news())
     save("markets.json", fetch_markets())
+    save("euribor.json", fetch_euribor())
     print("Listo")
