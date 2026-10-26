@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-26T15:33:11.207013+00:00",
+ "updated": "2026-10-26T21:58:29.338826+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
+   "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
+   "date": "2026-10-26T19:57:23+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Vivanta cierra todas sus clínicas dentales a la espera del pronunciamiento de Bruselas",
+   "link": "https://cincodias.elpais.com/companias/2026-10-26/vivanta-cierra-todas-sus-clinicas-dentales-a-la-espera-del-pronunciamiento-de-bruselas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VASQX7VMYJCPFB4EL5QH2QAZE4.jpg?auth=de28e62177123086732f61d1a67050f54a0a11899264cd208356cacce225abc0",
+   "date": "2026-10-26T19:40:10+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "ChatGPT recomienda a las chicas pedir menor salario que los chicos, en la misma situación",
+   "link": "https://www.naiz.eus/gaiak/noticia/20261026/chatgpt-recomienda-a-las-chicas-a-pedir-menor-salario-que-a-los-chicos-en-la-misma-situacion",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/292/news_landscape/chatgpt.jpg",
+   "date": "2026-10-26T18:10:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "De Telefónica a Santander: los valores más expuestos a Brasil caen hasta un 6%",
+   "link": "https://www.expansion.com/mercados/2026/10/26/6adf08fe468aebd8488b4577.html",
+   "image": "",
+   "date": "2026-10-26T18:05:54+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Microsoft lanza un plan de bajas voluntarias para 60.000 empleados",
+   "link": "https://www.expansion.com/tecnologia/2026/10/26/microsoft-lanza-plan-bajas-voluntarias-60-000-empleados.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930338068508.jpg",
+   "date": "2026-10-26T17:56:58+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-26T16:27:17+00:00"
+  },
   {
    "lang": "es",
    "source": "Expansión",
@@ -10,44 +58,12 @@
    "date": "2026-10-26T16:00:56+01:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
-   "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e394/live/7affbe60-d147-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-26T15:27:54+00:00"
-  },
-  {
    "lang": "es",
    "source": "Expansión",
    "title": "Anthropic toma delantera en la carrera por la IA: registra el folleto para saltar a Bolsa",
    "link": "https://www.expansion.com/empresas/2026/10/26/6adf536ae5fdea212e8b4576.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930207486460.jpg",
    "date": "2026-10-26T14:24:02+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Konecta contrata a Houlihan Lokey para reestructurar más de 1.000 millones en deuda",
-   "link": "https://www.expansion.com/empresas/2026/10/26/6adf4f9a468aebc56e8b4588.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930197388850.jpg",
-   "date": "2026-10-26T14:05:30+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "De Telefónica a Santander: los valores más expuestos a Brasil caen con fuerza en el Ibex",
-   "link": "https://www.expansion.com/mercados/2026/10/26/6adf08fe468aebd8488b4577.html",
-   "image": "",
-   "date": "2026-10-26T13:34:57+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Críticas al grupo Volkswagen por la participación del presidente de Audi en la campaña de Trump",
-   "link": "https://elpais.com/economia/2026-10-26/criticas-al-grupo-volkswagen-por-la-participacion-del-presidente-de-audi-en-la-campana-de-trump.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/O3WXS3O7GRJWPPPL6Y24Z2SBAY.jpg?auth=a6b0fb4d9a8d034752fc089c8fac7bcf434fbc2b78d2ee32566b370e4f52a974",
-   "date": "2026-10-26T13:10:20+00:00"
   },
   {
    "lang": "es",
@@ -80,22 +96,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c60rlp8kkz1zo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e9f/live/05bfe810-d114-11f1-921d-7d7921390179.jpg",
    "date": "2026-10-26T10:48:46+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Gasteizek eta Arabak turismo eskaintza aurkeztu diete Bartzelonako bidaia agentziei",
-   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261026/gasteizek-eta-arabak-turismo-eskaintza-aurkeztu-dute-bartzelonan",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/668/news_landscape/katedrala.jpg",
-   "date": "2026-10-26T10:39:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Tras recaudar 125.000 euros en cuatro años, la Burdin Hesiko Lasterketa Solidarioa para en 2027",
-   "link": "https://www.naiz.eus/info/noticia/20261026/tras-recaudar-125-000-euros-en-cuatro-anos-la-burdin-hesiko-lasterketa-solidarioa-para-en-2027",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/262/news_landscape/Hesiko.jpg",
-   "date": "2026-10-26T10:36:00+00:00"
   },
   {
    "lang": "en",
@@ -192,14 +192,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cq2e9we7w2ejo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68b2/live/52453c80-cc82-11f1-bc2e-018d645d8d21.png",
    "date": "2026-10-25T23:44:34+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Rosebank: Life on the oil field at the centre of a political storm",
-   "link": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-   "date": "2026-10-25T07:15:38+00:00"
   },
   {
    "lang": "en",
