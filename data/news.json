@@ -1,29 +1,141 @@
 {
- "updated": "2026-10-27T08:26:03.280375+00:00",
+ "updated": "2026-10-27T14:58:44.934482+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
    "title": "El Ibex vuelve a dudar al filo de los 19.000 puntos",
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/27/6ae04bd2e5fdea2c718b4596.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17930843489670.jpg",
-   "date": "2026-10-27T09:16:07+01:00"
+   "image": "",
+   "date": "2026-10-27T14:53:59+01:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "La tasa de paro sube al 10,2% en el tercer trimestre con récord de población activa",
-   "link": "https://www.expansion.com/economia/2026/10/27/tasa-paro-sube-10-2-tercer-trimestre-record-poblacion-activa.html",
+   "title": "Advent ataca España con 27.000 millones en dos nuevos fondos de capital riesgo",
+   "link": "https://www.expansion.com/empresas/2026/10/27/6ae09eae468aeb99348b457f.html",
    "image": "",
-   "date": "2026-10-27T09:06:09+01:00"
+   "date": "2026-10-27T13:56:12+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "‘eh! txe txe!’, Feministaldia vuelve y pone la crisis de la vivienda en el centro",
+   "link": "https://www.naiz.eus/info/noticia/20261027/eh-txe-txe-feministaldia-vuelve-y-pone-la-crisis-de-la-vivienda-en-el-centro",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/524/news_landscape/feministaldia.jpeg",
+   "date": "2026-10-27T13:41:00+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Chancellor to cut tariffs on marmalade and other products to help with cost-of-living",
+   "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
+   "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
+   "date": "2026-10-27T13:25:54+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
    "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c2c/live/35815a70-d173-11f1-9d71-6d5ae0660afe.jpg",
-   "date": "2026-10-27T08:23:48+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-27T13:18:37+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno aprueba una subvención de 201 millones a promotores privados para construir 2.500 viviendas públicas",
+   "link": "https://elpais.com/economia/vivienda/2026-10-27/el-gobierno-aprueba-una-subvencion-de-201-millones-a-promotores-privados-para-construir-2500-viviendas-publicas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/XRVBFSCWYFMLZFTFLTBCV4ERDE.jpg?auth=e3e227356a5fef3a234657a5fa9652560e9b225fc2a50a5cd582a7bd85f8422e",
+   "date": "2026-10-27T13:11:48+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-27T13:08:26+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Renfe encarga a Siemens su nueva generación de AVE por 1.800 millones",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/27/6ae07b6b468aeb55058b4574.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17930964482123.jpg",
+   "date": "2026-10-27T13:04:57+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Los empresarios piden recuperar el despido por bajas reiteradas ante la escalada del absentismo laboral",
+   "link": "https://www.expansion.com/economia/2026/10/27/empresarios-piden-recuperar-despido-bajas-reiteradas-escalada-absentismo-laboral.html",
+   "image": "",
+   "date": "2026-10-27T13:03:22+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+   "image": "",
+   "date": "2026-10-27T12:50:13+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Uber Eats acuerda con los sindicatos renunciar a sus repartidores autónomos y completa la laboralización del sector",
+   "link": "https://elpais.com/economia/2026-10-27/uber-eats-acuerda-con-los-sindicatos-renunciar-a-sus-repartidores-autonomos-y-completa-la-laboralizacion-del-sector.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/IUGPGKVMC5D4JBDVOA33QFPTDQ.jpg?auth=1fd1d833034761c6dccc8695992e4289254e53ad2cbc48120704bf1708546225",
+   "date": "2026-10-27T12:08:57+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los Veintisiete acuerdan las bases de su Política Agrícola, con la financiación por definir",
+   "link": "https://www.naiz.eus/info/noticia/20261027/los-veintisiete-acuerdan-las-bases-de-su-politica-agricola-con-la-financiacion-por-definir",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/500/news_landscape/COSECHADORA.jpg",
+   "date": "2026-10-27T11:43:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Gobierno abre una excepción al decreto de centros de datos para excluir de sus exigencias la gigafactoría catalana de IA",
+   "link": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/27/6ae0775de5fdea0f238b4591.html",
+   "image": "",
+   "date": "2026-10-27T11:41:47+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Fed rate hikes are coming, but not this week: CNBC survey",
+   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+   "image": "",
+   "date": "2026-10-27T11:10:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What is the Budget and what could be in it?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
+   "date": "2026-10-27T11:06:53+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Se suspende la huelga de Moeve en Gipuzkoa por una «traición» de CCOO",
+   "link": "https://www.naiz.eus/info/noticia/20261027/se-suspende-la-huelga-de-moeve-en-gipuzkoa-por-una-traicion-de-ccoo",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/483/news_landscape/moeve_greba.jpg",
+   "date": "2026-10-27T10:36:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Apple to replace iPhone Duos affected by screen problem",
+   "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
+   "date": "2026-10-27T09:37:55+00:00"
   },
   {
    "lang": "es",
@@ -32,30 +144,6 @@
    "link": "https://elpais.com/economia/2026-10-27/el-paro-repunta-en-el-tercer-trimestre-hasta-el-1018.html",
    "image": "https://imagenes.elpais.com/resizer/v2/EDIQEREJPFFZZKM36HANHAZ6OI.jpg?auth=5853f3b728fc50e6da148e0055604f67aa48230196da40392e8e01dd95c59973",
    "date": "2026-10-27T08:00:21+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La Primera de Expansión sobre Ferrovial, Sacyr, Aagesen, Anthropic, Putellas, Mbappé, Israel y Lula",
-   "link": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/27/primera-expansion-sobre-ferrovial-sacyr-aagese-anthropic-putellas-mbappe-israel-lula.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17930830994077.jpg",
-   "date": "2026-10-27T07:29:33+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Major Chinese brands drop Mbappé as backlash grows over Mao joke",
-   "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
-   "date": "2026-10-27T07:15:08+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'I'm a single mum on £41,000 and limit my weekly shop to £40.' What do you want from the Budget?",
-   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-27T06:48:50+00:00"
   },
   {
    "lang": "en",
@@ -72,22 +160,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
    "date": "2026-10-27T06:01:11+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Del paraíso fiscal al mercado único: Andorra culmina su giro europeo en plena contestación social",
-   "link": "https://elpais.com/economia/2026-10-27/del-paraiso-fiscal-al-mercado-unico-andorra-culmina-su-giro-europeo-en-plena-contestacion-social.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FDTFESILWRAZXC2RRC7OXSAKLI.jpg?auth=47c60d51bfe48a583c1898c6849a29aa3e8f07714697ca974e5f258746a59859",
-   "date": "2026-10-27T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El nuevo impuesto a los ricos frena la mudanza de fortunas entre comunidades, pero dispara la ingeniería fiscal",
-   "link": "https://elpais.com/economia/2026-10-27/el-nuevo-impuesto-a-los-ricos-frena-la-mudanza-de-fortunas-entre-comunidades-pero-dispara-la-ingenieria-fiscal.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7BDJ536Y3JCYNIQ72LFMVEGAHU.jpg?auth=398996b0a7f417a118715a046b5b5491d583e953d0c861dc8ee93ccb7ec8c3f2",
-   "date": "2026-10-27T04:45:01+00:00"
   },
   {
    "lang": "es",
@@ -122,12 +194,12 @@
    "date": "2026-10-27T04:40:00+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Apple says it will replace iPhone Duo handsets with screen problems",
-   "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
-   "date": "2026-10-27T01:48:04+00:00"
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Anthropic pone rumbo a Bolsa: las diez claves que desvela su esperada OPV",
+   "link": "https://www.expansion.com/tecnologia/2026/10/27/anthropic-pone-rumbo-bolsa-diez-claves-desvela-esperada-opv.html",
+   "image": "",
+   "date": "2026-10-27T01:00:45+01:00"
   },
   {
    "lang": "es",
@@ -147,30 +219,6 @@
   },
   {
    "lang": "es",
-   "source": "Expansión",
-   "title": "Santander afronta más vencimientos de deuda en 2027 que BBVA, CaixaBank y Sabadell juntos",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/27/6aa7d8f8468aeb6c048b4584.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/06/11/17811767944687.jpg",
-   "date": "2026-10-27T00:12:56+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "ACS, Ferrovial y Sacyr entran en el plan privado de redes de Trump",
-   "link": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6adfd9a1e5fdea07608b4584.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17930562034745.jpg",
-   "date": "2026-10-27T00:12:06+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El Gobierno suaviza las exigencias de renovables a los centros de datos",
-   "link": "https://www.expansion.com/tecnologia/2026/10/26/gobierno-suaviza-exigencias-renovables-centros-datos.html",
-   "image": "",
-   "date": "2026-10-26T23:01:05+01:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "El Gobierno da cinco años a los centros de datos para cumplir con las exigencias más duras",
    "link": "https://elpais.com/economia/2026-10-26/el-gobierno-da-cinco-anos-a-los-centros-de-datos-para-cumplir-con-las-exigencias-mas-duras.html",
@@ -184,22 +232,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
    "date": "2026-10-26T19:57:23+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "ChatGPT recomienda a las chicas pedir menor salario que los chicos, en la misma situación",
-   "link": "https://www.naiz.eus/gaiak/noticia/20261026/chatgpt-recomienda-a-las-chicas-a-pedir-menor-salario-que-a-los-chicos-en-la-misma-situacion",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/292/news_landscape/chatgpt.jpg",
-   "date": "2026-10-26T18:10:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What is the Budget and what could be in it?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
-   "date": "2026-10-26T02:16:37+00:00"
   },
   {
    "lang": "en",
@@ -248,22 +280,6 @@
    "link": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
    "image": "",
    "date": "2026-10-19T18:36:21+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "India’s finance minister says market liquidity makes it easier for investors to exit",
-   "link": "https://www.cnbc.com/2026/10/18/india-ai-nifty50-sensex-investors.html",
-   "image": "",
-   "date": "2026-10-19T08:23:33+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-   "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-   "image": "",
-   "date": "2026-10-16T22:34:29+00:00"
   }
  ]
 }
