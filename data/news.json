@@ -1,13 +1,85 @@
 {
- "updated": "2026-10-27T14:58:44.934482+00:00",
+ "updated": "2026-10-27T19:47:52.773137+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-27T18:45:56+00:00"
+  },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El Ibex vuelve a dudar al filo de los 19.000 puntos",
+   "title": "Ferrovial se dispara un 8,4% en Bolsa tras aclarar la financiación de la I-24",
+   "link": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6ae066fc468aebae628b4576.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17930912331491.jpg",
+   "date": "2026-10-27T17:45:32+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Ibex encadena en su tercera sesión al alza a la espera de los bancos centrales",
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/27/6ae04bd2e5fdea2c718b4596.html",
    "image": "",
-   "date": "2026-10-27T14:53:59+01:00"
+   "date": "2026-10-27T17:38:40+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La sanidad de 500.000 militares queda en el aire al no presentarse Adeslas y Asisa al nuevo concierto",
+   "link": "https://elpais.com/economia/2026-10-27/la-sanidad-de-500000-militares-queda-en-el-aire-al-no-presentarse-adeslas-y-asisa-al-nuevo-concierto.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/AG3J3N27JBCNBES7ILEEU3TKXM.jpg?auth=c7256e2f685ba3c882a8c09900a26dacfde9f6603245055198eaf841427304ef",
+   "date": "2026-10-27T17:10:41+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
+   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
+   "image": "",
+   "date": "2026-10-27T16:15:35+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Fed rate hikes are coming, but not this week: CNBC survey",
+   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
+   "image": "",
+   "date": "2026-10-27T15:51:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Lakua presenta un proyecto de presupuesto que crece muy por debajo de la inflación",
+   "link": "https://www.naiz.eus/info/noticia/20261027/lakua-presenta-un-proyecto-de-presupuesto-que-crece-muy-por-debajo-de-la-inflacion",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/538/news_landscape/PRESUS_copia.jpg",
+   "date": "2026-10-27T15:42:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+   "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-27T15:01:27+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El Constitucional admite el recurso del PP contra la ley navarra que blinda las VPO de alquiler",
+   "link": "https://www.naiz.eus/info/noticia/20261027/el-constitucional-admite-el-recurso-del-pp-contra-la-ley-navarra-que-blinda-las-vpo-de-alquiler",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/531/news_landscape/Testa.jpg",
+   "date": "2026-10-27T15:01:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Abian da beste urtebetez BIME musika industriaren topagunea",
+   "link": "https://musika.naiz.eus/info_musika/20261027/abian-da-beste-urtebetez-bime-musika-industriaren-topagunea",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/533/news_landscape/ALASKA-BIME-2026.jpg",
+   "date": "2026-10-27T14:45:00+00:00"
   },
   {
    "lang": "es",
@@ -36,22 +108,6 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-   "link": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4419/live/b4233800-d211-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-27T13:18:37+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno aprueba una subvención de 201 millones a promotores privados para construir 2.500 viviendas públicas",
-   "link": "https://elpais.com/economia/vivienda/2026-10-27/el-gobierno-aprueba-una-subvencion-de-201-millones-a-promotores-privados-para-construir-2500-viviendas-publicas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/XRVBFSCWYFMLZFTFLTBCV4ERDE.jpg?auth=e3e227356a5fef3a234657a5fa9652560e9b225fc2a50a5cd582a7bd85f8422e",
-   "date": "2026-10-27T13:11:48+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
@@ -74,14 +130,6 @@
    "date": "2026-10-27T13:03:22+01:00"
   },
   {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-   "image": "",
-   "date": "2026-10-27T12:50:13+00:00"
-  },
-  {
    "lang": "es",
    "source": "El País",
    "title": "Uber Eats acuerda con los sindicatos renunciar a sus repartidores autónomos y completa la laboralización del sector",
@@ -91,43 +139,11 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "Los Veintisiete acuerdan las bases de su Política Agrícola, con la financiación por definir",
-   "link": "https://www.naiz.eus/info/noticia/20261027/los-veintisiete-acuerdan-las-bases-de-su-politica-agricola-con-la-financiacion-por-definir",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/500/news_landscape/COSECHADORA.jpg",
-   "date": "2026-10-27T11:43:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
    "title": "El Gobierno abre una excepción al decreto de centros de datos para excluir de sus exigencias la gigafactoría catalana de IA",
    "link": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/27/6ae0775de5fdea0f238b4591.html",
    "image": "",
    "date": "2026-10-27T11:41:47+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Fed rate hikes are coming, but not this week: CNBC survey",
-   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
-   "image": "",
-   "date": "2026-10-27T11:10:01+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What is the Budget and what could be in it?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e2e/live/b81a2280-b8e8-11f1-ba42-19e1456ae537.jpg",
-   "date": "2026-10-27T11:06:53+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Se suspende la huelga de Moeve en Gipuzkoa por una «traición» de CCOO",
-   "link": "https://www.naiz.eus/info/noticia/20261027/se-suspende-la-huelga-de-moeve-en-gipuzkoa-por-una-traicion-de-ccoo",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/483/news_landscape/moeve_greba.jpg",
-   "date": "2026-10-27T10:36:00+00:00"
   },
   {
    "lang": "en",
@@ -192,14 +208,6 @@
    "link": "https://cincodias.elpais.com/opinion/2026-10-27/moeve-galp-un-fracaso-que-afecta-al-consumidor.html",
    "image": "https://imagenes.elpais.com/resizer/v2/H6YKOJKIZ5K6NBX5E2FEANK6SM.jpg?auth=97ff641d9d98d21df260794fbed2261c3892153b8bb2a27943d75ae8bd79be05",
    "date": "2026-10-27T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Anthropic pone rumbo a Bolsa: las diez claves que desvela su esperada OPV",
-   "link": "https://www.expansion.com/tecnologia/2026/10/27/anthropic-pone-rumbo-bolsa-diez-claves-desvela-esperada-opv.html",
-   "image": "",
-   "date": "2026-10-27T01:00:45+01:00"
   },
   {
    "lang": "es",
