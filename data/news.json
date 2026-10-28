@@ -1,29 +1,125 @@
 {
- "updated": "2026-10-28T17:29:26.892649+00:00",
+ "updated": "2026-10-28T21:56:37.351043+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Alphabet se deja un 9% en Bolsa tras reportar una caída de 'cash flow' mayor de la prevista",
+   "link": "https://www.expansion.com/tecnologia/2026/10/28/alphabet-cae-9-bolsa-reportar-caida-cash-flow-mayor-prevista.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932229041388.jpg",
+   "date": "2026-10-28T22:28:36+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Microsoft eleva su beneficio un 32% gracias al crecimiento en la nube",
+   "link": "https://www.expansion.com/tecnologia/2026/10/28/microsoft-eleva-beneficio-32-gracias-crecimiento-nube.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932200546538.jpg",
+   "date": "2026-10-28T21:41:05+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
+   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
+   "image": "",
+   "date": "2026-10-28T21:31:46+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Bessent says 'not necessarily' a mistake if the Fed hikes again",
+   "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
+   "image": "",
+   "date": "2026-10-28T21:06:37+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Microsoft dispara su beneficio un 32% apoyada en la buena marcha de su negocio relacionado con la IA",
+   "link": "https://elpais.com/economia/2026-10-28/microsoft-dispara-su-beneficio-un-32-apoyada-en-la-buena-marcha-de-su-negocio-relacionado-con-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ZTEC5BIFQVPL7LY4P4JG4XI7L4.jpg?auth=e186a26defcea966b2dfc404cebf911b19fefb53a14d1bef0f7a2894504b81da",
+   "date": "2026-10-28T20:52:18+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What we now know about the UK economy in four charts",
+   "link": "https://www.bbc.co.uk/news/articles/c9x28350ly07o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/302d/live/da4a7910-d2ea-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T20:08:45+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What the Budget offers for under 25s - and what it leaves out",
+   "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-28T20:02:38+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+   "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
+   "date": "2026-10-28T19:51:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+   "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
+   "date": "2026-10-28T19:15:58+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La Fed mantiene los tipos en el 4% a las puertas de las elecciones 'midterm'",
+   "link": "https://www.expansion.com/mercados/2026/10/28/fed-mantiene-tipos-4-puertas-elecciones-midterm.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932106160467.jpg",
+   "date": "2026-10-28T19:04:20+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Renfe paraliza la venta de billetes entre Madrid y Andalucía hasta el 13 de diciembre",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/28/renfe-paraliza-venta-billetes-madrid-andalucia-13-diciembre.html",
+   "image": "",
+   "date": "2026-10-28T18:47:12+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-10-28T18:45:09+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-10-28T18:12:24+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "Will I get the £100 energy payment and when will I receive it?",
    "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T17:22:00+00:00"
+   "date": "2026-10-28T17:47:37+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Budget 2026: Key points at a glance",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T16:55:27+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "The one thing that didn't change that will affect your pay the most",
-   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T16:55:03+00:00"
+   "lang": "es",
+   "source": "Naiz",
+   "title": "EHU celebra el avance en su financiación, pero precisa que «todavía queda camino»",
+   "link": "https://www.naiz.eus/info/noticia/20261028/ehu-celebra-el-avance-en-financiacion-universitaria-pero-precisa-que-todavia-queda-camino",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/984/news_landscape/bengoetxea.jpg",
+   "date": "2026-10-28T16:57:00+00:00"
   },
   {
    "lang": "en",
@@ -42,14 +138,6 @@
    "date": "2026-10-28T16:34:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Bruselas busca aumentar la capacidad de las refinerías europeas para frenar los precios de los combustibles",
-   "link": "https://elpais.com/economia/2026-10-28/bruselas-busca-aumentar-la-capacidad-de-las-refinerias-europeas-para-frenar-los-precios-de-los-combustibles.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/N7EMBXFP7NKUVL4WEBBZIA3VCU.jpg?auth=fbd2609a307ad903797125172adc09c6931fd387f889c2f946dcb84b97818d98",
-   "date": "2026-10-28T16:11:21+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
@@ -66,17 +154,9 @@
    "date": "2026-10-28T15:19:00+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "How much is the minimum wage going up by?",
-   "link": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2639/live/ce1249e0-a9c2-11f0-8da2-811fba9518ff.jpg",
-   "date": "2026-10-28T14:53:29+00:00"
-  },
-  {
    "lang": "es",
    "source": "Expansión",
-   "title": "Santander estudiará ya el próximo año el reparto de su exceso de capital",
+   "title": "Santander prevé un beneficio récord de 15.000 millones",
    "link": "https://www.expansion.com/empresas/2026/10/28/santander-estudiara-proximo-ano-reparto-exceso-capital.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931946440322.jpg",
    "date": "2026-10-28T14:37:33+01:00"
@@ -86,7 +166,7 @@
    "source": "Expansión",
    "title": "Puente: \"El centro de control dio una orden errónea de marcha con normalidad al AVE que chocó con el Iryo\"",
    "link": "https://www.expansion.com/sociedad/2026/10/28/gobierno-apunta-fallo-centro-control-autorizo-marcha-normativa.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931972515732.jpg",
+   "image": "",
    "date": "2026-10-28T14:31:07+01:00"
   },
   {
@@ -115,22 +195,6 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "Gasteiz alquilará a jóvenes viviendas de Alde Zaharra por precios que van de 200 a 550 euros",
-   "link": "https://www.naiz.eus/info/noticia/20261028/gasteiz-alquilara-a-jovenes-viviendas-de-alde-zaharra-por-precios-que-van-de-200-a-550-euros",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/950/news_landscape/Gasteiz.jpg",
-   "date": "2026-10-28T13:27:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Errenteria cede una parcela al Gobierno de Lakua para que construya 45 VPO de alquiler",
-   "link": "https://www.naiz.eus/info/noticia/20261028/errenteria-cede-una-parcela-al-gobierno-de-lakua-para-que-construya-45-vpo-de-alquiler",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/945/news_landscape/20261028_Altzateko_partzelaren_lagapena_t.jpg",
-   "date": "2026-10-28T13:03:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
    "title": "La exministra Fátima Báñez iba en uno de los trenes siniestrados en Toledo y todavía no ha sido localizada",
    "link": "https://www.expansion.com/economia/politica/2026/10/28/exministra-fatima-banez-iba-trenes-siniestrados-toledo-todavia-sido-localizada.html",
@@ -139,35 +203,11 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "El Gobierno navarro se personará ante el TC para defender la ley que blinda las VPO de alquiler",
-   "link": "https://www.naiz.eus/info/noticia/20261028/el-gobierno-navarro-se-personara-ante-el-tc-para-defender-la-ley-que-blinda-las-vpo-de-alquiler",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/931/news_landscape/testa.jpg",
-   "date": "2026-10-28T12:26:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Así ha sido el accidente de tren de Urda",
-   "link": "https://www.expansion.com/sociedad/2026/10/28/asi-sido-accidente-tren-urda-toledo.html",
-   "image": "",
-   "date": "2026-10-28T12:01:06+01:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
-   "title": "Inquietud por la exministra Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
+   "title": "Desolación en el PP y en CEOE por Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
    "link": "https://elpais.com/economia/2026-10-28/inquietud-por-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-accidentados-en-toledo.html",
    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231034_131141_video_1800.mp4",
    "date": "2026-10-28T11:47:59+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "You may get the right to find out what your colleagues earn - here's why",
-   "link": "https://www.bbc.co.uk/news/articles/cmq8nwvj92jdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f46a/live/ff9b0180-d2b8-11f1-8cf0-c5d120932f9f.jpg",
-   "date": "2026-10-28T10:42:39+00:00"
   },
   {
    "lang": "es",
@@ -176,14 +216,6 @@
    "link": "https://www.expansion.com/sociedad/2026/10/28/adif-suspende-circulacion-linea-alta-velocidad-madrid-andalucia-alcance-dos-trenes.html",
    "image": "",
    "date": "2026-10-28T09:34:29+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El Ibex se desmarca de Europa y pierde los 18.900 puntos, penalizado por los resultados",
-   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/28/ibex-digiere-primera-oleada-resultados.html",
-   "image": "",
-   "date": "2026-10-28T08:03:33+01:00"
   },
   {
    "lang": "es",
@@ -218,30 +250,6 @@
    "date": "2026-10-28T04:40:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Último día para cobrar los dividendos de Inditex y Santander",
-   "link": "https://www.expansion.com/inversion/2026/10/28/6ae0d5d9468aeb7c388b4592.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931411125869.jpg",
-   "date": "2026-10-28T00:47:38+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'An annoying buzz': The search for stealthier drones",
-   "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
-   "date": "2026-10-28T00:01:10+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Los siete fundadores de Anthropic refuerzan su control ante la multimillonaria salida a Bolsa",
-   "link": "https://www.expansion.com/economia/financial-times/2026/10/28/siete-fundadores-anthropic-refuerzan-control-cara-multimillonaria-salida-bolsa.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931902910915.jpg",
-   "date": "2026-10-27T19:01:24+01:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
@@ -256,14 +264,6 @@
    "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
    "image": "",
    "date": "2026-10-27T15:51:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Donald Trump's biggest economic problem looks strangely familiar",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8781/live/0baf72c0-cc7a-11f1-a64c-550be9e3c66b.png",
-   "date": "2026-10-27T06:01:11+00:00"
   },
   {
    "lang": "en",
@@ -284,26 +284,10 @@
   {
    "lang": "en",
    "source": "CNBC Economy",
-   "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
-   "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
-   "image": "",
-   "date": "2026-10-21T11:20:58+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
    "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
    "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
    "image": "",
    "date": "2026-10-21T07:50:10+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Car buyers are demanding lower prices and better tech. Automakers must deliver both",
-   "link": "https://www.cnbc.com/2026/10/20/car-buyers-china-tech-price-europe.html",
-   "image": "",
-   "date": "2026-10-21T01:01:01+00:00"
   }
  ]
 }
