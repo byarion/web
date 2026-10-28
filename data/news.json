@@ -1,37 +1,101 @@
 {
- "updated": "2026-10-27T19:47:52.773137+00:00",
+ "updated": "2026-10-28T00:07:18.998007+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Último día para cobrar los dividendos de Inditex y Santander",
+   "link": "https://www.expansion.com/inversion/2026/10/28/6ae0d5d9468aeb7c388b4592.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931411125869.jpg",
+   "date": "2026-10-28T00:47:38+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Santander lanza 'Project Unity' para lograr beneficios extra en EEUU",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/28/6acf5fee468aebbb428b4579.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/14/17919752828697.jpg",
+   "date": "2026-10-28T00:47:36+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Monzo ofrece un 4% por el ahorro para competir con la banca tradicional",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/28/6ae0ef29468aeb48358b4597.html",
+   "image": "",
+   "date": "2026-10-28T00:47:35+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Markus Haupt (Anfac y Seat-Cupra): \"El automóvil europeo no ha tirado la toalla y está en una contraofensiva\"",
+   "link": "https://www.expansion.com/empresas/motor/2026/10/28/6ae105a5468aeb501d8b458e.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17931335631872.jpg",
+   "date": "2026-10-28T00:47:34+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Impuestos: el peaje invisible que frena la construcción de vivienda",
+   "link": "https://www.expansion.com/fiscal/2026/10/28/impuestos-peaje-invisible-frena-construccion-vivienda.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931421956129.jpg",
+   "date": "2026-10-28T00:03:24+01:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-   "link": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8c/live/b075b800-d21f-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-27T18:45:56+00:00"
+   "title": "I get £4,062 a year and am trying my best - here's what I want from the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1484/live/60f61940-d225-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-28T00:03:05+00:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Ferrovial se dispara un 8,4% en Bolsa tras aclarar la financiación de la I-24",
-   "link": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6ae066fc468aebae628b4576.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17930912331491.jpg",
-   "date": "2026-10-27T17:45:32+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El Ibex encadena en su tercera sesión al alza a la espera de los bancos centrales",
-   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/27/6ae04bd2e5fdea2c718b4596.html",
+   "title": "Los nuevos jubilados cobran 1.863 euros, más que la mitad de los asalariados",
+   "link": "https://www.expansion.com/economia/2026/10/28/nuevos-jubilados-cobran-1-863-euros-mitad-asalariados.html",
    "image": "",
-   "date": "2026-10-27T17:38:40+01:00"
+   "date": "2026-10-28T00:01:17+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'An annoying buzz': The search for stealthier drones",
+   "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a5b2/live/ad407780-c7b4-11f1-a64c-550be9e3c66b.jpg",
+   "date": "2026-10-28T00:01:10+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El absentismo desbocado amenaza la supervivencia de pymes y autónomos",
+   "link": "https://www.expansion.com/economia/2026/10/28/absentismo-desbocado-amenaza-supervivencia-pymes-autonomos.html",
+   "image": "",
+   "date": "2026-10-28T00:00:55+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "China's families are now supporting more old people than kids",
+   "link": "https://www.bbc.co.uk/news/articles/cr20wzwyzl1qo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39b9/live/b1569840-d105-11f1-8441-f1b8954c52d9.jpg",
+   "date": "2026-10-27T23:16:08+00:00"
   },
   {
    "lang": "es",
    "source": "El País",
-   "title": "La sanidad de 500.000 militares queda en el aire al no presentarse Adeslas y Asisa al nuevo concierto",
-   "link": "https://elpais.com/economia/2026-10-27/la-sanidad-de-500000-militares-queda-en-el-aire-al-no-presentarse-adeslas-y-asisa-al-nuevo-concierto.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/AG3J3N27JBCNBES7ILEEU3TKXM.jpg?auth=c7256e2f685ba3c882a8c09900a26dacfde9f6603245055198eaf841427304ef",
-   "date": "2026-10-27T17:10:41+00:00"
+   "title": "Ferrovial crece un 7,1% en ventas y gana rentabilidad con el tirón de las autopistas en Estados Unidos",
+   "link": "https://cincodias.elpais.com/companias/2026-10-27/ferrovial-crece-un-71-en-ventas-y-gana-rentabilidad-con-el-tiron-de-las-autopistas-en-estados-unidos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BCLRD5VMENGKZGBFXQUYK3N4LQ.jpg?auth=fe34caed72dc8c72b60f17a88373268b5380771be7d174eda966b10a3e2104da",
+   "date": "2026-10-27T21:13:14+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Landline switchover could cut people off in emergency, minister warned",
+   "link": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cce/live/f32ec320-d22f-11f1-a1ed-ffd83ae54f7c.jpg",
+   "date": "2026-10-27T20:54:48+00:00"
   },
   {
    "lang": "en",
@@ -83,14 +147,6 @@
   },
   {
    "lang": "es",
-   "source": "Expansión",
-   "title": "Advent ataca España con 27.000 millones en dos nuevos fondos de capital riesgo",
-   "link": "https://www.expansion.com/empresas/2026/10/27/6ae09eae468aeb99348b457f.html",
-   "image": "",
-   "date": "2026-10-27T13:56:12+01:00"
-  },
-  {
-   "lang": "es",
    "source": "Naiz",
    "title": "‘eh! txe txe!’, Feministaldia vuelve y pone la crisis de la vivienda en el centro",
    "link": "https://www.naiz.eus/info/noticia/20261027/eh-txe-txe-feministaldia-vuelve-y-pone-la-crisis-de-la-vivienda-en-el-centro",
@@ -106,28 +162,12 @@
    "date": "2026-10-27T13:25:54+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "I'm a single mum on £41,000 and limit my weekly shop to £40 - it's hard",
-   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2823/live/2221ede0-d16f-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-27T13:08:26+00:00"
-  },
-  {
    "lang": "es",
    "source": "Expansión",
-   "title": "Renfe encarga a Siemens su nueva generación de AVE por 1.800 millones",
-   "link": "https://www.expansion.com/empresas/transporte/2026/10/27/6ae07b6b468aeb55058b4574.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/27/17930964482123.jpg",
-   "date": "2026-10-27T13:04:57+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Los empresarios piden recuperar el despido por bajas reiteradas ante la escalada del absentismo laboral",
-   "link": "https://www.expansion.com/economia/2026/10/27/empresarios-piden-recuperar-despido-bajas-reiteradas-escalada-absentismo-laboral.html",
+   "title": "Cuándo es mejor jubilarse: ¿a finales de 2026 o principios de 2027?",
+   "link": "https://www.expansion.com/economia/2026/10/27/mejor-jubilarse-finales-2026-principios-2027.html",
    "image": "",
-   "date": "2026-10-27T13:03:22+01:00"
+   "date": "2026-10-27T12:13:50+01:00"
   },
   {
    "lang": "es",
@@ -136,22 +176,6 @@
    "link": "https://elpais.com/economia/2026-10-27/uber-eats-acuerda-con-los-sindicatos-renunciar-a-sus-repartidores-autonomos-y-completa-la-laboralizacion-del-sector.html",
    "image": "https://imagenes.elpais.com/resizer/v2/IUGPGKVMC5D4JBDVOA33QFPTDQ.jpg?auth=1fd1d833034761c6dccc8695992e4289254e53ad2cbc48120704bf1708546225",
    "date": "2026-10-27T12:08:57+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El Gobierno abre una excepción al decreto de centros de datos para excluir de sus exigencias la gigafactoría catalana de IA",
-   "link": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/27/6ae0775de5fdea0f238b4591.html",
-   "image": "",
-   "date": "2026-10-27T11:41:47+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Apple to replace iPhone Duos affected by screen problem",
-   "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/896f/live/1944e2f0-d1a5-11f1-a611-7ff246f4f9f3.jpg",
-   "date": "2026-10-27T09:37:55+00:00"
   },
   {
    "lang": "es",
@@ -211,35 +235,11 @@
   },
   {
    "lang": "es",
-   "source": "Expansión",
-   "title": "Bank of America: \"La Bolsa europea caerá sobre un 10% y la española un 5% adicional\"",
-   "link": "https://www.expansion.com/mercados/2026/10/27/6adb494fe5fdead25c8b45ac.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/23/17927557993480.png",
-   "date": "2026-10-27T00:47:42+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Goldman Sachs da la bendición de Wall Street a un Gobierno de PP y Vox",
-   "link": "https://www.expansion.com/mercados/2026/10/27/6adf7e7de5fdea1b788b457b.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/26/17930261422504.jpg",
-   "date": "2026-10-27T00:19:42+01:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "El Gobierno da cinco años a los centros de datos para cumplir con las exigencias más duras",
    "link": "https://elpais.com/economia/2026-10-26/el-gobierno-da-cinco-anos-a-los-centros-de-datos-para-cumplir-con-las-exigencias-mas-duras.html",
    "image": "https://imagenes.elpais.com/resizer/v2/PBZMTLWGURBPDPKECEDTA4EOYY.jpg?auth=4f8031fe04aeaf718a081675b0a0a0475c6402b4cbdb3d425d8662fd42fde4b9",
    "date": "2026-10-26T22:00:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-   "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e6a4/live/4c5ea950-d15a-11f1-9f24-99bf1cc18b1d.jpg",
-   "date": "2026-10-26T19:57:23+00:00"
   },
   {
    "lang": "en",
