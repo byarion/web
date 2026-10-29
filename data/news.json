@@ -1,29 +1,13 @@
 {
- "updated": "2026-10-29T11:51:42.768950+00:00",
+ "updated": "2026-10-29T17:40:35.781875+00:00",
  "items": [
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El director del CEU de Sanchinarro, entre los desaparecidos en el accidente de los trenes",
-   "link": "https://www.expansion.com/sociedad/2026/10/29/director-ceu-sanchinarro-desaparecidos-accidente-trenes.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932713668052.jpg",
-   "date": "2026-10-29T11:56:14+01:00"
-  },
   {
    "lang": "en",
    "source": "CNBC Economy",
-   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
-   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "title": "Analysis: Kevin Warsh is keeping Wall Street guessing. It may be his most powerful tool",
+   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
    "image": "",
-   "date": "2026-10-29T11:50:16+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La SEPI contacta con los tres inversores que han presentado un proyecto industrial para Tubos",
-   "link": "https://www.naiz.eus/info/noticia/20261029/la-sepi-contacta-con-los-tres-inversores-que-han-presentado-un-proyecto-industrial-para-tubos",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/275/news_landscape/etx_260505_088507.jpg",
-   "date": "2026-10-29T11:34:00+00:00"
+   "date": "2026-10-29T17:32:34+00:00"
   },
   {
    "lang": "en",
@@ -31,71 +15,159 @@
    "title": "Poundland's future hangs in the balance as chain edges towards collapse",
    "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-   "date": "2026-10-29T11:19:10+00:00"
+   "date": "2026-10-29T17:01:12+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: This Budget was micro and that was deliberate",
+   "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
+   "date": "2026-10-29T15:48:44+00:00"
   },
   {
    "lang": "es",
    "source": "Naiz",
-   "title": "Lakua revisará los usos de las 510 viviendas de Benta Berri y los ingresos de sus inquilinos",
-   "link": "https://www.naiz.eus/info/noticia/20261029/lakua-revisara-los-usos-de-las-510-viviendas-de-benta-berri-y-los-ingresos-de-sus-inquilinos",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/273/news_landscape/benta_berri.jpg",
-   "date": "2026-10-29T11:09:00+00:00"
+   "title": "Bilbo cambiará el PGOU para facilitar la conversión de locales de entre 35 y 45 m² en viviendas",
+   "link": "https://www.naiz.eus/info/noticia/20261029/bilbo-cambiara-el-pgou-para-facilitar-la-conversion-de-locales-de-entre-35-y-45-m-en-viviendas",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/376/news_landscape/local.jpg",
+   "date": "2026-10-29T15:38:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Bereaved families will not face tax bill over pension delays under new rules",
+   "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97f/live/92781b20-d3a7-11f1-a5cd-49637fcbd4e4.jpg",
+   "date": "2026-10-29T15:18:04+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "DoorDash to buy Instacart in $17bn deal it says will expand customer options",
+   "link": "https://www.bbc.co.uk/news/articles/cm79pjg2l57yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde4/live/a139f9d0-d3a2-11f1-a5cd-49637fcbd4e4.jpg",
+   "date": "2026-10-29T15:05:15+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "The politics of President Lagarde's European Central Bank early exit — and who could replace her",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "image": "",
+   "date": "2026-10-29T14:53:06+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "European Central Bank keeps key interest rate on hold at 2.5%",
+   "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
+   "image": "",
+   "date": "2026-10-29T14:48:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Adiós a Fátima Báñez, la ministra que sentó las bases de la recuperación del empleo tras la Gran Crisis",
+   "link": "https://www.expansion.com/economia/2026/10/29/adios-fatima-banez-ministra-sento-bases-recuperacion-empleo-gran-crisis.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932810263787.jpg",
+   "date": "2026-10-29T14:37:18+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La Diputación aprueba el plan financiero de 788,5 millones para modernizar Metro Bilbao",
+   "link": "https://www.naiz.eus/info/noticia/20261029/la-diputacion-aprueba-el-plan-financiero-de-788-5-millones-para-modernizar-metro-bilbao",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/357/news_landscape/metro_bilbao.jpg",
+   "date": "2026-10-29T14:25:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Botín compra acciones de Santander por 3,1 millones de euros",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/29/botin-compra-acciones-santander-3-1-millones-euros.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932799991740.jpg",
+   "date": "2026-10-29T14:20:07+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El BCE anticipa un alza de tipos en diciembre tras mantenerlos sin cambios hoy en el 2,5%",
+   "link": "https://www.expansion.com/mercados/2026/10/29/bce-deja-tipos-2-5-presion-mercado-deuda.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932798852371.gif",
+   "date": "2026-10-29T14:17:14+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Third-quarter U.S. GDP increases a better-than-expected 3.4% as September inflation accelerates",
+   "link": "https://www.cnbc.com/2026/10/29/pce-inflation-report-september-2026-.html",
+   "image": "",
+   "date": "2026-10-29T14:11:31+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Etxebizitza Sindikatu Sozialista denuncia un desahucio en Donostia el día de la huelga general",
+   "link": "https://www.naiz.eus/info/noticia/20261029/etxebizitza-sindikatu-sozialista-denuncia-un-desahucio-en-donostia-el-dia-de-la-huelga-general",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/351/news_landscape/etxegabetzeadonostia.jpg",
+   "date": "2026-10-29T13:58:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+   "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45cd/live/c93e7220-d385-11f1-b5f4-fd541fd21001.jpg",
+   "date": "2026-10-29T13:19:24+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Muere la exministra Fátima Báñez, que viajaba en uno de los trenes siniestrados en Urda",
+   "link": "https://elpais.com/economia/2026-10-29/muere-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-siniestrados.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261029/1231505_125904_video_1800.mp4",
+   "date": "2026-10-29T12:44:25+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El director del CEU de Sanchinarro, entre los desaparecidos en el accidente de los trenes",
+   "link": "https://www.expansion.com/sociedad/2026/10/29/director-ceu-sanchinarro-desaparecidos-accidente-trenes.html",
+   "image": "",
+   "date": "2026-10-29T11:56:14+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
+   "date": "2026-10-29T11:52:55+00:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
    "title": "Lagarde anuncia que deja la presidencia del BCE el 7 de febrero",
    "link": "https://www.expansion.com/mercados/2026/10/29/lagarde-anuncia-deja-presidencia-bce-7-febrero.html",
-   "image": "",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932683863964.jpg",
    "date": "2026-10-29T11:06:33+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Cronología completa: así se produjo el accidente de tren de Urda",
-   "link": "https://www.expansion.com/sociedad/2026/10/29/cronologia-completa-asi-produjo-accidente-tren-urda.html",
-   "image": "",
-   "date": "2026-10-29T10:33:00+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La Comisión de Investigación de Accidentes Ferroviarios pidió en 2024 medidas para “mitigar” fallos humanos tras un incidente similar al de Urda",
-   "link": "https://elpais.com/economia/2026-10-29/la-comision-de-investigacion-de-accidentes-ferroviarios-pidio-en-2024-medidas-para-mitigar-fallos-humanos-tras-un-incidente-similar-al-de-urda.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231252_204011_video_1800.mp4",
-   "date": "2026-10-29T09:57:15+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
    "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e19a/live/79bf7e60-d385-11f1-93e1-3b657b665bcf.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40b7/live/70bc5130-cc91-11f1-94e6-edd4c60b2e1d.jpg",
    "date": "2026-10-29T09:30:03+00:00"
   },
   {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
-   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
-   "image": "",
-   "date": "2026-10-29T09:00:01+00:00"
-  },
-  {
    "lang": "es",
    "source": "Expansión",
-   "title": "El Ibex vuelve a pinchar con sus resultados",
+   "title": "El Ibex, otra vez a la cola de Europa, lastrado por los bancos",
    "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/29/ibex-desbordado-referencias.html",
    "image": "",
    "date": "2026-10-29T07:53:45+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "BBVA gana 9.066 millones, un 13,6% más, con una rentabilidad del 22%",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/29/bbva-gana-9-066-millones-13-6-rentabilidad-22.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932552270282.jpg",
-   "date": "2026-10-29T07:27:17+01:00"
   },
   {
    "lang": "es",
@@ -142,7 +214,7 @@
    "source": "El País",
    "title": "“Podríamos y deberíamos hacer más”: los expertos piden invertir en el mantenimiento de la alta velocidad",
    "link": "https://elpais.com/economia/2026-10-29/podriamos-y-deberiamos-hacer-mas-los-expertos-piden-invertir-en-el-mantenimiento-de-la-alta-velocidad.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QMCGNU6VY5J3PG62LTKTZRD5BI.jpg?auth=ff9e925d4edc7ac2393be0b9f2f40b64b6208ceb859e42c5ca0e674c4649f835",
+   "image": "https://imagenes.elpais.com/resizer/v2/AWC4634AL5GSXAUKEQJHMXH5ZU.JPG?auth=fbfa0edec0ab0487d20d0159c2e50bc1150bfda708ea17316fb822ada591991e",
    "date": "2026-10-29T04:35:00+00:00"
   },
   {
@@ -158,16 +230,8 @@
    "source": "Expansión",
    "title": "¿Habrá descalabro de la Bolsa si los demócratas barren a Trump?",
    "link": "https://www.expansion.com/mercados/el-foco-del-dia/2026/10/29/habra-descalabro-bolsa-democratas-barren-trump.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932341557589.png",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932789471973.jpg",
    "date": "2026-10-29T01:36:27+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "ING lanza su banca privada con 6.000 clientes de altos patrimonios",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/29/ing-lanza-banca-privada-6-000-clientes-altos-patrimonios.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932308936893.jpg",
-   "date": "2026-10-29T00:41:51+01:00"
   },
   {
    "lang": "es",
@@ -176,14 +240,6 @@
    "link": "https://www.expansion.com/empresas/transporte/2026/10/29/lzb-siemens-sistema-senalizacion-viejo-prueba-bombas.html",
    "image": "",
    "date": "2026-10-29T00:41:02+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
-   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
-   "date": "2026-10-29T00:00:25+00:00"
   },
   {
    "lang": "en",
@@ -211,38 +267,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "What the Budget offers for under 25s - and what it leaves out",
-   "link": "https://www.bbc.co.uk/news/articles/c60e05yn3w9zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f96e/live/0a45b830-d2de-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-28T20:02:38+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
-   "link": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/426f/live/d5d2d7e0-d21f-11f1-b8e4-17c9744a7f8e.jpg",
-   "date": "2026-10-28T19:51:01+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
-   "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-10-28T18:45:09+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Your pay, energy bills and savings: How the Budget affects you",
-   "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-28T16:43:35+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
@@ -256,22 +280,6 @@
    "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
    "image": "",
    "date": "2026-10-27T16:15:35+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Fed rate hikes are coming, but not this week: CNBC survey",
-   "link": "https://www.cnbc.com/2026/10/27/federal-reserve-rate-hike-timing-expectations.html",
-   "image": "",
-   "date": "2026-10-27T15:51:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
-   "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
-   "image": "",
-   "date": "2026-10-22T16:40:09+00:00"
   }
  ]
 }
