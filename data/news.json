@@ -1,29 +1,165 @@
 {
- "updated": "2026-10-29T03:05:37.153847+00:00",
+ "updated": "2026-10-29T11:51:42.768950+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Crédit Agricole se muda a un edificio de Merlin junto a la Puerta de Alcalá",
-   "link": "https://www.expansion.com/inmobiliario/2026/10/29/credit-agricole-muda-edificio-merlin-puerta-alcala.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932343345510.jpg",
-   "date": "2026-10-29T01:39:02+01:00"
+   "title": "El director del CEU de Sanchinarro, entre los desaparecidos en el accidente de los trenes",
+   "link": "https://www.expansion.com/sociedad/2026/10/29/director-ceu-sanchinarro-desaparecidos-accidente-trenes.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932713668052.jpg",
+   "date": "2026-10-29T11:56:14+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "President of the European Central Bank Christine Lagarde to step down. Here's who is tipped to replace her",
+   "link": "https://www.cnbc.com/2026/10/29/lagarde-ecb-stand-down.html",
+   "image": "",
+   "date": "2026-10-29T11:50:16+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La SEPI contacta con los tres inversores que han presentado un proyecto industrial para Tubos",
+   "link": "https://www.naiz.eus/info/noticia/20261029/la-sepi-contacta-con-los-tres-inversores-que-han-presentado-un-proyecto-industrial-para-tubos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/275/news_landscape/etx_260505_088507.jpg",
+   "date": "2026-10-29T11:34:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Poundland's future hangs in the balance as chain edges towards collapse",
+   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
+   "date": "2026-10-29T11:19:10+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Lakua revisará los usos de las 510 viviendas de Benta Berri y los ingresos de sus inquilinos",
+   "link": "https://www.naiz.eus/info/noticia/20261029/lakua-revisara-los-usos-de-las-510-viviendas-de-benta-berri-y-los-ingresos-de-sus-inquilinos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/273/news_landscape/benta_berri.jpg",
+   "date": "2026-10-29T11:09:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Lagarde anuncia que deja la presidencia del BCE el 7 de febrero",
+   "link": "https://www.expansion.com/mercados/2026/10/29/lagarde-anuncia-deja-presidencia-bce-7-febrero.html",
+   "image": "",
+   "date": "2026-10-29T11:06:33+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Cronología completa: así se produjo el accidente de tren de Urda",
+   "link": "https://www.expansion.com/sociedad/2026/10/29/cronologia-completa-asi-produjo-accidente-tren-urda.html",
+   "image": "",
+   "date": "2026-10-29T10:33:00+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La Comisión de Investigación de Accidentes Ferroviarios pidió en 2024 medidas para “mitigar” fallos humanos tras un incidente similar al de Urda",
+   "link": "https://elpais.com/economia/2026-10-29/la-comision-de-investigacion-de-accidentes-ferroviarios-pidio-en-2024-medidas-para-mitigar-fallos-humanos-tras-un-incidente-similar-al-de-urda.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231252_204011_video_1800.mp4",
+   "date": "2026-10-29T09:57:15+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e19a/live/79bf7e60-d385-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-29T09:30:03+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+   "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
+   "image": "",
+   "date": "2026-10-29T09:00:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Ibex vuelve a pinchar con sus resultados",
+   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/29/ibex-desbordado-referencias.html",
+   "image": "",
+   "date": "2026-10-29T07:53:45+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "BBVA gana 9.066 millones, un 13,6% más, con una rentabilidad del 22%",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/29/bbva-gana-9-066-millones-13-6-rentabilidad-22.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932552270282.jpg",
+   "date": "2026-10-29T07:27:17+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Maquinistas y ferroviarios se quejan de ser señalados: “Un error humano se produce cuando no tienes lo necesario para trabajar”",
+   "link": "https://elpais.com/economia/2026-10-29/maquinistas-y-ferroviarios-se-quejan-de-ser-senalados-un-error-humano-se-produce-cuando-no-tienes-lo-necesario-para-trabajar.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231080_144853_video_1800.mp4",
+   "date": "2026-10-29T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Un programa electoral en una servilleta de papel",
+   "link": "https://cincodias.elpais.com/economia/2026-10-29/un-programa-electoral-en-una-servilleta-de-papel.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/CYYHCZVBJVF6RCMUJ2JLNO5C44.jpg?auth=c2865206808e70926a4582c78b74a5b0db3b1c3c45bd0f8dfce644349d85a4c9",
+   "date": "2026-10-29T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: un siglo después, el precio de la vivienda vuelve a provocar una huelga",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-29/las-claves-un-siglo-despues-el-precio-de-la-vivienda-vuelve-a-provocar-una-huelga.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/D4TOY2RG6NPXTNDNVBJ3A6LDXE.jpg?auth=eb323c21dad9efa5d29e7ec518c62631775af48398fad61b298a32fcd8aa7f9c",
+   "date": "2026-10-29T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La sanidad debe integrar eficiencia, equidad y valor real",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-29/la-sanidad-debe-integrar-eficiencia-equidad-y-valor-real.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/76O4LW2MTZDWNLX7AY3WFMFGPY.jpg?auth=b2d5ed06c8963430506d061b2e971f0ea847a53fd80f2206baca5d21f53af275",
+   "date": "2026-10-29T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "España necesita Presupuestos, no más impuestos",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-29/espana-necesita-presupuestos-no-mas-impuestos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/FFSMZ6CGMJCLTC42NE3R5E3D54.jpg?auth=d5fe9bd9e9a87b1df414e996c46e54c061911bfe05b3853a119ab1a32d89b759",
+   "date": "2026-10-29T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "“Podríamos y deberíamos hacer más”: los expertos piden invertir en el mantenimiento de la alta velocidad",
+   "link": "https://elpais.com/economia/2026-10-29/podriamos-y-deberiamos-hacer-mas-los-expertos-piden-invertir-en-el-mantenimiento-de-la-alta-velocidad.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QMCGNU6VY5J3PG62LTKTZRD5BI.jpg?auth=ff9e925d4edc7ac2393be0b9f2f40b64b6208ceb859e42c5ca0e674c4649f835",
+   "date": "2026-10-29T04:35:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El corredor Madrid-Sevilla de alta velocidad ha doblado su volumen de tráfico desde su liberalización en 2023",
+   "link": "https://elpais.com/economia/2026-10-29/el-corredor-madrid-sevilla-de-alta-velocidad-ha-doblado-su-volumen-de-trafico-desde-su-liberalizacion-en-2023.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/OYORSTZ62VJZNFA2HC5RDBREUY.jpg?auth=59145c93be733b5ffd22aac98b3d5938ec344b583c1d3bb94bec0e1c7eeb6493",
+   "date": "2026-10-29T04:15:00+00:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
    "title": "¿Habrá descalabro de la Bolsa si los demócratas barren a Trump?",
    "link": "https://www.expansion.com/mercados/el-foco-del-dia/2026/10/29/habra-descalabro-bolsa-democratas-barren-trump.html",
-   "image": "",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932341557589.png",
    "date": "2026-10-29T01:36:27+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Microsoft profits soar days after announcing thousands of layoffs",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
-   "date": "2026-10-29T01:27:40+00:00"
   },
   {
    "lang": "es",
@@ -36,42 +172,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Repsol, Shell y Total arrancan a la UE un plan anticrisis para el petróleo",
-   "link": "https://www.expansion.com/empresas/energia/2026/10/29/repsol-shell-total-arrancan-ue-plan-anticrisis-petroleo.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932308923548.jpg",
-   "date": "2026-10-29T00:41:38+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
    "title": "El LZB de Siemens, un sistema de señalización viejo a prueba de bombas",
    "link": "https://www.expansion.com/empresas/transporte/2026/10/29/lzb-siemens-sistema-senalizacion-viejo-prueba-bombas.html",
    "image": "",
    "date": "2026-10-29T00:41:02+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El factor humano tapa la presión sobre Adif por los retrasos y el deterioro de la seguridad",
-   "link": "https://www.expansion.com/economia/2026/10/29/factor-humano-tapa-presion-sobre-adif-retrasos-deterioro-seguridad.html",
-   "image": "",
-   "date": "2026-10-29T00:36:34+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Un ministro que no garantiza la seguridad ferroviaria debe dimitir",
-   "link": "https://www.expansion.com/opinion/2026/10/29/ministro-garantiza-seguridad-ferroviaria-debe-dimitir.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932300861320.jpg",
-   "date": "2026-10-29T00:28:11+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Nueva catástrofe en la alta velocidad con decenas de muertos y heridos",
-   "link": "https://www.expansion.com/sociedad/2026/10/29/nueva-catastrofe-alta-velocidad-decenas-muertos-heridos.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932295594016.jpg",
-   "date": "2026-10-29T00:19:24+01:00"
   },
   {
    "lang": "en",
@@ -80,14 +184,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
    "date": "2026-10-29T00:00:25+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
-   "date": "2026-10-29T00:00:15+00:00"
   },
   {
    "lang": "en",
@@ -104,14 +200,6 @@
    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
    "image": "",
    "date": "2026-10-28T21:06:37+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Microsoft dispara su beneficio un 32% apoyada en la buena marcha de su negocio relacionado con la IA",
-   "link": "https://elpais.com/economia/2026-10-28/microsoft-dispara-su-beneficio-un-32-apoyada-en-la-buena-marcha-de-su-negocio-relacionado-con-la-ia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ZTEC5BIFQVPL7LY4P4JG4XI7L4.jpg?auth=e186a26defcea966b2dfc404cebf911b19fefb53a14d1bef0f7a2894504b81da",
-   "date": "2026-10-28T20:52:18+00:00"
   },
   {
    "lang": "en",
@@ -146,28 +234,12 @@
    "date": "2026-10-28T18:45:09+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "EHU celebra el avance en su financiación, pero precisa que «todavía queda camino»",
-   "link": "https://www.naiz.eus/info/noticia/20261028/ehu-celebra-el-avance-en-financiacion-universitaria-pero-precisa-que-todavia-queda-camino",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/984/news_landscape/bengoetxea.jpg",
-   "date": "2026-10-28T16:57:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Your pay, energy bills and savings: How the Budget affects you",
    "link": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5846/live/65892820-d2e4-11f1-8d3a-ef62f316044e.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84cd/live/e88146a0-d365-11f1-b441-2b33b063138f.jpg",
    "date": "2026-10-28T16:43:35+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "«Queremos fichar bueno, bonito y barato, pero no hay de eso en el mercado», advierte Perasovic",
-   "link": "https://www.naiz.eus/info/noticia/20261028/queremos-fichar-bueno-bonito-y-barato-pero-no-hay-de-eso-en-el-mercado-advierte-perasovic",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/975/news_landscape/Perasovic.jpg",
-   "date": "2026-10-28T16:34:00+00:00"
   },
   {
    "lang": "en",
@@ -176,78 +248,6 @@
    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
    "image": "",
    "date": "2026-10-28T15:39:14+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "UGT, CCOO y USO alcanzan un preacuerdo en Sidenor sobre un nuevo convenio, que ELA rechaza",
-   "link": "https://www.naiz.eus/info/noticia/20261028/ugt-ccoo-y-uso-alcanzan-un-preacuerdo-en-sidenor-sobre-un-nuevo-convenio-que-ela-rechaza",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/965/news_landscape/sidenor.jpg",
-   "date": "2026-10-28T15:19:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Puente califica de “inexplicable” que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
-   "link": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231080_144853_video_1800.mp4",
-   "date": "2026-10-28T13:59:06+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Turismo jardunbide egokiak aitortzeko Zaindari Sariak banatuko ditu Gipuzkoako Aldundiak",
-   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261028/turismo-jardunbide-egokiak-aitortzeko-zaindari-sariak-banatuko-ditu-gipuzkoako-aldundiak",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/951/news_landscape/turismoa.jpg",
-   "date": "2026-10-28T13:49:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Qué es el sistema de señalización LZB, una de las piezas clave en el accidente mortal de trenes de Toledo",
-   "link": "https://elpais.com/economia/2026-10-28/que-es-el-sistema-de-senalizacion-lzb-una-de-las-piezas-clave-en-el-accidente-mortal-de-trenes-de-toledo.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1230882_091607_video_1800.mp4",
-   "date": "2026-10-28T13:37:06+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Desolación en el PP y en CEOE por Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
-   "link": "https://elpais.com/economia/2026-10-28/inquietud-por-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-accidentados-en-toledo.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231034_131141_video_1800.mp4",
-   "date": "2026-10-28T11:47:59+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Casas para alquilar, Bolsa europea o bonos franceses",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-28/casas-para-alquilar-bolsa-europea-o-bonos-franceses.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CTX4I43MQRDE7EDRIVRAC3CMOU.jpg?auth=acc6d09fd2f964db531a3c0c06d4f3b2a45ee9a6e0bc5094f93a754afc91aac1",
-   "date": "2026-10-28T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Trump debería perder las elecciones legislativas ‘midterm’",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-28/trump-deberia-perder-las-elecciones-legislativas-midterm.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/HDVQSEXXB5MXVATLZ5DEL557GM.jpg?auth=c888d1c2cac3ac67c2dff1ba6fe6f476f3a25718d60cdd30e9e04c404ea48c84",
-   "date": "2026-10-28T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El castigo a Brasil, aviso de lo que puede estar por venir",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-28/el-castigo-a-brasil-aviso-de-lo-que-puede-estar-por-venir.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/XMASQ5XEPJNBZC3LAG5YPVTU7Q.jpg?auth=1c58ebbe27a638cd10a16e86ab6f4a9d07fe1ac7010040cafb00f4d548901b52",
-   "date": "2026-10-28T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El vuelco electoral de Brasil rescata viejas fórmulas",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-28/el-vuelco-electoral-de-brasil-rescata-viejas-formulas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ORJAWG4765MMTLD2B6634HKN2E.jpg?auth=c4ec00866d40382c9c869a0515ffa326c278b9f2dd9d1c6d783abcb2bb6cb631",
-   "date": "2026-10-28T04:40:00+00:00"
   },
   {
    "lang": "en",
@@ -268,26 +268,10 @@
   {
    "lang": "en",
    "source": "CNBC Economy",
-   "title": "Trump's approval rating on economy hits all-time low as midterm looms: CNBC survey",
-   "link": "https://www.cnbc.com/2026/10/22/trump-economic-approval-rating-midterms-poll.html",
-   "image": "",
-   "date": "2026-10-23T20:49:42+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
    "title": "Jobless claims near the lowest since the 1960s as low-fire trend continues",
    "link": "https://www.cnbc.com/2026/10/22/jobless-claims-record-low-weekly.html",
    "image": "",
    "date": "2026-10-22T16:40:09+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
-   "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
-   "image": "",
-   "date": "2026-10-21T07:50:10+00:00"
   }
  ]
 }
