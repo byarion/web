@@ -1,21 +1,93 @@
 {
- "updated": "2026-10-28T21:56:37.351043+00:00",
+ "updated": "2026-10-29T03:05:37.153847+00:00",
  "items": [
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Alphabet se deja un 9% en Bolsa tras reportar una caída de 'cash flow' mayor de la prevista",
-   "link": "https://www.expansion.com/tecnologia/2026/10/28/alphabet-cae-9-bolsa-reportar-caida-cash-flow-mayor-prevista.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932229041388.jpg",
-   "date": "2026-10-28T22:28:36+01:00"
+   "title": "Crédit Agricole se muda a un edificio de Merlin junto a la Puerta de Alcalá",
+   "link": "https://www.expansion.com/inmobiliario/2026/10/29/credit-agricole-muda-edificio-merlin-puerta-alcala.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932343345510.jpg",
+   "date": "2026-10-29T01:39:02+01:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Microsoft eleva su beneficio un 32% gracias al crecimiento en la nube",
-   "link": "https://www.expansion.com/tecnologia/2026/10/28/microsoft-eleva-beneficio-32-gracias-crecimiento-nube.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932200546538.jpg",
-   "date": "2026-10-28T21:41:05+01:00"
+   "title": "¿Habrá descalabro de la Bolsa si los demócratas barren a Trump?",
+   "link": "https://www.expansion.com/mercados/el-foco-del-dia/2026/10/29/habra-descalabro-bolsa-democratas-barren-trump.html",
+   "image": "",
+   "date": "2026-10-29T01:36:27+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Microsoft profits soar days after announcing thousands of layoffs",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0364/live/44d987f0-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
+   "date": "2026-10-29T01:27:40+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "ING lanza su banca privada con 6.000 clientes de altos patrimonios",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/29/ing-lanza-banca-privada-6-000-clientes-altos-patrimonios.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932308936893.jpg",
+   "date": "2026-10-29T00:41:51+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Repsol, Shell y Total arrancan a la UE un plan anticrisis para el petróleo",
+   "link": "https://www.expansion.com/empresas/energia/2026/10/29/repsol-shell-total-arrancan-ue-plan-anticrisis-petroleo.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932308923548.jpg",
+   "date": "2026-10-29T00:41:38+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El LZB de Siemens, un sistema de señalización viejo a prueba de bombas",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/29/lzb-siemens-sistema-senalizacion-viejo-prueba-bombas.html",
+   "image": "",
+   "date": "2026-10-29T00:41:02+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El factor humano tapa la presión sobre Adif por los retrasos y el deterioro de la seguridad",
+   "link": "https://www.expansion.com/economia/2026/10/29/factor-humano-tapa-presion-sobre-adif-retrasos-deterioro-seguridad.html",
+   "image": "",
+   "date": "2026-10-29T00:36:34+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Un ministro que no garantiza la seguridad ferroviaria debe dimitir",
+   "link": "https://www.expansion.com/opinion/2026/10/29/ministro-garantiza-seguridad-ferroviaria-debe-dimitir.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932300861320.jpg",
+   "date": "2026-10-29T00:28:11+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Nueva catástrofe en la alta velocidad con decenas de muertos y heridos",
+   "link": "https://www.expansion.com/sociedad/2026/10/29/nueva-catastrofe-alta-velocidad-decenas-muertos-heridos.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932295594016.jpg",
+   "date": "2026-10-29T00:19:24+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+   "link": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5570/live/b5261da0-d304-11f1-a9bf-3316693f55f0.jpg",
+   "date": "2026-10-29T00:00:25+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'I live with a ghost': Japan's haunted homes attract bargain hunters",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c40/live/5436ab40-cc8d-11f1-bed8-c51b95c602ec.jpg",
+   "date": "2026-10-29T00:00:15+00:00"
   },
   {
    "lang": "en",
@@ -68,50 +140,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-   "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4e/live/248d87d0-d2fd-11f1-8091-57f2713cabe8.jpg",
-   "date": "2026-10-28T19:15:58+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "La Fed mantiene los tipos en el 4% a las puertas de las elecciones 'midterm'",
-   "link": "https://www.expansion.com/mercados/2026/10/28/fed-mantiene-tipos-4-puertas-elecciones-midterm.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17932106160467.jpg",
-   "date": "2026-10-28T19:04:20+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Renfe paraliza la venta de billetes entre Madrid y Andalucía hasta el 13 de diciembre",
-   "link": "https://www.expansion.com/empresas/transporte/2026/10/28/renfe-paraliza-venta-billetes-madrid-andalucia-13-diciembre.html",
-   "image": "",
-   "date": "2026-10-28T18:47:12+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
    "link": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab01/live/ce128db0-d2fc-11f1-a701-fddedf244c16.jpg",
    "date": "2026-10-28T18:45:09+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Tax thresholds remain unchanged - here's what it means for your pay",
-   "link": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af37/live/66999470-d2e9-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T18:12:24+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Will I get the £100 energy payment and when will I receive it?",
-   "link": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c06e/live/66b0c920-d2ed-11f1-8d86-83eebc838351.jpg",
-   "date": "2026-10-28T17:47:37+00:00"
   },
   {
    "lang": "es",
@@ -155,22 +187,6 @@
   },
   {
    "lang": "es",
-   "source": "Expansión",
-   "title": "Santander prevé un beneficio récord de 15.000 millones",
-   "link": "https://www.expansion.com/empresas/2026/10/28/santander-estudiara-proximo-ano-reparto-exceso-capital.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931946440322.jpg",
-   "date": "2026-10-28T14:37:33+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Puente: \"El centro de control dio una orden errónea de marcha con normalidad al AVE que chocó con el Iryo\"",
-   "link": "https://www.expansion.com/sociedad/2026/10/28/gobierno-apunta-fallo-centro-control-autorizo-marcha-normativa.html",
-   "image": "",
-   "date": "2026-10-28T14:31:07+01:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "Puente califica de “inexplicable” que el centro de control permitiera al AVE reanudar la marcha con normalidad cuando el Iryo seguía parado",
    "link": "https://elpais.com/economia/2026-10-28/el-ministro-de-transportes-oscar-puente-comparece-para-dar-detalles-sobre-el-accidente-ferroviario-de-urda.html",
@@ -195,27 +211,11 @@
   },
   {
    "lang": "es",
-   "source": "Expansión",
-   "title": "La exministra Fátima Báñez iba en uno de los trenes siniestrados en Toledo y todavía no ha sido localizada",
-   "link": "https://www.expansion.com/economia/politica/2026/10/28/exministra-fatima-banez-iba-trenes-siniestrados-toledo-todavia-sido-localizada.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/28/17931879966006.jpg",
-   "date": "2026-10-28T12:46:43+01:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "Desolación en el PP y en CEOE por Fátima Báñez, que viajaba en uno de los trenes accidentados en Toledo",
    "link": "https://elpais.com/economia/2026-10-28/inquietud-por-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-accidentados-en-toledo.html",
    "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231034_131141_video_1800.mp4",
    "date": "2026-10-28T11:47:59+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Grave accidente del AVE: al menos 68 muertos en la colisión de dos trenes en Urda (Toledo)",
-   "link": "https://www.expansion.com/sociedad/2026/10/28/adif-suspende-circulacion-linea-alta-velocidad-madrid-andalucia-alcance-dos-trenes.html",
-   "image": "",
-   "date": "2026-10-28T09:34:29+01:00"
   },
   {
    "lang": "es",
