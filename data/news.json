@@ -1,28 +1,196 @@
 {
- "updated": "2026-10-30T03:09:46.683943+00:00",
+ "updated": "2026-10-30T11:45:13.576925+00:00",
  "items": [
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Binance says crypto worth $6.3bn impacted in suspected hack",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a4c/live/ee32b970-d406-11f1-b5d5-035446124886.jpg",
-   "date": "2026-10-30T03:02:11+00:00"
+   "title": "Streeting denies 'kicking can down the road' in defence spending row",
+   "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e71/live/d6dac2e0-d44c-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-30T11:23:38+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
+   "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
+   "image": "",
+   "date": "2026-10-30T11:16:46+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "EH Bildu logra una pensión mínima de 1.190 euros en el acuerdo presupuestario navarro",
+   "link": "https://www.naiz.eus/info/noticia/20261030/eh-bildu-logra-una-pension-minima-de-1-190-euros-en-el-acuerdo-presupuestario-navarro",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/674/news_landscape/arasti-aznal.jpg",
+   "date": "2026-10-30T10:27:00+00:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Los accidentes ferroviarios se disparan ante los recortes en el mantenimiento de la red",
-   "link": "https://www.expansion.com/economia/2026/10/30/accidentes-ferroviarios-disparan-recortes-mantenimiento-red.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17932295594016.jpg",
-   "date": "2026-10-30T00:36:33+01:00"
+   "title": "Los Cosmen y Asterion formalizan la opa sobre Mobico, valorada en 2.780 millones",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/30/cosmen-asterion-formalizan-opa-sobre-mobico-valorada-2-780-millones-euros.html",
+   "image": "",
+   "date": "2026-10-30T09:47:23+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-10-30T09:33:51+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Intel y Amazon desatan otra oleada bajista en las tecnológicas",
+   "link": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933471163612.jpg",
+   "date": "2026-10-30T08:58:44+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Gasteizen filmatutako lan esanguratsuenetan oinarritutako turismo ibilbide berriak",
+   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261030/gasteizen-filmatutako-lan-esanguratsuenetan-oinarritutako-turismo-ibilbideak-antolatuko-ditu-udalak",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/645/news_landscape/rodaje.jpg",
+   "date": "2026-10-30T08:50:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Stop Desahucios denuncia que Azora utiliza viviendas vacías como pisos turísticos ilegales",
+   "link": "https://www.naiz.eus/info/noticia/20261030/stop-desahucios-denuncia-que-azora-utiliza-viviendas-vacias-como-pisos-turisticos-ilegales",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/640/news_landscape/stop-desahucios.jpg",
+   "date": "2026-10-30T08:33:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El fiscal despolitiza Blocus («reto viral»), pero el PNV tiene una llave de la partida",
+   "link": "https://www.naiz.eus/info/noticia/20261030/el-fiscal-despolitiza-blocus-pero-el-pnv-tiene-la-llave-de-la-partida",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/637/news_landscape/blocus.jpeg",
+   "date": "2026-10-30T08:22:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Los resultados debilitan al Ibex en medio de otra tormenta tecnológica",
+   "link": "https://www.expansion.com/mercados/2026/10/30/ibex-intenta-resistir-tormenta-tecnologica.html",
+   "image": "",
+   "date": "2026-10-30T07:56:48+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Yorkshire Water boss resigns after firm downgraded",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b90/live/5715cb30-d434-11f1-b610-e9c472d2c97b.jpg",
+   "date": "2026-10-30T07:54:08+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "How video game remakes tap the power of nostalgia",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg",
+   "date": "2026-10-30T07:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más",
+   "link": "https://www.expansion.com/empresas/banca/2026/10/30/caixabank-gana-4-962-millones-septiembre-12-9.html",
+   "image": "",
+   "date": "2026-10-30T07:06:45+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Energia hidroelektrikoan, elkar ulertzerantz",
+   "link": "https://www.kazeta.eus/info_kz/20261030/energia-hidroelektrikoan-elkar-ulertzerantz",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/282/news_landscape/gar_centralehydroelectrique_Banka_guironnet-2070.jpg",
+   "date": "2026-10-30T05:54:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Hasta 84.000 euros para víctimas con graves secuelas: así serán las indemnizaciones por la tragedia ferroviaria en Urda",
+   "link": "https://elpais.com/economia/2026-10-30/hasta-84000-euros-para-victimas-con-graves-secuelas-asi-seran-las-indemnizaciones-por-la-tragedia-ferroviaria.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/5YZINVY57ZFTDMAJKUPFFYUHOM.jpg?auth=e352388a15570380bd28c3c2b78cf20ad974f7079040f19979f286a60ce598df",
+   "date": "2026-10-30T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El empleo público aporta más de un tercio de los nuevos puestos de trabajo tras el retroceso de 2025",
+   "link": "https://elpais.com/economia/2026-10-30/el-empleo-publico-aporta-mas-de-un-tercio-de-los-nuevos-puestos-de-trabajo-tras-el-retroceso-de-2025.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/K3XEGPBDP5GQ5F6HPGXJZF3DWM.jpg?auth=5060e69a945a5f1d8258b52d25c3e36bb90bb47dcfb756f86a7939dcc89fb4c5",
+   "date": "2026-10-30T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Lagarde, el ‘búho’ que pilotó durante dos décadas las finanzas mundiales sin estar predestinada a ello",
+   "link": "https://elpais.com/economia/2026-10-30/lagarde-el-buho-que-piloto-durante-dos-decadas-las-finanzas-mundiales-sin-estar-predestinada-a-ello.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/UYYAYF2QHNH7VAJ7HHVTTR76MY.jpg?auth=811fdd2e3a6617d102379785592686c793f36e321614345ec3868ffdbd6e8796",
+   "date": "2026-10-30T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "A Fátima Báñez",
+   "link": "https://elpais.com/economia/2026-10-30/a-fatima-banez.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261029/1231505_125904_video_1800.mp4",
+   "date": "2026-10-30T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Un BCE nuevo para un mundo más incierto",
+   "link": "https://elpais.com/economia/2026-10-30/un-bce-nuevo-para-un-mundo-mas-incierto.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/FBDSM47D5JPBHKQDCLSSLWXSG4.jpg?auth=0be951d4f596848c7a1067fb383285c44f5e495c20a4b770cd52a7408585153a",
+   "date": "2026-10-30T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Transición en el BCE tras el paso a un lado de Lagarde",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-30/transicion-en-el-bce-tras-el-paso-a-un-lado-de-lagarde.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/LSCNNVE7UVPP7OCLCGTWQKTVEM.jpg?auth=1d7f6b98ff7c021943e1ed13b063e7b67278c12da009a1259a4e3842fc0163f3",
+   "date": "2026-10-30T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El próximo presidente del BCE importa más para Francia que para los tipos",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-30/el-proximo-presidente-del-bce-importa-mas-para-francia-que-para-los-tipos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QBA56LE6TZBQHLOTKDLRNXTRWA.jpg?auth=195fea5792bda609e62752412b408aca66914393642ed1af4f57df67a3464de4",
+   "date": "2026-10-30T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los hijos de Warren Buffett y el marrón de heredar 150.000 millones de dólares: “Nadie debería disponer de tanto dinero, no es natural”",
+   "link": "https://elpais.com/economia/negocios/2026-10-30/los-hijos-de-warren-buffett-y-el-marron-de-heredar-150000-millones-de-dolares-nadie-deberia-disponer-de-tanto-dinero-no-es-natural.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/6MUSZ4UPPVAWLOODQNEOHKHTZI.jpg?auth=bd78184fa8eb2f0fab5b30ba7a7fff51f71515aec6fe9d44ae4fd1336183ce76",
+   "date": "2026-10-30T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Binance paraliza el intercambio de criptomonedas tras un hackeo de miles de millones de dólares",
+   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/binance-paraliza-intercambio-criptomonedas-hackeo-miles-millones-dolares.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933298945194.jpg",
+   "date": "2026-10-30T04:11:47+01:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
    "title": "La puntilla del sanchismo",
    "link": "https://www.expansion.com/opinion/2026/10/30/puntilla-sanchismo.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933168756730.jpg",
+   "image": "",
    "date": "2026-10-30T00:34:46+01:00"
   },
   {
@@ -36,22 +204,6 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Anthropic alerta: \"Ni toda el sector asegurador\" puede cubrir el riesgo de su IA",
-   "link": "https://www.expansion.com/empresas/2026/10/30/anthropic-alerta-toda-sector-asegurador-cubrir-riesgo-ia.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933168591740.jpg",
-   "date": "2026-10-30T00:34:30+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "De Cos, el favorito de los expertos para suceder a Lagarde",
-   "link": "https://www.expansion.com/mercados/2026/10/30/cos-favorito-expertos-suceder-lagarde.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933168566342.jpg",
-   "date": "2026-10-30T00:34:21+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
    "title": "Un desastre que sólo tiene una salida",
    "link": "https://www.expansion.com/opinion/2026/10/30/desastre-salida.html",
    "image": "",
@@ -60,26 +212,18 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "From workshops to the catwalk - why mended clothes are going mainstream",
+   "title": "From Levi's to Primark - the fashion chains selling mended clothes",
    "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04bf/live/f3978b70-d08c-11f1-a701-fddedf244c16.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg",
    "date": "2026-10-30T00:00:35+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "title": "Google value plunges by $500bn as AI search hits ad sales",
    "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
    "date": "2026-10-29T22:17:52+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Críticas en tromba contra el relato del \"error humano\" del Gobierno",
-   "link": "https://www.expansion.com/economia/politica/2026/10/29/criticas-tromba-relato-error-humano-gobierno.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/29/17933056194016.jpg",
-   "date": "2026-10-29T21:27:03+01:00"
   },
   {
    "lang": "en",
@@ -108,34 +252,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "US interest rates held steady and economy grows - what it means for you",
-   "link": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47d7/live/753fb120-d30d-11f1-ad4f-5d2bbacf0caf.jpg",
-   "date": "2026-10-29T17:15:05+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "Faisal Islam: This Budget was micro and that was deliberate",
    "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
    "date": "2026-10-29T15:48:44+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Bilbo cambiará el PGOU para facilitar la conversión de locales de entre 35 y 45 m² en viviendas",
-   "link": "https://www.naiz.eus/info/noticia/20261029/bilbo-cambiara-el-pgou-para-facilitar-la-conversion-de-locales-de-entre-35-y-45-m-en-viviendas",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/376/news_landscape/local.jpg",
-   "date": "2026-10-29T15:38:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Bereaved families will not face tax bill over pension delays under new rules",
-   "link": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d97f/live/92781b20-d3a7-11f1-a5cd-49637fcbd4e4.jpg",
-   "date": "2026-10-29T15:18:04+00:00"
   },
   {
    "lang": "en",
@@ -152,94 +272,6 @@
    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
    "image": "",
    "date": "2026-10-29T14:48:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Adiós a Fátima Báñez, la ministra que sentó las bases de la recuperación del empleo tras la Gran Crisis",
-   "link": "https://www.expansion.com/economia/2026/10/29/adios-fatima-banez-ministra-sento-bases-recuperacion-empleo-gran-crisis.html",
-   "image": "",
-   "date": "2026-10-29T14:37:18+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La Diputación aprueba el plan financiero de 788,5 millones para modernizar Metro Bilbao",
-   "link": "https://www.naiz.eus/info/noticia/20261029/la-diputacion-aprueba-el-plan-financiero-de-788-5-millones-para-modernizar-metro-bilbao",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/357/news_landscape/metro_bilbao.jpg",
-   "date": "2026-10-29T14:25:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-   "link": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7565/live/8d520610-d3cf-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-29T13:19:24+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Muere la exministra Fátima Báñez, que viajaba en uno de los trenes siniestrados en Urda",
-   "link": "https://elpais.com/economia/2026-10-29/muere-la-exministra-fatima-banez-que-viajaba-en-uno-de-los-trenes-siniestrados.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261029/1231505_125904_video_1800.mp4",
-   "date": "2026-10-29T12:44:25+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Maquinistas y ferroviarios se quejan de ser señalados: “Un error humano se produce cuando no tienes lo necesario para trabajar”",
-   "link": "https://elpais.com/economia/2026-10-29/maquinistas-y-ferroviarios-se-quejan-de-ser-senalados-un-error-humano-se-produce-cuando-no-tienes-lo-necesario-para-trabajar.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261028/1231080_144853_video_1800.mp4",
-   "date": "2026-10-29T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Un programa electoral en una servilleta de papel",
-   "link": "https://cincodias.elpais.com/economia/2026-10-29/un-programa-electoral-en-una-servilleta-de-papel.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CYYHCZVBJVF6RCMUJ2JLNO5C44.jpg?auth=c2865206808e70926a4582c78b74a5b0db3b1c3c45bd0f8dfce644349d85a4c9",
-   "date": "2026-10-29T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: un siglo después, el precio de la vivienda vuelve a provocar una huelga",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-29/las-claves-un-siglo-despues-el-precio-de-la-vivienda-vuelve-a-provocar-una-huelga.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/D4TOY2RG6NPXTNDNVBJ3A6LDXE.jpg?auth=eb323c21dad9efa5d29e7ec518c62631775af48398fad61b298a32fcd8aa7f9c",
-   "date": "2026-10-29T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La sanidad debe integrar eficiencia, equidad y valor real",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-29/la-sanidad-debe-integrar-eficiencia-equidad-y-valor-real.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/76O4LW2MTZDWNLX7AY3WFMFGPY.jpg?auth=b2d5ed06c8963430506d061b2e971f0ea847a53fd80f2206baca5d21f53af275",
-   "date": "2026-10-29T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "España necesita Presupuestos, no más impuestos",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-29/espana-necesita-presupuestos-no-mas-impuestos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FFSMZ6CGMJCLTC42NE3R5E3D54.jpg?auth=d5fe9bd9e9a87b1df414e996c46e54c061911bfe05b3853a119ab1a32d89b759",
-   "date": "2026-10-29T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "“Podríamos y deberíamos hacer más”: los expertos piden invertir en el mantenimiento de la alta velocidad",
-   "link": "https://elpais.com/economia/2026-10-29/podriamos-y-deberiamos-hacer-mas-los-expertos-piden-invertir-en-el-mantenimiento-de-la-alta-velocidad.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/AWC4634AL5GSXAUKEQJHMXH5ZU.JPG?auth=fbfa0edec0ab0487d20d0159c2e50bc1150bfda708ea17316fb822ada591991e",
-   "date": "2026-10-29T04:35:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El corredor Madrid-Sevilla de alta velocidad ha doblado su volumen de tráfico desde su liberalización en 2023",
-   "link": "https://elpais.com/economia/2026-10-29/el-corredor-madrid-sevilla-de-alta-velocidad-ha-doblado-su-volumen-de-trafico-desde-su-liberalizacion-en-2023.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/OYORSTZ62VJZNFA2HC5RDBREUY.jpg?auth=59145c93be733b5ffd22aac98b3d5938ec344b583c1d3bb94bec0e1c7eeb6493",
-   "date": "2026-10-29T04:15:00+00:00"
   },
   {
    "lang": "en",
@@ -264,14 +296,6 @@
    "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
    "image": "",
    "date": "2026-10-28T15:39:14+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "World Bank's Banga: Availability of capital 'not really an issue' as AI demand drives up borrowing costs",
-   "link": "https://www.cnbc.com/2026/10/27/world-bank-president-ajay-banga.html",
-   "image": "",
-   "date": "2026-10-27T16:15:35+00:00"
   }
  ]
 }
