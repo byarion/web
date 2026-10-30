@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-30T17:19:31.788904+00:00",
+ "updated": "2026-10-30T21:44:02.977357+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+   "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61df/live/2d4de870-d487-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-30T21:13:14+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+   "date": "2026-10-30T20:34:46+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Anthropic podría no obtener el grado de inversión tras su OPV, según Blackstone",
+   "link": "https://www.expansion.com/economia/financial-times/2026/10/30/anthropic-podria-obtener-calificacion-grado-inversion-opv.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933827499172.jpg",
+   "date": "2026-10-30T18:52:32+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html",
+   "image": "",
+   "date": "2026-10-30T18:39:26+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "City of London chief tops UK Black Powerlist",
+   "link": "https://www.bbc.co.uk/news/articles/c98rz4pxm4ymo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d4/live/4a441ff0-d48a-11f1-9a20-f717db279e3e.jpg",
+   "date": "2026-10-30T18:00:24+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -10,28 +50,12 @@
    "date": "2026-10-30T16:04:55+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "US tech stocks see sharp falls over AI cost fears",
-   "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
-   "date": "2026-10-30T15:46:28+00:00"
-  },
-  {
    "lang": "es",
    "source": "El País",
    "title": "La recaudación fiscal crece un 10% pese al desplome en los impuestos a los carburantes",
    "link": "https://elpais.com/economia/2026-10-30/la-recaudacion-fiscal-crece-un-10-pese-al-desplome-en-los-impuestos-a-los-carburantes.html",
    "image": "https://imagenes.elpais.com/resizer/v2/LLHRXGFUJNCBRAWV53HRHPGXKI.jpg?auth=dd5f62b52ffc48f34b38d3e74970e5820298ba67122b6f8e21f7f42cf48f1d6f",
    "date": "2026-10-30T15:11:28+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Acusan a Corea del Norte de estar detrás del hackeo a Binance",
-   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/acusan-corea-norte-detras-hackeo-binance.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933685977228.jpg",
-   "date": "2026-10-30T14:56:42+01:00"
   },
   {
    "lang": "es",
@@ -58,44 +82,12 @@
    "date": "2026-10-30T12:27:28+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Google value plunges by $500bn as its own AI search hits ad sales",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-30T12:04:02+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El bitcoin cae a mínimos de mes y medio tras el robo a Binance",
-   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/bitcoin-cae-minimos-mes-medio-robo-binance.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933566120326.png",
-   "date": "2026-10-30T11:36:58+01:00"
-  },
-  {
    "lang": "es",
    "source": "El País",
    "title": "El euríbor no da tregua: cierra octubre en el 3,239% y sigue encareciendo las hipotecas",
    "link": "https://elpais.com/economia/2026-10-30/el-euribor-no-da-tregua-cierra-octubre-en-el-3239-y-sigue-encareciendo-las-hipotecas.html",
    "image": "https://imagenes.elpais.com/resizer/v2/6MMEXXO2ZZG2JFWAJAVCXT3XGE.jpg?auth=21b70af9352a2ca0ec8c216f4c3f7c2cb0ebd1f5289d749cae2153bff10ac6d1",
    "date": "2026-10-30T11:31:58+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Streeting denies 'kicking can down the road' in defence spending row",
-   "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e71/live/d6dac2e0-d44c-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-30T11:23:38+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Trabajadores de Vicinay piden a Lakua que se implique ante el ERTE y los 60 despidos",
-   "link": "https://www.naiz.eus/info/noticia/20261030/trabajadores-de-vicinay-piden-a-lakua-que-se-implique-ante-el-erte-y-los-60-despidos",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/701/news_landscape/vicinay.jpg",
-   "date": "2026-10-30T11:21:00+00:00"
   },
   {
    "lang": "en",
@@ -110,13 +102,13 @@
    "source": "Expansión",
    "title": "Puente: la caída del sistema de seguridad LZB es \"habitual\" y se ha dado en 170 ocasiones este año",
    "link": "https://www.expansion.com/empresas/transporte/2026/10/30/puente-comparecera-11-30-horas-hablar-accidente-urda-toledo.html",
-   "image": "",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933594852233.jpg",
    "date": "2026-10-30T10:57:29+01:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Intel y Amazon desatan otra oleada bajista en el Nasdaq, que cae casi un 3%",
+   "title": "El Nasdaq cae un 5,3% en su peor mes desde marzo de 2025",
    "link": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933788356730.jpg",
    "date": "2026-10-30T08:58:44+01:00"
@@ -134,7 +126,7 @@
    "source": "Expansión",
    "title": "El Ibex cae hasta los 18.600 puntos tras perder un 4% en octubre, su peor mes desde marzo",
    "link": "https://www.expansion.com/mercados/2026/10/30/ibex-intenta-resistir-tormenta-tecnologica.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933433954079.jpg",
+   "image": "",
    "date": "2026-10-30T07:56:48+01:00"
   },
   {
@@ -144,6 +136,14 @@
    "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg",
    "date": "2026-10-30T07:45:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "How Poundland grew from a market stall to a high street giant",
+   "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg",
+   "date": "2026-10-30T06:08:22+00:00"
   },
   {
    "lang": "es",
@@ -164,17 +164,17 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Transición en el BCE tras el paso a un lado de Lagarde",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-30/transicion-en-el-bce-tras-el-paso-a-un-lado-de-lagarde.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/LSCNNVE7UVPP7OCLCGTWQKTVEM.jpg?auth=1d7f6b98ff7c021943e1ed13b063e7b67278c12da009a1259a4e3842fc0163f3",
+   "title": "El próximo presidente del BCE importa más para Francia que para los tipos",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-30/el-proximo-presidente-del-bce-importa-mas-para-francia-que-para-los-tipos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QBA56LE6TZBQHLOTKDLRNXTRWA.jpg?auth=195fea5792bda609e62752412b408aca66914393642ed1af4f57df67a3464de4",
    "date": "2026-10-30T04:40:00+00:00"
   },
   {
    "lang": "es",
    "source": "El País",
-   "title": "El próximo presidente del BCE importa más para Francia que para los tipos",
-   "link": "https://cincodias.elpais.com/opinion/2026-10-30/el-proximo-presidente-del-bce-importa-mas-para-francia-que-para-los-tipos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QBA56LE6TZBQHLOTKDLRNXTRWA.jpg?auth=195fea5792bda609e62752412b408aca66914393642ed1af4f57df67a3464de4",
+   "title": "Transición en el BCE tras el paso a un lado de Lagarde",
+   "link": "https://cincodias.elpais.com/opinion/2026-10-30/transicion-en-el-bce-tras-el-paso-a-un-lado-de-lagarde.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/LSCNNVE7UVPP7OCLCGTWQKTVEM.jpg?auth=1d7f6b98ff7c021943e1ed13b063e7b67278c12da009a1259a4e3842fc0163f3",
    "date": "2026-10-30T04:40:00+00:00"
   },
   {
@@ -190,7 +190,7 @@
    "source": "Expansión",
    "title": "La puntilla del sanchismo",
    "link": "https://www.expansion.com/opinion/2026/10/30/puntilla-sanchismo.html",
-   "image": "",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933168756730.jpg",
    "date": "2026-10-30T00:34:46+01:00"
   },
   {
@@ -200,14 +200,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg",
    "date": "2026-10-30T00:00:35+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Burnham 'ready to support' Poundland staff as retailer faces collapse",
-   "link": "https://www.bbc.co.uk/news/articles/cqrky1p4dlm7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd3d/live/2cdccc40-d378-11f1-bf63-739fb2907d03.jpg",
-   "date": "2026-10-29T19:11:10+00:00"
   },
   {
    "lang": "en",
