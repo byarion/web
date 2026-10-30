@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-30T11:45:13.576925+00:00",
+ "updated": "2026-10-30T17:19:31.788904+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Yorkshire Water boss resigns after firm downgraded",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7dbf/live/d8f7e870-d44a-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-30T16:04:55+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "US tech stocks see sharp falls over AI cost fears",
+   "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10b0/live/dcdf2a60-d46e-11f1-9dda-1ba6fcc7d159.jpg",
+   "date": "2026-10-30T15:46:28+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La recaudación fiscal crece un 10% pese al desplome en los impuestos a los carburantes",
+   "link": "https://elpais.com/economia/2026-10-30/la-recaudacion-fiscal-crece-un-10-pese-al-desplome-en-los-impuestos-a-los-carburantes.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/LLHRXGFUJNCBRAWV53HRHPGXKI.jpg?auth=dd5f62b52ffc48f34b38d3e74970e5820298ba67122b6f8e21f7f42cf48f1d6f",
+   "date": "2026-10-30T15:11:28+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Acusan a Corea del Norte de estar detrás del hackeo a Binance",
+   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/acusan-corea-norte-detras-hackeo-binance.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933685977228.jpg",
+   "date": "2026-10-30T14:56:42+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Gobierno se plantea cortar el servicio para renovar la línea del tren Madrid-Barcelona",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/30/gobierno-plantea-cortar-servicio-renovar-linea-ave-madrid-barcelona.html",
+   "image": "",
+   "date": "2026-10-30T13:32:57+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "España creció en el tercer trimestre un 2,7% impulsada por el consumo y el gasto público",
+   "link": "https://elpais.com/economia/2026-10-30/espana-crecio-en-el-tercer-trimestre-un-27.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JLSAOYZM6NB3DMNSR27BIBH5CQ.jpg?auth=032d1684b82e5e027a76863e85c10a2050a06a0f82fadbbdf6959aa57a75d140",
+   "date": "2026-10-30T12:35:14+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What we know about Binance's $6.3bn hack",
+   "link": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ae1/live/ab354520-d460-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-30T12:27:28+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Google value plunges by $500bn as its own AI search hits ad sales",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-10-30T12:04:02+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El bitcoin cae a mínimos de mes y medio tras el robo a Binance",
+   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/bitcoin-cae-minimos-mes-medio-robo-binance.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933566120326.png",
+   "date": "2026-10-30T11:36:58+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El euríbor no da tregua: cierra octubre en el 3,239% y sigue encareciendo las hipotecas",
+   "link": "https://elpais.com/economia/2026-10-30/el-euribor-no-da-tregua-cierra-octubre-en-el-3239-y-sigue-encareciendo-las-hipotecas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/6MMEXXO2ZZG2JFWAJAVCXT3XGE.jpg?auth=21b70af9352a2ca0ec8c216f4c3f7c2cb0ebd1f5289d749cae2153bff10ac6d1",
+   "date": "2026-10-30T11:31:58+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -8,6 +88,14 @@
    "link": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e71/live/d6dac2e0-d44c-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-10-30T11:23:38+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Trabajadores de Vicinay piden a Lakua que se implique ante el ERTE y los 60 despidos",
+   "link": "https://www.naiz.eus/info/noticia/20261030/trabajadores-de-vicinay-piden-a-lakua-que-se-implique-ante-el-erte-y-los-60-despidos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/701/news_landscape/vicinay.jpg",
+   "date": "2026-10-30T11:21:00+00:00"
   },
   {
    "lang": "en",
@@ -19,75 +107,35 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "EH Bildu logra una pensión mínima de 1.190 euros en el acuerdo presupuestario navarro",
-   "link": "https://www.naiz.eus/info/noticia/20261030/eh-bildu-logra-una-pension-minima-de-1-190-euros-en-el-acuerdo-presupuestario-navarro",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/674/news_landscape/arasti-aznal.jpg",
-   "date": "2026-10-30T10:27:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
-   "title": "Los Cosmen y Asterion formalizan la opa sobre Mobico, valorada en 2.780 millones",
-   "link": "https://www.expansion.com/empresas/transporte/2026/10/30/cosmen-asterion-formalizan-opa-sobre-mobico-valorada-2-780-millones-euros.html",
+   "title": "Puente: la caída del sistema de seguridad LZB es \"habitual\" y se ha dado en 170 ocasiones este año",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/30/puente-comparecera-11-30-horas-hablar-accidente-urda-toledo.html",
    "image": "",
-   "date": "2026-10-30T09:47:23+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31a8/live/31633420-d43b-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-10-30T09:33:51+00:00"
+   "date": "2026-10-30T10:57:29+01:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Intel y Amazon desatan otra oleada bajista en las tecnológicas",
+   "title": "Intel y Amazon desatan otra oleada bajista en el Nasdaq, que cae casi un 3%",
    "link": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933471163612.jpg",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933788356730.jpg",
    "date": "2026-10-30T08:58:44+01:00"
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "Gasteizen filmatutako lan esanguratsuenetan oinarritutako turismo ibilbide berriak",
-   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261030/gasteizen-filmatutako-lan-esanguratsuenetan-oinarritutako-turismo-ibilbideak-antolatuko-ditu-udalak",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/645/news_landscape/rodaje.jpg",
-   "date": "2026-10-30T08:50:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Stop Desahucios denuncia que Azora utiliza viviendas vacías como pisos turísticos ilegales",
-   "link": "https://www.naiz.eus/info/noticia/20261030/stop-desahucios-denuncia-que-azora-utiliza-viviendas-vacias-como-pisos-turisticos-ilegales",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/640/news_landscape/stop-desahucios.jpg",
-   "date": "2026-10-30T08:33:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El fiscal despolitiza Blocus («reto viral»), pero el PNV tiene una llave de la partida",
-   "link": "https://www.naiz.eus/info/noticia/20261030/el-fiscal-despolitiza-blocus-pero-el-pnv-tiene-la-llave-de-la-partida",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/637/news_landscape/blocus.jpeg",
-   "date": "2026-10-30T08:22:00+00:00"
+   "source": "El País",
+   "title": "La inflación se mantiene en el 4,9% por el empuje de los combustibles",
+   "link": "https://elpais.com/economia/2026-10-30/la-inflacion-se-mantiene-en-el-49-por-el-empuje-de-los-combustibles.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/2MOQJIG2PVLLVFGXHCFLPNLXDM.jpg?auth=525e2306af76f0a2de35eb481df89fc33d20906058cc0ab1f5151192ac834421",
+   "date": "2026-10-30T08:08:04+00:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Los resultados debilitan al Ibex en medio de otra tormenta tecnológica",
+   "title": "El Ibex cae hasta los 18.600 puntos tras perder un 4% en octubre, su peor mes desde marzo",
    "link": "https://www.expansion.com/mercados/2026/10/30/ibex-intenta-resistir-tormenta-tecnologica.html",
-   "image": "",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933433954079.jpg",
    "date": "2026-10-30T07:56:48+01:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Yorkshire Water boss resigns after firm downgraded",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd623pldqgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b90/live/5715cb30-d434-11f1-b610-e9c472d2c97b.jpg",
-   "date": "2026-10-30T07:54:08+00:00"
   },
   {
    "lang": "en",
@@ -96,46 +144,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg",
    "date": "2026-10-30T07:45:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "CaixaBank gana 4.962 millones hasta septiembre, un 12,9% más",
-   "link": "https://www.expansion.com/empresas/banca/2026/10/30/caixabank-gana-4-962-millones-septiembre-12-9.html",
-   "image": "",
-   "date": "2026-10-30T07:06:45+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Energia hidroelektrikoan, elkar ulertzerantz",
-   "link": "https://www.kazeta.eus/info_kz/20261030/energia-hidroelektrikoan-elkar-ulertzerantz",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/282/news_landscape/gar_centralehydroelectrique_Banka_guironnet-2070.jpg",
-   "date": "2026-10-30T05:54:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Hasta 84.000 euros para víctimas con graves secuelas: así serán las indemnizaciones por la tragedia ferroviaria en Urda",
-   "link": "https://elpais.com/economia/2026-10-30/hasta-84000-euros-para-victimas-con-graves-secuelas-asi-seran-las-indemnizaciones-por-la-tragedia-ferroviaria.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/5YZINVY57ZFTDMAJKUPFFYUHOM.jpg?auth=e352388a15570380bd28c3c2b78cf20ad974f7079040f19979f286a60ce598df",
-   "date": "2026-10-30T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El empleo público aporta más de un tercio de los nuevos puestos de trabajo tras el retroceso de 2025",
-   "link": "https://elpais.com/economia/2026-10-30/el-empleo-publico-aporta-mas-de-un-tercio-de-los-nuevos-puestos-de-trabajo-tras-el-retroceso-de-2025.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/K3XEGPBDP5GQ5F6HPGXJZF3DWM.jpg?auth=5060e69a945a5f1d8258b52d25c3e36bb90bb47dcfb756f86a7939dcc89fb4c5",
-   "date": "2026-10-30T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Lagarde, el ‘búho’ que pilotó durante dos décadas las finanzas mundiales sin estar predestinada a ello",
-   "link": "https://elpais.com/economia/2026-10-30/lagarde-el-buho-que-piloto-durante-dos-decadas-las-finanzas-mundiales-sin-estar-predestinada-a-ello.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/UYYAYF2QHNH7VAJ7HHVTTR76MY.jpg?auth=811fdd2e3a6617d102379785592686c793f36e321614345ec3868ffdbd6e8796",
-   "date": "2026-10-30T04:45:01+00:00"
   },
   {
    "lang": "es",
@@ -171,19 +179,11 @@
   },
   {
    "lang": "es",
-   "source": "El País",
-   "title": "Los hijos de Warren Buffett y el marrón de heredar 150.000 millones de dólares: “Nadie debería disponer de tanto dinero, no es natural”",
-   "link": "https://elpais.com/economia/negocios/2026-10-30/los-hijos-de-warren-buffett-y-el-marron-de-heredar-150000-millones-de-dolares-nadie-deberia-disponer-de-tanto-dinero-no-es-natural.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6MUSZ4UPPVAWLOODQNEOHKHTZI.jpg?auth=bd78184fa8eb2f0fab5b30ba7a7fff51f71515aec6fe9d44ae4fd1336183ce76",
-   "date": "2026-10-30T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
-   "title": "Binance paraliza el intercambio de criptomonedas tras un hackeo de miles de millones de dólares",
-   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/binance-paraliza-intercambio-criptomonedas-hackeo-miles-millones-dolares.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933298945194.jpg",
-   "date": "2026-10-30T04:11:47+01:00"
+   "title": "Por qué Apple arrasa en Bolsa al resto de los 7 Magníficos",
+   "link": "https://www.expansion.com/mercados/el-foco-del-dia/2026/10/30/apple-arrasa-bolsa-resto-7-magnificos.html",
+   "image": "",
+   "date": "2026-10-30T01:11:18+01:00"
   },
   {
    "lang": "es",
@@ -194,36 +194,12 @@
    "date": "2026-10-30T00:34:46+01:00"
   },
   {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Adif y Renfe \"necesitan despolitizar y profesionalizar la gestión\"",
-   "link": "https://www.expansion.com/empresas/transporte/2026/10/30/adif-renfe-necesitan-despolitizar-profesionalizar-gestion.html",
-   "image": "",
-   "date": "2026-10-30T00:34:37+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Un desastre que sólo tiene una salida",
-   "link": "https://www.expansion.com/opinion/2026/10/30/desastre-salida.html",
-   "image": "",
-   "date": "2026-10-30T00:07:35+01:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "From Levi's to Primark - the fashion chains selling mended clothes",
    "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg",
    "date": "2026-10-30T00:00:35+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Google value plunges by $500bn as AI search hits ad sales",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3304/live/1c4d6e00-d3d4-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-10-29T22:17:52+00:00"
   },
   {
    "lang": "en",
@@ -248,14 +224,6 @@
    "link": "https://www.cnbc.com/2026/10/29/kevin-warsh-fed-october-rate-decision-december-hike.html",
    "image": "",
    "date": "2026-10-29T17:32:34+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Faisal Islam: This Budget was micro and that was deliberate",
-   "link": "https://www.bbc.co.uk/news/articles/cwx283zynnv3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ec0/live/8d883540-d3a3-11f1-a5cd-49637fcbd4e4.jpg",
-   "date": "2026-10-29T15:48:44+00:00"
   },
   {
    "lang": "en",
