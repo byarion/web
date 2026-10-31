@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T02:55:33.664569+00:00",
+ "updated": "2026-10-31T09:00:34.284014+00:00",
  "items": [
   {
    "name": "Ibex 35",
@@ -52,14 +52,14 @@
   {
    "name": "Oro (USD)",
    "name_en": "Gold (USD)",
-   "price": 3884.9,
-   "change": -3.6339709751587463
+   "price": 3898.9,
+   "change": -3.28669706686052
   },
   {
    "name": "Petróleo Brent (USD)",
    "name_en": "Brent crude (USD)",
-   "price": 112.33,
-   "change": -2.2197051831337
+   "price": 113.43,
+   "change": -1.2621842688761213
   },
   {
    "name": "EUR/USD",
@@ -70,20 +70,20 @@
   {
    "name": "Bitcoin (EUR)",
    "name_en": "Bitcoin (EUR)",
-   "price": 69025,
-   "change": 0.11818170788421806
+   "price": 68983,
+   "change": -0.9015084083581408
   },
   {
    "name": "Ethereum (EUR)",
    "name_en": "Ethereum (EUR)",
-   "price": 2003.25,
-   "change": 1.70129942772025
+   "price": 1999.52,
+   "change": 0.5671990970999873
   },
   {
    "name": "Solana (EUR)",
    "name_en": "Solana (EUR)",
-   "price": 86.45,
-   "change": 1.9030368794705235
+   "price": 85.05,
+   "change": -2.0249396510421085
   }
  ]
 }
