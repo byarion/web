@@ -1,6 +1,14 @@
 {
- "updated": "2026-10-31T09:00:33.047964+00:00",
+ "updated": "2026-10-31T16:23:50.505073+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Claves de la nueva tasa de 2 euros a Shein, Temu y AliExpress: así funciona el recargo a las compras ‘online’ extracomunitarias",
+   "link": "https://elpais.com/economia/2026-10-31/claves-de-la-nueva-tasa-de-2-euros-a-shein-temu-y-aliexpress-asi-funciona-el-recargo-a-las-compras-online-extracomunitarias.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/YGE77DQIJJIA3JVOFZ6IE7QYOE.jpg?auth=93c6265709a43a5320877aafcd0d7ea59dd1ba6c1bf8c1cf7a436152238a5aa1",
+   "date": "2026-10-31T13:18:33+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
@@ -52,14 +60,6 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Daniel Fuentes, economista y profesor: “Generosidad en las pensiones no significa abundancia”",
-   "link": "https://elpais.com/economia/negocios/2026-10-31/daniel-fuentes-economista-y-profesor-generosidad-en-las-pensiones-no-significa-abundancia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/YQDXUNW6IFDU5HXPL5RZOD6HNA.jpg?auth=c549f7a87f4f1795bd6eaa78ab88d0af0092ec68b6589c73691b4c74efa81890",
-   "date": "2026-10-31T04:30:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
    "title": "El vaivén regulatorio y las elecciones ya impactan el mercado del alquiler de viviendas: se paralizan contratos y cae la oferta",
    "link": "https://elpais.com/economia/negocios/2026-10-31/el-vaiven-regulatorio-y-las-elecciones-paralizan-el-mercado-del-alquiler-de-viviendas.html",
    "image": "https://imagenes.elpais.com/resizer/v2/FYPWG5TPY5F47EQY33TQJBRKUY.jpg?auth=ba22a82e8d64c6abb6e172701b236f6e8be3f68f9cbe9dbb4bccea335142049e",
@@ -70,7 +70,7 @@
    "source": "Expansión",
    "title": "Cómo reaccionará el mercado a las ‘midterm’",
    "link": "https://www.expansion.com/inversion/2026/10/31/reaccionara-mercado-midterm.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934046014661.jpg",
+   "image": "",
    "date": "2026-10-31T00:56:53+01:00"
   },
   {
@@ -80,14 +80,6 @@
    "link": "https://www.expansion.com/economia/2026/10/31/trump-afronta-elecciones-marcadas-inflacion-deficit.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934044076903.jpg",
    "date": "2026-10-31T00:53:31+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El robo a Binance dispara la alarma sobre la seguridad 'cripto'",
-   "link": "https://www.expansion.com/mercados/criptomonedas/2026/10/31/robo-binance-dispara-alarma-sobre-seguridad-cripto.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/31/17934043196205.jpg",
-   "date": "2026-10-31T00:52:03+01:00"
   },
   {
    "lang": "es",
@@ -110,7 +102,7 @@
    "source": "Expansión",
    "title": "La banca dispara el atractivo de los depósitos a 3 y 6 meses",
    "link": "https://www.expansion.com/ahorro/2026/10/30/banca-dispara-atractivo-depositos-3-6-meses.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17934010996324.jpg",
+   "image": "",
    "date": "2026-10-30T23:58:30+01:00"
   },
   {
@@ -138,6 +130,14 @@
    "date": "2026-10-30T20:34:46+00:00"
   },
   {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
+   "link": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html",
+   "image": "",
+   "date": "2026-10-30T18:39:26+01:00"
+  },
+  {
    "lang": "en",
    "source": "BBC Business",
    "title": "City of London chief tops UK Black Powerlist",
@@ -162,20 +162,20 @@
    "date": "2026-10-30T12:27:28+00:00"
   },
   {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Estos son los candidatos a 'coche del año' 2027: todos eléctricos, ninguno chino y dos fabricados en España",
+   "link": "https://www.expansion.com/empresas/motor/2026/10/30/son-candidatos-coche-ano-2027-todos-electricos-ninguno-chino-dos-fabricados-espana.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933569145194.jpg",
+   "date": "2026-10-30T11:42:04+01:00"
+  },
+  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
    "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
    "image": "",
    "date": "2026-10-30T11:16:46+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "El Nasdaq cae un 5,3% en su peor mes desde marzo de 2025",
-   "link": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/10/30/17933788356730.jpg",
-   "date": "2026-10-30T08:58:44+01:00"
   },
   {
    "lang": "en",
