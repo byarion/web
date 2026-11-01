@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-01T09:49:58.379608+00:00",
+ "updated": "2026-11-01T17:18:38.539148+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Thousands of jobs at Virgin Media O2 to be cut",
+   "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
+   "date": "2026-11-01T16:57:14+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+   "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
+   "date": "2026-11-01T13:11:37+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La era de los desequilibrios",
+   "link": "https://elpais.com/economia/negocios/2026-11-01/la-era-de-los-desequilibrios.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/3PWHE4IO3NDOTIEEG3XZHEAPM4.jpg?auth=2eec26f2cf4ecf30c7e65b6518f2e530fce28694948ef95a11c00f9f56edcfb5",
+   "date": "2026-11-01T12:40:57+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
@@ -36,7 +60,7 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "De Cos, un perfil de equilibrio y consenso para tiempos volcánicos",
+   "title": "De Cos, equilibrio y consenso para tiempos volcánicos",
    "link": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
    "image": "https://imagenes.elpais.com/resizer/v2/NEWSVHNYSFM6XJTBAIWY2P4654.jpg?auth=64bc897280d7c341db1e19acf40f3df4c0927fa4af1b04789d2e88e514f231fb",
    "date": "2026-11-01T04:30:01+00:00"
@@ -48,14 +72,6 @@
    "link": "https://elpais.com/economia/2026-11-01/zamora-se-pone-en-pie-de-guerra-por-la-construccion-de-un-macrocentro-de-datos-es-una-manera-de-echarnos.html",
    "image": "https://imagenes.elpais.com/resizer/v2/C74ISAHYGBF3HKUV65VOKFF5DE.jpg?auth=f6da93df4077ffac9040c0bbd21b05350a7bc5be750e931e7af41ca06f3650c4",
    "date": "2026-11-01T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El planeta nos cobrará aranceles",
-   "link": "https://elpais.com/economia/negocios/2026-11-01/el-planeta-nos-cobrara-aranceles.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/N32RU57J5ZHLXNJP7BOYYKGIUE.jpg?auth=7b5912022ad5958a9ca39cc04a57ce16e50491940692f8355c63092613ea8e33",
-   "date": "2026-11-01T04:30:00+00:00"
   },
   {
    "lang": "es",
@@ -188,26 +204,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "How video game remakes tap the power of nostalgia",
-   "link": "https://www.bbc.co.uk/news/articles/cm9qz428nnljo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f80/live/10dfbd10-c949-11f1-bc2e-018d645d8d21.jpg",
-   "date": "2026-10-30T07:45:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "How Poundland grew from a market stall to a high street giant",
    "link": "https://www.bbc.co.uk/news/articles/cw07304l5je7o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8062/live/2dd0c130-d3d0-11f1-9c32-1532a6164171.jpg",
    "date": "2026-10-30T06:08:22+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "From Levi's to Primark - the fashion chains selling mended clothes",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy9qe5r1z3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f93/live/75a32910-c9a5-11f1-ad54-aba20166b422.jpg",
-   "date": "2026-10-30T00:00:35+00:00"
   },
   {
    "lang": "en",
