@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-02T02:56:50.475355+00:00",
+ "updated": "2026-11-02T10:21:13.011612+00:00",
  "items": [
   {
    "name": "Ibex 35",
    "name_en": "Ibex 35",
-   "price": 18652.9,
-   "change": -1.0855019388216978
+   "price": 18839.8,
+   "change": 1.0019868517012804
   },
   {
    "name": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
-   "price": 6131.31,
-   "change": -1.2205408729760032
+   "price": 6155.14,
+   "change": 0.38865986515964673
   },
   {
    "name": "DAX (Alemania)",
    "name_en": "DAX (Germany)",
-   "price": 25818.21,
-   "change": -0.8505084937980802
+   "price": 25877.66,
+   "change": 0.23026019364359704
   },
   {
    "name": "FTSE 100 (Reino Unido)",
    "name_en": "FTSE 100 (UK)",
-   "price": 10729.78,
-   "change": 0.07163140527332175
+   "price": 10738.67,
+   "change": 0.08266878668719405
   },
   {
    "name": "S&P 500",
@@ -46,44 +46,44 @@
   {
    "name": "Nikkei 225 (Japón)",
    "name_en": "Nikkei 225 (Japan)",
-   "price": 63095.11,
-   "change": -0.30810402593019603
+   "price": 63081.86,
+   "change": -0.32903936658744226
   },
   {
    "name": "Oro (USD)",
    "name_en": "Gold (USD)",
-   "price": 3914.6,
-   "change": 0.40268019311837405
+   "price": 3906.6,
+   "change": 0.19749410985445254
   },
   {
    "name": "Petróleo Brent (USD)",
    "name_en": "Brent crude (USD)",
-   "price": 110.37,
-   "change": -6.179870305480591
+   "price": 108.43,
+   "change": -7.8289692599733645
   },
   {
    "name": "EUR/USD",
    "name_en": "EUR/USD",
-   "price": 1.1168,
-   "change": -0.1323934322564855
+   "price": 1.122,
+   "change": 0.3326061685245636
   },
   {
    "name": "Bitcoin (EUR)",
    "name_en": "Bitcoin (EUR)",
-   "price": 70256,
-   "change": 1.3219386059873108
+   "price": 69453,
+   "change": -0.3561896119059361
   },
   {
    "name": "Ethereum (EUR)",
    "name_en": "Ethereum (EUR)",
-   "price": 2053.05,
-   "change": 1.5329093605518684
+   "price": 2036.74,
+   "change": 0.4129538257707954
   },
   {
    "name": "Solana (EUR)",
    "name_en": "Solana (EUR)",
-   "price": 84.93,
-   "change": -0.3216984465153976
+   "price": 83.83,
+   "change": -1.7267905263768286
   }
  ]
 }

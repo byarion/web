@@ -1,29 +1,125 @@
 {
- "updated": "2026-11-02T02:56:49.099086+00:00",
+ "updated": "2026-11-02T10:21:11.479512+00:00",
  "items": [
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Binance users withdraw $3.6bn after record crypto hack",
+   "title": "Ryanair says it may freeze workers' pay and raise airfares",
+   "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
+   "date": "2026-11-02T10:04:39+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "La debacle de los bonos basura provoca una ‘masacre’ entre los inversores en crédito",
+   "link": "https://www.expansion.com/economia/financial-times/2026/11/02/debacle-bonos-basura-provoca-masacre-inversores-credito.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936101145623.jpg",
+   "date": "2026-11-02T10:02:04+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Las tres fechas clave en noviembre que afronta Telefónica",
+   "link": "https://www.expansion.com/mercados/2026/11/02/tres-fechas-clave-noviembre-afronta-telefonica-1.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936078276903.jpg",
+   "date": "2026-11-02T09:23:49+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "PP y Vox suman una amplia mayoría y el PSOE se hunde por debajo de los 100 escaños",
+   "link": "https://www.expansion.com/elecciones/elecciones-generales/2026/11/02/sondeos-pp-vox-suman-amplia-mayoria-psoe-hunde-debajo-100-escanos.html",
+   "image": "",
+   "date": "2026-11-02T09:00:10+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Ibex estrena mes con el alivio del petróleo",
+   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/11/02/ibex-estrena-mes-alivio-petroleo.html",
+   "image": "",
+   "date": "2026-11-02T07:54:52+01:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
    "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a7f/live/ad865b20-d64f-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-02T01:15:25+00:00"
+   "date": "2026-11-02T07:42:33+00:00"
   },
   {
    "lang": "es",
-   "source": "Expansión",
-   "title": "Los fondos cazaopas logran vía libre para invertir fuera del radar en España",
-   "link": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/02/fondos-cazaopas-logran-via-libre-invertir-fuera-radar-espana.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/02/17935753275464.png",
-   "date": "2026-11-02T00:22:42+01:00"
+   "source": "El País",
+   "title": "Próximas batallas del euro digital",
+   "link": "https://elpais.com/economia/2026-11-02/proximas-batallas-del-euro-digital.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/DWBLARD5O5E7NN5F2UY3BN4LKM.jpg?auth=052d3211d1d72c3f75ea25353f287fae2173dea77196c47420d737b88edbc3a3",
+   "date": "2026-11-02T07:31:26+00:00"
   },
   {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "De Texas a Michigan: los estados clave que decidirán las 'midterm'",
-   "link": "https://www.expansion.com/economia/2026/11/01/texas-michigan-estados-clave-decidiran-midterm.html",
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
+   "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
    "image": "",
-   "date": "2026-11-02T00:13:07+01:00"
+   "date": "2026-11-02T06:02:03+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Si los jóvenes protestan, tienen esperanza",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-02/si-los-jovenes-protestan-tienen-esperanza.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/Q5DV6LDVBBP7BCDLAATM5BZIJY.jpg?auth=e014bc42131b4bd3df6c16caa5e7968485bda53414061403fd154176261e7510",
+   "date": "2026-11-02T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La UE afronta una negociación de vértigo para cerrar el relevo de Lagarde y el nuevo presupuesto comunitario en diciembre",
+   "link": "https://elpais.com/economia/2026-11-02/la-ue-afronta-una-negociacion-de-vertigo-para-cerrar-el-relevo-de-lagarde-y-el-nuevo-presupuesto-comunitario-en-diciembre.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261029/1231511_131847_video_1800.mp4",
+   "date": "2026-11-02T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El rechazo a la reforma de pensiones de Merz gana peso en Alemania",
+   "link": "https://elpais.com/economia/2026-11-02/el-rechazo-a-la-reforma-de-pensiones-de-merz-gana-peso-en-alemania.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VWNS3Y57DRNTHL3W4CDVVGKYK4.jpg?auth=3fccdf3c322c9399e6653cdd9bacdfde9fba3562d04e2d095fa527c0654f50e8",
+   "date": "2026-11-02T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Astronómicos beneficios inevitables",
+   "link": "https://elpais.com/economia/2026-11-02/astronomicos-beneficios-inevitables.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/HU5Z2UFLLISMPEWF24LPK5HCRM.jpg?auth=2edcbaf89eeb8b1ec31f0419c7c03a13185040f892f0ed32a5158c62dd8a627b",
+   "date": "2026-11-02T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La IA quiere el dinero de los inversores, pero no sus opiniones",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/la-ia-declara-la-guerra-al-capitalismo-popular.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/WQNCYM5VKVJ6LNUHEQKVLUGGA4.jpg?auth=7f9c267c9ec2e73c1d66dc04dfe0c0929730aba30386c4fc569043fbcb0e189c",
+   "date": "2026-11-02T04:30:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Bonos: ¿hora de salir del banquillo?",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-02/bonos-hora-de-salir-del-banquillo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/RIBWERODUFIALGKNRHBXEKQDXU.jpg?auth=0419073081b0d694457bcf0b3fc4f6982fa28e85ba468b230cba1b093a7f1bbc",
+   "date": "2026-11-02T04:25:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Denuncian la recopilación de datos personales de trabajadores de Inteligencia Artificial",
+   "link": "https://www.naiz.eus/gaiak/noticia/20261102/denuncian-la-recopilacion-de-datos-personales-de-trabajadores-de-inteligencia-artificial",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/892/news_landscape/etx_251120_039699.jpg",
+   "date": "2026-11-02T04:00:00+00:00"
   },
   {
    "lang": "es",
@@ -36,34 +132,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Sabadell negocia con Sanitas la renovación de su alianza en salud",
-   "link": "https://www.expansion.com/empresas/banca/2026/11/02/sabadell-negocia-sanitas-renovacion-alianza-salud.html",
-   "image": "",
-   "date": "2026-11-02T00:02:36+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
    "title": "Los hedge fund dueños de Codere analizan vender el grupo por partes",
    "link": "https://www.expansion.com/empresas/2026/11/02/hedge-fund-duenos-codere-analizan-vender-grupo-partes.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/02/17935741282560.jpg",
-   "date": "2026-11-02T00:02:17+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Dos consejeros de Sabadell reinvirtieron el dividendo de TSB",
-   "link": "https://www.expansion.com/empresas/banca/2026/11/02/dos-consejeros-sabadell-reinvirtieron-dividendo-tsb.html",
    "image": "",
-   "date": "2026-11-02T00:02:03+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "McKinsey: \"España debe encontrar su propia definición del lujo\"",
-   "link": "https://www.expansion.com/empresas/2026/11/02/mckinsey-espana-debe-encontrar-propia-definicion-lujo.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/02/17935740885113.jpg",
-   "date": "2026-11-02T00:01:41+01:00"
+   "date": "2026-11-02T00:02:17+01:00"
   },
   {
    "lang": "es",
@@ -74,60 +146,28 @@
    "date": "2026-11-02T00:01:19+01:00"
   },
   {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Diez valores de la Bolsa española disparan su contratación",
+   "link": "https://www.expansion.com/mercados/2026/11/01/diez-valores-bolsa-espanola-disparan-contratacion.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/02/17936040229345.jpg",
+   "date": "2026-11-01T23:57:38+01:00"
+  },
+  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Don't get caught out by new Buy Now Pay Later rules",
    "link": "https://www.bbc.co.uk/news/articles/crpdgp4y017go?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3c9/live/8607fcf0-d462-11f1-ab12-eb0c94f5b382.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f4/live/1513a640-d690-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-01T23:34:49+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Thousands of jobs at Virgin Media O2 to be cut",
+   "title": "Virgin Media O2 set to cut thousands of jobs to reduce costs",
    "link": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac17/live/9ec7c8b0-d610-11f1-bdc5-33a5057f63d4.jpg",
    "date": "2026-11-01T16:57:14+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
-   "link": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e52/live/ccbb9490-d53e-11f1-93de-81de9e959fac.jpg",
-   "date": "2026-11-01T13:11:37+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La era de los desequilibrios",
-   "link": "https://elpais.com/economia/negocios/2026-11-01/la-era-de-los-desequilibrios.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/3PWHE4IO3NDOTIEEG3XZHEAPM4.jpg?auth=2eec26f2cf4ecf30c7e65b6518f2e530fce28694948ef95a11c00f9f56edcfb5",
-   "date": "2026-11-01T12:40:57+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las costuras del ciclo expansivo",
-   "link": "https://elpais.com/economia/negocios/2026-11-01/las-costuras-del-ciclo-expansivo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6ZNP7GA5OROBFJZIZ4ZTKNB5PA.jpg?auth=0b67bb604ad2df3926dc7174348ae24b1f000cd2cdae3d912291e212171cf897",
-   "date": "2026-11-01T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Palmer Luckey y Ben Lamm, los milmillonarios frikis detrás de los superperros de guerra",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-01/palmer-luckey-y-ben-lamm-los-milmillonarios-frikis-detras-de-los-superperros-de-guerra.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QNB6XQEHV5HSLLVW5SR7IXBIQM.jpg?auth=cbd6db32478b69caed54976d9058123613444db223cd1c4a067777c48ae66153",
-   "date": "2026-11-01T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: las energéticas esquivan esta vez el debate sobre el auge de sus beneficios",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-01/las-claves-las-energeticas-esquivan-esta-vez-el-debate-sobre-el-auge-de-sus-beneficios.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/XRFI7YL7MBL63H2IDWYODBESAU.jpg?auth=7f24c4f83f7011e38259e6f74e3233d2e6b7eb71a5f2eab21b84bf4ab3aff177",
-   "date": "2026-11-01T04:40:00+00:00"
   },
   {
    "lang": "es",
@@ -138,44 +178,12 @@
    "date": "2026-11-01T04:30:01+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "De Cos, equilibrio y consenso para tiempos volcánicos",
-   "link": "https://elpais.com/economia/2026-11-01/de-cos-un-perfil-de-equilibrio-y-consenso-para-tiempos-volcanicos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/NEWSVHNYSFM6XJTBAIWY2P4654.jpg?auth=64bc897280d7c341db1e19acf40f3df4c0927fa4af1b04789d2e88e514f231fb",
-   "date": "2026-11-01T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Zamora se pone en pie de guerra por la construcción de un macrocentro de datos: “Es una manera de echarnos”",
-   "link": "https://elpais.com/economia/2026-11-01/zamora-se-pone-en-pie-de-guerra-por-la-construccion-de-un-macrocentro-de-datos-es-una-manera-de-echarnos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/C74ISAHYGBF3HKUV65VOKFF5DE.jpg?auth=f6da93df4077ffac9040c0bbd21b05350a7bc5be750e931e7af41ca06f3650c4",
-   "date": "2026-11-01T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Intervenir en vivienda puede atraer apoyos de votantes de derecha",
-   "link": "https://www.naiz.eus/info/noticia/20261101/intervenir-en-vivienda-puede-atraer-votos-de-votantes-de-derecha",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/021/news_landscape/1101_EG_MARICARMEN.jpg",
-   "date": "2026-11-01T04:18:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "No more washing up: How Airbnb's new house rules have divided hosts and guests",
    "link": "https://www.bbc.co.uk/news/articles/ckjwez8g5dyeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52bf/live/c3b77ec0-d3b5-11f1-a340-478c8f3b9e55.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf37/live/68e1e930-d68b-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-01T00:17:05+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Crecimiento sin inversión privada: cómo la economía española mejora con menos recursos",
-   "link": "https://elpais.com/economia/2026-10-31/crecimiento-sin-inversion-privada-como-la-economia-espanola-mejora-con-menos-recursos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SEUF4XH6GRM6TMCPZAY2PG64VU.jpg?auth=e4f89dea9a82f15534708e9ad8875dc3ab0a8eb1ce7a77f7514fa8bf1036269e",
-   "date": "2026-10-31T04:45:01+00:00"
   },
   {
    "lang": "en",
@@ -256,14 +264,6 @@
    "link": "https://www.cnbc.com/2026/10/28/scott-bessent-interview.html",
    "image": "",
    "date": "2026-10-28T21:06:37+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "The UK cuts energy bills, taxes banks and boosts defense in high-stakes budget",
-   "link": "https://www.cnbc.com/2026/10/28/uk-autumn-budget-cost-living-defense-ai.html",
-   "image": "",
-   "date": "2026-10-28T15:39:14+00:00"
   }
  ]
 }
