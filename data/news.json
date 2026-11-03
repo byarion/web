@@ -1,21 +1,117 @@
 {
- "updated": "2026-11-03T10:11:58.374260+00:00",
+ "updated": "2026-11-03T18:43:42.323501+00:00",
  "items": [
   {
    "lang": "es",
+   "source": "El País",
+   "title": "Un informe propone un aval público a los inquilinos para cubrir hasta 140.000 contratos de alquiler al año",
+   "link": "https://elpais.com/economia/vivienda/2026-11-03/un-informe-propone-un-aval-publico-a-los-inquilinos-para-cubrir-hasta-140000-contratos-de-alquiler-al-ano.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/RGD2NQKPINLHBESEET6LHA5BAE.jpg?auth=b544a2fe1995e32f386d6cfd767b64ae49748ccdf3c9d04cd16983f2e6d3c447",
+   "date": "2026-11-03T18:11:20+00:00"
+  },
+  {
+   "lang": "es",
    "source": "Expansión",
-   "title": "Nvidia ordena a sus clientes de centros de datos que reduzcan su exposición a China",
-   "link": "https://www.expansion.com/economia/financial-times/2026/11/03/nvidia-ordena-clientes-centros-datos-reduzcan-exposicion-china.html",
+   "title": "De Cos advierte del riesgo de desplome bursátil por la IA",
+   "link": "https://www.expansion.com/mercados/2026/11/03/cos-advierte-riesgo-desplome-bursatil-ia.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937250213295.jpg",
+   "date": "2026-11-03T17:57:10+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "De la alfombra roja al peaje de salida: Italia quiere cobrar a los millonarios por marcharse",
+   "link": "https://www.expansion.com/fiscal/2026/11/03/alfombra-roja-peaje-salida-italia-quiere-cobrar-millonarios-marcharse.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937232745623.jpg",
+   "date": "2026-11-03T17:28:04+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "UGT firma el preacuerdo del convenio de hostelería de Nafarroa y ELA lo califica de «pésimo»",
+   "link": "https://www.naiz.eus/info/noticia/20261103/ugt-firma-el-preacuerdo-del-convenio-de-hosteleria-de-nafarroa-y-ela-lo-califica-de-pesimo",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/626/news_landscape/1105_eko_ugt.jpg",
+   "date": "2026-11-03T16:50:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Itxaso destaca que el presupuesto de Vivienda «no retrocede» pese a perder fondos europeos",
+   "link": "https://www.naiz.eus/info/noticia/20261103/itxaso-destaca-que-el-presupuesto-de-vivienda-no-retrocede-pese-a-perder-fondos-europeos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/625/news_landscape/ITXASO.jpg",
+   "date": "2026-11-03T16:31:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
+   "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
    "image": "",
-   "date": "2026-11-03T10:24:02+01:00"
+   "date": "2026-11-03T16:10:21+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Asda hires ex-Morrisons boss in bid to grow firm",
+   "link": "https://www.bbc.co.uk/news/articles/c6vg0xzd0ln4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bba/live/70863010-d794-11f1-801d-cf196dc7232c.jpg",
+   "date": "2026-11-03T15:12:35+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Mining giant joins fight to stop killer toad march across Australia",
+   "link": "https://www.bbc.co.uk/news/articles/c3dxw8p99ervo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1be5/live/c655d960-d770-11f1-a956-ff083523ef77.jpg",
+   "date": "2026-11-03T15:05:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los pensionistas se manifestarán el 21 de noviembre en Bilbo en defensa del sistema público",
+   "link": "https://www.naiz.eus/info/noticia/20261103/el-movimiento-de-pensionistas-convocan-una-nueva-manifestacion-el-21-de-noviembre-en-bilbo",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/604/news_landscape/pensionistas_gasteiz.jpg",
+   "date": "2026-11-03T13:39:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Botín pide liberar los colchones de capital bancario para crecer más",
+   "link": "https://www.expansion.com/empresas/banca/2026/11/03/botin-pide-liberar-colchones-capital-bancario-crecer.html",
+   "image": "",
+   "date": "2026-11-03T13:20:45+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Pinchazo en la Cumbre Iberoamericana: Lula y Sheinbaum dejan solo a Sánchez",
+   "link": "https://www.expansion.com/economia/2026/11/03/pinchazo-cumbre-iberoamericana-lula-shainbaum-dejan-sanchez.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17937043215819.jpg",
+   "date": "2026-11-03T13:13:56+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Así será la subida de las pensiones en 2027 tras conocerse el IPC de octubre",
+   "link": "https://www.expansion.com/economia/2026/11/03/asi-sera-subida-pensiones-2027-conocerse-ipc-octubre.html",
+   "image": "",
+   "date": "2026-11-03T13:01:21+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Gobierno aprueba las indemnizaciones por Urda: hasta 288.000 euros por fallecido e incapacidad temporal \"mejorada\"",
+   "link": "https://www.expansion.com/economia/2026/11/03/gobierno-aprueba-indemnizaciones-afectados-urda-216-000-euros-fallecido-e-incapacidad-temporal-mejorada.html",
+   "image": "",
+   "date": "2026-11-03T12:36:56+01:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
    "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d44/live/1a0b49b0-d757-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-03T09:55:47+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-03T12:07:59+00:00"
   },
   {
    "lang": "en",
@@ -23,7 +119,15 @@
    "title": "Drivers may get compensation offers before car finance saga ends",
    "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe5c/live/9c202ea0-d6dc-11f1-b2be-0146bf989691.jpg",
-   "date": "2026-11-03T09:45:39+00:00"
+   "date": "2026-11-03T11:56:31+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'Quiet quitting' could be hitting the economy - here's why",
+   "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5666/live/b5686c80-d793-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-03T11:15:51+00:00"
   },
   {
    "lang": "en",
@@ -34,28 +138,20 @@
    "date": "2026-11-03T08:33:20+00:00"
   },
   {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El Ibex choca con los 19.000 puntos a la espera del resultado electoral en EEUU",
+   "link": "https://www.expansion.com/mercados/cronica-bolsa/2026/11/03/ibex-choca-19-000-puntos.html",
+   "image": "",
+   "date": "2026-11-03T07:59:00+01:00"
+  },
+  {
    "lang": "en",
    "source": "BBC Business",
    "title": "From scooters to shampoo - the people saving hundreds from dumpster diving",
    "link": "https://www.bbc.co.uk/news/articles/cm86zdp2ygqno?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb7f/live/0436c4d0-d75b-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-03T07:50:14+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Apple unsure when more foldable iPhones will be available after selling out",
-   "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2b/live/05d33ff0-d71d-11f1-b723-458a2ded4fa2.jpg",
-   "date": "2026-11-03T07:03:03+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Beldurra eta poltsikoa lehian, dolarrez puztutako kanpainan",
-   "link": "https://www.naiz.eus/info/noticia/20261103/beldurra-eta-poltsikoa-lehian-dolarrez-puztutako-kanpainan",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/439/news_landscape/1031_mun_trump.jpg",
-   "date": "2026-11-03T05:00:00+00:00"
   },
   {
    "lang": "es",
@@ -114,28 +210,12 @@
    "date": "2026-11-03T04:40:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Un agente inmobiliario quiere cobrarnos por enseñarnos un piso. ¿Es normal?",
-   "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-03/un-agente-inmobiliario-quiere-cobrarnos-por-ensenarnos-un-piso-es-normal.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/5CJWZBOFJVFUVPM5AVQLTJ3Y6Y.jpg?auth=83358f273f881fdd52555e3a1a40059b441e79274498f9a865817dcee3423bf6",
-   "date": "2026-11-03T04:30:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Australia hikes rates to 18-year high to fight inflation",
    "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
    "image": "",
    "date": "2026-11-03T03:46:20+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Christmas 2026 stamps unveiled by Royal Mail",
-   "link": "https://www.bbc.co.uk/news/articles/cw62yeq7958ro?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/122a/live/04bfac10-d728-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-03T02:27:50+00:00"
   },
   {
    "lang": "es",
@@ -146,76 +226,12 @@
    "date": "2026-11-03T01:26:01+01:00"
   },
   {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "EEUU se juega en las urnas el poder con el que Trump agotará su mandato",
-   "link": "https://www.expansion.com/economia/2026/11/03/eeuu-juega-urnas-trump-agotara-mandato.html",
-   "image": "",
-   "date": "2026-11-03T01:20:29+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Santander recibe 620 millones de AXA por su pleito en Reino Unido",
-   "link": "https://www.expansion.com/empresas/banca/2026/11/03/santander-recibe-620-millones-axa-pleito-reino-unido.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17936650658680.png",
-   "date": "2026-11-03T01:18:04+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "PwC cerrará el año con el fichaje de más de 1.300 profesionales",
-   "link": "https://www.expansion.com/empresas/2026/11/03/pwc-cerrara-ano-fichaje-1-300-profesionales.html",
-   "image": "",
-   "date": "2026-11-03T01:13:46+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "ING busca atraer grandes fortunas internacionales a España",
-   "link": "https://www.expansion.com/empresas/banca/2026/11/03/ing-busca-atraer-grandes-fortunas-internacionales-espana.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17936647885625.jpg",
-   "date": "2026-11-03T01:13:10+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Toyota apunta a récord de ventas en plena oleada de marcas chinas",
-   "link": "https://www.expansion.com/empresas/motor/2026/11/03/toyota-apunta-record-ventas-plena-oleada-marcas-chinas.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/03/17936623840395.jpg",
-   "date": "2026-11-03T00:33:15+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Renfe sigue adelante con la compra de 30 AVE de 350 km/hora",
-   "link": "https://www.expansion.com/empresas/transporte/2026/11/03/renfe-sigue-adelante-compra-30-ave-350-km-hora.html",
-   "image": "",
-   "date": "2026-11-03T00:24:10+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Frente Amplio se presenta como alternativa al PNV en una disyuntiva entre «vivienda o rentismo»",
-   "link": "https://www.naiz.eus/info/noticia/20261102/frente-amplio-se-presenta-como-alternativa-al-pnv-en-una-disyuntiva-entre-vivienda-o-rentismo",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/446/news_landscape/frenteamplio.jpg",
-   "date": "2026-11-02T18:40:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Shop freezers in seven European countries hit by cyber-attack",
    "link": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31c7/live/152ec730-d6c3-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-02T17:38:11+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Ryanair says it may freeze workers' pay and raise airfares",
-   "link": "https://www.bbc.co.uk/news/articles/cr0qkve1x224o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895b/live/a85523b0-d691-11f1-8f56-0b6ab08f384e.jpg",
-   "date": "2026-11-02T12:22:10+00:00"
   },
   {
    "lang": "en",
@@ -264,14 +280,6 @@
    "link": "https://www.cnbc.com/2026/10/29/european-central-bank-interest-rates.html",
    "image": "",
    "date": "2026-10-29T14:48:01+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference",
-   "link": "https://www.cnbc.com/2026/10/28/fed-rate-decision-warsh-takeaways.html",
-   "image": "",
-   "date": "2026-10-28T21:31:46+00:00"
   }
  ]
 }
