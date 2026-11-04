@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Spain net salary calculator (gross to net) · Ondexi</title>
+<meta name="description" content="Go from gross to net salary in Spain: an estimate with 2026 social security and income tax (IRPF), number of payments and children.">
+<link rel="canonical" href="https://ondexi.com/en/calculators/net-salary-spain.html">
+<link rel="alternate" hreflang="es" href="https://ondexi.com/calculadoras/sueldo-neto.html">
+<link rel="stylesheet" href="../../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#0b1f3a">
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Home</a><a href="../#calculators">Calculators</a><a class="lang" href="../../calculadoras/sueldo-neto.html">ES</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="../#calculators">← All calculators</a></p>
+<h1>Spain net salary calculator</h1>
+<div class="card" style="margin:18px 0">
+<form id="calc" class="calc">
+<div><label>Gross annual salary (€)</label><input name="gross" type="number" min="0" step="100" value="30000"></div>
+<div><label>Number of payments</label><select name="pays"><option value="12">12 payments (extra pay spread out)</option><option value="14" selected>14 payments</option></select></div>
+<div><label>Contract type</label><select name="ctype"><option value="ind">Permanent</option><option value="temp">Fixed-term</option></select></div>
+<div><label>Children under 25 you support</label><select name="kids"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4 or more</option></select></div>
+</form>
+<div class="result" id="result" aria-live="polite"></div>
+<p class="note">Indicative result. Not financial advice.</p>
+</div>
+<h2>How to go from gross to net</h2>
+<p>Two main deductions come out of your gross salary:</p>
+<ul>
+<li><b>Employee social security (6.50% in 2026):</b> 4.70% for common contingencies, 1.55% for unemployment (1.60% on a fixed-term contract), 0.10% for vocational training and 0.15% for the Intergenerational Equity Mechanism (MEI). It is calculated up to a cap of €5,101.20 of monthly base.</li>
+<li><b>Income tax (IRPF):</b> your salary is reduced by social security and €2,000 of deductible expenses, and low salaries get an extra reduction. The tax brackets (19%, 24%, 30%, 37%, 45% and 47%) are applied to the result, and the tax on the €5,550 personal minimum, plus minimums for children, is deducted.</li>
+</ul>
+<h2>Important: this is an estimate</h2>
+<p>Your real payslip can differ, for example because of:</p>
+<ul>
+<li><b>Your region.</b> Each region under the common regime can set its own brackets. This tool uses the general scale. <b>The Basque Country and Navarre</b> have a separate foral system with different tables, so the result for them is only approximate.</li>
+<li><b>Your personal situation:</b> spouse, disability, children under 3, payments to an ex-spouse, dependent relatives…</li>
+<li>Bonuses, benefits in kind or collective agreements that are taxed differently.</li>
+<li>Possible exemptions or yearly changes for the lowest salaries, which this calculator does not include.</li>
+</ul>
+<p>The income tax figure here is the <b>estimated withholding</b>. The final tax is settled when you file your annual return. For your exact case, check your payslip or ask an adviser.</p>
+<p class="note">2026 social security and income tax data for the general regime. Indicative result, not tax advice.</p>
+<h2>Frequently asked questions</h2><h3>What is the difference between gross and net salary?</h3><p>Gross is what your contract says before deductions. Net is what you actually receive, after social security and income tax withholding.</p><h3>Why do I get less each month with 14 payments?</h3><p>The annual salary is the same, but it is split into 14 payments instead of 12, so each one is smaller. With extra pay spread out you get a bit more each month, though the yearly total is the same.</p><h3>Does it work for self-employed people?</h3><p>No. Self-employed workers contribute under a different system, with their own fee and different taxation.</p>
+<h2>Keep learning</h2>
+<div class="grid"><a class="card guide" href="../guides/income-tax-spain.html"><h3>Income tax in Spain (IRPF)</h3></a><a class="card guide" href="../guides/50-30-20-rule.html"><h3>The 50/30/20 budgeting rule</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacy.html">Privacy</a><a href="../legal-notice.html">Legal notice</a><a href="../contact.html">Contact</a></div>© Ondexi</div></footer>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"mon": "Net pay per payment", "pay": "payments", "yr": "Net annual salary", "ss": "Social security", "tx": "Estimated income tax", "dec": "."},loc="en-GB";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var g=parseFloat(f.gross.value)||0,pg=parseInt(f.pays.value,10)||12,ct=f.ctype.value,kids=parseInt(f.kids.value,10)||0;if(g<=0){out.innerHTML="";return}var base=Math.min(g,5101.2*12),des=ct==="temp"?0.016:0.0155,ssr=0.047+des+0.001+0.0015,ss=base*ssr;var rn=Math.max(0,g-ss-2000),red=0;if(rn<=14852){red=7302}else if(rn<=17673.52){red=7302-1.75*(rn-14852)}else if(rn<=19747.5){red=2364.34-1.14*(rn-17673.52)}red=Math.max(0,red);var bl=Math.max(0,rn-red);var T=[[12450,0.19],[20200,0.24],[35200,0.30],[60000,0.37],[300000,0.45],[Infinity,0.47]];function tax(x){var t=0,prev=0,i;for(i=0;i<T.length;i++){if(x>prev){t+=(Math.min(x,T[i][0])-prev)*T[i][1]}prev=T[i][0]}return t}var kd=[2400,2700,4000,4500],mn=5550,k;for(k=0;k<kids&&k<4;k++){mn+=kd[k]}var irpf=Math.max(0,tax(bl)-tax(mn)),net=g-ss-irpf;out.innerHTML=L.mon+' ('+pg+' '+L.pay+'): <b>'+m(net/pg)+'</b><br>'+L.yr+': <b>'+m(net)+'</b><br>'+'<span class="note">'+L.ss+': '+m(ss)+' ('+(ssr*100).toFixed(2).replace(".",L.dec)+' %) · '+L.tx+': '+m(irpf)+' ('+(irpf/g*100).toFixed(1).replace(".",L.dec)+' %)</span>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+</body>
+</html>

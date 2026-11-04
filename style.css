@@ -78,3 +78,4 @@ select{width:100%;padding:10px;border:1px solid var(--line);border-radius:8px;fo
 .ticker.paused .track{animation-play-state:paused}
 .tk-toggle{display:block;margin:8px 0 0 auto;background:none;border:0;padding:4px 6px;color:var(--muted);font-size:.8rem;font-weight:500;cursor:pointer;border-radius:6px}
 .tk-toggle:hover,.tk-toggle:focus-visible{color:var(--ink);background:var(--line)}
+.tbl{overflow-x:auto;margin-top:12px}.tbl table{width:100%;border-collapse:collapse;font-size:.82rem}.tbl .tt{font-weight:700;color:var(--accent)}.tbl th,.tbl td{padding:6px 4px;border-bottom:1px solid var(--line);text-align:right}.tbl th:first-child,.tbl td:first-child{text-align:left}.tbl th{color:var(--muted);font-weight:600}
