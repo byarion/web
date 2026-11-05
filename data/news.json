@@ -1,29 +1,133 @@
 {
- "updated": "2026-11-05T09:58:16.388386+00:00",
+ "updated": "2026-11-05T19:08:36.145770+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La huelga general llena las calles, cierra la Torre Eiffel y obliga a dar un paso a Lecornu",
+   "link": "https://www.naiz.eus/info/noticia/20261105/la-huelga-general-llena-las-calles-cierra-la-torre-eiffel-y-obliga-a-dar-un-paso-a-lecornu",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/260/news_landscape/AFP__20261105__D6JQ6DF__v2__HighRes__FranceSocialDemo.jpg",
+   "date": "2026-11-05T17:58:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2258/live/1f0da230-d934-11f1-8bce-2396c9c50357.jpg",
+   "date": "2026-11-05T17:57:57+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Santiago Peña dimite como presidente de Paraguay tras el colapso del banco Ueno",
+   "link": "https://www.naiz.eus/info/noticia/20261105/santiago-pena-dimite-como-presidente-de-paraguay-tras-el-colapso-del-banco-ueno",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/258/news_landscape/ueno.jpg",
+   "date": "2026-11-05T17:33:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Interest rates hiked to 4% in first increase in over three years",
+   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
+   "date": "2026-11-05T17:09:55+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Cap Capital plantea bajar la masa salarial un 20%, despidiendo a trabajadores de Tubos Reunidos",
+   "link": "https://www.naiz.eus/info/noticia/20261105/cap-capital-plantea-bajar-la-masa-salarial-un-20-despidiendo-a-trabajadores-de-tubos-reunidos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/246/news_landscape/TR.jpg",
+   "date": "2026-11-05T16:37:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Voters say the economy drove them to the polls — and blame Trump for their troubles",
+   "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+   "image": "",
+   "date": "2026-11-05T16:07:59+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+   "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+   "image": "",
+   "date": "2026-11-05T16:01:47+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
+   "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcfc/live/126e9360-d900-11f1-9c68-d767468fa269.jpg",
+   "date": "2026-11-05T15:27:09+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El PP vincula el accidente de Urda y la crisis de vivienda con la falta de inversión del Gobierno",
+   "link": "https://elpais.com/economia/2026-11-05/el-pp-vincula-el-accidente-de-urda-y-la-crisis-de-vivienda-con-la-falta-de-inversion-del-gobierno.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VPPEDPSEBBHT5KTPUPEOD7DOSU.jpeg?auth=1d1a6d8c739fc45bca0457f75a1b97671645fbf8a7991b21d2c35f1a36337af2",
+   "date": "2026-11-05T14:40:51+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Here's what the Democratic election rout could mean for the U.S. economy",
+   "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
+   "image": "",
+   "date": "2026-11-05T14:33:32+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: How high will interest rates go?",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee7/live/856f7c60-d916-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-05T13:17:10+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Three ways the interest rate rise could affect you",
+   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296a/live/09ae45c0-d916-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-05T13:08:30+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Continúa la huelga indefinida en Ingeteam por un convenio digno",
+   "link": "https://www.naiz.eus/info/noticia/20261105/continua-la-huelga-indefinida-en-ingeteam-por-un-convenio-digno",
+   "image": "",
+   "date": "2026-11-05T12:41:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las empresas reclaman dejar de pagar las bajas laborales y dar el control a las mutuas para frenar el absentismo",
+   "link": "https://elpais.com/economia/2026-11-05/las-empresas-reclaman-dejar-de-pagar-las-bajas-laborales-y-dar-el-control-a-las-mutuas-para-frenar-el-absentismo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/LPNXRTWP3FE7ZLSQMLCEMOPWIA.jpg?auth=021cfe499661c9811c239992064e83152d4787a67f1c45704fa3c0a7fcd5bb40",
+   "date": "2026-11-05T12:30:06+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Competencia propone convertir en urbanizable todo el suelo no protegido para acelerar la construcción de vivienda",
+   "link": "https://elpais.com/economia/vivienda/2026-11-05/competencia-propone-convertir-en-urbanizable-todo-el-suelo-no-protegido-para-acelerar-la-construccion-de-vivienda.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/MJHUS3LSNFNNRO772EUIQURSJ4.jpg?auth=1a8148406743e2594c4eb9bb01d4efc77458edf5f7e3230d5188200f378d7b56",
+   "date": "2026-11-05T12:25:13+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
    "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7167/live/e990f5c0-d8f3-11f1-9c68-d767468fa269.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/99f8/live/fbd28350-d904-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-05T09:46:32+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Bizkaiko meatze-ondarea eta turismo jasangarria aldarrikatuko ditu BideBerdeatek",
-   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261105/bizkaiko-meatze-ondarea-eta-turismo-jasangarria-aldarrikatuko-ditu-pobenan-bideberdeatek",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/479/news_landscape/BIDEBERDEATE.jpg",
-   "date": "2026-11-05T08:20:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Koldo García dice que pactó con el PP un millón de euros «para derrocar a Sánchez»",
-   "link": "https://www.naiz.eus/info/noticia/20261105/koldo-garcia-dice-que-pacto-con-el-pp-un-millon-de-euros-para-derrocar-a-sanchez",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/121/news_landscape/EuropaPress_7504038_exasesor_ministerial_koldo_garcia_turno_ultima_palabra_juicio_tribunal.jpg",
-   "date": "2026-11-05T08:07:00+00:00"
   },
   {
    "lang": "es",
@@ -34,44 +138,12 @@
    "date": "2026-11-05T06:49:00+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
-   "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab9/live/2af7a860-d8e5-11f1-8a29-751f921d505b.jpg",
-   "date": "2026-11-05T06:01:05+00:00"
-  },
-  {
    "lang": "es",
    "source": "Expansión",
    "title": "Etxebarri, mejor restaurante del mundo en 2026",
    "link": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/11/05/etxebarri-mejor-restaurante-mundo-2026.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938506977970.jpg",
    "date": "2026-11-05T04:51:47+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los refugios fiscales británicos restan cada año 8.000 millones a la UE en recaudación",
-   "link": "https://elpais.com/economia/2026-11-05/los-refugios-fiscales-britanicos-restan-cada-ano-8000-millones-a-la-ue-en-recaudacion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/A3B6UQXLSVFT7BJLK4P4Y4XLG4.jpg?auth=2711c0a4961541e90645f1cc9e394a30f7ca40ca1b38dd9c1ed614d4897682c4",
-   "date": "2026-11-05T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El decreto de vivienda tendrá un coste de unos 1.300 millones anuales hasta 2031",
-   "link": "https://elpais.com/economia/2026-11-05/el-decreto-de-vivienda-tendra-un-coste-de-unos-1300-millones-anuales-hasta-2031.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/34PO3L5S2JBNHJDNHQABXAO6EA.jpg?auth=1ad7afed35006c6791234e60cf3800a13391121b160b4535c191e09c013bfc8d",
-   "date": "2026-11-05T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Reforma fiscal y más casas: la receta en vivienda del laboratorio de ideas del PSOE para la campaña",
-   "link": "https://elpais.com/economia/2026-11-05/reforma-fiscal-y-mas-casas-la-receta-en-vivienda-del-laboratorio-de-ideas-del-psoe-para-la-campana.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/WPLO42RYERJYJAYNTDRMY2RG54.jpg?auth=7b4dd0aeb59c602ccfcf85bfcd752411a43822eed5aad0f793332fce46690016",
-   "date": "2026-11-05T04:45:00+00:00"
   },
   {
    "lang": "es",
@@ -112,14 +184,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a7/live/84e77df0-d8e5-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-05T04:21:35+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "The economy brought Trump back to power. Now it's his downfall",
-   "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-   "image": "",
-   "date": "2026-11-05T04:13:28+00:00"
   },
   {
    "lang": "es",
@@ -179,43 +243,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Interest rates expected to rise for first time in over three years",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e8c/live/91074120-d849-11f1-b870-55415e6a9944.jpg",
-   "date": "2026-11-05T00:00:09+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
    "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
    "image": "",
    "date": "2026-11-04T22:46:43+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
-   "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
-   "date": "2026-11-04T21:41:15+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg0y44ym7vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfad/live/fe845730-d7e3-11f1-8a01-8d54cbcf7487.jpg",
-   "date": "2026-11-04T19:38:53+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Confirman la multa a CAF por riesgo de exposición al amianto de más de 300 trabajadores",
-   "link": "https://www.naiz.eus/info/noticia/20261104/confirman-la-multa-a-caf-por-riesgo-de-exposicion-al-amianto-de-mas-de-300-trabajadores",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/858/news_landscape/1105_eh_amianto.jpg",
-   "date": "2026-11-04T17:29:00+00:00"
   },
   {
    "lang": "en",
@@ -243,14 +275,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-   "link": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a94/live/6d035ba0-d778-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-03T20:53:03+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
    "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
@@ -264,22 +288,6 @@
    "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
    "image": "",
    "date": "2026-11-03T03:46:20+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "South Korea targets 'world's highest performance' sovereign AI model in record new budget",
-   "link": "https://www.cnbc.com/2026/11/02/south-korea-ai-spending-budget.html",
-   "image": "",
-   "date": "2026-11-02T06:02:03+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Euro zone economy slows to 0.4% growth in Q3 as crisis-hit France contracts",
-   "link": "https://www.cnbc.com/2026/10/30/euro-zone-gdp-france.html",
-   "image": "",
-   "date": "2026-10-30T11:16:46+00:00"
   }
  ]
 }
