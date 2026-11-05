@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-05T01:07:34.762714+00:00",
+ "updated": "2026-11-05T09:58:18.768325+00:00",
  "items": [
   {
    "name": "Ibex 35",
    "name_en": "Ibex 35",
-   "price": 19370.9,
-   "change": 2.179046100951607
+   "price": 19624.4,
+   "change": 1.308661984022635
   },
   {
    "name": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
-   "price": 6265.71,
-   "change": 1.4515717230033345
+   "price": 6301.34,
+   "change": 0.5686512667300202
   },
   {
    "name": "DAX (Alemania)",
    "name_en": "DAX (Germany)",
-   "price": 26437.67,
-   "change": 1.757355672898506
+   "price": 26597.34,
+   "change": 0.6039491324191406
   },
   {
    "name": "FTSE 100 (Reino Unido)",
    "name_en": "FTSE 100 (UK)",
-   "price": 10829.21,
-   "change": 0.6310594123854649
+   "price": 10920.58,
+   "change": 0.8438278269807438
   },
   {
    "name": "S&P 500",
@@ -46,44 +46,44 @@
   {
    "name": "Nikkei 225 (Japón)",
    "name_en": "Nikkei 225 (Japan)",
-   "price": 62469.1,
-   "change": -0.971371771648894
+   "price": 61077.9,
+   "change": -1.7860643107672207
   },
   {
    "name": "Oro (USD)",
    "name_en": "Gold (USD)",
-   "price": 4100.7,
-   "change": 0.6800883869383701
+   "price": 4134.1,
+   "change": 1.5001227596366404
   },
   {
    "name": "Petróleo Brent (USD)",
    "name_en": "Brent crude (USD)",
-   "price": 94.65,
-   "change": -8.638994793380007
+   "price": 95.84,
+   "change": 1.289365058132005
   },
   {
    "name": "EUR/USD",
    "name_en": "EUR/USD",
-   "price": 1.1249,
-   "change": 0.37257690038779767
+   "price": 1.1235,
+   "change": 0.24765770076067548
   },
   {
    "name": "Bitcoin (EUR)",
    "name_en": "Bitcoin (EUR)",
-   "price": 71558,
-   "change": 4.610703708978295
+   "price": 71557,
+   "change": 2.8894815533873843
   },
   {
    "name": "Ethereum (EUR)",
    "name_en": "Ethereum (EUR)",
-   "price": 2150.18,
-   "change": 6.812133050063002
+   "price": 2152.66,
+   "change": 4.510243995175165
   },
   {
    "name": "Solana (EUR)",
    "name_en": "Solana (EUR)",
-   "price": 85.1,
-   "change": 4.15655776338951
+   "price": 86.16,
+   "change": 4.2501933233174345
   }
  ]
 }

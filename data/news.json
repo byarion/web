@@ -1,13 +1,125 @@
 {
- "updated": "2026-11-05T01:07:33.868783+00:00",
+ "updated": "2026-11-05T09:58:16.388386+00:00",
  "items": [
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Australia's oldest department store David Jones collapses after 188 years",
-   "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e5e/live/f37ce860-d8ac-11f1-8b97-dd854ec90424.jpg",
-   "date": "2026-11-05T00:59:22+00:00"
+   "title": "Second buyer makes rescue bid for Poundland as retailer faces collapse",
+   "link": "https://www.bbc.co.uk/news/articles/c6lykq0kqwn7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7167/live/e990f5c0-d8f3-11f1-9c68-d767468fa269.jpg",
+   "date": "2026-11-05T09:46:32+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Bizkaiko meatze-ondarea eta turismo jasangarria aldarrikatuko ditu BideBerdeatek",
+   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261105/bizkaiko-meatze-ondarea-eta-turismo-jasangarria-aldarrikatuko-ditu-pobenan-bideberdeatek",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/382/479/news_landscape/BIDEBERDEATE.jpg",
+   "date": "2026-11-05T08:20:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Koldo García dice que pactó con el PP un millón de euros «para derrocar a Sánchez»",
+   "link": "https://www.naiz.eus/info/noticia/20261105/koldo-garcia-dice-que-pacto-con-el-pp-un-millon-de-euros-para-derrocar-a-sanchez",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/121/news_landscape/EuropaPress_7504038_exasesor_ministerial_koldo_garcia_turno_ultima_palabra_juicio_tribunal.jpg",
+   "date": "2026-11-05T08:07:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
+   "link": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/SWX2LGGUDJMQBILEN42D6XRRWU.jpg?auth=41be50f12b25aaa33719333bd0eb7de663eac915247658623a183d1d3122129b",
+   "date": "2026-11-05T06:49:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Food, fuel and taxes – can the Democrats do anything to ease cost of living pressures?",
+   "link": "https://www.bbc.co.uk/news/articles/ck1ex50x5q46o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0ab9/live/2af7a860-d8e5-11f1-8a29-751f921d505b.jpg",
+   "date": "2026-11-05T06:01:05+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "Etxebarri, mejor restaurante del mundo en 2026",
+   "link": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/11/05/etxebarri-mejor-restaurante-mundo-2026.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938506977970.jpg",
+   "date": "2026-11-05T04:51:47+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los refugios fiscales británicos restan cada año 8.000 millones a la UE en recaudación",
+   "link": "https://elpais.com/economia/2026-11-05/los-refugios-fiscales-britanicos-restan-cada-ano-8000-millones-a-la-ue-en-recaudacion.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/A3B6UQXLSVFT7BJLK4P4Y4XLG4.jpg?auth=2711c0a4961541e90645f1cc9e394a30f7ca40ca1b38dd9c1ed614d4897682c4",
+   "date": "2026-11-05T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El decreto de vivienda tendrá un coste de unos 1.300 millones anuales hasta 2031",
+   "link": "https://elpais.com/economia/2026-11-05/el-decreto-de-vivienda-tendra-un-coste-de-unos-1300-millones-anuales-hasta-2031.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/34PO3L5S2JBNHJDNHQABXAO6EA.jpg?auth=1ad7afed35006c6791234e60cf3800a13391121b160b4535c191e09c013bfc8d",
+   "date": "2026-11-05T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Reforma fiscal y más casas: la receta en vivienda del laboratorio de ideas del PSOE para la campaña",
+   "link": "https://elpais.com/economia/2026-11-05/reforma-fiscal-y-mas-casas-la-receta-en-vivienda-del-laboratorio-de-ideas-del-psoe-para-la-campana.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/WPLO42RYERJYJAYNTDRMY2RG54.jpg?auth=7b4dd0aeb59c602ccfcf85bfcd752411a43822eed5aad0f793332fce46690016",
+   "date": "2026-11-05T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las restricciones gobiernan la IA",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-05/las-restricciones-gobiernan-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/DI67R5B4VJEV7EGJXZKBRAUSAQ.jpg?auth=9dfdfcb0f4de7191ffb0bfdbe5de0d1b06657c77d5b3c114ebfbae7e33497253",
+   "date": "2026-11-05T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: lo crucial sigue siendo que se tomen las medidas necesarias sobre el ferrocarril",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-05/las-claves-lo-crucial-sigue-siendo-que-se-tomen-las-medidas-necesarias-sobre-el-ferrocarril.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/A2FUNVTMCREGJIFMQ3QW7QIANM.jpg?auth=a8f736f7312550b7304e861063d1d365f59bf6d1ef83f94076e42c9cd3c4a81f",
+   "date": "2026-11-05T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Grand Theft Auto VI es el test de Rorschach de la industria del videojuego",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-05/grand-theft-auto-vi-es-el-test-de-rorschach-de-la-industria-del-videojuego.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/7DVWDTS32RLSXLR45YDYIXWTMM.jpg?auth=7530c57d84d68617d8b771d7d543d1f58c879d817d503be25b055ab7bedc0fc1",
+   "date": "2026-11-05T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Más contratos, misma incertidumbre",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-05/mas-contratos-misma-incertidumbre.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VIHE3W3ZRVHEDPXJCG5JXLER7I.jpg?auth=6e1a2cf2653ab899a0788b44efc516e0a58d6c5afd6a9bc1f113c2fbdd31e10f",
+   "date": "2026-11-05T04:40:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Pound rises to its highest level since the Brexit referendum",
+   "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a7/live/84e77df0-d8e5-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-05T04:21:35+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "The economy brought Trump back to power. Now it's his downfall",
+   "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
+   "image": "",
+   "date": "2026-11-05T04:13:28+00:00"
   },
   {
    "lang": "es",
@@ -24,14 +136,6 @@
    "link": "https://www.expansion.com/mercados/el-foco-del-dia/2026/11/05/midterms-revolucionan-mapa-ganadores-perdedores-bolsa-ia.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938340829957.png",
    "date": "2026-11-05T00:15:16+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Los inversores españoles ya acaparan un 40% del capital de Mobico",
-   "link": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/05/inversores-espanoles-acaparan-40-capital-mobico.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938335927461.jpg",
-   "date": "2026-11-05T00:06:48+01:00"
   },
   {
    "lang": "es",
@@ -83,22 +187,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Pound rises to its highest level since the Brexit referendum",
-   "link": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d226/live/51085d40-d897-11f1-bffe-b94c467713ac.jpg",
-   "date": "2026-11-04T23:30:28+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "The economy brought Trump back to power. Now it's his downfall",
-   "link": "https://www.cnbc.com/2026/11/04/2026-midterms-trump-economy-iran-war.html",
-   "image": "",
-   "date": "2026-11-04T22:59:27+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Analysis: The Democrats have one chance to extract concessions from Trump. Markets will hate it",
    "link": "https://www.cnbc.com/2026/11/04/democrats-trump-debt-ceiling-fight.html",
@@ -112,22 +200,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae2/live/ce22be10-d851-11f1-b710-b15e87d8ef65.jpg",
    "date": "2026-11-04T21:41:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Díaz se encamina a su primer aumento del salario mínimo sin acuerdo con los sindicatos para aprobarlo antes del 29-N",
-   "link": "https://elpais.com/economia/2026-11-04/diaz-se-encamina-a-su-primer-aumento-del-salario-minimo-sin-acuerdo-con-los-sindicatos-para-aprobarlo-antes-del-29-n.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/XZGZKMLYONPV7FNVC5HZNTPWSM.jpg?auth=96e13ae7fa6df7fd2d192a6b5a1e83e183cb58fc611225f9b1bc4152c3f3c4f6",
-   "date": "2026-11-04T20:15:58+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Poundland owner in crunch talks as retailer's collapse looms",
-   "link": "https://www.bbc.co.uk/news/articles/ck240mm3e42do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0027/live/fe2f8c90-d848-11f1-b870-55415e6a9944.jpg",
-   "date": "2026-11-04T19:44:46+00:00"
   },
   {
    "lang": "en",
@@ -146,22 +218,6 @@
    "date": "2026-11-04T17:29:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Trabajadores de Siemens Gamesa piden frente a Adegi negociar aquí sus condiciones laborales",
-   "link": "https://www.naiz.eus/info/noticia/20261104/trabajadores-de-siemens-gamesa-piden-frente-a-adegi-negociar-aqui-sus-condiciones-laborales",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/384/854/news_landscape/adegi.jpg",
-   "date": "2026-11-04T16:20:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los expertos de Trabajo expresan su inquietud porque las subidas del salario mínimo no impulsen más el resto de sueldos",
-   "link": "https://elpais.com/economia/2026-11-04/los-expertos-de-trabajo-expresan-su-inquietud-porque-las-subidas-del-salario-minimo-no-impulsen-mas-el-resto-de-sueldos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/JLSAOYZM6NB3DMNSR27BIBH5CQ.jpg?auth=032d1684b82e5e027a76863e85c10a2050a06a0f82fadbbdf6959aa57a75d140",
-   "date": "2026-11-04T15:00:29+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Private companies added 86,000 jobs in October, slightly higher than expected, ADP says",
@@ -176,54 +232,6 @@
    "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
    "image": "",
    "date": "2026-11-04T10:47:30+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El sector educativo y los extranjeros apuntalan el empleo con más de 186.000 nuevos afiliados en el mejor octubre de la serie",
-   "link": "https://elpais.com/economia/2026-11-04/el-sector-educativo-y-los-extranjeros-apuntalan-el-empleo-con-mas-de-186000-nuevos-afiliados-en-el-mejor-octubre-de-la-serie.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7FNOKSUVGBBBHDBU6P76D5T6DA.jpg?auth=489b7b405ff1a76a92339d1ea1dd403820ff0d8027bf6e0144bb18b15c9c1a47",
-   "date": "2026-11-04T08:00:05+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los expertos de Trabajo recomiendan que el salario mínimo suba un 4,9% en 2027, hasta los 1.281 euros al mes",
-   "link": "https://elpais.com/economia/2026-11-04/los-expertos-de-trabajo-recomiendan-que-el-salario-minimo-suba-un-49-en-2027-hasta-los-1281-euros-al-mes.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/BOTUTYA65RDYBCQK2FQY4HC4GY.jpg?auth=9d6e4462970ea1faa23efbe74946a1069846791dcd4b83aa60155d7336d73649",
-   "date": "2026-11-04T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La inteligencia artificial llega a su momento Napster",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-04/la-inteligencia-artificial-llega-a-su-momento-napster.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/DDU7I55XRFNRXHSIZ323CHI63A.jpg?auth=b965fd905e4ee056bd97fe43c1839435aa143abd5b2ddd0e006508fc7fe982f7",
-   "date": "2026-11-04T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El nuevo código de buen gobierno se lo pondrá fácil a las empresas",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-04/el-nuevo-codigo-de-buen-gobierno-se-lo-pondra-facil-a-las-empresas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/HVNRWAHRSRDVZCZKZVYN6ATRCE.jpg?auth=20dcebbd016c63c18b0d25aec326b8914100d32a213cea6766a849f4e5d99780",
-   "date": "2026-11-04T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: el Santander gana tamaño y se consolida como el banco más valioso de Europa",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-04/las-claves-el-santander-gana-tamano-y-se-consolida-como-el-banco-mas-valioso-de-europa.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/OPLQF2IRZJDG5FTAFJJF32UU3E.jpg?auth=7fecd18d34d9b7eb9d545ecde9dffab28853cd9429e3c1d1eb2bcedc9259e9d2",
-   "date": "2026-11-04T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Todos quieren fondos de pensiones, pero nadie quiere financiarlos",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-04/todos-quieren-fondos-de-pensiones-pero-nadie-quiere-financiarlos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/77F2AHU635BEVOVMTP764466NU.jpg?auth=754b16cc1e2203ceb6c0bd7c730ca110239150dabc76c71f9ce2ccf177762f5d",
-   "date": "2026-11-04T04:40:00+00:00"
   },
   {
    "lang": "en",
