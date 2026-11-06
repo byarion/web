@@ -1,0 +1,35 @@
+name: Actualizar mercados (cada 15 min)
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: markets
+  cancel-in-progress: true
+
+jobs:
+  markets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python update.py --markets-only
+      - name: Publicar en la rama data
+        run: |
+          mkdir /tmp/pub
+          cp data/markets.json /tmp/pub/markets.json
+          cd /tmp/pub
+          git init -q -b data
+          git config user.name "ondexi-bot"
+          git config user.email "bot@ondexi.com"
+          git add markets.json
+          git commit -q -m "[CF-Pages-Skip] Mercados $(date -u +%H:%M)"
+          git remote add origin "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}.git"
+          git push -q -f origin data

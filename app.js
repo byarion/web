@@ -28,10 +28,19 @@
     }).catch(() => { newsEl.innerHTML = '<li>' + T.none + '</li>'; });
   }
 
-  // Mercados: cinta que se desplaza de derecha a izquierda, un valor tras otro
+  // Mercados: cinta que se desplaza de derecha a izquierda, un valor tras otro.
+  // Los datos se refrescan solos cada pocos minutos desde la rama "data" de GitHub
+  // (la actualiza un robot cada 15 min); si no está disponible, usa data/markets.json.
   const mEl = document.getElementById('markets');
   if (mEl) {
-    getJSON(base + 'data/markets.json').then(d => {
+    const RAW = 'https://raw.githubusercontent.com/byarion/web/data/markets.json';
+    const A = {
+      es: { now: 'Actualizado ahora mismo', min: m => 'Actualizado hace ' + m + ' min', hrs: h => 'Actualizado hace ' + h + ' h' },
+      en: { now: 'Updated just now', min: m => 'Updated ' + m + ' min ago', hrs: h => 'Updated ' + h + ' h ago' }
+    }[lang];
+    let lastUpdated = null;
+
+    const render = d => {
       const items = d.items || [];
       if (!items.length) { mEl.innerHTML = ''; return; }
       const one = items.map(m => {
@@ -58,7 +67,33 @@
         });
         mEl.insertAdjacentElement('afterend', btn);
       }
-    }).catch(() => { mEl.innerHTML = ''; });
+    };
+
+    // "Actualizado hace X min" junto a la nota de los mercados
+    const sec = mEl.closest('section');
+    const note = sec && sec.querySelector('.note');
+    const age = document.createElement('span');
+    age.id = 'mk-age';
+    if (note) note.appendChild(age);
+    const showAge = () => {
+      if (!lastUpdated) { age.textContent = ''; return; }
+      const mins = Math.max(0, Math.round((Date.now() - new Date(lastUpdated).getTime()) / 60000));
+      age.textContent = ' · ' + (mins < 1 ? A.now : mins < 60 ? A.min(mins) : A.hrs(Math.round(mins / 60)));
+    };
+
+    const load = () => {
+      const bucket = Math.floor(Date.now() / 300000); // cambia cada 5 min
+      Promise.allSettled([getJSON(RAW + '?t=' + bucket), getJSON(base + 'data/markets.json')]).then(rs => {
+        const ok = rs.filter(r => r.status === 'fulfilled' && r.value && r.value.items && r.value.items.length)
+          .map(r => r.value).sort((x, y) => new Date(y.updated) - new Date(x.updated));
+        if (!ok.length) { if (!lastUpdated) mEl.innerHTML = ''; return; }
+        if (ok[0].updated !== lastUpdated) { lastUpdated = ok[0].updated; render(ok[0]); }
+        showAge();
+      });
+    };
+    load();
+    setInterval(showAge, 60000);
+    setInterval(() => { if (document.visibilityState === 'visible') load(); }, 300000);
   }
 
   // Calculadora de ahorro

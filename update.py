@@ -210,6 +210,11 @@ def save(name, items):
 
 if __name__ == "__main__":
     DATA.mkdir(exist_ok=True)
+    if "--markets-only" in sys.argv:
+        # Modo rápido: solo cotizaciones (lo usa el flujo de cada 15 minutos)
+        save("markets.json", fetch_markets())
+        print("Listo (solo mercados)")
+        sys.exit(0)
     save("news.json", fetch_news())
     save("markets.json", fetch_markets())
     save("euribor.json", fetch_euribor())
