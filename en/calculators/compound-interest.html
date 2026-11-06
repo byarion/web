@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Compound interest calculator · Ondexi</title>
 <meta name="description" content="See how much your money can grow with compound interest: starting amount, monthly contribution, return and years, with a year-by-year table.">
-<link rel="canonical" href="https://ondexi.com/en/calculators/compound-interest.html">
-<link rel="alternate" hreflang="es" href="https://ondexi.com/calculadoras/interes-compuesto.html">
+<link rel="canonical" href="https://ondexi.com/en/calculators/compound-interest">
+<link rel="alternate" hreflang="es" href="https://ondexi.com/calculadoras/interes-compuesto">
 <link rel="stylesheet" href="../../style.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
      crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@
 <body>
 <header><div class="wrap">
   <a class="logo" href="../">Ondexi<span>.</span></a>
-  <nav><a href="../">Home</a><a href="./">Calculators</a><a class="lang" href="../../calculadoras/interes-compuesto.html">ES</a></nav>
+  <nav><a href="../">Home</a><a href="./">Calculators</a><a class="lang" href="../../calculadoras/interes-compuesto">ES</a></nav>
 </div></header>
 <main class="wrap page">
 <p class="crumb"><a href="./">← All calculators</a></p>
@@ -47,13 +47,13 @@
 <li><b>Both:</b> €5,000 to start and €150 a month at 6% for 15 years gives about <b>€55,893</b>, with €32,000 contributed.</li>
 </ul>
 <h2>Keep in mind</h2>
-<p>The return is an <b>assumption</b>: no investment guarantees a fixed percentage, and those that can earn the most can also lose. The result also ignores <a href="../calculators/inflation.html">inflation</a>, fees and taxes, which reduce what you actually keep.</p>
+<p>The return is an <b>assumption</b>: no investment guarantees a fixed percentage, and those that can earn the most can also lose. The result also ignores <a href="../calculators/inflation">inflation</a>, fees and taxes, which reduce what you actually keep.</p>
 <p class="note">Indicative result, for information only.</p>
 <h2>Frequently asked questions</h2><h3>What return should I enter?</h3><p>It is a figure you choose to simulate. Try several (for example 2%, 5% and 7%) to see how the result changes. There is no safe number.</p><h3>What matters more, contributing more or waiting more years?</h3><p>Usually time. Starting earlier gives interest more room to earn interest. Change the years and the contribution to see it for yourself.</p><h3>Why does it not match my bank or fund?</h3><p>Real products have fees, taxes and returns that change every year. This calculator uses a fixed, constant percentage.</p>
 <h2>Keep learning</h2>
-<div class="grid"><a class="card guide" href="../guides/compound-interest.html"><h3>Compound interest</h3></a><a class="card guide" href="../guides/index-funds.html"><h3>Index funds for beginners</h3></a></div>
+<div class="grid"><a class="card guide" href="../guides/compound-interest"><h3>Compound interest</h3></a><a class="card guide" href="../guides/index-funds"><h3>Index funds for beginners</h3></a></div>
 </main>
-<footer><div class="wrap"><div class="fl"><a href="../privacy.html">Privacy</a><a href="../legal-notice.html">Legal notice</a><a href="../contact.html">Contact</a></div>© Ondexi</div></footer>
+<footer><div class="wrap"><div class="fl"><a href="../privacy">Privacy</a><a href="../legal-notice">Legal notice</a><a href="../contact">Contact</a></div>© Ondexi</div></footer>
 <script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"fin": "Money at the end", "put": "Of which, what you put in", "gain": "Earned from interest", "y": "Year", "c": "Contributed", "i": "Interest", "v": "Total"},loc="en-GB";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var P=parseFloat(f.p0.value)||0,C=parseFloat(f.cm.value)||0,rate=(parseFloat(f.rate.value)||0)/100,y=Math.round(parseFloat(f.yrs.value)||0);if(y<=0||y>60){out.innerHTML="";return}var r=rate/12;function fv(k){return r===0?P+C*k:P*Math.pow(1+r,k)+C*(Math.pow(1+r,k)-1)/r}var F=fv(y*12),put=P+C*y*12;function m0(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",maximumFractionDigits:0})}var step=Math.max(1,Math.ceil(y/10)),ys=[],t,rows="";for(t=step;t<=y;t+=step){ys.push(t)}if(ys[ys.length-1]!==y){ys.push(y)}for(t=0;t<ys.length;t++){var k=ys[t]*12,v=fv(k),c=P+C*k;rows+="<tr><td>"+ys[t]+"</td><td>"+m0(c)+"</td><td>"+m0(v-c)+"</td><td class='tt'>"+m0(v)+"</td></tr>"}out.innerHTML=L.fin+': <b>'+m(F)+'</b><br>'+L.put+': <b>'+m(put)+'</b><br>'+L.gain+': <b>'+m(F-put)+'</b>'+'<div class="tbl"><table><thead><tr><th>'+L.y+'</th><th>'+L.c+'</th><th>'+L.i+'</th><th>'+L.v+'</th></tr></thead><tbody>'+rows+'</tbody></table></div>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
 </body>
 </html>

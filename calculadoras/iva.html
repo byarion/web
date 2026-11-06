@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Calculadora de IVA · Ondexi</title>
 <meta name="description" content="Calcula el IVA de un precio en España: añade o quita el 21 %, 10 % o 4 % y ve la base imponible, el IVA y el total.">
-<link rel="canonical" href="https://ondexi.com/calculadoras/iva.html">
-<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/vat.html">
+<link rel="canonical" href="https://ondexi.com/calculadoras/iva">
+<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/vat">
 <link rel="stylesheet" href="../style.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
      crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@
 <body>
 <header><div class="wrap">
   <a class="logo" href="../">Ondexi<span>.</span></a>
-  <nav><a href="../">Inicio</a><a href="./">Calculadoras</a><a class="lang" href="../en/calculators/vat.html">EN</a></nav>
+  <nav><a href="../">Inicio</a><a href="./">Calculadoras</a><a class="lang" href="../en/calculators/vat">EN</a></nav>
 </div></header>
 <main class="wrap page">
 <p class="crumb"><a href="./">← Todas las calculadoras</a></p>
@@ -42,9 +42,9 @@
 <p class="note">Los tipos y a qué se aplican pueden cambiar. Compruébalo en la Agencia Tributaria si necesitas certeza para facturas o impuestos.</p>
 <h2>Preguntas frecuentes</h2><h3>¿Cómo quito el 21 % de IVA a un precio?</h3><p>Divide el precio con IVA entre 1,21. Por ejemplo, 242 ÷ 1,21 = 200 € de base.</p><h3>¿El IVA es lo mismo que el IRPF?</h3><p>No. El IVA es un impuesto sobre el consumo que paga quien compra. El IRPF es el impuesto sobre la renta de las personas.</p>
 <h2>Sigue aprendiendo</h2>
-<div class="grid"><a class="card guide" href="../guias/inflacion.html"><h3>¿Qué es la inflación?</h3></a><a class="card guide" href="../guias/pib.html"><h3>Qué es el PIB</h3></a></div>
+<div class="grid"><a class="card guide" href="../guias/inflacion"><h3>¿Qué es la inflación?</h3></a><a class="card guide" href="../guias/pib"><h3>Qué es el PIB</h3></a></div>
 </main>
-<footer><div class="wrap"><div class="fl"><a href="../privacidad.html">Privacidad</a><a href="../aviso-legal.html">Aviso legal</a><a href="../contacto.html">Contacto</a></div>© Ondexi</div></footer>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
 <script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"base": "Base imponible (sin IVA)", "iva": "IVA", "tot": "Total (con IVA)"},loc="es-ES";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var a=parseFloat(f.amt.value)||0,r=parseFloat(f.rate.value)/100,base,iva,tot;if(f.mode.value==="add"){base=a;iva=a*r;tot=a+iva}else{tot=a;base=a/(1+r);iva=tot-base}out.innerHTML=L.base+': <b>'+m(base)+'</b><br>'+L.iva+': <b>'+m(iva)+'</b><br>'+L.tot+': <b>'+m(tot)+'</b>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
 </body>
 </html>

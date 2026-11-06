@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Calculadora de interés compuesto · Ondexi</title>
 <meta name="description" content="Calcula cuánto crecerá tu dinero con interés compuesto: capital inicial, aportación mensual, rentabilidad y años. Con tabla año a año.">
-<link rel="canonical" href="https://ondexi.com/calculadoras/interes-compuesto.html">
-<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/compound-interest.html">
+<link rel="canonical" href="https://ondexi.com/calculadoras/interes-compuesto">
+<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/compound-interest">
 <link rel="stylesheet" href="../style.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
      crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@
 <body>
 <header><div class="wrap">
   <a class="logo" href="../">Ondexi<span>.</span></a>
-  <nav><a href="../">Inicio</a><a href="./">Calculadoras</a><a class="lang" href="../en/calculators/compound-interest.html">EN</a></nav>
+  <nav><a href="../">Inicio</a><a href="./">Calculadoras</a><a class="lang" href="../en/calculators/compound-interest">EN</a></nav>
 </div></header>
 <main class="wrap page">
 <p class="crumb"><a href="./">← Todas las calculadoras</a></p>
@@ -47,13 +47,13 @@
 <li><b>Mixto:</b> 5.000 € iniciales y 150 € al mes al 6 % durante 15 años dan unos <b>55.893 €</b>, con 32.000 € aportados.</li>
 </ul>
 <h2>Ten en cuenta</h2>
-<p>La rentabilidad es una <b>suposición</b>: ninguna inversión garantiza un porcentaje fijo, y las que más pueden rendir también pueden perder. Además, el resultado no descuenta la <a href="../calculadoras/inflacion.html">inflación</a>, las comisiones ni los impuestos, que reducen lo que realmente te queda.</p>
+<p>La rentabilidad es una <b>suposición</b>: ninguna inversión garantiza un porcentaje fijo, y las que más pueden rendir también pueden perder. Además, el resultado no descuenta la <a href="../calculadoras/inflacion">inflación</a>, las comisiones ni los impuestos, que reducen lo que realmente te queda.</p>
 <p class="note">Resultado orientativo, solo con fines informativos.</p>
 <h2>Preguntas frecuentes</h2><h3>¿Qué rentabilidad pongo?</h3><p>Es un dato que tú eliges para simular. Prueba varias (por ejemplo 2 %, 5 % y 7 %) para ver cómo cambia el resultado. No hay una cifra segura.</p><h3>¿Qué pesa más, aportar más o esperar más años?</h3><p>Normalmente el tiempo. Empezar antes da más margen a que los intereses generen intereses. Prueba a cambiar los años y la aportación para comprobarlo.</p><h3>¿Por qué no coincide con mi banco o mi fondo?</h3><p>Los productos reales tienen comisiones, impuestos y rentabilidades que cambian cada año. Esta calculadora usa un porcentaje fijo y constante.</p>
 <h2>Sigue aprendiendo</h2>
-<div class="grid"><a class="card guide" href="../guias/interes-compuesto.html"><h3>Interés compuesto</h3></a><a class="card guide" href="../guias/fondos-indexados.html"><h3>Fondos indexados para principiantes</h3></a></div>
+<div class="grid"><a class="card guide" href="../guias/interes-compuesto"><h3>Interés compuesto</h3></a><a class="card guide" href="../guias/fondos-indexados"><h3>Fondos indexados para principiantes</h3></a></div>
 </main>
-<footer><div class="wrap"><div class="fl"><a href="../privacidad.html">Privacidad</a><a href="../aviso-legal.html">Aviso legal</a><a href="../contacto.html">Contacto</a></div>© Ondexi</div></footer>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
 <script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"fin": "Dinero acumulado al final", "put": "De los cuales, lo que has aportado tú", "gain": "Ganado por intereses", "y": "Año", "c": "Aportado", "i": "Intereses", "v": "Total"},loc="es-ES";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var P=parseFloat(f.p0.value)||0,C=parseFloat(f.cm.value)||0,rate=(parseFloat(f.rate.value)||0)/100,y=Math.round(parseFloat(f.yrs.value)||0);if(y<=0||y>60){out.innerHTML="";return}var r=rate/12;function fv(k){return r===0?P+C*k:P*Math.pow(1+r,k)+C*(Math.pow(1+r,k)-1)/r}var F=fv(y*12),put=P+C*y*12;function m0(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",maximumFractionDigits:0})}var step=Math.max(1,Math.ceil(y/10)),ys=[],t,rows="";for(t=step;t<=y;t+=step){ys.push(t)}if(ys[ys.length-1]!==y){ys.push(y)}for(t=0;t<ys.length;t++){var k=ys[t]*12,v=fv(k),c=P+C*k;rows+="<tr><td>"+ys[t]+"</td><td>"+m0(c)+"</td><td>"+m0(v-c)+"</td><td class='tt'>"+m0(v)+"</td></tr>"}out.innerHTML=L.fin+': <b>'+m(F)+'</b><br>'+L.put+': <b>'+m(put)+'</b><br>'+L.gain+': <b>'+m(F-put)+'</b>'+'<div class="tbl"><table><thead><tr><th>'+L.y+'</th><th>'+L.c+'</th><th>'+L.i+'</th><th>'+L.v+'</th></tr></thead><tbody>'+rows+'</tbody></table></div>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
 </body>
 </html>

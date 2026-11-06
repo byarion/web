@@ -5,8 +5,8 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Calculadora de sueldo neto (de bruto a neto) · Ondexi</title>
 <meta name="description" content="Pasa de sueldo bruto a neto en España: estimación con Seguridad Social e IRPF de 2026, número de pagas y número de hijos.">
-<link rel="canonical" href="https://ondexi.com/calculadoras/sueldo-neto.html">
-<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/net-salary-spain.html">
+<link rel="canonical" href="https://ondexi.com/calculadoras/sueldo-neto">
+<link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/net-salary-spain">
 <link rel="stylesheet" href="../style.css">
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
      crossorigin="anonymous"></script>
@@ -20,7 +20,7 @@
 <body>
 <header><div class="wrap">
   <a class="logo" href="../">Ondexi<span>.</span></a>
-  <nav><a href="../">Inicio</a><a href="./">Calculadoras</a><a class="lang" href="../en/calculators/net-salary-spain.html">EN</a></nav>
+  <nav><a href="../">Inicio</a><a href="./">Calculadoras</a><a class="lang" href="../en/calculators/net-salary-spain">EN</a></nav>
 </div></header>
 <main class="wrap page">
 <p class="crumb"><a href="./">← Todas las calculadoras</a></p>
@@ -53,9 +53,9 @@
 <p class="note">Datos de Seguridad Social e IRPF de 2026 en régimen general. Resultado orientativo, no es asesoramiento fiscal.</p>
 <h2>Preguntas frecuentes</h2><h3>¿Qué diferencia hay entre sueldo bruto y neto?</h3><p>El bruto es lo que figura en tu contrato antes de descuentos. El neto es lo que realmente cobras, después de restar la Seguridad Social y la retención del IRPF.</p><h3>¿Por qué con 14 pagas cobro menos cada mes?</h3><p>El sueldo anual es el mismo, pero se reparte en 14 pagas en lugar de 12, así que cada una es menor. Con las extras prorrateadas cobras algo más cada mes, aunque el total al año es el mismo.</p><h3>¿Sirve para autónomos?</h3><p>No. Los autónomos cotizan por otro sistema, con cuota propia y tributación distinta.</p>
 <h2>Sigue aprendiendo</h2>
-<div class="grid"><a class="card guide" href="../guias/irpf.html"><h3>Qué es el IRPF</h3></a><a class="card guide" href="../guias/regla-50-30-20.html"><h3>La regla 50/30/20 para tu presupuesto</h3></a></div>
+<div class="grid"><a class="card guide" href="../guias/irpf"><h3>Qué es el IRPF</h3></a><a class="card guide" href="../guias/regla-50-30-20"><h3>La regla 50/30/20 para tu presupuesto</h3></a></div>
 </main>
-<footer><div class="wrap"><div class="fl"><a href="../privacidad.html">Privacidad</a><a href="../aviso-legal.html">Aviso legal</a><a href="../contacto.html">Contacto</a></div>© Ondexi</div></footer>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
 <script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"mon": "Sueldo neto por paga", "pay": "pagas", "yr": "Sueldo neto anual", "ss": "Seguridad Social", "tx": "IRPF estimado", "dec": ","},loc="es-ES";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var g=parseFloat(f.gross.value)||0,pg=parseInt(f.pays.value,10)||12,ct=f.ctype.value,kids=parseInt(f.kids.value,10)||0;if(g<=0){out.innerHTML="";return}var base=Math.min(g,5101.2*12),des=ct==="temp"?0.016:0.0155,ssr=0.047+des+0.001+0.0015,ss=base*ssr;var rn=Math.max(0,g-ss-2000),red=0;if(rn<=14852){red=7302}else if(rn<=17673.52){red=7302-1.75*(rn-14852)}else if(rn<=19747.5){red=2364.34-1.14*(rn-17673.52)}red=Math.max(0,red);var bl=Math.max(0,rn-red);var T=[[12450,0.19],[20200,0.24],[35200,0.30],[60000,0.37],[300000,0.45],[Infinity,0.47]];function tax(x){var t=0,prev=0,i;for(i=0;i<T.length;i++){if(x>prev){t+=(Math.min(x,T[i][0])-prev)*T[i][1]}prev=T[i][0]}return t}var kd=[2400,2700,4000,4500],mn=5550,k;for(k=0;k<kids&&k<4;k++){mn+=kd[k]}var irpf=Math.max(0,tax(bl)-tax(mn)),net=g-ss-irpf;out.innerHTML=L.mon+' ('+pg+' '+L.pay+'): <b>'+m(net/pg)+'</b><br>'+L.yr+': <b>'+m(net)+'</b><br>'+'<span class="note">'+L.ss+': '+m(ss)+' ('+(ssr*100).toFixed(2).replace(".",L.dec)+' %) · '+L.tx+': '+m(irpf)+' ('+(irpf/g*100).toFixed(1).replace(".",L.dec)+' %)</span>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
 </body>
 </html>
