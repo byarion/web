@@ -1,13 +1,77 @@
 {
- "updated": "2026-11-06T10:00:15.538724+00:00",
+ "updated": "2026-11-06T18:35:57.828420+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Why the US midterms sparked an AI stock selloff",
+   "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-06T18:32:16+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La vivienda, los alimentos y los combustibles se encarecen hasta tres veces más que los salarios desde 2019",
+   "link": "https://elpais.com/economia/2026-11-06/la-vivienda-los-alimentos-y-los-combustibles-se-encarecen-hasta-tres-veces-mas-que-los-salarios-desde-2019.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EXMKTLCCCQNQYD4S4JUXO7TLLA.jpg?auth=31c06c4f1db114fcdc4bf1be446f0089698f1d2ca570fe5fb46e711c6a772cd8",
+   "date": "2026-11-06T17:41:34+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "AI stocks climb after trillions wiped from market values",
+   "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-06T17:03:02+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
+   "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
+   "image": "",
+   "date": "2026-11-06T16:06:59+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d2/live/40c46130-d9f6-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-06T15:25:43+00:00"
+  },
   {
    "lang": "es",
    "source": "Naiz",
-   "title": "Al lehendakari no le gusta el segundo decreto de vivienda de Madrid que sí apoya el PSE",
-   "link": "https://www.naiz.eus/info/noticia/20261106/al-lehendakari-no-le-gusta-el-segundo-decreto-de-vivienda-que-apoya-el-pse",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/528/news_landscape/PRADALES.jpg",
-   "date": "2026-11-06T09:29:00+00:00"
+   "title": "La intersindical vasca de salud laboral protesta por la reciente muerte de cinco trabajadores",
+   "link": "https://www.naiz.eus/info/noticia/20261106/la-intersindical-vasca-de-salud-laboral-protesta-por-la-reciente-muerte-de-cinco-trabajadores",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/761/news_landscape/tafalla.jpg",
+   "date": "2026-11-06T15:19:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Díaz se acerca a la votación de su candidatura a la OIT con los sindicatos divididos y las patronales en contra",
+   "link": "https://elpais.com/economia/2026-11-06/diaz-se-acerca-a-la-votacion-de-su-candidatura-a-la-oit-con-los-sindicatos-divididos-y-las-patronales-en-contra.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/NANTATNHHZGTVLEUFFT7GWVVJQ.jpg?auth=b914e31cbf4a7e24203c2d351661fe65c2be1125429fb8aa4f3b55c4f0faf01b",
+   "date": "2026-11-06T14:26:46+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Acuerdo fiscal en Nafarroa que gravará más la compraventa de viviendas a los grandes tenedores",
+   "link": "https://www.naiz.eus/info/noticia/20261106/acuerdo-fiscal-en-nafarroa-que-recupera-la-deduccion-por-compra-de-vivienda-para-jovenes",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/553/news_landscape/aa_20261030233731.jpg",
+   "date": "2026-11-06T10:51:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d7ce/live/3fc37350-d9f3-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-06T09:57:04+00:00"
   },
   {
    "lang": "en",
@@ -19,50 +83,10 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "El Gobierno francés plantea elevar el salario mínimo por encima de 1.500 euros tras la huelga",
-   "link": "https://www.naiz.eus/info/noticia/20261106/el-gobierno-frances-plantea-elevar-el-salario-minimo-por-encima-de-1-500-euros-tras-protestas",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/527/news_landscape/EuropaPress_7895029_05_november_2026_france_paris_protesters_gather_at_place_republique_during.jpg",
-   "date": "2026-11-06T09:21:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Anaitasuna-Alavés, Pamplona-Eibar y Amorebieta-Logroñes, el martes 10 tras las dos suspensiones",
-   "link": "https://www.naiz.eus/info/noticia/20261106/anaitasuna-alaves-pamplona-eibar-y-amorebieta-logrones-el-martes-10-tras-las-dos-suspensiones",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/523/news_landscape/txerloia.jpg",
-   "date": "2026-11-06T09:00:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Firms told to publish salaries in job adverts ahead of new law",
-   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
-   "date": "2026-11-06T07:36:41+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-   "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
-   "date": "2026-11-06T07:27:26+00:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
    "link": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
    "image": "https://imagenes.elpais.com/resizer/v2/54NPE6OZMJHJPF7LEAQD6CG7VQ.jpg?auth=ad2276d078496993e1398bd53485130c698c5fa548238a2cccaefd9221b60f1c",
-   "date": "2026-11-06T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Agnès Pannier-Runacher, exministra francesa de Energía: “La única estrategia viable para Europa consiste en producir más y consumir menos”",
-   "link": "https://cincodias.elpais.com/economia/2026-11-06/agnes-pannier-runacher-exministra-francesa-de-energia-la-unica-estrategia-viable-para-europa-consiste-en-producir-mas-y-consumir-menos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QOFJ4TSYR5GSLBVSGOEOCW5Y7A.jpg?auth=0bbb24d439527072f23be87e804cee05c37c6c26291c1b9601845f737dcd1a9f",
    "date": "2026-11-06T04:45:01+00:00"
   },
   {
@@ -92,17 +116,17 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Fiesta en las bodegas, luto en Sanidad: el consumo de alcohol se dispara",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-06/fiesta-en-las-bodegas-luto-en-sanidad-el-consumo-de-alcohol-se-dispara.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/4LJWDGRGYFAP7M7UNWB5EYW2OI.jpg?auth=57b209760ce5c832fdd5571d8e34ca781277467c54cbe365c040f104d42c70d7",
+   "title": "La puesta a punto de BMW resuelve el problema de hoy, no el de mañana",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-06/la-puesta-a-punto-de-bmw-resuelve-el-problema-de-hoy-no-el-de-manana.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/YPFET36MPBEVFASQZVBDIWJ4KU.jpg?auth=f5dad35bb350c5c4726b034f182b86534265094fa257d3efa7e71612123f78df",
    "date": "2026-11-06T04:40:00+00:00"
   },
   {
    "lang": "es",
    "source": "El País",
-   "title": "La puesta a punto de BMW resuelve el problema de hoy, no el de mañana",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-06/la-puesta-a-punto-de-bmw-resuelve-el-problema-de-hoy-no-el-de-manana.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/YPFET36MPBEVFASQZVBDIWJ4KU.jpg?auth=f5dad35bb350c5c4726b034f182b86534265094fa257d3efa7e71612123f78df",
+   "title": "Fiesta en las bodegas, luto en Sanidad: el consumo de alcohol se dispara",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-06/fiesta-en-las-bodegas-luto-en-sanidad-el-consumo-de-alcohol-se-dispara.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/4LJWDGRGYFAP7M7UNWB5EYW2OI.jpg?auth=57b209760ce5c832fdd5571d8e34ca781277467c54cbe365c040f104d42c70d7",
    "date": "2026-11-06T04:40:00+00:00"
   },
   {
@@ -110,7 +134,7 @@
    "source": "BBC Business",
    "title": "The engine parts that 'fight the laws of the universe'",
    "link": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97f5/live/b17307a0-d37b-11f1-b441-2b33b063138f.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6023/live/c7b8cb20-d9e9-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-06T00:06:06+00:00"
   },
   {
@@ -128,14 +152,6 @@
    "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
    "image": "",
    "date": "2026-11-05T21:32:52+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Agricultura activa por primera vez la retirada del 12% de la producción de aceite para evitar el desplome de los precios",
-   "link": "https://elpais.com/economia/2026-11-05/agricultura-activa-por-primera-vez-la-retirada-del-12-de-la-produccion-de-aceite-para-evitar-el-desplome-de-los-precios.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/X42AJGXDEJCRBBHL7DANOINM5U.jpg?auth=cf1e139a9a8ed795bab22199787ca1ed8854c2189bd53e0be93de172c81283c7",
-   "date": "2026-11-05T21:01:00+00:00"
   },
   {
    "lang": "en",
@@ -168,22 +184,6 @@
    "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
    "image": "",
    "date": "2026-11-05T14:33:32+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Faisal Islam: How high will interest rates go?",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5y0y37gv3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee7/live/856f7c60-d916-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-05T13:17:10+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Three ways the interest rate rise could affect you",
-   "link": "https://www.bbc.co.uk/news/articles/cx4g1q3vlp62o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/296a/live/09ae45c0-d916-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-05T13:08:30+00:00"
   },
   {
    "lang": "es",
@@ -272,14 +272,6 @@
    "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
    "image": "",
    "date": "2026-11-04T10:47:30+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
-   "link": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
-   "image": "",
-   "date": "2026-11-03T19:15:21+00:00"
   }
  ]
 }
