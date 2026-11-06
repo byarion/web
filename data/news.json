@@ -1,13 +1,109 @@
 {
- "updated": "2026-11-06T01:12:48.859417+00:00",
+ "updated": "2026-11-06T10:00:15.538724+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Al lehendakari no le gusta el segundo decreto de vivienda de Madrid que sí apoya el PSE",
+   "link": "https://www.naiz.eus/info/noticia/20261106/al-lehendakari-no-le-gusta-el-segundo-decreto-de-vivienda-que-apoya-el-pse",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/528/news_landscape/PRADALES.jpg",
+   "date": "2026-11-06T09:29:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+   "title": "How does it affect me if share prices fall?",
+   "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
+   "date": "2026-11-06T09:21:50+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El Gobierno francés plantea elevar el salario mínimo por encima de 1.500 euros tras la huelga",
+   "link": "https://www.naiz.eus/info/noticia/20261106/el-gobierno-frances-plantea-elevar-el-salario-minimo-por-encima-de-1-500-euros-tras-protestas",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/527/news_landscape/EuropaPress_7895029_05_november_2026_france_paris_protesters_gather_at_place_republique_during.jpg",
+   "date": "2026-11-06T09:21:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Anaitasuna-Alavés, Pamplona-Eibar y Amorebieta-Logroñes, el martes 10 tras las dos suspensiones",
+   "link": "https://www.naiz.eus/info/noticia/20261106/anaitasuna-alaves-pamplona-eibar-y-amorebieta-logrones-el-martes-10-tras-las-dos-suspensiones",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/523/news_landscape/txerloia.jpg",
+   "date": "2026-11-06T09:00:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Firms told to publish salaries in job adverts ahead of new law",
+   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
+   "date": "2026-11-06T07:36:41+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
    "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e01/live/e1c54f70-d958-11f1-a800-d9dce9e5aa21.jpg",
-   "date": "2026-11-06T01:02:17+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7da8/live/a5c551d0-d996-11f1-9e72-375d6b1d1f05.jpg",
+   "date": "2026-11-06T07:27:26+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Hacienda actualizará la deducción del salario mínimo hasta los 1.030 euros para que sus perceptores no paguen IRPF",
+   "link": "https://elpais.com/economia/2026-11-06/hacienda-actualizara-la-deduccion-del-salario-minimo-hasta-los-1030-euros-para-que-sus-perceptores-no-paguen-irpf.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/54NPE6OZMJHJPF7LEAQD6CG7VQ.jpg?auth=ad2276d078496993e1398bd53485130c698c5fa548238a2cccaefd9221b60f1c",
+   "date": "2026-11-06T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Agnès Pannier-Runacher, exministra francesa de Energía: “La única estrategia viable para Europa consiste en producir más y consumir menos”",
+   "link": "https://cincodias.elpais.com/economia/2026-11-06/agnes-pannier-runacher-exministra-francesa-de-energia-la-unica-estrategia-viable-para-europa-consiste-en-producir-mas-y-consumir-menos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QOFJ4TSYR5GSLBVSGOEOCW5Y7A.jpg?auth=0bbb24d439527072f23be87e804cee05c37c6c26291c1b9601845f737dcd1a9f",
+   "date": "2026-11-06T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Acabar con el déficit de 750.000 viviendas que calcula el Banco de España exige una inversión equivalente al 11% del PIB",
+   "link": "https://elpais.com/economia/vivienda/2026-11-06/acabar-con-el-deficit-de-750000-viviendas-que-calcula-el-banco-de-espana-exige-una-inversion-equivalente-al-11-del-pib.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/W4TBVCJSGJC5XAZVZG2UZKVU5I.jpg?auth=365e53609878b7b19931840d76c5b97387b7fc81ccbace24de49973314cb8789",
+   "date": "2026-11-06T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los riesgos económicos se intensifican a la espera del impacto del súper ciclo electoral",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-06/los-riesgos-economicos-se-intensifican-a-la-espera-del-impacto-del-super-ciclo-electoral.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ZWAVRKXN6ZMETPIBJQFS4DLOEM.jpg?auth=8788c227ee79b5e5448f2224ba0388db8c4101d9a4c5c31454793cbe5d52ff14",
+   "date": "2026-11-06T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Liberalizar no es privatizar",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-06/liberalizar-no-es-privatizar.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/X7TD5H2V2VCYPEAV3HYIVUB7QM.jpg?auth=47e52c423a4c918c379c4aed5a8dc3a9fbb7f270946f82e79e49b489a3b75801",
+   "date": "2026-11-06T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Fiesta en las bodegas, luto en Sanidad: el consumo de alcohol se dispara",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-06/fiesta-en-las-bodegas-luto-en-sanidad-el-consumo-de-alcohol-se-dispara.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/4LJWDGRGYFAP7M7UNWB5EYW2OI.jpg?auth=57b209760ce5c832fdd5571d8e34ca781277467c54cbe365c040f104d42c70d7",
+   "date": "2026-11-06T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La puesta a punto de BMW resuelve el problema de hoy, no el de mañana",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-06/la-puesta-a-punto-de-bmw-resuelve-el-problema-de-hoy-no-el-de-manana.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/YPFET36MPBEVFASQZVBDIWJ4KU.jpg?auth=f5dad35bb350c5c4726b034f182b86534265094fa257d3efa7e71612123f78df",
+   "date": "2026-11-06T04:40:00+00:00"
   },
   {
    "lang": "en",
@@ -24,14 +120,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c3j4751pqnj8o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ec/live/3550b220-d845-11f1-93e1-3b657b665bcf.png",
    "date": "2026-11-06T00:02:52+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Firms told to publish salaries in job adverts ahead of new law",
-   "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e611/live/c517e390-d90f-11f1-94c6-3f8050561bf5.jpg",
-   "date": "2026-11-05T22:32:02+00:00"
   },
   {
    "lang": "en",
@@ -75,22 +163,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-   "link": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcfc/live/126e9360-d900-11f1-9c68-d767468fa269.jpg",
-   "date": "2026-11-05T15:27:09+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El PP vincula el accidente de Urda y la crisis de vivienda con la falta de inversión del Gobierno",
-   "link": "https://elpais.com/economia/2026-11-05/el-pp-vincula-el-accidente-de-urda-y-la-crisis-de-vivienda-con-la-falta-de-inversion-del-gobierno.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/VPPEDPSEBBHT5KTPUPEOD7DOSU.jpeg?auth=1d1a6d8c739fc45bca0457f75a1b97671645fbf8a7991b21d2c35f1a36337af2",
-   "date": "2026-11-05T14:40:51+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Here's what the Democratic election rout could mean for the U.S. economy",
    "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
@@ -115,59 +187,11 @@
   },
   {
    "lang": "es",
-   "source": "El País",
-   "title": "Competencia propone convertir en urbanizable todo el suelo no protegido para acelerar la construcción de vivienda",
-   "link": "https://elpais.com/economia/vivienda/2026-11-05/competencia-propone-convertir-en-urbanizable-todo-el-suelo-no-protegido-para-acelerar-la-construccion-de-vivienda.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/MJHUS3LSNFNNRO772EUIQURSJ4.jpg?auth=1a8148406743e2594c4eb9bb01d4efc77458edf5f7e3230d5188200f378d7b56",
-   "date": "2026-11-05T12:25:13+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El salario mínimo subirá un 5,3% en 2027, hasta 1.286 euros al mes",
-   "link": "https://elpais.com/economia/2026-11-05/el-salario-minimo-subira-un-53-en-2027-hasta-1286-euros-al-mes.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SWX2LGGUDJMQBILEN42D6XRRWU.jpg?auth=41be50f12b25aaa33719333bd0eb7de663eac915247658623a183d1d3122129b",
-   "date": "2026-11-05T06:49:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "Expansión",
    "title": "Etxebarri, mejor restaurante del mundo en 2026",
    "link": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/11/05/etxebarri-mejor-restaurante-mundo-2026.html",
    "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938506977970.jpg",
    "date": "2026-11-05T04:51:47+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las restricciones gobiernan la IA",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-05/las-restricciones-gobiernan-la-ia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/DI67R5B4VJEV7EGJXZKBRAUSAQ.jpg?auth=9dfdfcb0f4de7191ffb0bfdbe5de0d1b06657c77d5b3c114ebfbae7e33497253",
-   "date": "2026-11-05T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: lo crucial sigue siendo que se tomen las medidas necesarias sobre el ferrocarril",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-05/las-claves-lo-crucial-sigue-siendo-que-se-tomen-las-medidas-necesarias-sobre-el-ferrocarril.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/A2FUNVTMCREGJIFMQ3QW7QIANM.jpg?auth=a8f736f7312550b7304e861063d1d365f59bf6d1ef83f94076e42c9cd3c4a81f",
-   "date": "2026-11-05T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Grand Theft Auto VI es el test de Rorschach de la industria del videojuego",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-05/grand-theft-auto-vi-es-el-test-de-rorschach-de-la-industria-del-videojuego.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7DVWDTS32RLSXLR45YDYIXWTMM.jpg?auth=7530c57d84d68617d8b771d7d543d1f58c879d817d503be25b055ab7bedc0fc1",
-   "date": "2026-11-05T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Más contratos, misma incertidumbre",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-05/mas-contratos-misma-incertidumbre.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/VIHE3W3ZRVHEDPXJCG5JXLER7I.jpg?auth=6e1a2cf2653ab899a0788b44efc516e0a58d6c5afd6a9bc1f113c2fbdd31e10f",
-   "date": "2026-11-05T04:40:00+00:00"
   },
   {
    "lang": "es",
