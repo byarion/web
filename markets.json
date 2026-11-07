@@ -1,0 +1,89 @@
+{
+ "updated": "2026-11-07T08:18:01.042526+00:00",
+ "items": [
+  {
+   "name": "Ibex 35",
+   "name_en": "Ibex 35",
+   "price": 19369.5,
+   "change": -0.5978651339423176
+  },
+  {
+   "name": "Euro Stoxx 50",
+   "name_en": "Euro Stoxx 50",
+   "price": 6170.49,
+   "change": -0.9796942437953884
+  },
+  {
+   "name": "DAX (Alemania)",
+   "name_en": "DAX (Germany)",
+   "price": 25820.36,
+   "change": -1.916997448882117
+  },
+  {
+   "name": "FTSE 100 (Reino Unido)",
+   "name_en": "FTSE 100 (UK)",
+   "price": 10673.94,
+   "change": -1.0086545423917115
+  },
+  {
+   "name": "S&P 500",
+   "name_en": "S&P 500",
+   "price": 7376.86,
+   "change": 0.3145345231968293
+  },
+  {
+   "name": "Nasdaq",
+   "name_en": "Nasdaq",
+   "price": 24579.424,
+   "change": 1.087493316882579
+  },
+  {
+   "name": "Dow Jones",
+   "name_en": "Dow Jones",
+   "price": 51285.7,
+   "change": -0.46068420669963034
+  },
+  {
+   "name": "Nikkei 225 (Japón)",
+   "name_en": "Nikkei 225 (Japan)",
+   "price": 57434.77,
+   "change": -5.964724606934464
+  },
+  {
+   "name": "Oro (USD)",
+   "name_en": "Gold (USD)",
+   "price": 4074.9,
+   "change": -0.9383736477452269
+  },
+  {
+   "name": "Petróleo Brent (USD)",
+   "name_en": "Brent crude (USD)",
+   "price": 98.32,
+   "change": 0.030520993176540227
+  },
+  {
+   "name": "EUR/USD",
+   "name_en": "EUR/USD",
+   "price": 1.1143,
+   "change": -0.8183845879195297
+  },
+  {
+   "name": "Bitcoin (EUR)",
+   "name_en": "Bitcoin (EUR)",
+   "price": 68226,
+   "change": 1.0148244595607017
+  },
+  {
+   "name": "Ethereum (EUR)",
+   "name_en": "Ethereum (EUR)",
+   "price": 2014.47,
+   "change": 1.2298607692572132
+  },
+  {
+   "name": "Solana (EUR)",
+   "name_en": "Solana (EUR)",
+   "price": 80.87,
+   "change": 0.9411179419974963
+  }
+ ]
+}
