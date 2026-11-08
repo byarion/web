@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Compound interest calculator · Ondexi</title>
-<meta name="description" content="See how much your money can grow with compound interest: starting amount, monthly contribution, return and years, with a year-by-year table.">
+<title>Compound interest calculator: daily, monthly or yearly compounding · Ondexi</title>
+<meta name="description" content="Calculate how much money you will have with compound interest, monthly contributions and daily, monthly or yearly compounding. Year-by-year table included.">
 <link rel="canonical" href="https://ondexi.com/en/calculators/compound-interest">
 <link rel="alternate" hreflang="es" href="https://ondexi.com/calculadoras/interes-compuesto">
 <link rel="stylesheet" href="../../style.css">
@@ -31,13 +31,14 @@
 <div><label>Monthly contribution (€)</label><input name="cm" type="number" min="0" step="any" value="150"></div>
 <div><label>Annual return (%)</label><input name="rate" type="number" min="0" step="0.1" value="5"></div>
 <div><label>Years</label><input name="yrs" type="number" min="1" max="60" step="1" value="15"></div>
+<div><label>Compounding</label><select name="freq"><option value="365">Daily</option><option value="12" selected>Monthly</option><option value="1">Yearly</option></select></div>
 </form>
 <div class="result" id="result" aria-live="polite"></div>
 <p class="note">Indicative result. Not financial advice.</p>
 </div>
 <h2>How compound interest works</h2>
 <p>With compound interest, the interest you earn is added to your capital and, the following month, earns interest too. Over time the effect speeds up: each year you earn on a larger amount.</p>
-<p>This calculator applies the return every month (the annual rate divided by 12) and assumes the monthly contribution is paid in at the end of each month.</p>
+<p>You can choose the <b>compounding</b> (daily, monthly or yearly). The default is monthly. The monthly contribution is paid in at the end of each month.</p>
 <p class="formula"><b>Final amount = starting × (1 + i)<sup>n</sup> + contribution × ((1 + i)<sup>n</sup> − 1) ÷ i</b></p>
 <p>Where <i>i</i> is the monthly return and <i>n</i> the number of months.</p>
 <h2>Three examples</h2>
@@ -49,11 +50,20 @@
 <h2>Keep in mind</h2>
 <p>The return is an <b>assumption</b>: no investment guarantees a fixed percentage, and those that can earn the most can also lose. The result also ignores <a href="../calculators/inflation">inflation</a>, fees and taxes, which reduce what you actually keep.</p>
 <p class="note">Indicative result, for information only.</p>
+<h2>How to use the calculator step by step</h2>
+<ol><li>Enter the <b>initial capital</b> and the <b>monthly contribution</b> (it can be 0).</li><li>Enter the <b>annual return</b> you want to simulate.</li><li>Choose the <b>years</b> and the <b>compounding</b> (daily, monthly or yearly).</li><li>See the final money, what you put in yourself and what interest has generated, year by year.</li></ol>
+<h2>Daily, monthly or yearly compounding: what changes?</h2>
+<p>Compounding tells you <b>how often interest is added to the capital</b>. The more often, the sooner that interest starts earning more interest. With €10,000 at 5% a year for 20 years and no contributions:</p>
+<div class="tbl"><table><thead><tr><th>Compounding</th><th>Final money</th></tr></thead><tbody><tr><td>Yearly</td><td class="tt">€26,533</td></tr><tr><td>Monthly</td><td class="tt">€27,126</td></tr><tr><td>Daily</td><td class="tt">€27,181</td></tr></tbody></table></div>
+<p>The difference between monthly and daily is small. <b>Return</b>, <b>time</b> and <b>fees</b> matter far more. When comparing products, look at the <a href="../guides/apr-and-nominal-rate">TAE (APR)</a>, which already includes the effect of compounding.</p>
+<h2>The daily compound interest formula</h2>
+<p class="formula"><b>Final capital = initial × (1 + r ÷ 365)<sup>365 × years</sup></b></p>
+<p>Where <i>r</i> is the annual return as a decimal (5% = 0.05). With monthly contributions, the calculator uses the effective monthly rate equivalent to the chosen compounding.</p>
 <h2>Frequently asked questions</h2><h3>What return should I enter?</h3><p>It is a figure you choose to simulate. Try several (for example 2%, 5% and 7%) to see how the result changes. There is no safe number.</p><h3>What matters more, contributing more or waiting more years?</h3><p>Usually time. Starting earlier gives interest more room to earn interest. Change the years and the contribution to see it for yourself.</p><h3>Why does it not match my bank or fund?</h3><p>Real products have fees, taxes and returns that change every year. This calculator uses a fixed, constant percentage.</p>
-<h2>Keep learning</h2>
+<h3>How is daily compound interest calculated?</h3><p>The annual rate is divided by 365 and applied every day. For example, €5,000 at 4% for 3 years gives 5,000 × (1 + 0.04 ÷ 365)<sup>1,095</sup>, about €5,637.</p><h3>Is daily compounding better than monthly?</h3><p>It gives slightly more money, but the difference is small. What matters is the rate, the term and whether fees eat into the return.</p><h2>Keep learning</h2>
 <div class="grid"><a class="card guide" href="../guides/compound-interest"><h3>Compound interest</h3></a><a class="card guide" href="../guides/index-funds"><h3>Index funds for beginners</h3></a></div>
 </main>
 <footer><div class="wrap"><div class="fl"><a href="../privacy">Privacy</a><a href="../legal-notice">Legal notice</a><a href="../contact">Contact</a></div>© Ondexi</div></footer>
-<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"fin": "Money at the end", "put": "Of which, what you put in", "gain": "Earned from interest", "y": "Year", "c": "Contributed", "i": "Interest", "v": "Total"},loc="en-GB";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var P=parseFloat(f.p0.value)||0,C=parseFloat(f.cm.value)||0,rate=(parseFloat(f.rate.value)||0)/100,y=Math.round(parseFloat(f.yrs.value)||0);if(y<=0||y>60){out.innerHTML="";return}var r=rate/12;function fv(k){return r===0?P+C*k:P*Math.pow(1+r,k)+C*(Math.pow(1+r,k)-1)/r}var F=fv(y*12),put=P+C*y*12;function m0(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",maximumFractionDigits:0})}var step=Math.max(1,Math.ceil(y/10)),ys=[],t,rows="";for(t=step;t<=y;t+=step){ys.push(t)}if(ys[ys.length-1]!==y){ys.push(y)}for(t=0;t<ys.length;t++){var k=ys[t]*12,v=fv(k),c=P+C*k;rows+="<tr><td>"+ys[t]+"</td><td>"+m0(c)+"</td><td>"+m0(v-c)+"</td><td class='tt'>"+m0(v)+"</td></tr>"}out.innerHTML=L.fin+': <b>'+m(F)+'</b><br>'+L.put+': <b>'+m(put)+'</b><br>'+L.gain+': <b>'+m(F-put)+'</b>'+'<div class="tbl"><table><thead><tr><th>'+L.y+'</th><th>'+L.c+'</th><th>'+L.i+'</th><th>'+L.v+'</th></tr></thead><tbody>'+rows+'</tbody></table></div>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
+<script>(function(){var f=document.getElementById("calc"),out=document.getElementById("result"),L={"fin": "Money at the end", "put": "Of which, what you put in", "gain": "Earned from interest", "y": "Year", "c": "Contributed", "i": "Interest", "v": "Total"},loc="en-GB";function m(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",minimumFractionDigits:2,maximumFractionDigits:2})}function run(){var P=parseFloat(f.p0.value)||0,C=parseFloat(f.cm.value)||0,rate=(parseFloat(f.rate.value)||0)/100,y=Math.round(parseFloat(f.yrs.value)||0);if(y<=0||y>60){out.innerHTML="";return}var k0=parseFloat(f.freq.value)||12,r=Math.pow(1+rate/k0,k0/12)-1;function fv(k){return r===0?P+C*k:P*Math.pow(1+r,k)+C*(Math.pow(1+r,k)-1)/r}var F=fv(y*12),put=P+C*y*12;function m0(n){return n.toLocaleString(loc,{style:"currency",currency:"EUR",maximumFractionDigits:0})}var step=Math.max(1,Math.ceil(y/10)),ys=[],t,rows="";for(t=step;t<=y;t+=step){ys.push(t)}if(ys[ys.length-1]!==y){ys.push(y)}for(t=0;t<ys.length;t++){var k=ys[t]*12,v=fv(k),c=P+C*k;rows+="<tr><td>"+ys[t]+"</td><td>"+m0(c)+"</td><td>"+m0(v-c)+"</td><td class='tt'>"+m0(v)+"</td></tr>"}out.innerHTML=L.fin+': <b>'+m(F)+'</b><br>'+L.put+': <b>'+m(put)+'</b><br>'+L.gain+': <b>'+m(F-put)+'</b>'+'<div class="tbl"><table><thead><tr><th>'+L.y+'</th><th>'+L.c+'</th><th>'+L.i+'</th><th>'+L.v+'</th></tr></thead><tbody>'+rows+'</tbody></table></div>';}f.addEventListener("input",run);f.addEventListener("change",run);f.addEventListener("submit",function(e){e.preventDefault();run()});run();})();</script>
 </body>
 </html>
