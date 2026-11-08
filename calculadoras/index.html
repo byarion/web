@@ -26,6 +26,8 @@
 <p class="crumb"><a href="../">← Inicio</a></p>
 <h1>Todas las calculadoras</h1>
 <p class="lead">Aquí encontrarás calculadoras gratuitas para planificar tu ahorro, tu hipoteca, tus impuestos y tu sueldo, con resultados al momento.</p>
+<div class="hub-search"><input type="search" id="q" placeholder="Buscar calculadoras…" aria-label="Buscar calculadoras" autocomplete="off"></div>
+<p id="noRes" class="note" hidden>No hemos encontrado ninguna calculadora. Prueba con otra palabra.</p>
 <h2>Calculadoras</h2>
 <div class="grid">
       <a class="card guide" href="iva"><h3>Calculadora de IVA</h3><p>Añade o quita el IVA (21 %, 10 % o 4 %) a cualquier precio.</p><span class="more">Usar calculadora →</span></a>
@@ -38,5 +40,6 @@
 <div class="grid"><a class="card guide" href="../#calculadora"><h3>Calculadora de ahorro</h3><p>Simula cuánto crece tu ahorro con una aportación mensual.</p><span class="more">Usar calculadora →</span></a></div>
 </main>
 <footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
+<script>(function(){var q=document.getElementById("q"),none=document.getElementById("noRes");if(!q)return;var cards=[].slice.call(document.querySelectorAll("main .card.guide")),heads=[].slice.call(document.querySelectorAll("main h2"));function norm(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}var texts=cards.map(function(c){return norm(c.textContent)});function run(){var terms=norm(q.value).split(/\s+/).filter(Boolean),shown=0;cards.forEach(function(c,i){var ok=terms.every(function(t){return texts[i].indexOf(t)>-1});c.style.display=ok?"":"none";if(ok)shown++});heads.forEach(function(h){var g=h.nextElementSibling;if(!g||!g.classList.contains("grid"))return;var any=[].some.call(g.children,function(c){return c.style.display!=="none"});h.style.display=any?"":"none";g.style.display=any?"":"none"});none.hidden=shown>0}q.addEventListener("input",run);run()})();</script>
 </body>
 </html>

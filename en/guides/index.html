@@ -26,6 +26,8 @@
 <p class="crumb"><a href="../../en/">← Home</a></p>
 <h1>All guides to learn</h1>
 <p class="lead">Here you will find guides to learn, get informed and understand your money, explained without jargon and with examples.</p>
+<div class="hub-search"><input type="search" id="q" placeholder="Search guides…" aria-label="Search guides" autocomplete="off"></div>
+<p id="noRes" class="note" hidden>No guides found. Try another word.</p>
 <h2>Understand the economy</h2>
 <div class="grid">
       <a class="card guide" href="inflation"><h3>What is inflation?</h3><p>The general rise in prices. At 3%, the same money buys you 3% less than a year ago.</p><span class="more">Read guide →</span></a>
@@ -63,5 +65,6 @@
 </div>
 </main>
 <footer><div class="wrap"><div class="fl"><a href="../privacy">Privacy</a><a href="../legal-notice">Legal notice</a><a href="../contact">Contact</a></div>© Ondexi</div></footer>
+<script>(function(){var q=document.getElementById("q"),none=document.getElementById("noRes");if(!q)return;var cards=[].slice.call(document.querySelectorAll("main .card.guide")),heads=[].slice.call(document.querySelectorAll("main h2"));function norm(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}var texts=cards.map(function(c){return norm(c.textContent)});function run(){var terms=norm(q.value).split(/\s+/).filter(Boolean),shown=0;cards.forEach(function(c,i){var ok=terms.every(function(t){return texts[i].indexOf(t)>-1});c.style.display=ok?"":"none";if(ok)shown++});heads.forEach(function(h){var g=h.nextElementSibling;if(!g||!g.classList.contains("grid"))return;var any=[].some.call(g.children,function(c){return c.style.display!=="none"});h.style.display=any?"":"none";g.style.display=any?"":"none"});none.hidden=shown>0}q.addEventListener("input",run);run()})();</script>
 </body>
 </html>
