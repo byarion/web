@@ -1,13 +1,53 @@
 {
- "updated": "2026-11-09T03:16:04.861935+00:00",
+ "updated": "2026-11-09T14:29:52.338246+00:00",
  "items": [
   {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los sindicatos rechazan la subida del salario mínimo del Gobierno francés y llaman otra huelga",
+   "link": "https://www.naiz.eus/info/noticia/20261109/sindicatos-rechazan-la-subida-del-salario-minimo-del-gobierno-frances-y-llaman-a-otra-huelga",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/326/news_landscape/EuropaPress_7895030_05_november_2026_france_paris_police_officers_disperse_protesters_during.jpg",
+   "date": "2026-11-09T14:21:00+00:00"
+  },
+  {
    "lang": "en",
-   "source": "CNBC Economy",
-   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "image": "",
-   "date": "2026-11-09T02:50:22+00:00"
+   "source": "BBC Business",
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-09T13:10:32+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Government's EV targets expected to be reduced this week",
+   "link": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b401/live/fd7836e0-dbdf-11f1-b348-cb75a5659779.jpg",
+   "date": "2026-11-09T12:06:22+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "CaixaBank prevé que el PIB español crezca un 2% en 2027, por encima de la zona euro",
+   "link": "https://elpais.com/economia/2026-11-09/caixabank-preve-que-el-pib-espanol-crezca-un-2-en-2027-por-encima-de-la-zona-euro.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/TMSTR6TRZVEVNK4QD2BPR3TN7Q?auth=97c62eb548ea0b1c7cbca94a717463dfee1fd865ec6ea2c8ccc1d9ac1d270dae",
+   "date": "2026-11-09T12:01:04+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "1922 y 1931, las otras huelgas que motivó la crisis en vivienda: «Que nadie pague el alquiler»",
+   "link": "https://www.naiz.eus/info/noticia/20261109/1922-y-1931-las-otras-huelgas-que-motivo-la-crisis-en-vivienda-que-nadie-pague-el-alquiler",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/286/news_landscape/barcelona-1919.jpg",
+   "date": "2026-11-09T10:51:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "En el inicio del periodo de consultas, trabajadores de Vicinay insisten en que «no sobra nadie»",
+   "link": "https://www.naiz.eus/info/noticia/20261109/en-el-inicio-del-periodo-de-consultas-trabajadores-de-vicinay-insisten-en-que-no-sobra-nadie",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/278/news_landscape/vicinay.jpg",
+   "date": "2026-11-09T10:31:00+00:00"
   },
   {
    "lang": "en",
@@ -15,7 +55,71 @@
    "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
    "link": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4981/live/81f74f50-dbb8-11f1-86cb-c1d83392da32.jpg",
-   "date": "2026-11-09T00:50:06+00:00"
+   "date": "2026-11-09T08:10:25+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
+   "link": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83e2/live/f1cb1e30-dc24-11f1-93e1-3b657b665bcf.png",
+   "date": "2026-11-09T07:10:11+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
+   "link": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/Q24Y6RXNYJCERLTVMH55BYQOFM.jpg?auth=7ef88268affd0c3c6dbd31b59ca65e36f182db109610f8a5af88bbf8dcb9894f",
+   "date": "2026-11-09T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Más de la mitad de la oferta de alquiler de vivienda es de habitaciones y de temporada",
+   "link": "https://elpais.com/economia/vivienda/2026-11-09/mas-de-la-mitad-de-la-oferta-de-alquiler-de-vivienda-es-de-habitaciones-y-de-temporada.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/FWGBF5XGWBDGDFBZYNKJ4RY74A.jpg?auth=ae8e40be9c44471446ec41166505b1219dc271ee07477c69eb4e06b31475c41d",
+   "date": "2026-11-09T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El tropiezo de la IA que comenzó en China se extiende a Estados Unidos",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-burbuja-bursatil-de-la-ia-pincho-primero-en-china-el-star-50-pierde-casi-la-mitad-de-su-valor.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/WUPZYWJKHJMSPBZIY4YQ4W525Y.jpg?auth=fd98cb98182a85af0062d62c0df24751f7d2cca40d6b5e4ba82c468ab778a5da",
+   "date": "2026-11-09T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Pensiones con visión progresista",
+   "link": "https://elpais.com/economia/2026-11-09/pensiones-con-vision-progresista.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/SS5AWPRGYVFPRPRYNCKB47ZJ44.jpeg?auth=5d2263100d4e93f98695b1a7c011a524a892d2fe6a4ff5eaa8538b60f68ace37",
+   "date": "2026-11-09T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La eterna torre de Babel",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-09/la-eterna-torre-de-babel.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ARF3XSAWVRBUZONLR4LA6PRFJY.jpg?auth=047cfaece4a4ccb33e41e0a9a740ebb4c52d114a7f389b5799c1e8e0f14c4ff0",
+   "date": "2026-11-09T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Estados Unidos, Francia, España",
+   "link": "https://cincodias.elpais.com/fondos-y-planes/2026-11-09/estados-unidos-francia-espana.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/7TVSGTVNLBMRLP3NPVY5SCH36E.jpg?auth=b524b728483e1818b427f3357c07566d85208e239e4aea07c15c22f777a23c0e",
+   "date": "2026-11-09T04:25:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+   "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+   "image": "",
+   "date": "2026-11-09T02:50:22+00:00"
   },
   {
    "lang": "en",
@@ -35,83 +139,11 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "Sánchez promete en Bilbo subir todos los años el SMI y blindar las pensiones en la Constitución",
-   "link": "https://www.naiz.eus/info/noticia/20261108/sanchez-promete-en-bilbo-subir-todos-los-anos-el-smi-y-blindar-las-pensiones-en-la-constitucion",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/114/news_landscape/aa_20261108236678.jpg",
-   "date": "2026-11-08T12:35:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La COP31 de Antalya arranca el lunes mirando al Acuerdo de París y la financiación climática",
-   "link": "https://www.naiz.eus/info/noticia/20261108/la-cop31-de-antalya-arranca-el-lunes-mirando-al-acuerdo-de-paris-y-la-financiacion-climatica",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/091/news_landscape/AFP__20261107__D6RL4NQ__v1__HighRes__Cop31UnClimateChangeConference.jpg",
-   "date": "2026-11-08T07:47:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las recetas de los supermercados para evitar los ‘hackeos’: segmentar las redes y cifrar los métodos de acceso",
-   "link": "https://elpais.com/economia/2026-11-08/las-recetas-de-los-supermercados-para-evitar-los-hackeos-segmentar-las-redes-y-cifrar-los-metodos-de-acceso.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/32EEZHPOI5BITPNMLWKTUGKNFM.JPG?auth=19e0d24ac08a54b438e7f90dcfbd4577cdd607eed0b4b44d1db390e5f47e52c5",
-   "date": "2026-11-08T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "¿Qué pasa con la vivienda? 11 gráficos para entender causas y consecuencias del problema",
-   "link": "https://elpais.com/economia/vivienda/2026-11-08/que-pasa-con-la-vivienda-11-graficos-para-entender-causas-y-consecuencias-del-problema.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6IRUW4HJY4NQNRCFA2DDARFGY4.jpg?auth=cf43c95a425c3ffb03b47452680f2e7c6e1e999e00c7d0778becc0792b6a384d",
-   "date": "2026-11-08T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "Las claves: el mecanismo de retirada del aceite deberá ser evaluado con atención",
    "link": "https://cincodias.elpais.com/opinion/2026-11-08/las-claves-el-mecanismo-de-retirada-del-aceite-debera-ser-evaluado-con-atencion.html",
    "image": "https://imagenes.elpais.com/resizer/v2/NXLDV33L4VM6XDGPZ7R6PSDOHE.jpg?auth=549ec844a670d53611bf182c9bd0c0430caada6ffec68ff5514fe6c6bee2afa4",
    "date": "2026-11-08T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Sam Houser, el hombre invisible detrás del imperio de ‘Grand Theft Auto’",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-08/sam-houser-el-hombre-invisible-detras-del-imperio-de-grand-theft-auto.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/D2JAU5SSINHTFDTIJYUMNWJGIM.jpg?auth=e6e9da7c6576aedb5a8e5fa443e1e346368cf42bc0f97adaa2ad62e8b949a187",
-   "date": "2026-11-08T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "De la nevera al agua del grifo o la luz: los ciberataques ya impactan en la vida cotidiana",
-   "link": "https://elpais.com/tecnologia/2026-11-08/de-la-nevera-al-agua-del-grifo-o-la-luz-los-ciberataques-ya-impactan-en-la-vida-cotidiana.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/3YZBSJ2Z7RAPRJA67INFPT32RI.jpg?auth=98f56eaa480c4f33ba50810586b1ee4047260672efb4b11ef1f9a554a1206f51",
-   "date": "2026-11-08T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Un Estado fuerte para un mercado libre",
-   "link": "https://elpais.com/economia/negocios/2026-11-08/un-estado-fuerte-para-un-mercado-libre.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ESUYEA6PNVHLNFN2BVMT7RVEJ4.jpg?auth=6f418329b2f1f764721ac857928a97725453a025d219483b99acdd493d91c88e",
-   "date": "2026-11-08T04:30:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "IA segura: el equilibrio entre el riesgo y la oportunidad",
-   "link": "https://elpais.com/economia/negocios/2026-11-08/ia-segura-el-equilibrio-entre-el-riesgo-y-la-oportunidad.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ZHA3DYA7VJFJ3P6R54ZXDYJAQQ.jpg?auth=1c3f20333b751ae6420f9f7b2dfe9450943f4776d0fa4da66cf3327ada627dca",
-   "date": "2026-11-08T04:30:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Las razones para llenar las calles el 11N por el derecho a vivienda: «¡Hay que decir basta!»",
-   "link": "https://www.naiz.eus/info/noticia/20261108/llaman-a-llenar-las-calles-el-11n-por-el-derecho-a-la-vivienda-hay-que-decir-basta",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/385/835/news_landscape/Greba.jpg",
-   "date": "2026-11-08T04:00:00+00:00"
   },
   {
    "lang": "en",
@@ -120,14 +152,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmvg652l927lo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79bc/live/19d4a530-d90b-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-07T23:02:35+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los deberes económicos tras el 29-N: vivienda, infraestructuras, Presupuestos y pensiones, entre los más urgentes",
-   "link": "https://elpais.com/economia/negocios/2026-11-07/los-deberes-economicos-tras-el-29-n-vivienda-infraestructuras-presupuestos-y-pensiones-entre-los-mas-urgentes.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7JDSY2W5BJFARK5MQVWSJXPTR4.jpg?auth=89a693f930d826c7c0dd78989a3122c3d25055efb9258bdaeabc945948c0efef",
-   "date": "2026-11-07T16:30:00+00:00"
   },
   {
    "lang": "en",
@@ -139,14 +163,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "AI stocks climb after trillions wiped from market values",
-   "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdde/live/9036f7e0-da01-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-06T21:06:25+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
    "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
@@ -155,27 +171,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Why the US midterms sparked an AI stock selloff",
-   "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/19529fe0-d9fb-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-06T18:32:16+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
    "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
    "image": "",
    "date": "2026-11-06T16:06:59+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "How does it affect me if share prices fall?",
-   "link": "https://www.bbc.co.uk/news/articles/c33zdz2m1e2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c320/live/25775960-3fc2-11f1-b61b-1d0ccf7b6022.jpg",
-   "date": "2026-11-06T09:21:50+00:00"
   },
   {
    "lang": "en",
