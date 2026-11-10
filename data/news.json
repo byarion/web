@@ -1,13 +1,109 @@
 {
- "updated": "2026-11-09T23:37:29.928311+00:00",
+ "updated": "2026-11-10T04:54:55.647758+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+   "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+   "image": "",
+   "date": "2026-11-10T04:49:22+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "¿Tengo que avisar a mi jefe? ¿Y si trabajo de noche? Dudas sobre los derechos en la huelga general del 11-N",
+   "link": "https://elpais.com/economia/2026-11-10/tengo-que-avisar-a-mi-jefe-y-si-trabajo-de-noche-dudas-sobre-los-derechos-en-la-huelga-general-del-11-n.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EH4TDQ2NIRC5RB3LLJVZKH4YW4.jpg?auth=7a304f09709fd005e0e6f44385c286bad16aeafb4f49dd70d27c780eb58244ec",
+   "date": "2026-11-10T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Anacláudia Rossbach (ONU-Hábitat): “Las políticas de vivienda que teníamos no están funcionando”",
+   "link": "https://elpais.com/economia/vivienda/2026-11-10/anaclaudia-rossbach-onu-habitat-las-politicas-de-vivienda-que-teniamos-no-estan-funcionando.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/OMP2WMQNM5CWBLJ2SRLGPTT6FE.jpg?auth=83c899c5a95480c610dd0ad738a2bfd508f34e297d75ba677d2cb00a0b0710ac",
+   "date": "2026-11-10T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "España registra una de las mayores subidas de la presión fiscal en la UE, pero sigue por debajo de la media",
+   "link": "https://elpais.com/economia/2026-11-10/espana-registra-una-de-las-mayores-subidas-de-la-presion-fiscal-en-la-ue-pero-sigue-por-debajo-de-la-media.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/DB4UT3HZ3WXLTIIIWNNZ2DFRFY.jpg?auth=f75b6f73e2c79442958e35b2b2956ca4b7bd6cb9216fadde62af33a355c6c3d3",
+   "date": "2026-11-10T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El rentismo contra los salarios y la economía productiva",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-10/el-rentismo-contra-los-salarios-y-la-economia-productiva.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JUUKCFU7DNCWBHRBAXCBRCV2RE.jpg?auth=e8742132acc6d4f91587ea1e06ba4ea06d0b7bc2ed10d8883dc0b8a20d119c2f",
+   "date": "2026-11-10T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Crisis de gobernanza para uno de los líderes de la IA",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-10/crisis-de-gobernanza-para-uno-de-los-lideres-de-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/SK2SPIBAQNKKVC6DGZIJEF2EIQ.jpg?auth=6451d99c12a2c8b8e3af2719c553ddb06e00ef1b13e20e60e7cd5d02dc5ea602",
+   "date": "2026-11-10T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La crisis de Nvidia puede perjudicar a China más de lo que la beneficia",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-10/la-crisis-de-nvidia-puede-perjudicar-a-china-mas-de-lo-que-la-beneficia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/KEGN7UXKLZAPDOQKPBJOFWWOIU.JPG?auth=a52a31248021f84c57d08a57683fd59c869a577a45f5912618ef360b1b12db57",
+   "date": "2026-11-10T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Kevin Warsh gana las elecciones de mitad de mandato, por ahora",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-10/kevin-warsh-gana-las-elecciones-de-mitad-de-mandato-por-ahora.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/Z72UMMA5QFOJZHBJ7BWEJR4VZU.jpg?auth=c2abdbfae723ff7803fa8a40ecc75bc1c731cd51c407b547e2c7f0671abda436",
+   "date": "2026-11-10T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Millicom dispara su deuda un 49% tras las compras de las filiales de Telefónica en Latinoamérica",
+   "link": "https://cincodias.elpais.com/companias/2026-11-10/millicom-dispara-su-deuda-un-49-tras-las-compras-de-las-filiales-de-telefonica-en-latinoamerica.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/UD6GNH2TINGPROGI5GKAZP2OGY.png?auth=2c3ad0d752b5276ab472941868750d5754ea9e2c5d31977c341e7ff47cd776ab",
+   "date": "2026-11-10T04:15:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Guía para este 11N por la vivienda: huelga, marchas mañana y tarde... ¿y desahucios?",
+   "link": "https://www.naiz.eus/info/noticia/20261110/guia-para-este-11n-por-la-vivienda-huelga-marchas-manana-y-tarde-y-desahucios",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/292/news_landscape/bilbo.jpg",
+   "date": "2026-11-10T04:07:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
    "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9ed/live/459f3140-dc93-11f1-b244-e54544344237.jpg",
-   "date": "2026-11-09T23:20:29+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-10T03:58:13+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
+   "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
+   "date": "2026-11-10T01:55:22+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-09T23:51:22+00:00"
   },
   {
    "lang": "en",
@@ -74,14 +170,6 @@
    "date": "2026-11-09T16:46:00+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-09T15:46:20+00:00"
-  },
-  {
    "lang": "es",
    "source": "Naiz",
    "title": "Los sindicatos rechazan la subida del salario mínimo del Gobierno francés y llaman otra huelga",
@@ -90,84 +178,12 @@
    "date": "2026-11-09T14:21:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Estos son los servicios mínimos de transporte y otras áreas para la huelga general del 11 de noviembre",
-   "link": "https://elpais.com/economia/2026-11-09/estos-son-los-servicios-minimos-de-transporte-y-otras-areas-para-la-huelga-general-del-11-de-noviembre.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/J263K23HAJXLNCGHS7V7RT563I.jpg?auth=bdb1faffbe94613d951a02a072421f6c322f104a296994e2b74ad3b40816ef47",
-   "date": "2026-11-09T11:27:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los sindicatos se preparan para un seguimiento “desigual” de la huelga por territorios, sectores y edades",
-   "link": "https://elpais.com/economia/2026-11-09/los-sindicatos-preven-un-seguimiento-desigual-por-territorios-sectores-y-edades-en-la-huelga-general.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/Q24Y6RXNYJCERLTVMH55BYQOFM.jpg?auth=7ef88268affd0c3c6dbd31b59ca65e36f182db109610f8a5af88bbf8dcb9894f",
-   "date": "2026-11-09T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El tropiezo de la IA que comenzó en China se extiende a Estados Unidos",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-09/la-burbuja-bursatil-de-la-ia-pincho-primero-en-china-el-star-50-pierde-casi-la-mitad-de-su-valor.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/WUPZYWJKHJMSPBZIY4YQ4W525Y.jpg?auth=fd98cb98182a85af0062d62c0df24751f7d2cca40d6b5e4ba82c468ab778a5da",
-   "date": "2026-11-09T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Más de la mitad de la oferta de alquiler de vivienda es de habitaciones y de temporada",
-   "link": "https://elpais.com/economia/vivienda/2026-11-09/mas-de-la-mitad-de-la-oferta-de-alquiler-de-vivienda-es-de-habitaciones-y-de-temporada.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FWGBF5XGWBDGDFBZYNKJ4RY74A.jpg?auth=ae8e40be9c44471446ec41166505b1219dc271ee07477c69eb4e06b31475c41d",
-   "date": "2026-11-09T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Pensiones con visión progresista",
-   "link": "https://elpais.com/economia/2026-11-09/pensiones-con-vision-progresista.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SS5AWPRGYVFPRPRYNCKB47ZJ44.jpeg?auth=5d2263100d4e93f98695b1a7c011a524a892d2fe6a4ff5eaa8538b60f68ace37",
-   "date": "2026-11-09T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La eterna torre de Babel",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-09/la-eterna-torre-de-babel.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ARF3XSAWVRBUZONLR4LA6PRFJY.jpg?auth=047cfaece4a4ccb33e41e0a9a740ebb4c52d114a7f389b5799c1e8e0f14c4ff0",
-   "date": "2026-11-09T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Estados Unidos, Francia, España",
-   "link": "https://cincodias.elpais.com/fondos-y-planes/2026-11-09/estados-unidos-francia-espana.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7TVSGTVNLBMRLP3NPVY5SCH36E.jpg?auth=b524b728483e1818b427f3357c07566d85208e239e4aea07c15c22f777a23c0e",
-   "date": "2026-11-09T04:25:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
    "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
    "image": "",
    "date": "2026-11-09T02:50:22+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Doing these things now will help you save money at Christmas",
-   "link": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/903c/live/8d645510-d9ef-11f1-bb10-cdca6001fbcf.jpg",
-   "date": "2026-11-09T00:09:14+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: el mecanismo de retirada del aceite deberá ser evaluado con atención",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-08/las-claves-el-mecanismo-de-retirada-del-aceite-debera-ser-evaluado-con-atencion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/NXLDV33L4VM6XDGPZ7R6PSDOHE.jpg?auth=549ec844a670d53611bf182c9bd0c0430caada6ffec68ff5514fe6c6bee2afa4",
-   "date": "2026-11-08T04:40:00+00:00"
   },
   {
    "lang": "en",
@@ -192,14 +208,6 @@
    "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
    "image": "",
    "date": "2026-11-05T21:32:52+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-   "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
-   "image": "",
-   "date": "2026-11-05T16:01:47+00:00"
   },
   {
    "lang": "en",
