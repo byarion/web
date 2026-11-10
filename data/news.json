@@ -1,13 +1,37 @@
 {
- "updated": "2026-11-10T13:51:48.002948+00:00",
+ "updated": "2026-11-10T21:04:10.107787+00:00",
  "items": [
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+   "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
+   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg",
+   "date": "2026-11-10T20:40:13+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-10T13:45:36+00:00"
+   "date": "2026-11-10T17:56:12+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El PP se compromete a convocar elecciones si prorroga los Presupuestos en dos ocasiones",
+   "link": "https://elpais.com/economia/2026-11-10/el-pp-se-compromete-a-convocar-elecciones-si-prorroga-los-presupuestos-en-dos-ocasiones.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/MMVJ4RKLLJIWRDSACEWSS6PTTM.jpg?auth=f5f61ab6da8fea377b5112ee7576ccd66e9a49a702227c885126505469bb9dc7",
+   "date": "2026-11-10T17:48:18+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
+   "date": "2026-11-10T17:04:55+00:00"
   },
   {
    "lang": "en",
@@ -15,7 +39,55 @@
    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
    "image": "",
-   "date": "2026-11-10T13:45:04+00:00"
+   "date": "2026-11-10T16:47:05+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los Bancos de Alimentos celebran este viernes y sábado su gran recogida anual",
+   "link": "https://www.naiz.eus/info/noticia/20261110/los-bancos-de-alimentos-celebran-este-viernes-y-sabado-su-gran-recogida-anual",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/549/news_landscape/banco-alimentos.jpg",
+   "date": "2026-11-10T16:30:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno obliga a las plataformas a dar mayor visibilidad al cine español y europeo en sus catálogos",
+   "link": "https://elpais.com/economia/2026-11-10/el-gobierno-obliga-a-las-plataformas-a-dar-mayor-visibilidad-al-cine-espanol-y-europeo-en-sus-catalogos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/LSX4HUA7FV22RKLI2EOHBADXEA.jpg?auth=9d7f2bfbfc61caca457fb03518035e9bee06f5adb7833b7be62f2232337c376e",
+   "date": "2026-11-10T16:17:59+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El programa de Feijóo: desregulación, retoques contra los parados y rebajas fiscales",
+   "link": "https://www.naiz.eus/info/noticia/20261110/el-programa-de-feijoo-desregulacion-retoques-contra-los-parados-y-rebajas-fiscales",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/547/news_landscape/feijoo.jpg",
+   "date": "2026-11-10T15:53:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La falta de coordinación entre países desarma a la UE ante ciberataques",
+   "link": "https://elpais.com/economia/2026-11-10/la-falta-de-coordinacion-entre-paises-desarma-a-la-ue-ante-ciberataques.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/7TYENZDBZFEJDPEOR47RDRRWZ4.JPG?auth=e5c3f8a1c227abaa93b5ec4b86774eafd86e234d75cc8b1108b0426ed502a24a",
+   "date": "2026-11-10T15:36:40+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-10T15:10:20+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "US inflation higher than expected in October - here's what is happening with prices",
+   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
+   "date": "2026-11-10T14:45:46+00:00"
   },
   {
    "lang": "es",
@@ -35,35 +107,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-10T11:43:06+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
    "image": "",
    "date": "2026-11-10T10:24:13+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El PNV presentará sus candidatos a las elecciones de mayo este miércoles, día de huelga general",
-   "link": "https://www.naiz.eus/info/noticia/20261110/el-pnv-presentara-sus-candidatos-a-las-elecciones-de-mayo-este-miercoles-dia-de-huelga-general",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/484/news_landscape/bengoetxea.jpg",
-   "date": "2026-11-10T10:17:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
-   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
-   "date": "2026-11-10T09:57:49+00:00"
   },
   {
    "lang": "en",
@@ -72,14 +120,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
    "date": "2026-11-10T09:23:55+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Vodafone eleva previsiones pese a registrar pérdidas de 3.597 millones por ajustes contables",
-   "link": "https://cincodias.elpais.com/companias/2026-11-10/vodafone-eleva-previsiones-pese-a-registrar-perdidas-de-3597-millones-por-ajustes-contables.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/73R4DCG6CJBJ3HEHFKIS6HDT3Y.jpg?auth=c659b2faa3983010d71bbbee0259fa6eb8f1b35bda7b0d3c069d59a25740b253",
-   "date": "2026-11-10T08:38:27+00:00"
   },
   {
    "lang": "en",
@@ -92,18 +132,10 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "¿Tengo que avisar a mi jefe? ¿Y si trabajo de noche? Dudas sobre los derechos en la huelga general del 11-N",
-   "link": "https://elpais.com/economia/2026-11-10/tengo-que-avisar-a-mi-jefe-y-si-trabajo-de-noche-dudas-sobre-los-derechos-en-la-huelga-general-del-11-n.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EH4TDQ2NIRC5RB3LLJVZKH4YW4.jpg?auth=7a304f09709fd005e0e6f44385c286bad16aeafb4f49dd70d27c780eb58244ec",
-   "date": "2026-11-10T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Anacláudia Rossbach (ONU-Hábitat): “Las políticas de vivienda que teníamos no están funcionando”",
-   "link": "https://elpais.com/economia/vivienda/2026-11-10/anaclaudia-rossbach-onu-habitat-las-politicas-de-vivienda-que-teniamos-no-estan-funcionando.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/OMP2WMQNM5CWBLJ2SRLGPTT6FE.jpg?auth=83c899c5a95480c610dd0ad738a2bfd508f34e297d75ba677d2cb00a0b0710ac",
-   "date": "2026-11-10T04:45:01+00:00"
+   "title": "El rentismo contra los salarios y la economía productiva",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-10/el-rentismo-contra-los-salarios-y-la-economia-productiva.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JUUKCFU7DNCWBHRBAXCBRCV2RE.jpg?auth=e8742132acc6d4f91587ea1e06ba4ea06d0b7bc2ed10d8883dc0b8a20d119c2f",
+   "date": "2026-11-10T04:40:00+00:00"
   },
   {
    "lang": "es",
@@ -111,14 +143,6 @@
    "title": "Crisis de gobernanza para uno de los líderes de la IA",
    "link": "https://cincodias.elpais.com/opinion/2026-11-10/crisis-de-gobernanza-para-uno-de-los-lideres-de-la-ia.html",
    "image": "https://imagenes.elpais.com/resizer/v2/SK2SPIBAQNKKVC6DGZIJEF2EIQ.jpg?auth=6451d99c12a2c8b8e3af2719c553ddb06e00ef1b13e20e60e7cd5d02dc5ea602",
-   "date": "2026-11-10T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El rentismo contra los salarios y la economía productiva",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-10/el-rentismo-contra-los-salarios-y-la-economia-productiva.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/JUUKCFU7DNCWBHRBAXCBRCV2RE.jpg?auth=e8742132acc6d4f91587ea1e06ba4ea06d0b7bc2ed10d8883dc0b8a20d119c2f",
    "date": "2026-11-10T04:40:00+00:00"
   },
   {
@@ -147,14 +171,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "The superpower battle over energy – and what it means for your bills",
-   "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-10T00:08:28+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "3 unexpected reasons the October jobs report was so strong",
    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
@@ -168,14 +184,6 @@
    "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
    "image": "",
    "date": "2026-11-09T21:03:55+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "How a civil servant got away with juggling five jobs for so long",
-   "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-09T18:40:31+00:00"
   },
   {
    "lang": "en",
