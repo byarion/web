@@ -1,13 +1,93 @@
 {
- "updated": "2026-11-10T04:54:55.647758+00:00",
+ "updated": "2026-11-10T13:51:48.002948+00:00",
  "items": [
   {
    "lang": "en",
+   "source": "BBC Business",
+   "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
+   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-10T13:45:36+00:00"
+  },
+  {
+   "lang": "en",
    "source": "CNBC Economy",
-   "title": "China’s monthly imports grow at fastest pace in five years as surplus crosses $1 trillion in 2026",
+   "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+   "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+   "image": "",
+   "date": "2026-11-10T13:45:04+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
+   "link": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QTBTVY5SVNKQLKV36PNFOYTXIM.jpg?auth=4a845078f7b44f618ba43e67c91cadf7afa10e06ebe8d9efb70c4d4a6777e214",
+   "date": "2026-11-10T13:04:30+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El Gobierno Pradales, dividido ante la huelga: el PNV no, el PSE a medias",
+   "link": "https://www.naiz.eus/info/noticia/20261110/el-gobierno-pradales-dividido-ante-la-huelga-el-pnv-no-itxaso-apoya-y-torres-no-trabajara",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/505/news_landscape/torres.jpg",
+   "date": "2026-11-10T12:27:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
+   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-10T11:43:06+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
    "image": "",
-   "date": "2026-11-10T04:49:22+00:00"
+   "date": "2026-11-10T10:24:13+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El PNV presentará sus candidatos a las elecciones de mayo este miércoles, día de huelga general",
+   "link": "https://www.naiz.eus/info/noticia/20261110/el-pnv-presentara-sus-candidatos-a-las-elecciones-de-mayo-este-miercoles-dia-de-huelga-general",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/484/news_landscape/bengoetxea.jpg",
+   "date": "2026-11-10T10:17:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Kim Kardashian's Skims offers refunds for $148 advent calendar after backlash",
+   "link": "https://www.bbc.co.uk/news/articles/cqp8g8p53x6ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12e/live/a6d1b5b0-dcec-11f1-93e1-3b657b665bcf.png",
+   "date": "2026-11-10T09:57:49+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: What the boss of US tech giant Nvidia told me about China and national security",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1gzy2vdzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d5c/live/48fcfe10-dc9a-11f1-adfe-2165436acfb4.jpg",
+   "date": "2026-11-10T09:23:55+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Vodafone eleva previsiones pese a registrar pérdidas de 3.597 millones por ajustes contables",
+   "link": "https://cincodias.elpais.com/companias/2026-11-10/vodafone-eleva-previsiones-pese-a-registrar-perdidas-de-3597-millones-por-ajustes-contables.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/73R4DCG6CJBJ3HEHFKIS6HDT3Y.jpg?auth=c659b2faa3983010d71bbbee0259fa6eb8f1b35bda7b0d3c069d59a25740b253",
+   "date": "2026-11-10T08:38:27+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png",
+   "date": "2026-11-10T08:23:21+00:00"
   },
   {
    "lang": "es",
@@ -28,10 +108,10 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "España registra una de las mayores subidas de la presión fiscal en la UE, pero sigue por debajo de la media",
-   "link": "https://elpais.com/economia/2026-11-10/espana-registra-una-de-las-mayores-subidas-de-la-presion-fiscal-en-la-ue-pero-sigue-por-debajo-de-la-media.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/DB4UT3HZ3WXLTIIIWNNZ2DFRFY.jpg?auth=f75b6f73e2c79442958e35b2b2956ca4b7bd6cb9216fadde62af33a355c6c3d3",
-   "date": "2026-11-10T04:45:01+00:00"
+   "title": "Crisis de gobernanza para uno de los líderes de la IA",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-10/crisis-de-gobernanza-para-uno-de-los-lideres-de-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/SK2SPIBAQNKKVC6DGZIJEF2EIQ.jpg?auth=6451d99c12a2c8b8e3af2719c553ddb06e00ef1b13e20e60e7cd5d02dc5ea602",
+   "date": "2026-11-10T04:40:00+00:00"
   },
   {
    "lang": "es",
@@ -39,14 +119,6 @@
    "title": "El rentismo contra los salarios y la economía productiva",
    "link": "https://cincodias.elpais.com/opinion/2026-11-10/el-rentismo-contra-los-salarios-y-la-economia-productiva.html",
    "image": "https://imagenes.elpais.com/resizer/v2/JUUKCFU7DNCWBHRBAXCBRCV2RE.jpg?auth=e8742132acc6d4f91587ea1e06ba4ea06d0b7bc2ed10d8883dc0b8a20d119c2f",
-   "date": "2026-11-10T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Crisis de gobernanza para uno de los líderes de la IA",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-10/crisis-de-gobernanza-para-uno-de-los-lideres-de-la-ia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SK2SPIBAQNKKVC6DGZIJEF2EIQ.jpg?auth=6451d99c12a2c8b8e3af2719c553ddb06e00ef1b13e20e60e7cd5d02dc5ea602",
    "date": "2026-11-10T04:40:00+00:00"
   },
   {
@@ -66,44 +138,20 @@
    "date": "2026-11-10T04:40:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Millicom dispara su deuda un 49% tras las compras de las filiales de Telefónica en Latinoamérica",
-   "link": "https://cincodias.elpais.com/companias/2026-11-10/millicom-dispara-su-deuda-un-49-tras-las-compras-de-las-filiales-de-telefonica-en-latinoamerica.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/UD6GNH2TINGPROGI5GKAZP2OGY.png?auth=2c3ad0d752b5276ab472941868750d5754ea9e2c5d31977c341e7ff47cd776ab",
-   "date": "2026-11-10T04:15:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Guía para este 11N por la vivienda: huelga, marchas mañana y tarde... ¿y desahucios?",
-   "link": "https://www.naiz.eus/info/noticia/20261110/guia-para-este-11n-por-la-vivienda-huelga-marchas-manana-y-tarde-y-desahucios",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/292/news_landscape/bilbo.jpg",
-   "date": "2026-11-10T04:07:00+00:00"
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "I took Vinted to court to get my money back",
+   "link": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de22/live/e53d0e50-c7c3-11f1-bc2e-018d645d8d21.jpg",
+   "date": "2026-11-10T00:27:37+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-10T03:58:13+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-   "link": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg",
-   "date": "2026-11-10T01:55:22+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-09T23:51:22+00:00"
+   "title": "The superpower battle over energy – and what it means for your bills",
+   "link": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b1f/live/f53bf9d0-dc57-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-10T00:08:28+00:00"
   },
   {
    "lang": "en",
@@ -112,14 +160,6 @@
    "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
    "image": "",
    "date": "2026-11-09T22:23:56+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-   "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4310/live/95e56210-dc92-11f1-b244-e54544344237.jpg",
-   "date": "2026-11-09T21:52:28+00:00"
   },
   {
    "lang": "en",
@@ -132,50 +172,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-09T19:58:01+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "How a civil servant got away with juggling five jobs for so long",
    "link": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d7c/live/f86c8280-db55-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-09T18:40:31+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Civil servant who secretly held five jobs found guilty of fraud",
-   "link": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1641/live/c3324b50-d6f9-11f1-b983-c357054e4d1e.jpg",
-   "date": "2026-11-09T17:17:16+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Poundland unable to buy new stock as fears over collapse grow",
-   "link": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c59/live/3c72aa60-dc53-11f1-b8a2-9782924402f8.jpg",
-   "date": "2026-11-09T16:46:40+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El Gobierno francés acusa a la Guardia Revolucionaria iraní de los ciberataques a supermercados",
-   "link": "https://www.naiz.eus/info/noticia/20261109/el-gobierno-frances-acusa-a-la-guardia-revolucionaria-irani-de-los-ciberataques-a-supermercados",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/356/news_landscape/20261109_supermercado.jpg",
-   "date": "2026-11-09T16:46:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Los sindicatos rechazan la subida del salario mínimo del Gobierno francés y llaman otra huelga",
-   "link": "https://www.naiz.eus/info/noticia/20261109/sindicatos-rechazan-la-subida-del-salario-minimo-del-gobierno-frances-y-llaman-a-otra-huelga",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/326/news_landscape/EuropaPress_7895030_05_november_2026_france_paris_police_officers_disperse_protesters_during.jpg",
-   "date": "2026-11-09T14:21:00+00:00"
   },
   {
    "lang": "en",
@@ -208,14 +208,6 @@
    "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
    "image": "",
    "date": "2026-11-05T21:32:52+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Here's what the Democratic election rout could mean for the U.S. economy",
-   "link": "https://www.cnbc.com/2026/11/05/emocratic-midterm-economy.html",
-   "image": "",
-   "date": "2026-11-05T14:33:32+00:00"
   },
   {
    "lang": "es",
