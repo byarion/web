@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-11T03:23:37.230815+00:00",
+ "updated": "2026-11-11T13:02:46.805340+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+   "date": "2026-11-11T10:03:34+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Cuando la huelga empieza tomando un café con víctimas de los fondos buitre",
+   "link": "https://www.naiz.eus/info/noticia/20261111/cuando-la-huelga-empieza-tomando-un-cafe-con-las-victimas-de-los-fondos-buitre",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/598/news_landscape/PXL_20261111_083911271.jpg",
+   "date": "2026-11-11T09:14:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La huelga general se deja sentir en Catalunya, con las principales carreteras del país cortadas",
+   "link": "https://www.naiz.eus/info/noticia/20261111/la-huelga-general-se-deja-sentir-en-catalunya-con-las-principales-carreteras-del-pais-cortadas",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/582/news_landscape/EuropaPress_7908098_decenas_personas_piquete_iinformarivo_cortado_acceso_viajeros_estacion.jpg",
+   "date": "2026-11-11T08:59:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Christmas toy rush being driven by squishies and building sets",
+   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-11T07:52:05+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La emergencia de la vivienda cierra fábricas, escuelas y tiendas y colapsa las cuatro capitales",
+   "link": "https://www.naiz.eus/info/noticia/20261111/la-emergencia-por-la-vivienda-cierra-fabricas-y-comercios-e-inunda-las-calles-vascas",
+   "image": "",
+   "date": "2026-11-11T05:59:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Hacienda obliga a tributar las prejubilaciones voluntarias si no se enmarcan en un despido colectivo",
+   "link": "https://elpais.com/economia/2026-11-11/hacienda-obliga-a-tributar-las-prejubilaciones-voluntarias-si-no-se-enmarcan-en-un-despido-colectivo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/WY5VC4CB7JEB5MSFUKXUQG4ONA.jpg?auth=f8693886057e6c4b7b79788e6049cedd35015513cbae25c2979f69bf63475fca",
+   "date": "2026-11-11T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las aerolíneas europeas vislumbran algo de luz en medio de la tormenta",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-11/las-aerolineas-europeas-vislumbran-algo-de-luz-en-medio-de-la-tormenta.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PM6JCPBWUXAXEWHDXZRLMRBF2E.jpg?auth=255b2e9dbf1c6418f5e21f316439ea2c2319a400c3946da8a67e6fb3cfa38c14",
+   "date": "2026-11-11T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Brecha creciente entre precios y salarios",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-11/brecha-creciente-entre-precios-y-salarios.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/MMVJ4RKLLJIWRDSACEWSS6PTTM.jpg?auth=f5f61ab6da8fea377b5112ee7576ccd66e9a49a702227c885126505469bb9dc7",
+   "date": "2026-11-11T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "¿Quién paga las guerras de Washington?",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-11/quien-paga-las-guerras-de-washington.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/MSQMMXT2BVIZFOJ2ADY43TTRPU.jpg?auth=3b1e035682d32f034dac249272685eac4fd29a156649c21f69eb139170b2f77d",
+   "date": "2026-11-11T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: el futuro tiene un precio, pero cada vez es más bajo",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-11/las-claves-el-futuro-tiene-un-precio-pero-cada-vez-es-mas-bajo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EBQIEOLDIRNLFMDANOKGQ3CVY4.jpg?auth=23a159e337ec07a781b807773952b283ad063f965015cabbfb13ff6d76116d8d",
+   "date": "2026-11-11T04:40:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -8,22 +88,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6570/live/e6af84c0-dce5-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-11T00:19:13+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e061/live/598724f0-dd2a-11f1-ab46-9fae224bbf6f.jpg",
-   "date": "2026-11-11T00:16:44+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-   "date": "2026-11-11T00:02:07+00:00"
   },
   {
    "lang": "en",
@@ -54,7 +118,7 @@
    "source": "El País",
    "title": "Los sindicatos llaman a España a una huelga general por primera vez en 14 años",
    "link": "https://elpais.com/economia/2026-11-10/los-sindicatos-llaman-a-espana-a-una-huelga-general-por-primera-vez-en-14-anos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PLNWVTCTZ5DHHJNOSM2GQBR7D4.jpg?auth=804cb6a397af86d7961cff2b169a862443a5d4da0ee3d62a50d0498d95171833",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261111/1236434_112545_video_1800.mp4",
    "date": "2026-11-10T22:29:36+00:00"
   },
   {
@@ -90,14 +154,6 @@
    "date": "2026-11-10T16:30:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El programa de Feijóo: desregulación, retoques contra los parados y rebajas fiscales",
-   "link": "https://www.naiz.eus/info/noticia/20261110/el-programa-de-feijoo-desregulacion-retoques-contra-los-parados-y-rebajas-fiscales",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/547/news_landscape/feijoo.jpg",
-   "date": "2026-11-10T15:53:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
@@ -114,52 +170,12 @@
    "date": "2026-11-10T14:45:46+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los salarios de convenio crecen un 3,1%, casi dos puntos menos que la inflación",
-   "link": "https://elpais.com/economia/2026-11-10/los-salarios-de-convenio-crecen-un-31-casi-dos-puntos-menos-que-la-inflacion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QTBTVY5SVNKQLKV36PNFOYTXIM.jpg?auth=4a845078f7b44f618ba43e67c91cadf7afa10e06ebe8d9efb70c4d4a6777e214",
-   "date": "2026-11-10T13:04:30+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
    "image": "",
    "date": "2026-11-10T10:24:13+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El rentismo contra los salarios y la economía productiva",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-10/el-rentismo-contra-los-salarios-y-la-economia-productiva.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/JUUKCFU7DNCWBHRBAXCBRCV2RE.jpg?auth=e8742132acc6d4f91587ea1e06ba4ea06d0b7bc2ed10d8883dc0b8a20d119c2f",
-   "date": "2026-11-10T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Crisis de gobernanza para uno de los líderes de la IA",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-10/crisis-de-gobernanza-para-uno-de-los-lideres-de-la-ia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SK2SPIBAQNKKVC6DGZIJEF2EIQ.jpg?auth=6451d99c12a2c8b8e3af2719c553ddb06e00ef1b13e20e60e7cd5d02dc5ea602",
-   "date": "2026-11-10T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La crisis de Nvidia puede perjudicar a China más de lo que la beneficia",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-10/la-crisis-de-nvidia-puede-perjudicar-a-china-mas-de-lo-que-la-beneficia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/KEGN7UXKLZAPDOQKPBJOFWWOIU.JPG?auth=a52a31248021f84c57d08a57683fd59c869a577a45f5912618ef360b1b12db57",
-   "date": "2026-11-10T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Kevin Warsh gana las elecciones de mitad de mandato, por ahora",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-10/kevin-warsh-gana-las-elecciones-de-mitad-de-mandato-por-ahora.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/Z72UMMA5QFOJZHBJ7BWEJR4VZU.jpg?auth=c2abdbfae723ff7803fa8a40ecc75bc1c731cd51c407b547e2c7f0671abda436",
-   "date": "2026-11-10T04:40:00+00:00"
   },
   {
    "lang": "en",
