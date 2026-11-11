@@ -1,13 +1,109 @@
 {
- "updated": "2026-11-11T13:02:46.805340+00:00",
+ "updated": "2026-11-11T21:37:37.390112+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
+   "link": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PAJTWBTMAFFMBJPOWQX6HGSGBA.jpg?auth=b6ba1d572991d4229a322192967cf890722daad0db3008b7e3626bc8c4768ae7",
+   "date": "2026-11-11T21:00:51+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "image": "",
+   "date": "2026-11-11T20:59:14+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Sindicatos de vivienda y movimientos sociales cierran una jornada de huelga histórica",
+   "link": "https://www.naiz.eus/info/noticia/20261111/sindicatos-de-vivienda-y-movimientos-sociales-cierran-una-historica-jornada-de-huelga",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/781/news_landscape/1111_EH_Manifa.jpg",
+   "date": "2026-11-11T19:44:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+   "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
+   "date": "2026-11-11T19:15:45+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
    "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-   "date": "2026-11-11T10:03:34+00:00"
+   "date": "2026-11-11T18:48:19+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Madrid vive una gesta histórica y transversal por la vivienda a pesar de la brutalidad policial",
+   "link": "https://www.naiz.eus/info/noticia/20261111/madrid-vivio-la-gesta-historica-y-trasversal-por-la-vivienda-a-pesar-de-la-brutalidad-policial",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/770/news_landscape/AFP__20261111__D77W7ZV__v1__HighRes__SpainStrikeLabourDemonstrationPoliticsElection.jpg",
+   "date": "2026-11-11T18:23:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Extinguido el incendio declarado en una empresa de productos químicos de Lantarón",
+   "link": "https://www.naiz.eus/info/noticia/20261111/se-declara-un-incendio-en-una-empresa-de-productos-quimicos-de-lantaron",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/742/news_landscape/Captura_de_Pantalla_2026-11-11_a_las_18.39.33.png",
+   "date": "2026-11-11T17:42:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Instituciones y la mayoría de los partidos se han sumado al día de huelga",
+   "link": "https://www.naiz.eus/info/noticia/20261111/instituciones-y-la-mayoria-de-los-partidos-se-han-sumado-al-dia-de-huelga",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/706/news_landscape/INSTITU.jpg",
+   "date": "2026-11-11T15:00:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La vivienda sacude Bilbo: piquetes, comercios cerrados y miles de voces contra la especulación",
+   "link": "https://www.naiz.eus/info/noticia/20261111/la-vivienda-sacude-bilbo-piquetes-comercios-cerrados-y-miles-de-voces-contra-la-especulacion",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/673/news_landscape/Bilbo.jpg",
+   "date": "2026-11-11T14:02:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La huelga de los que no llegan",
+   "link": "https://elpais.com/economia/2026-11-11/la-huelga-de-los-que-no-llegan.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PSSCKINYVNFTFE7UUKW6CQPGK4.jpg?auth=09c2be3dfd0ba9a0d1e5f0d2e51265562ff5ab6b57221d1e3cc7a14ef8746733",
+   "date": "2026-11-11T14:00:42+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Una multitud clama por el derecho a la vivienda en una Iruñea paralizada por la huelga",
+   "link": "https://www.naiz.eus/info/noticia/20261111/una-multitud-clama-por-el-derecho-a-la-vivienda-en-una-irunea-paralizada-por-la-huelga",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/665/news_landscape/irunea.jpg",
+   "date": "2026-11-11T13:16:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Avatel y los sindicatos pactan el ERE tras reducir los despidos forzosos a 383 personas",
+   "link": "https://cincodias.elpais.com/companias/2026-11-11/avatel-y-los-sindicatos-pactan-el-ere-tras-reducir-los-despidos-forzosos-a-383-personas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/E55WH575YBDZREVOMY7UI2T5PA.png?auth=23d0cdefe4aeeef8a01a60c95136fa80685db6a1dbad271a75eda4f8caf69ca6",
+   "date": "2026-11-11T13:08:14+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
+   "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
+   "image": "",
+   "date": "2026-11-11T12:27:47+00:00"
   },
   {
    "lang": "es",
@@ -20,9 +116,9 @@
   {
    "lang": "es",
    "source": "Naiz",
-   "title": "La huelga general se deja sentir en Catalunya, con las principales carreteras del país cortadas",
+   "title": "La huelga se deja sentir en Catalunya, con un desahucio paralizado en Barcelona",
    "link": "https://www.naiz.eus/info/noticia/20261111/la-huelga-general-se-deja-sentir-en-catalunya-con-las-principales-carreteras-del-pais-cortadas",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/582/news_landscape/EuropaPress_7908098_decenas_personas_piquete_iinformarivo_cortado_acceso_viajeros_estacion.jpg",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/725/news_landscape/EuropaPress_7908437_cientos_personas_movilizado_contra_desahucio_dos_vecinos_calle_fraternitat.jpg",
    "date": "2026-11-11T08:59:00+00:00"
   },
   {
@@ -35,19 +131,11 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "La emergencia de la vivienda cierra fábricas, escuelas y tiendas y colapsa las cuatro capitales",
-   "link": "https://www.naiz.eus/info/noticia/20261111/la-emergencia-por-la-vivienda-cierra-fabricas-y-comercios-e-inunda-las-calles-vascas",
-   "image": "",
-   "date": "2026-11-11T05:59:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
-   "title": "Hacienda obliga a tributar las prejubilaciones voluntarias si no se enmarcan en un despido colectivo",
-   "link": "https://elpais.com/economia/2026-11-11/hacienda-obliga-a-tributar-las-prejubilaciones-voluntarias-si-no-se-enmarcan-en-un-despido-colectivo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/WY5VC4CB7JEB5MSFUKXUQG4ONA.jpg?auth=f8693886057e6c4b7b79788e6049cedd35015513cbae25c2979f69bf63475fca",
-   "date": "2026-11-11T04:45:01+00:00"
+   "title": "Digi sigue en pérdidas tras disparar sus amortizaciones y los costes de la salida a Bolsa",
+   "link": "https://cincodias.elpais.com/companias/2026-11-11/digi-sigue-en-perdidas-tras-disparar-sus-amortizaciones-y-por-los-costes-de-la-salida-a-bolsa.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QK363JJB35BAZBZZIKK5IXMUKQ.png?auth=bef1cbdf137a8b9e54adf0526425bc16d88f440187479060a48a5d07ed89465c",
+   "date": "2026-11-11T07:41:44+00:00"
   },
   {
    "lang": "es",
@@ -74,14 +162,6 @@
    "date": "2026-11-11T04:40:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: el futuro tiene un precio, pero cada vez es más bajo",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-11/las-claves-el-futuro-tiene-un-precio-pero-cada-vez-es-mas-bajo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EBQIEOLDIRNLFMDANOKGQ3CVY4.jpg?auth=23a159e337ec07a781b807773952b283ad063f965015cabbfb13ff6d76116d8d",
-   "date": "2026-11-11T04:40:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Robot vessels take on the dangerous work of mine hunting",
@@ -96,14 +176,6 @@
    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-10T23:53:58+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Vivo eleva su beneficio hasta los 1.200 millones de euros hasta septiembre",
-   "link": "https://elpais.com/economia/2026-11-10/vivo-eleva-su-beneficio-hasta-los-1200-millones-de-euros-hasta-septiembre.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FU3KHTRTT5ATBAHNFJLHUF4NJY.png?auth=847cf2461ebfcbfa0d545742d31acc219a47b90cc8afbdd62a0e5a10c0af7309",
-   "date": "2026-11-10T23:06:12+00:00"
   },
   {
    "lang": "en",
@@ -122,14 +194,6 @@
    "date": "2026-11-10T22:29:36+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno aprueba nuevos contratos con la industria militar por 11.860 millones",
-   "link": "https://elpais.com/economia/2026-11-10/el-gobierno-aprueba-nuevos-contratos-con-la-industria-militar-por-11860-millones.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/M65HW7YQ4VOPBP4GUMFIOHWPA4.jpg?auth=192524517a807e6c8122e44bb43feb28bbee484f72125e3f5bff39fd8c5fbdae",
-   "date": "2026-11-10T21:44:53+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
@@ -146,28 +210,12 @@
    "date": "2026-11-10T17:04:55+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Los Bancos de Alimentos celebran este viernes y sábado su gran recogida anual",
-   "link": "https://www.naiz.eus/info/noticia/20261110/los-bancos-de-alimentos-celebran-este-viernes-y-sabado-su-gran-recogida-anual",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/549/news_landscape/banco-alimentos.jpg",
-   "date": "2026-11-10T16:30:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
    "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-10T15:10:20+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "US inflation higher than expected in October - here's what is happening with prices",
-   "link": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd50/live/e1cf6860-c7cf-11f1-9e10-4dcbd31d4273.jpg",
-   "date": "2026-11-10T14:45:46+00:00"
   },
   {
    "lang": "en",
@@ -208,22 +256,6 @@
    "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
    "image": "",
    "date": "2026-11-06T20:11:17+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "U.S. economy added 165,000 jobs in October, way more than expected; unemployment rate slips to 4.1%",
-   "link": "https://www.cnbc.com/2026/11/06/jobs-report-october-2026.html",
-   "image": "",
-   "date": "2026-11-06T16:06:59+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "The October jobs report is out Friday. Here's everything to expect",
-   "link": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
-   "image": "",
-   "date": "2026-11-05T21:32:52+00:00"
   },
   {
    "lang": "es",
