@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-12T14:05:19.314479+00:00",
+ "updated": "2026-11-12T21:37:41.747826+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
+   "image": "",
+   "date": "2026-11-12T17:39:54+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-12T17:32:14+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-12T17:11:48+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Robar un banco nunca había sido tan viral",
+   "link": "https://www.naiz.eus/info/noticia/20261112/robar-un-banco-nunca-habia-sido-tan-viral",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/848/news_landscape/zinema_estrenaldiak_11_13_4.jpg",
+   "date": "2026-11-12T17:00:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Transportes y sindicatos seguirán negociando refuerzos en la seguridad ferroviaria con la presión de dos jornadas de huelga a la vista",
+   "link": "https://elpais.com/economia/2026-11-12/transportes-vuelve-a-negociar-con-los-sindicatos-para-evitar-mas-huelgas-ferroviarias-tras-el-siniestro-de-urda.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GR3Z2LCISFAWVGKH3WRPB5RHI4.jpg?auth=19a88424b13121bb4fe59f91ec595804fc5bf8504cd1797fd66c7b1ecb987989",
+   "date": "2026-11-12T15:30:04+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-12T15:10:32+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los sindicatos pasan la pelota a las instituciones y piden políticas de vivienda «valientes»",
+   "link": "https://www.naiz.eus/info/noticia/20261112/los-sindicatos-pasan-la-pelota-a-las-instituciones-y-piden-politicas-de-vivienda-valientes",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/042/news_landscape/Irune.jpg",
+   "date": "2026-11-12T14:39:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
+   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
+   "date": "2026-11-12T14:29:59+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
+   "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261112/1237059_173149_video_1800.mp4",
+   "date": "2026-11-12T13:59:47+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
@@ -14,16 +86,8 @@
    "source": "BBC Business",
    "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
    "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c584/live/89340bf0-de9c-11f1-9afe-1f03bfe02283.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d49/live/b6cded90-deb2-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-12T13:27:09+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Critican que la Iglesia reclame financiación pública para investigar bienes inmatriculados",
-   "link": "https://www.naiz.eus/info/noticia/20261112/critican-que-la-iglesia-reclame-financiacion-publica-para-investigar-bienes-inmatriculados",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/021/news_landscape/bb_20261112237643.jpg",
-   "date": "2026-11-12T13:25:00+00:00"
   },
   {
    "lang": "es",
@@ -36,66 +100,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-12T13:16:59+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Decretos de vivienda: el Congreso aprueba uno y rechaza el otro por el voto del PNV",
-   "link": "https://www.naiz.eus/info/noticia/20261112/decretos-de-vivienda-el-congreso-aprueba-uno-y-rechaza-el-otro-por-el-voto-del-pnv",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/016/news_landscape/EuropaPress_7910214_ministra_vivienda_agenda_urbana_isabel_rodriguez_diputacion_permanente.jpg",
-   "date": "2026-11-12T12:38:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
-   "link": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CRCCMNOWKNKPRK4RCD3KX7UBJI.jpg?auth=1b61df40f574a253447f76a8910c41f22c199d11d72931d9e98893714de18026",
-   "date": "2026-11-12T11:37:26+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Marlaska ordena investigar la actuación policial en la huelga y prohíbe el gas lacrimógeno",
-   "link": "https://www.naiz.eus/info/noticia/20261112/marlaska-ordena-investigar-la-actuacion-policial-en-la-huelga-y-prohibe-el-gas-lacrimogeno",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/005/news_landscape/piquete_policia.jpg",
-   "date": "2026-11-12T11:32:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
-   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-12T11:21:25+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "UK economy grows at fastest rate for more than two years",
    "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-12T11:20:25+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La Huelga de Bandas, la más larga del franquismo, declarada Lugar de Memoria Democrática",
-   "link": "https://www.naiz.eus/info/noticia/20261112/la-huelga-de-bandas-la-mas-larga-del-franquismo-declarada-lugar-de-memoria-democratica",
-   "image": "",
-   "date": "2026-11-12T10:56:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "TUR4all Turismo Irisgarriaren V. Nazioarteko Biltzarra egingo da Euskaldunan",
-   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261112/tur4all-turismo-irisgarriaren-v-nazioarteko-biltzarra-egingo-da-bilbon-azaroan",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/369/495/news_landscape/turismo.jpg",
-   "date": "2026-11-12T10:03:00+00:00"
   },
   {
    "lang": "en",
@@ -104,14 +112,6 @@
    "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
    "image": "",
    "date": "2026-11-12T08:02:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Telefónica remonta pérdidas y gana 464 millones hasta septiembre",
-   "link": "https://cincodias.elpais.com/companias/2026-11-12/telefonica-remonta-perdidas-y-gana-464-millones-hasta-septiembre.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/VTLHUTZMNRCT3BQNGOASMPYST4.JPG?auth=f80267c96ff88e5eca148ad1dd1a7b593cb01b2d406228f2362fd67c16fc96f7",
-   "date": "2026-11-12T06:33:53+00:00"
   },
   {
    "lang": "es",
@@ -147,22 +147,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Poundland set for more time to secure a rescue deal as emergency talks continue",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-   "date": "2026-11-12T00:49:05+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-   "image": "",
-   "date": "2026-11-11T22:59:33+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
    "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
@@ -192,14 +176,6 @@
    "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
    "date": "2026-11-10T22:52:15+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
-   "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-10T17:56:12+00:00"
   },
   {
    "lang": "en",
