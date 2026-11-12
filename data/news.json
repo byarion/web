@@ -1,6 +1,150 @@
 {
- "updated": "2026-11-12T04:33:41.715398+00:00",
+ "updated": "2026-11-12T14:05:19.314479+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El día después del 11-N: los sindicatos hablan de un “éxito” que superó las expectativas y la patronal ve “un fracaso”",
+   "link": "https://elpais.com/economia/2026-11-12/el-dia-despues-del-11-n-los-sindicatos-hablan-de-un-exito-que-supero-las-expectativas-y-la-patronal-ve-un-fracaso.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PAJTWBTMAFFMBJPOWQX6HGSGBA.jpg?auth=b6ba1d572991d4229a322192967cf890722daad0db3008b7e3626bc8c4768ae7",
+   "date": "2026-11-12T13:32:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+   "link": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c584/live/89340bf0-de9c-11f1-9afe-1f03bfe02283.jpg",
+   "date": "2026-11-12T13:27:09+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Critican que la Iglesia reclame financiación pública para investigar bienes inmatriculados",
+   "link": "https://www.naiz.eus/info/noticia/20261112/critican-que-la-iglesia-reclame-financiacion-publica-para-investigar-bienes-inmatriculados",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/021/news_landscape/bb_20261112237643.jpg",
+   "date": "2026-11-12T13:25:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "España ya es el segundo país de la UE con más trabajadores nacidos en el extranjero",
+   "link": "https://elpais.com/economia/2026-11-12/espana-ya-es-el-segundo-pais-de-la-ue-con-mas-trabajadores-nacidos-en-el-extranjero.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/R5LH2HXWOFCTZLYKOYG2HCKOJQ.jpg?auth=59c1cfbdabd3053e5854cb362f9645e90d748b91d2e4c08a591da5fed575c3b7",
+   "date": "2026-11-12T13:21:21+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Some under-25s should get fewer benefits, Milburn review to say",
+   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-12T13:16:59+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Decretos de vivienda: el Congreso aprueba uno y rechaza el otro por el voto del PNV",
+   "link": "https://www.naiz.eus/info/noticia/20261112/decretos-de-vivienda-el-congreso-aprueba-uno-y-rechaza-el-otro-por-el-voto-del-pnv",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/016/news_landscape/EuropaPress_7910214_ministra_vivienda_agenda_urbana_isabel_rodriguez_diputacion_permanente.jpg",
+   "date": "2026-11-12T12:38:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Desahucios, alquileres y ayudas para comprar: las medidas del decreto de vivienda que siguen adelante",
+   "link": "https://elpais.com/economia/vivienda/2026-11-12/desahucios-alquileres-y-ayudas-para-comprar-las-medidas-del-decreto-de-vivienda-que-siguen-adelante.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/CRCCMNOWKNKPRK4RCD3KX7UBJI.jpg?auth=1b61df40f574a253447f76a8910c41f22c199d11d72931d9e98893714de18026",
+   "date": "2026-11-12T11:37:26+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Marlaska ordena investigar la actuación policial en la huelga y prohíbe el gas lacrimógeno",
+   "link": "https://www.naiz.eus/info/noticia/20261112/marlaska-ordena-investigar-la-actuacion-policial-en-la-huelga-y-prohibe-el-gas-lacrimogeno",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/005/news_landscape/piquete_policia.jpg",
+   "date": "2026-11-12T11:32:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+   "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
+   "date": "2026-11-12T11:21:25+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "UK economy grows at fastest rate for more than two years",
+   "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-12T11:20:25+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La Huelga de Bandas, la más larga del franquismo, declarada Lugar de Memoria Democrática",
+   "link": "https://www.naiz.eus/info/noticia/20261112/la-huelga-de-bandas-la-mas-larga-del-franquismo-declarada-lugar-de-memoria-democratica",
+   "image": "",
+   "date": "2026-11-12T10:56:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "TUR4all Turismo Irisgarriaren V. Nazioarteko Biltzarra egingo da Euskaldunan",
+   "link": "https://bidaiari.naiz.eus/info_bidaiari/20261112/tur4all-turismo-irisgarriaren-v-nazioarteko-biltzarra-egingo-da-bilbon-azaroan",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/369/495/news_landscape/turismo.jpg",
+   "date": "2026-11-12T10:03:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
+   "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
+   "image": "",
+   "date": "2026-11-12T08:02:15+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Telefónica remonta pérdidas y gana 464 millones hasta septiembre",
+   "link": "https://cincodias.elpais.com/companias/2026-11-12/telefonica-remonta-perdidas-y-gana-464-millones-hasta-septiembre.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VTLHUTZMNRCT3BQNGOASMPYST4.JPG?auth=f80267c96ff88e5eca148ad1dd1a7b593cb01b2d406228f2362fd67c16fc96f7",
+   "date": "2026-11-12T06:33:53+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Nvidia pone al centro de chips de Singapur en el punto de mira",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-12/nvidia-pone-al-centro-de-chips-de-singapur-en-el-punto-de-mira.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/Y463DSCKMZJJJIDGLH5LJQOCRU.jpg?auth=283adcba4f25c2f6494b2986af195fc781ccb96ed60c4d498403d8d78647d3b1",
+   "date": "2026-11-12T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La IA tras las ‘midterms’: el Congreso y los Estados recuperan la voz",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-12/la-ia-tras-las-midterms-el-congreso-y-los-estados-recuperan-la-voz.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/SN5YGQSSRFJHDLGPBTQBBZ767Q.jpg?auth=3506b717a25a675d12893f218bb4ab9334face660dabaf46f3ab324353f670c6",
+   "date": "2026-11-12T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Europa debe aprender a construir de nuevo",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-12/europa-debe-aprender-a-construir-de-nuevo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/CK7FNORJRJNLDCGDBYBTQMN5XE.jpg?auth=ed4b73ab418f7560e903d6e4537c39016ca0f46c875db48b00ec9c31c98abad5",
+   "date": "2026-11-12T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: La sucesión en el Santander, profesional, visión familiar y participación en el capital",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-12/las-claves-la-sucesion-en-el-santander-profesional-vision-familiar-y-participacion-en-el-capital.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/6WZAGF6IMJCKZH5DEPYPNXPNHI.JPG?auth=50befb323712d281e72f9e55c74539d6812ebfdac98578223b5c738c4fadcf92",
+   "date": "2026-11-12T04:30:01+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -11,107 +155,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "From Paris to DC - why offices are being turned into apartments",
-   "link": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/ac3f89b0-c95e-11f1-bc2e-018d645d8d21.jpg",
-   "date": "2026-11-12T00:05:40+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-11T23:22:04+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
    "image": "",
    "date": "2026-11-11T22:59:33+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-   "link": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a5/live/584f1ed0-cfb0-11f1-9012-0172b9f73a72.jpg",
-   "date": "2026-11-11T21:42:20+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
-   "link": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PAJTWBTMAFFMBJPOWQX6HGSGBA.jpg?auth=b6ba1d572991d4229a322192967cf890722daad0db3008b7e3626bc8c4768ae7",
-   "date": "2026-11-11T21:00:51+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Sindicatos de vivienda y movimientos sociales cierran una jornada de huelga histórica",
-   "link": "https://www.naiz.eus/info/noticia/20261111/sindicatos-de-vivienda-y-movimientos-sociales-cierran-una-historica-jornada-de-huelga",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/781/news_landscape/1111_EH_Manifa.jpg",
-   "date": "2026-11-11T19:44:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Madrid vive una gesta histórica y transversal por la vivienda a pesar de la brutalidad policial",
-   "link": "https://www.naiz.eus/info/noticia/20261111/madrid-vivio-la-gesta-historica-y-trasversal-por-la-vivienda-a-pesar-de-la-brutalidad-policial",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/770/news_landscape/AFP__20261111__D77W7ZV__v1__HighRes__SpainStrikeLabourDemonstrationPoliticsElection.jpg",
-   "date": "2026-11-11T18:23:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Extinguido el incendio declarado en una empresa de productos químicos de Lantarón",
-   "link": "https://www.naiz.eus/info/noticia/20261111/se-declara-un-incendio-en-una-empresa-de-productos-quimicos-de-lantaron",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/742/news_landscape/Captura_de_Pantalla_2026-11-11_a_las_18.39.33.png",
-   "date": "2026-11-11T17:42:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Instituciones y la mayoría de los partidos se han sumado al día de huelga",
-   "link": "https://www.naiz.eus/info/noticia/20261111/instituciones-y-la-mayoria-de-los-partidos-se-han-sumado-al-dia-de-huelga",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/706/news_landscape/INSTITU.jpg",
-   "date": "2026-11-11T15:00:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La vivienda sacude Bilbo: piquetes, comercios cerrados y miles de voces contra la especulación",
-   "link": "https://www.naiz.eus/info/noticia/20261111/la-vivienda-sacude-bilbo-piquetes-comercios-cerrados-y-miles-de-voces-contra-la-especulacion",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/673/news_landscape/Bilbo.jpg",
-   "date": "2026-11-11T14:02:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La huelga de los que no llegan",
-   "link": "https://elpais.com/economia/2026-11-11/la-huelga-de-los-que-no-llegan.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PSSCKINYVNFTFE7UUKW6CQPGK4.jpg?auth=09c2be3dfd0ba9a0d1e5f0d2e51265562ff5ab6b57221d1e3cc7a14ef8746733",
-   "date": "2026-11-11T14:00:42+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Una multitud clama por el derecho a la vivienda en una Iruñea paralizada por la huelga",
-   "link": "https://www.naiz.eus/info/noticia/20261111/una-multitud-clama-por-el-derecho-a-la-vivienda-en-una-irunea-paralizada-por-la-huelga",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/386/665/news_landscape/irunea.jpg",
-   "date": "2026-11-11T13:16:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Avatel y los sindicatos pactan el ERE tras reducir los despidos forzosos a 383 personas",
-   "link": "https://cincodias.elpais.com/companias/2026-11-11/avatel-y-los-sindicatos-pactan-el-ere-tras-reducir-los-despidos-forzosos-a-383-personas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/E55WH575YBDZREVOMY7UI2T5PA.png?auth=23d0cdefe4aeeef8a01a60c95136fa80685db6a1dbad271a75eda4f8caf69ca6",
-   "date": "2026-11-11T13:08:14+00:00"
   },
   {
    "lang": "en",
@@ -130,38 +178,6 @@
    "date": "2026-11-11T07:52:05+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Digi sigue en pérdidas tras disparar sus amortizaciones y los costes de la salida a Bolsa",
-   "link": "https://cincodias.elpais.com/companias/2026-11-11/digi-sigue-en-perdidas-tras-disparar-sus-amortizaciones-y-por-los-costes-de-la-salida-a-bolsa.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QK363JJB35BAZBZZIKK5IXMUKQ.png?auth=bef1cbdf137a8b9e54adf0526425bc16d88f440187479060a48a5d07ed89465c",
-   "date": "2026-11-11T07:41:44+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las aerolíneas europeas vislumbran algo de luz en medio de la tormenta",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-11/las-aerolineas-europeas-vislumbran-algo-de-luz-en-medio-de-la-tormenta.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PM6JCPBWUXAXEWHDXZRLMRBF2E.jpg?auth=255b2e9dbf1c6418f5e21f316439ea2c2319a400c3946da8a67e6fb3cfa38c14",
-   "date": "2026-11-11T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Brecha creciente entre precios y salarios",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-11/brecha-creciente-entre-precios-y-salarios.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/MMVJ4RKLLJIWRDSACEWSS6PTTM.jpg?auth=f5f61ab6da8fea377b5112ee7576ccd66e9a49a702227c885126505469bb9dc7",
-   "date": "2026-11-11T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "¿Quién paga las guerras de Washington?",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-11/quien-paga-las-guerras-de-washington.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/MSQMMXT2BVIZFOJ2ADY43TTRPU.jpg?auth=3b1e035682d32f034dac249272685eac4fd29a156649c21f69eb139170b2f77d",
-   "date": "2026-11-11T04:40:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
@@ -178,28 +194,12 @@
    "date": "2026-11-10T22:52:15+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los sindicatos llaman a España a una huelga general por primera vez en 14 años",
-   "link": "https://elpais.com/economia/2026-11-10/los-sindicatos-llaman-a-espana-a-una-huelga-general-por-primera-vez-en-14-anos.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261111/1236434_112545_video_1800.mp4",
-   "date": "2026-11-10T22:29:36+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Claude chatbot maker set for $1.3tn stock market debut despite 'catastrophic' AI warning",
    "link": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-10T17:56:12+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Sales of tinned food and bottled water jump after 'Be Ready' campaign launch",
-   "link": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f934/live/9e648690-dd01-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-10T15:10:20+00:00"
   },
   {
    "lang": "en",
@@ -232,14 +232,6 @@
    "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
    "image": "",
    "date": "2026-11-09T02:50:22+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "A disturbing employment trend is hiding beneath the latest strong job numbers",
-   "link": "https://www.cnbc.com/2026/11/06/long-term-unemployment-october-jobs-report.html",
-   "image": "",
-   "date": "2026-11-06T20:11:17+00:00"
   },
   {
    "lang": "es",
