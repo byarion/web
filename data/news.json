@@ -1,21 +1,165 @@
 {
- "updated": "2026-11-13T03:48:02.837716+00:00",
+ "updated": "2026-11-13T13:29:56.378552+00:00",
  "items": [
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
-   "date": "2026-11-13T02:39:00+00:00"
+   "source": "CNBC Economy",
+   "title": "Bessent: Treasury has wanted Megaspeed restrictions for months, but Commerce is in charge",
+   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
+   "image": "",
+   "date": "2026-11-13T13:24:11+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
-   "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
-   "date": "2026-11-13T02:38:02+00:00"
+   "title": "What we know about the global Microsoft outage",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-13T12:31:49+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "How a sex scandal at Nvidia is putting pressure on the White House",
+   "link": "https://www.bbc.co.uk/news/articles/c67429m3vem3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ab0/live/068591d0-dee5-11f1-9bb0-8de7754c4db5.jpg",
+   "date": "2026-11-13T12:22:30+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "LAB se reúne con la consejera Alfaro para pedir medidas urgentes y estructurales en vivienda",
+   "link": "https://www.naiz.eus/info/noticia/20261113/lab-pide-al-gobierno-de-nafarroa-medidas-urgentes-y-estructurales-en-el-ambito-de-la-vivienda",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/400/news_landscape/LAB.jpg",
+   "date": "2026-11-13T12:14:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los trabajadores de Vicinay insisten en que no pueden pagar «una mala gestión durante años»",
+   "link": "https://www.naiz.eus/info/noticia/20261113/los-trabajadores-de-vicinay-insisten-en-que-no-pueden-pagar-una-mala-gestion-durante-anos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/393/news_landscape/vicinay_sestao.jpg",
+   "date": "2026-11-13T12:00:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Trabajadores de la Clínica Ubarmin conmemoran 50 años de la movilización que evitó su cierre",
+   "link": "https://www.naiz.eus/info/noticia/20261113/trabajadores-de-la-clinica-ubarmin-conmemoran-50-anos-de-la-movilizacion-que-evito-su-cierre",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/388/news_landscape/ubarmin.jpg",
+   "date": "2026-11-13T11:41:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "González no marca preferencia para consensuar los presupuestos de Araba, con 6 % de aumento",
+   "link": "https://www.naiz.eus/info/noticia/20261113/gonzalez-no-marca-preferencia-sobre-con-quien-consensuara-los-presupuestos-de-araba",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/395/news_landscape/Ramiro_Gonzalez_Itziar_Gonzalo_Presupuestos_2027.jpg",
+   "date": "2026-11-13T11:26:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Tribunal Supremo de Rumanía absuelve definitivamente a Digi y a sus directivos por corrupción",
+   "link": "https://cincodias.elpais.com/companias/2026-11-13/el-tribunal-supremo-de-rumania-absuelve-definitivamente-a-digi-y-a-sus-directivos-por-corrupcion.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BIRPKZGRARDTJDZ662SUI5X6BM.jpg?auth=209e21153fb6390a2b911caa64aeeffa25f639fff1350c6d20fb1409059b91fa",
+   "date": "2026-11-13T10:07:32+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Feijóo eliminará el Ministerio de Vivienda, pese a ser «el principal problema» ciudadano",
+   "link": "https://www.naiz.eus/info/noticia/20261113/feijoo-eliminara-el-ministerio-de-vivienda-pese-a-ser-el-principal-problema-ciudadano",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/362/news_landscape/Feijoo.jpg",
+   "date": "2026-11-13T10:06:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Heat pumps: How much heat does your home really need?",
+   "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-13T09:29:25+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El IPC se relaja algo en octubre pero los precios han subido un 4,8 % en doce meses",
+   "link": "https://www.naiz.eus/info/noticia/20261113/el-ipc-se-relaja-algo-en-octubre-pero-los-precios-han-subido-un-4-8-en-doce-meses",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/340/news_landscape/salarios.jpg",
+   "date": "2026-11-13T08:14:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los que no hicieron huelga el 11-N pero llenaron las calles: “No podía perder un día de sueldo”",
+   "link": "https://elpais.com/economia/2026-11-13/los-que-no-hicieron-huelga-el-11-n-pero-llenaron-las-calles-no-podia-perder-un-dia-de-sueldo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/IPABYROPJJLMZEDAY7QH3M3BWY.jpg?auth=6946885b7ae8199be086c36773fed3463278a8d0166a9ce7dfc7d06842b32d85",
+   "date": "2026-11-13T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los salarios de la banca multiplican hasta por cuatro los del sector servicios, la hostelería y el comercio",
+   "link": "https://elpais.com/economia/2026-11-13/los-salarios-de-la-banca-multiplican-hasta-por-cuatro-los-del-sector-servicios-la-hosteleria-y-el-comercio.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VVEZAWPEUJE3NKA45LCEFDXZKM.JPG?auth=6a8ff96bb520910b883856879fb5a1984f2297282c3cdb78d354f6085dff13f5",
+   "date": "2026-11-13T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El giro del ‘shock’ energético ante las elecciones norteamericanas",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-13/el-giro-del-shock-energetico-ante-las-elecciones-norteamericanas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JOHFBM5PDVD2RCL3FWKER3FPXE.jpg?auth=4375fc303540ef17547522ea0ff821d15be48c686c743cde53f055f2adbfd045",
+   "date": "2026-11-13T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Aznar percibe una retribución récord del grupo de medios de Murdoch y supera ya los cinco millones de dólares",
+   "link": "https://elpais.com/economia/2026-11-13/aznar-percibe-una-retribucion-record-del-grupo-de-medios-de-murdoch-y-supera-ya-los-cinco-millones-de-dolares.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JIBGJ6MAUFMI7AAOBPY6ZZKOSY.jpg?auth=c3f3317db5219fbe1871b64c9cb31b2079a47238b24d84d6fec1f34443cf3a70",
+   "date": "2026-11-13T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El ingenio marcará al próximo jefe del BCE",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-13/el-ingenio-marcara-al-proximo-jefe-del-bce.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EEUDTX4XTJBALCSTIEMUZFFJ34.jpg?auth=29f643ac53fdc46cda9368fd47b212cb6268498b07fedb108618e35bd552262a",
+   "date": "2026-11-13T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: la vivienda difícilmente volverá a ser la misma",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-13/las-claves-la-vivienda-dificilmente-volvera-a-ser-la-misma.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/QKBMOYXLFBGXBFGAW6JGOWMOXM.jpg?auth=a1d733d97b8e8990b672648ecb16338a5d981dce375a0d977eb98a57a949306d",
+   "date": "2026-11-13T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Wall Street descubre los contrapesos de Trump",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-13/wall-street-descubre-los-contrapesos-de-trump.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GIUMYYV5OVJIVGWUTOPXU5C7HU.jpg?auth=9f9366e37916af6edd2003d4cb636bbfc8f602bb66cb4c208428a995d43d347d",
+   "date": "2026-11-13T04:40:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+   "date": "2026-11-13T03:57:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+   "link": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d0be/live/2ecff280-d2f0-11f1-8d86-83eebc838351.jpg",
+   "date": "2026-11-13T01:17:58+00:00"
   },
   {
    "lang": "en",
@@ -36,58 +180,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Some under-25s should get fewer benefits, Milburn review to say",
-   "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-12T22:51:18+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Robar un banco nunca había sido tan viral",
-   "link": "https://www.naiz.eus/info/noticia/20261112/robar-un-banco-nunca-habia-sido-tan-viral",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/383/848/news_landscape/zinema_estrenaldiak_11_13_4.jpg",
-   "date": "2026-11-12T17:00:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Transportes y sindicatos seguirán negociando refuerzos en la seguridad ferroviaria con la presión de dos jornadas de huelga a la vista",
-   "link": "https://elpais.com/economia/2026-11-12/transportes-vuelve-a-negociar-con-los-sindicatos-para-evitar-mas-huelgas-ferroviarias-tras-el-siniestro-de-urda.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GR3Z2LCISFAWVGKH3WRPB5RHI4.jpg?auth=19a88424b13121bb4fe59f91ec595804fc5bf8504cd1797fd66c7b1ecb987989",
-   "date": "2026-11-12T15:30:04+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-12T15:10:32+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Poundland gets more time to secure a rescue deal as emergency talks continue",
-   "link": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a6e/live/a313f250-dd58-11f1-acd1-a78ce9f5fae0.jpg",
-   "date": "2026-11-12T14:29:59+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Jensen Huang renuncia como consejero delegado de Nvidia forzado por el escándalo sobre sus infidelidades y el caso de espionaje",
-   "link": "https://elpais.com/us/2026-11-12/jensen-huang-dimite-como-consejero-delegado-de-nvidia-tras-destaparse-el-escandalo-sobre-sus-infidelidades-y-el-caso-de-espionaje.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261112/1237059_173149_video_1800.mp4",
-   "date": "2026-11-12T13:59:47+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El día después del 11-N: los sindicatos hablan de un “éxito” que superó las expectativas y la patronal ve “un fracaso”",
-   "link": "https://elpais.com/economia/2026-11-12/el-dia-despues-del-11-n-los-sindicatos-hablan-de-un-exito-que-supero-las-expectativas-y-la-patronal-ve-un-fracaso.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PAJTWBTMAFFMBJPOWQX6HGSGBA.jpg?auth=b6ba1d572991d4229a322192967cf890722daad0db3008b7e3626bc8c4768ae7",
-   "date": "2026-11-12T13:32:01+00:00"
   },
   {
    "lang": "en",
@@ -98,60 +194,12 @@
    "date": "2026-11-12T13:27:09+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "España ya es el segundo país de la UE con más trabajadores nacidos en el extranjero",
-   "link": "https://elpais.com/economia/2026-11-12/espana-ya-es-el-segundo-pais-de-la-ue-con-mas-trabajadores-nacidos-en-el-extranjero.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/R5LH2HXWOFCTZLYKOYG2HCKOJQ.jpg?auth=59c1cfbdabd3053e5854cb362f9645e90d748b91d2e4c08a591da5fed575c3b7",
-   "date": "2026-11-12T13:21:21+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "UK economy grows at fastest rate for more than two years",
-   "link": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b029/live/c4ae2930-de89-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-12T11:20:25+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
    "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
    "image": "",
    "date": "2026-11-12T08:02:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Nvidia pone al centro de chips de Singapur en el punto de mira",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-12/nvidia-pone-al-centro-de-chips-de-singapur-en-el-punto-de-mira.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/Y463DSCKMZJJJIDGLH5LJQOCRU.jpg?auth=283adcba4f25c2f6494b2986af195fc781ccb96ed60c4d498403d8d78647d3b1",
-   "date": "2026-11-12T04:45:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La IA tras las ‘midterms’: el Congreso y los Estados recuperan la voz",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-12/la-ia-tras-las-midterms-el-congreso-y-los-estados-recuperan-la-voz.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SN5YGQSSRFJHDLGPBTQBBZ767Q.jpg?auth=3506b717a25a675d12893f218bb4ab9334face660dabaf46f3ab324353f670c6",
-   "date": "2026-11-12T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Europa debe aprender a construir de nuevo",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-12/europa-debe-aprender-a-construir-de-nuevo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CK7FNORJRJNLDCGDBYBTQMN5XE.jpg?auth=ed4b73ab418f7560e903d6e4537c39016ca0f46c875db48b00ec9c31c98abad5",
-   "date": "2026-11-12T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: La sucesión en el Santander, profesional, visión familiar y participación en el capital",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-12/las-claves-la-sucesion-en-el-santander-profesional-vision-familiar-y-participacion-en-el-capital.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6WZAGF6IMJCKZH5DEPYPNXPNHI.JPG?auth=50befb323712d281e72f9e55c74539d6812ebfdac98578223b5c738c4fadcf92",
-   "date": "2026-11-12T04:30:01+00:00"
   },
   {
    "lang": "en",
@@ -192,14 +240,6 @@
    "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
    "image": "",
    "date": "2026-11-09T21:03:55+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-   "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
-   "image": "",
-   "date": "2026-11-09T02:50:22+00:00"
   },
   {
    "lang": "es",
