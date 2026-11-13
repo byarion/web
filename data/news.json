@@ -1,13 +1,37 @@
 {
- "updated": "2026-11-12T21:37:41.747826+00:00",
+ "updated": "2026-11-13T03:48:02.837716+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+   "link": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg",
+   "date": "2026-11-13T02:39:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Microsoft struggling to restore service as global outage affects Outlook and Teams",
+   "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28a7/live/2a181e50-defa-11f1-b877-3169a3b63f2c.jpg",
+   "date": "2026-11-13T02:38:02+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+   "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
+   "date": "2026-11-13T00:13:35+00:00"
+  },
   {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
    "image": "",
-   "date": "2026-11-12T17:39:54+00:00"
+   "date": "2026-11-12T23:08:50+00:00"
   },
   {
    "lang": "en",
@@ -15,15 +39,7 @@
    "title": "Some under-25s should get fewer benefits, Milburn review to say",
    "link": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad2c/live/98868060-de1f-11f1-a701-fddedf244c16.jpg",
-   "date": "2026-11-12T17:32:14+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-12T17:11:48+00:00"
+   "date": "2026-11-12T22:51:18+00:00"
   },
   {
    "lang": "es",
@@ -48,14 +64,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg",
    "date": "2026-11-12T15:10:32+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Los sindicatos pasan la pelota a las instituciones y piden políticas de vivienda «valientes»",
-   "link": "https://www.naiz.eus/info/noticia/20261112/los-sindicatos-pasan-la-pelota-a-las-instituciones-y-piden-politicas-de-vivienda-valientes",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/387/042/news_landscape/Irune.jpg",
-   "date": "2026-11-12T14:39:00+00:00"
   },
   {
    "lang": "en",
@@ -155,27 +163,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Christmas toy rush being driven by squishies and building sets",
-   "link": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/004e/live/e1c67fd0-dda9-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-11T07:52:05+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-10T23:53:58+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-10T22:52:15+00:00"
   },
   {
    "lang": "en",
