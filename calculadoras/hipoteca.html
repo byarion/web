@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Calculadora de hipoteca y préstamos: cuota mensual (fija o variable) · Ondexi</title>
+<title>Calculadora de hipoteca: cuota mensual con interés fijo o variable (Euríbor) · Ondexi</title>
 <meta name="description" content="Calcula la cuota mensual de una hipoteca o préstamo con el sistema francés. Ejemplos de cuotas, efecto del plazo y del tipo de interés, y preguntas frecuentes.">
 <link rel="canonical" href="https://ondexi.com/calculadoras/hipoteca">
 <link rel="alternate" hreflang="en" href="https://ondexi.com/en/calculators/mortgage">
@@ -25,6 +25,8 @@
 <main class="wrap page">
 <p class="crumb"><a href="./">← Todas las calculadoras</a></p>
 <h1>Calculadora de hipoteca y préstamos</h1>
+<p class="note" id="ce" hidden style="margin:0 0 10px">Hipoteca variable: interés = Euríbor + diferencial. Euríbor actual: <b id="ce-v"></b>. <button type="button" id="ce-b" class="more" style="background:none;border:0;padding:0;cursor:pointer;text-decoration:underline;color:inherit">Usar Euríbor + 1 %</button> · <a href="../guias/euribor-e-hipoteca">Cómo afecta a tu cuota</a></p>
+<script>(function(){var n=document.getElementById("ce");if(!n)return;fetch("../data/euribor.json",{cache:"no-cache"}).then(function(r){return r.json()}).then(function(d){var l=d.items&&d.items.latest;if(!l)return;document.getElementById("ce-v").textContent=l.value.toLocaleString("es-ES",{minimumFractionDigits:2,maximumFractionDigits:2})+" %";n.hidden=false;document.getElementById("ce-b").onclick=function(){var f=document.getElementById("calc");f.rate.value=(Math.round((l.value+1)*100)/100);f.rate.dispatchEvent(new Event("input",{bubbles:true}))}}).catch(function(){})})();</script>
 <div class="card" style="margin:18px 0">
 <form id="calc" class="calc">
 <div><label>Importe del préstamo (€)</label><input name="cap" type="number" min="0" value="150000"></div>
@@ -55,7 +57,7 @@
 <h2>Errores frecuentes</h2>
 <ul><li>Mirar solo la cuota y olvidar los intereses totales y el plazo.</li><li>No contar seguros, comisiones, impuestos y gastos de la compra, que no están en esta cuota.</li><li>No dejar margen por si los tipos suben en una variable.</li></ul>
 <h2>Preguntas frecuentes</h2><h3>¿Cuánto pagaría de cuota por una hipoteca de 150.000 € a 25 años?</h3><p>Con un interés del 3 %, unos 711 € al mes. Cambia los datos de arriba para ver tu caso.</p><h3>¿Sirve también para un préstamo personal o de coche?</h3><p>Sí. Pon el importe, el interés anual y el plazo del préstamo.</p>
-<h3>¿Qué cuota pagaría por una hipoteca de 200.000 € a 25 años?</h3><p>Con un interés del 3 %, unos 948 € al mes. Con el 4 % serían unos 1.056 €, así que la diferencia entre tipos es importante.</p><h3>¿Cuántos intereses pago en total por 150.000 € a 25 años?</h3><p>Al 3 %, unos 63.400 € de intereses a lo largo de todo el préstamo, sin contar comisiones ni seguros.</p><h3>¿Es mejor un plazo largo o corto?</h3><p>Un plazo corto sube la cuota pero reduce los intereses totales. Uno largo hace la cuota más cómoda, pero pagas más intereses. Depende de cuánto margen mensual tengas.</p><h2>Sigue aprendiendo</h2>
+<h3>¿Qué cuota pagaría por una hipoteca de 200.000 € a 25 años?</h3><p>Con un interés del 3 %, unos 948 € al mes. Con el 4 % serían unos 1.056 €, así que la diferencia entre tipos es importante.</p><h3>¿Cuántos intereses pago en total por 150.000 € a 25 años?</h3><p>Al 3 %, unos 63.400 € de intereses a lo largo de todo el préstamo, sin contar comisiones ni seguros.</p><h3>¿Es mejor un plazo largo o corto?</h3><p>Un plazo corto sube la cuota pero reduce los intereses totales. Uno largo hace la cuota más cómoda, pero pagas más intereses. Depende de cuánto margen mensual tengas.</p><h3>¿Qué interés pongo si mi hipoteca es variable?</h3><p>Suma el Euríbor actual y el diferencial de tu contrato. Por ejemplo, con un Euríbor del 3 % y un diferencial del 1 %, pon un 4 %. Recuerda que el interés se revisa cada 6 o 12 meses, así que prueba también con 1 o 2 puntos más.</p><h2>Sigue aprendiendo</h2>
 <div class="grid"><a class="card guide" href="../guias/euribor"><h3>Qué es el Euríbor</h3></a><a class="card guide" href="../guias/bce-tipos-de-interes"><h3>El BCE y los tipos de interés</h3></a></div>
 </main>
 <footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>

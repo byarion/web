@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cómo afecta el Euríbor a tu hipoteca: ejemplo con cuotas · Ondexi</title>
+<meta name="description" content="Qué pasa con la cuota de tu hipoteca cuando sube o baja el Euríbor: cómo funciona la revisión, un ejemplo con números y el valor actual del Euríbor.">
+<link rel="canonical" href="https://ondexi.com/guias/euribor-e-hipoteca">
+<link rel="alternate" hreflang="en" href="https://ondexi.com/en/guides/euribor-and-your-mortgage">
+<link rel="stylesheet" href="../style.css">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8007461198093348"
+     crossorigin="anonymous"></script>
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta name="theme-color" content="#0b1f3a">
+</head>
+<body>
+<header><div class="wrap">
+  <a class="logo" href="../">Ondexi<span>.</span></a>
+  <nav><a href="../">Inicio</a><a href="./">Guías</a><a class="lang" href="../en/guides/euribor-and-your-mortgage">EN</a></nav>
+</div></header>
+<main class="wrap page">
+<p class="crumb"><a href="./">← Todas las guías</a></p>
+<h1>Cómo afecta el Euríbor a tu hipoteca</h1>
+<p class="lead">Si tienes (o vas a pedir) una hipoteca variable, el Euríbor decide cuánto pagas cada mes. Aquí ves, con números, qué pasa con tu cuota cuando el Euríbor sube o baja.</p>
+<div class="card" id="eu-live" hidden style="margin:16px 0"><div class="note">Euríbor a 12 meses (último dato)</div>
+<div style="font-size:1.8rem;font-weight:800;line-height:1.2"><span id="eul-v"></span> <span class="note" style="font-weight:400" id="eul-d"></span></div>
+<p class="note" style="margin:6px 0 0">Con un diferencial del 1 %, una hipoteca variable estaría hoy en torno al <b id="eul-t"></b>. <a href="euribor">Qué es el Euríbor →</a></p></div>
+<script>(function(){var b=document.getElementById("eu-live");if(!b)return;fetch("../data/euribor.json",{cache:"no-cache"}).then(function(r){return r.json()}).then(function(d){var l=d.items&&d.items.latest;if(!l)return;var f=function(n){return n.toLocaleString("es-ES",{minimumFractionDigits:2,maximumFractionDigits:2})+" %"};document.getElementById("eul-v").textContent=f(l.value);document.getElementById("eul-d").textContent="(media de "+l.date+")";document.getElementById("eul-t").textContent=f(l.value+1);b.hidden=false;window.__euribor=l.value;document.dispatchEvent(new Event("euribor-ready"))}).catch(function(){})})();</script>
+<h2>La relación en una línea</h2>
+<p>En una hipoteca variable, el interés es <b>Euríbor + diferencial</b>. El diferencial lo fija el banco y no cambia; el Euríbor se actualiza en cada revisión. Si el Euríbor sube, sube tu interés y, con él, tu cuota. Si baja, baja.</p>
+<h2>Cuándo se revisa la cuota</h2>
+<p>Lo habitual es que la revisión sea <b>cada 12 meses</b> (a veces cada 6). Entre revisiones, la cuota no cambia aunque el Euríbor se mueva todos los días. En la revisión, el banco toma el Euríbor de la fecha acordada en tu contrato, le suma el diferencial y recalcula la cuota sobre el capital que te queda por pagar y el plazo restante.</p>
+<h2>Ejemplo: 150.000 € a 25 años, diferencial del 1 %</h2>
+<p>Esta tabla muestra la cuota mensual si el interés fuera constante durante todo el préstamo (una simplificación para comparar):</p>
+<table class="t"><thead><tr><th>Euríbor</th><th>Interés total</th><th>Cuota mensual</th></tr></thead><tbody><tr><td>1,00 %</td><td>2,00 %</td><td>635,78 €</td></tr><tr><td>2,00 %</td><td>3,00 %</td><td>711,32 €</td></tr><tr><td>3,00 %</td><td>4,00 %</td><td>791,76 €</td></tr><tr><td>4,00 %</td><td>5,00 %</td><td>876,89 €</td></tr><tr><td>5,00 %</td><td>6,00 %</td><td>966,45 €</td></tr></tbody></table>
+<p>Entre un Euríbor del 1 % y del 5 % la cuota pasa de unos 636 € a unos 966 € al mes. Por eso la variable da más incertidumbre.</p>
+<h3>Qué pasa en la primera revisión</h3>
+<p>Imagina que empiezas con un Euríbor del 3 % (interés del 4 %): la cuota inicial es de unos <b>792 €</b>. Tras 12 meses te quedan unos 146.434 € por pagar y 24 años por delante.</p>
+<ul>
+<li>Si el Euríbor sube al 4 % (interés del 5 %), la cuota pasaría a unos <b>874 €</b>.</li>
+<li>Si el Euríbor baja al 2 % (interés del 3 %), la cuota pasaría a unos <b>714 €</b>.</li>
+</ul>
+<p>Son cifras orientativas: no incluyen seguros, comisiones ni bonificaciones.</p>
+<h2>Y si tengo una hipoteca fija o mixta</h2>
+<p>Con una <b>fija</b>, el Euríbor no afecta a tu cuota. Con una <b>mixta</b>, solo te afecta cuando termina el tramo fijo. Puedes compararlas en la guía de <a href="hipoteca-fija-variable-mixta">hipoteca fija, variable o mixta</a>.</p>
+<h2>Cómo prepararte para una subida</h2>
+<ul>
+<li>Calcula tu cuota con un interés 1 o 2 puntos más alto y comprueba si seguirías llegando a fin de mes.</li>
+<li>Mantén un <a href="fondo-de-emergencia">fondo de emergencia</a>.</li>
+<li>Pregunta a tu banco por la posibilidad de pasar a tipo fijo y qué comisión tendría.</li>
+</ul>
+<p>Prueba tus propios números en la <a href="../calculadoras/hipoteca">calculadora de hipoteca</a>.</p>
+<div class="card sum"><b>En resumen</b><p>Variable = Euríbor + diferencial. La cuota se recalcula en cada revisión (normalmente cada 12 meses), así que una subida del Euríbor encarece la cuota y una bajada la abarata.</p></div>
+<p class="note">Contenido informativo y educativo. No es asesoramiento financiero. Las condiciones reales dependen de cada banco y de tu contrato.</p>
+<h2>Sigue aprendiendo</h2>
+<div class="grid"><a class="card guide" href="euribor"><h3>Qué es el Euríbor</h3></a><a class="card guide" href="hipoteca-fija-variable-mixta"><h3>Hipoteca fija, variable o mixta</h3></a><a class="card guide" href="bce-tipos-de-interes"><h3>El BCE y los tipos de interés</h3></a></div>
+</main>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
+</body>
+</html>

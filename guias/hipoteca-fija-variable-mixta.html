@@ -26,6 +26,11 @@
 <p class="crumb"><a href="./">← Todas las guías</a></p>
 <h1>Hipoteca fija, variable o mixta: cuál elegir</h1>
 <p class="lead">Al pedir una hipoteca, una de las primeras decisiones es el tipo de interés: fijo, variable o mixto. No hay una opción «correcta» para todo el mundo. Depende de cuánto riesgo puedes asumir y de lo estable que sea tu economía.</p>
+<div class="card" id="eu-live" hidden style="margin:16px 0"><div class="note">Euríbor a 12 meses (último dato)</div>
+<div style="font-size:1.8rem;font-weight:800;line-height:1.2"><span id="eul-v"></span> <span class="note" style="font-weight:400" id="eul-d"></span></div>
+<p class="note" style="margin:6px 0 0">Con un diferencial del 1 %, una hipoteca variable estaría hoy en torno al <b id="eul-t"></b>. <a href="euribor-e-hipoteca">Cómo afecta a tu cuota →</a></p></div>
+<script>(function(){var b=document.getElementById("eu-live");if(!b)return;fetch("../data/euribor.json",{cache:"no-cache"}).then(function(r){return r.json()}).then(function(d){var l=d.items&&d.items.latest;if(!l)return;var f=function(n){return n.toLocaleString("es-ES",{minimumFractionDigits:2,maximumFractionDigits:2})+" %"};document.getElementById("eul-v").textContent=f(l.value);document.getElementById("eul-d").textContent="(media de "+l.date+")";document.getElementById("eul-t").textContent=f(l.value+1);b.hidden=false;window.__euribor=l.value;document.dispatchEvent(new Event("euribor-ready"))}).catch(function(){})})();</script>
+
 
 <h2>Los tres tipos, en una frase cada uno</h2>
 <ul>
@@ -70,7 +75,7 @@
 <div class="card sum"><b>En resumen</b><p>La fija da certeza y suele partir de un tipo mayor; la variable parte más baja pero puede subir; la mixta mezcla ambas. Elige según tu margen económico, no solo por la cuota de salida.</p></div>
 <p class="note">Contenido informativo y educativo. No es asesoramiento financiero. Las condiciones reales dependen de cada banco y de tu situación.</p>
 <h2>Sigue aprendiendo</h2>
-<div class="grid"><a class="card guide" href="euribor"><h3>Qué es el Euríbor</h3></a><a class="card guide" href="tae-y-tin"><h3>TAE y TIN: qué diferencia hay</h3></a><a class="card guide" href="bce-tipos-de-interes"><h3>El BCE y los tipos de interés</h3></a></div>
+<div class="grid"><a class="card guide" href="euribor-e-hipoteca"><h3>Cómo afecta el Euríbor a tu hipoteca</h3></a><a class="card guide" href="euribor"><h3>Qué es el Euríbor</h3></a><a class="card guide" href="tae-y-tin"><h3>TAE y TIN: qué diferencia hay</h3></a><a class="card guide" href="bce-tipos-de-interes"><h3>El BCE y los tipos de interés</h3></a></div>
 </main>
 <footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
 </body>

@@ -26,6 +26,11 @@
 <p class="crumb"><a href="./">← All guides</a></p>
 <h1>Fixed, variable or mixed mortgage: which to choose</h1>
 <p class="lead">When you take out a mortgage, one of the first decisions is the type of interest rate: fixed, variable or mixed. There is no single «right» choice for everyone. It depends on how much risk you can take and how stable your finances are.</p>
+<div class="card" id="eu-live" hidden style="margin:16px 0"><div class="note">12-month Euribor (latest figure)</div>
+<div style="font-size:1.8rem;font-weight:800;line-height:1.2"><span id="eul-v"></span> <span class="note" style="font-weight:400" id="eul-d"></span></div>
+<p class="note" style="margin:6px 0 0">With a 1 % spread, a variable mortgage would currently sit at around <b id="eul-t"></b>. <a href="euribor-and-your-mortgage">How it affects your payment →</a></p></div>
+<script>(function(){var b=document.getElementById("eu-live");if(!b)return;fetch("../../data/euribor.json",{cache:"no-cache"}).then(function(r){return r.json()}).then(function(d){var l=d.items&&d.items.latest;if(!l)return;var f=function(n){return n.toLocaleString("en-GB",{minimumFractionDigits:2,maximumFractionDigits:2})+" %"};document.getElementById("eul-v").textContent=f(l.value);document.getElementById("eul-d").textContent="(average for "+l.date+")";document.getElementById("eul-t").textContent=f(l.value+1);b.hidden=false;window.__euribor=l.value;document.dispatchEvent(new Event("euribor-ready"))}).catch(function(){})})();</script>
+
 
 <h2>The three types in one sentence each</h2>
 <ul>
@@ -70,7 +75,7 @@
 <div class="card sum"><b>In short</b><p>Fixed gives certainty and usually starts at a higher rate; variable starts lower but can rise; mixed combines both. Choose according to your financial margin, not just the starting payment.</p></div>
 <p class="note">Informational and educational content. Not financial advice. Real terms depend on each bank and your situation.</p>
 <h2>Keep learning</h2>
-<div class="grid"><a class="card guide" href="euribor"><h3>What is the Euribor?</h3></a><a class="card guide" href="apr-and-nominal-rate"><h3>APR and nominal rate (TAE and TIN)</h3></a><a class="card guide" href="ecb-interest-rates"><h3>The ECB and interest rates</h3></a></div>
+<div class="grid"><a class="card guide" href="euribor-and-your-mortgage"><h3>How the Euribor affects your mortgage</h3></a><a class="card guide" href="euribor"><h3>What is the Euribor?</h3></a><a class="card guide" href="apr-and-nominal-rate"><h3>APR and nominal rate (TAE and TIN)</h3></a><a class="card guide" href="ecb-interest-rates"><h3>The ECB and interest rates</h3></a></div>
 </main>
 <footer><div class="wrap"><div class="fl"><a href="../privacy">Privacy</a><a href="../legal-notice">Legal notice</a><a href="../contact">Contact</a></div>© Ondexi</div></footer>
 </body>
