@@ -1,13 +1,21 @@
 {
- "updated": "2026-11-13T21:02:30.742379+00:00",
+ "updated": "2026-11-14T03:45:36.188855+00:00",
  "items": [
   {
    "lang": "en",
+   "source": "CNBC Economy",
+   "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
+   "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
+   "image": "",
+   "date": "2026-11-13T21:18:30+00:00"
+  },
+  {
+   "lang": "en",
    "source": "BBC Business",
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-   "date": "2026-11-13T20:49:52+00:00"
+   "date": "2026-11-13T21:14:22+00:00"
   },
   {
    "lang": "es",
@@ -192,14 +200,6 @@
    "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
    "image": "",
    "date": "2026-11-10T10:24:13+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "3 unexpected reasons the October jobs report was so strong",
-   "link": "https://www.cnbc.com/2026/11/09/october-jobs-report-hiring-by-sector.html",
-   "image": "",
-   "date": "2026-11-09T22:23:56+00:00"
   },
   {
    "lang": "es",
