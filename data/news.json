@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-14T03:45:36.188855+00:00",
+ "updated": "2026-11-14T12:36:19.324653+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Microsoft says services fully restored after day-long global outage",
+   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
+   "date": "2026-11-14T06:42:27+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La pobreza se enquista pese al crecimiento económico: “No puedo ni sentarme con mis amigos a tomar una Coca-Cola”",
+   "link": "https://elpais.com/economia/2026-11-14/la-pobreza-se-enquista-pese-al-crecimiento-economico-no-puedo-ni-sentarme-con-mis-amigos-a-tomar-una-coca-cola.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/2AUM7Y6W7BEYDDPP3ZMYL3U7OM.jpg?auth=4a1055c014b82e9df378ce23f7f3f101776934746b2695fbff576c605ee7ca09",
+   "date": "2026-11-14T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La UE apura las últimas horas del pacto pesquero con Mauritania sin acuerdo para renovarlo",
+   "link": "https://elpais.com/economia/2026-11-14/la-ue-apura-las-ultimas-horas-del-pacto-pesquero-con-mauritania-sin-acuerdo-para-renovarlo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/O26LBV6HNRGOFATFMSZMIOQ324.jpg?auth=cebddd84426afdf2e8a0d7cf0dd6a0f7cbf38219813732529c1ca268d63c78c2",
+   "date": "2026-11-14T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Sexo, espionaje, Poder: ruina",
+   "link": "https://elpais.com/economia/2026-11-14/sexo-espionaje-poder-ruina.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PNFEPDXBEFDIHIWRDU4VVP4XFE.jpg?auth=0818b6efddea81c3c08547698f61f1cd01ef683aaf0936901e95e7c4f0090341",
+   "date": "2026-11-14T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Volkswagen confía en España como su fábrica de eléctricos",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-14/volkswagen-confia-en-espana-como-su-fabrica-de-electricos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ANKY6HMXCZC3JM3OVUOW2DGX6U.jpg?auth=d10740a5d92656de4bd1de7bce92836c02c1873b272215cd8c92afe1bb64e3ee",
+   "date": "2026-11-14T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Todos somos Warren Buffett",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-14/todos-somos-warren-buffett.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/2XISU72OFFK4DGVFAOHXTRWOPE.jpg?auth=f62257cd6fda5d20552bd178b0667c3e5d9064a8e3a103ca0a21256154a325cd",
+   "date": "2026-11-14T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Trump falló en que la vivienda en EE UU volviera a ser asequible",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-14/trump-fallo-en-que-la-vivienda-en-ee-uu-volviera-a-ser-asequible.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/42BYWX7U7VLHBMPHTGSDOU4GWY.jpg?auth=6731bb5ce856354947db4b7aadac28f4d52fd61ecc7f29267788b8549692d572",
+   "date": "2026-11-14T04:40:00+00:00"
+  },
   {
    "lang": "en",
    "source": "CNBC Economy",
@@ -8,14 +64,6 @@
    "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
    "image": "",
    "date": "2026-11-13T21:18:30+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-   "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
-   "date": "2026-11-13T21:14:22+00:00"
   },
   {
    "lang": "es",
@@ -66,14 +114,6 @@
    "date": "2026-11-13T14:47:56+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno aprueba el trámite de urgencia para la revalorización de las pensiones",
-   "link": "https://elpais.com/economia/2026-11-13/el-gobierno-aprueba-el-tramite-de-urgencia-para-la-revalorizacion-de-las-pensiones.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/3PIAZNO2TVGBFF6XBWOP4P6KXI.jpg?auth=ec11782d351bcbdbb45122579919e92731f4e760d4f1e81c5f14155c4960a862",
-   "date": "2026-11-13T12:55:30+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "How a sex scandal at Nvidia is putting pressure on the White House",
@@ -96,46 +136,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-13T09:29:25+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los que no hicieron huelga el 11-N pero llenaron las calles: “No podía perder un día de sueldo”",
-   "link": "https://elpais.com/economia/2026-11-13/los-que-no-hicieron-huelga-el-11-n-pero-llenaron-las-calles-no-podia-perder-un-dia-de-sueldo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/IPABYROPJJLMZEDAY7QH3M3BWY.jpg?auth=6946885b7ae8199be086c36773fed3463278a8d0166a9ce7dfc7d06842b32d85",
-   "date": "2026-11-13T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El giro del ‘shock’ energético ante las elecciones norteamericanas",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-13/el-giro-del-shock-energetico-ante-las-elecciones-norteamericanas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/JOHFBM5PDVD2RCL3FWKER3FPXE.jpg?auth=4375fc303540ef17547522ea0ff821d15be48c686c743cde53f055f2adbfd045",
-   "date": "2026-11-13T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El ingenio marcará al próximo jefe del BCE",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-13/el-ingenio-marcara-al-proximo-jefe-del-bce.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EEUDTX4XTJBALCSTIEMUZFFJ34.jpg?auth=29f643ac53fdc46cda9368fd47b212cb6268498b07fedb108618e35bd552262a",
-   "date": "2026-11-13T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: la vivienda difícilmente volverá a ser la misma",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-13/las-claves-la-vivienda-dificilmente-volvera-a-ser-la-misma.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/QKBMOYXLFBGXBFGAW6JGOWMOXM.jpg?auth=a1d733d97b8e8990b672648ecb16338a5d981dce375a0d977eb98a57a949306d",
-   "date": "2026-11-13T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las turbulencias de la IA refuerzan la ventaja de la India en centros de datos",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-13/las-turbulencias-de-la-ia-refuerzan-la-ventaja-de-la-india-en-centros-de-datos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/THO5VSZV3JH5PM2PVSI4J7UHVA.jpg?auth=0c0ed880312497b200709dce7d80bff51aad17cff59813385fb055e51b7a736d",
-   "date": "2026-11-13T04:40:00+00:00"
   },
   {
    "lang": "en",
