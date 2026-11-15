@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-15T00:28:06.710187+00:00",
+ "updated": "2026-11-15T10:00:52.743733+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+   "link": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VZKWP23GGNJP7ELXKWKIZFOM5A.jpg?auth=1bc84a5913b0ce6bbe75e410a11f866f9b5319d56c20f41fee6b67eef47c01d4",
+   "date": "2026-11-15T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
+   "link": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/MRRQ4KQKB5LG5P23YZ4U6SECUM.jpg?auth=35e26532f2afcef4327b64cd2f9b3c1e6549acd93cfdca26268c86e496c7fc9b",
+   "date": "2026-11-15T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
+   "link": "https://elpais.com/economia/2026-11-15/el-drama-de-las-victimas-de-fraude-que-no-pueden-recuperar-su-dinero-el-banco-me-dijo-que-era-culpa-mia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GQTJ6M2XX73OA562JPWZSHQDKQ.jpg?auth=aa598acc7a38248896bd753f86ff5009d0516f5888809b3e097aac41bb5dd5eb",
+   "date": "2026-11-15T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El núcleo central del coste de la vida",
+   "link": "https://elpais.com/economia/negocios/2026-11-15/el-nucleo-central-del-coste-de-la-vida.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/463HN7GQ6RH5JDSHYIMDG5CU4E.JPG?auth=371deecc7711f9d4813973deead7f0dd9ae4219022d1f53ac53e567eb452e32e",
+   "date": "2026-11-15T04:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: la caída de Microsoft obliga de nuevo a prepararse mejor para el desorden tecnológico",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-15/las-claves-la-caida-de-microsoft-obliga-de-nuevo-a-prepararse-mejor-para-el-desorden-tecnologico.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GVU53CBLZJIZBGWHP6JFWX7QLY.jpg?auth=6297445c60d970ac056214c285ec8ca482d5d993505f3f5fa8e50d35c0aef051",
+   "date": "2026-11-15T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Emma Walmsley, una filóloga en lo más alto de HP",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-15/emma-walmsley-una-filologa-en-lo-mas-alto-de-hp.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/LEZPNI54H5ASPG2PDFPENXRH5Y.jpg?auth=93d27c4470324a311f1adac0db230f701ac22f2a0c1fb4eb9c7a29026f88f294",
+   "date": "2026-11-15T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Alta velocidad Madrid-Barcelona, una reforma compleja en medio de un debate incendiado",
+   "link": "https://elpais.com/espana/2026-11-15/alta-velocidad-madrid-barcelona-una-reforma-compleja-en-medio-de-un-debate-incendiado.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/4ACBLWJVE5KIPE2K5Z65XTINQ4.jpg?auth=cd886480e1c43473d55d60db5215d2ed930b01e56b7eaf4dc434800e54a9c181",
+   "date": "2026-11-15T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El kilómetro que falta: ¿cuánto vale una red que no se usa?",
+   "link": "https://elpais.com/economia/negocios/2026-11-15/el-kilometro-que-falta-cuanto-vale-una-red-que-no-se-usa.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/TYH775K6CZAJPCENLFD6FTPHSI.jpg?auth=6200f1b50c5dc942e482f5cd1d6d41612326bd6ecb72c9f8c0dd5709cbb1f4f9",
+   "date": "2026-11-15T04:30:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -8,14 +72,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b5f/live/f688f9b0-df6c-11f1-8112-6b9154c79b48.jpg",
    "date": "2026-11-15T00:01:07+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Esta huelga no podía ser como la de 1988. Tampoco es despreciable. ¿Qué anticipa la dura reacción del PP?",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-14/esta-huelga-no-podia-ser-como-la-de-1988-tampoco-es-despreciable-que-anticipa-la-dura-reaccion-del-pp.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EBARFYQFRZH2BAWWTQ3ZLANG4I?auth=029bb63ce232e6f46d982ec605653b8696a71bff011eac8600b4d1d5f4dd34fa",
-   "date": "2026-11-14T16:09:39+00:00"
   },
   {
    "lang": "es",
@@ -32,46 +88,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg",
    "date": "2026-11-14T06:42:27+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La pobreza se enquista pese al crecimiento económico: “No puedo ni sentarme con mis amigos a tomar una Coca-Cola”",
-   "link": "https://elpais.com/economia/2026-11-14/la-pobreza-se-enquista-pese-al-crecimiento-economico-no-puedo-ni-sentarme-con-mis-amigos-a-tomar-una-coca-cola.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/2AUM7Y6W7BEYDDPP3ZMYL3U7OM.jpg?auth=4a1055c014b82e9df378ce23f7f3f101776934746b2695fbff576c605ee7ca09",
-   "date": "2026-11-14T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La UE apura las últimas horas del pacto pesquero con Mauritania sin acuerdo para renovarlo",
-   "link": "https://elpais.com/economia/2026-11-14/la-ue-apura-las-ultimas-horas-del-pacto-pesquero-con-mauritania-sin-acuerdo-para-renovarlo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/O26LBV6HNRGOFATFMSZMIOQ324.jpg?auth=cebddd84426afdf2e8a0d7cf0dd6a0f7cbf38219813732529c1ca268d63c78c2",
-   "date": "2026-11-14T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Sexo, espionaje, Poder: ruina",
-   "link": "https://elpais.com/economia/2026-11-14/sexo-espionaje-poder-ruina.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PNFEPDXBEFDIHIWRDU4VVP4XFE.jpg?auth=0818b6efddea81c3c08547698f61f1cd01ef683aaf0936901e95e7c4f0090341",
-   "date": "2026-11-14T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Volkswagen confía en España como su fábrica de eléctricos",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-14/volkswagen-confia-en-espana-como-su-fabrica-de-electricos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ANKY6HMXCZC3JM3OVUOW2DGX6U.jpg?auth=d10740a5d92656de4bd1de7bce92836c02c1873b272215cd8c92afe1bb64e3ee",
-   "date": "2026-11-14T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Todos somos Warren Buffett",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-14/todos-somos-warren-buffett.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/2XISU72OFFK4DGVFAOHXTRWOPE.jpg?auth=f62257cd6fda5d20552bd178b0667c3e5d9064a8e3a103ca0a21256154a325cd",
-   "date": "2026-11-14T04:40:00+00:00"
   },
   {
    "lang": "en",
@@ -120,22 +136,6 @@
    "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-13T15:44:16+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Alemania y Francia ultiman un pacto sobre el BCE con Hernández de Cos como favorito para la presidencia",
-   "link": "https://elpais.com/economia/2026-11-13/alemania-y-francia-ultiman-un-pacto-sobre-el-bce-con-hernandez-de-cos-como-favorito-para-la-presidencia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/Y3O3RJHTMZLNLOJ5ARQZ6A35VY.jpg?auth=3d4bb6c4911744409f104e6a102260fb9d17eb723c5d1226cda7abe8154fe53d",
-   "date": "2026-11-13T14:47:56+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Capitolio exige respuestas a Huang y a la Administración Trump por el escándalo del espionaje chino vinculado a Nvidia",
-   "link": "https://elpais.com/economia/2026-11-13/el-congreso-inicia-el-escrutinio-por-el-caso-del-espionaje-en-nvidia-y-el-escandalo-de-las-infidelidades-de-jensen-huang.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/L7BSZ3HSHBFVZOHPIO5V37JREM.JPG?auth=bf30e922135589e8c92c11f08ea343ed221f20f34b079317376b04de40c4367e",
-   "date": "2026-11-13T09:30:00+00:00"
   },
   {
    "lang": "en",
