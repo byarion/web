@@ -1,13 +1,45 @@
 {
- "updated": "2026-11-15T18:03:43.058263+00:00",
+ "updated": "2026-11-16T00:28:22.224686+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+   "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+   "image": "",
+   "date": "2026-11-16T00:11:25+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+   "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad4a/live/a30d20c0-e117-11f1-a7db-d90284d21c62.png",
+   "date": "2026-11-15T22:30:03+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-15T14:56:21+00:00"
+   "date": "2026-11-15T22:24:20+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c7/live/353868b0-6be8-11f1-aa71-afd82ef74c53.jpg",
+   "date": "2026-11-15T22:00:24+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Sindicato de Inquilinas exhibe músculo en Vistalegre tras la huelga general por la vivienda",
+   "link": "https://elpais.com/economia/2026-11-15/el-sindicato-de-inquilinas-exhibe-musculo-en-vistalegre-tras-la-huelga-general-por-la-vivienda.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/HUGXJQBZKZFNVESEEV2S6RUXO4.jpeg?auth=18d3c35179ec303143a0d021f39bffaeda9da8796dcb955a538e0b58c1afd300",
+   "date": "2026-11-15T18:54:53+00:00"
   },
   {
    "lang": "en",
@@ -35,6 +67,14 @@
   },
   {
    "lang": "es",
+   "source": "Naiz",
+   "title": "«Si Europa protege su medio ambiente, sus empresarios no pueden destruir el de otros»",
+   "link": "https://www.naiz.eus/info/noticia/20261115/la-violencia-en-centroamerica-se-ejerce-contra-los-activistas-que-luchan-contra-megaproyectos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/380/247/news_landscape/Gervasio_Sanchez1.jpg",
+   "date": "2026-11-15T04:50:00+00:00"
+  },
+  {
+   "lang": "es",
    "source": "El País",
    "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
    "link": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html",
@@ -47,14 +87,6 @@
    "title": "Política y finanzas juegan a favor de Hernández de Cos para la presidencia del BCE",
    "link": "https://elpais.com/economia/2026-11-15/politica-y-finanzas-juegan-a-favor-de-hernandez-de-cos-para-la-presidencia-del-bce.html",
    "image": "https://imagenes.elpais.com/resizer/v2/MRRQ4KQKB5LG5P23YZ4U6SECUM.jpg?auth=35e26532f2afcef4327b64cd2f9b3c1e6549acd93cfdca26268c86e496c7fc9b",
-   "date": "2026-11-15T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El drama de las víctimas de fraude que no pueden recuperar su dinero: “El banco me dijo que era culpa mía”",
-   "link": "https://elpais.com/economia/2026-11-15/el-drama-de-las-victimas-de-fraude-que-no-pueden-recuperar-su-dinero-el-banco-me-dijo-que-era-culpa-mia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GQTJ6M2XX73OA562JPWZSHQDKQ.jpg?auth=aa598acc7a38248896bd753f86ff5009d0516f5888809b3e097aac41bb5dd5eb",
    "date": "2026-11-15T04:45:01+00:00"
   },
   {
@@ -147,22 +179,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Heat pumps: How much heat does your home really need?",
-   "link": "https://www.bbc.co.uk/news/articles/cqy43zk3kk04o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d187/live/503bbbd0-d902-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-13T09:29:25+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-   "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8436/live/9852bb70-d6a6-11f1-b441-2b33b063138f.png",
-   "date": "2026-11-13T00:13:35+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
    "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
@@ -192,14 +208,6 @@
    "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-10T23:53:58+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
-   "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
-   "image": "",
-   "date": "2026-11-10T10:24:13+00:00"
   },
   {
    "lang": "es",
