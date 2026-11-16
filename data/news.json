@@ -1,21 +1,85 @@
 {
- "updated": "2026-11-16T10:15:50.652805+00:00",
+ "updated": "2026-11-16T21:20:03.664437+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
+   "link": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/B3YWO7HMJ5G4DEX7DQ6NM6KVHM.jpg?auth=90e8c8071b074abcb8e7063a42b312e703de63db10e741c0f5385eb2847c9ac7",
+   "date": "2026-11-16T20:42:46+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno también aprobará este martes la nueva deducción del salario mínimo para que sus perceptores no paguen IRPF",
+   "link": "https://elpais.com/economia/2026-11-16/el-gobierno-tambien-aprobara-este-martes-la-nueva-deduccion-del-salario-minimo-para-que-sus-perceptores-no-paguen-irpf.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/3XTKFXTF7FA5LPH6VPLY24ZFYU.jpg?auth=5b583086e83c566b823021897f1a55a70dfd1e5a9329ff8b29dfa65ee3303cc1",
+   "date": "2026-11-16T19:56:01+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Avoid this Black Friday scam - how to check it's a real deal",
-   "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab33/live/9ed5ff60-dea9-11f1-98eb-79ee6ea9ba56.jpg",
-   "date": "2026-11-16T09:58:52+00:00"
+   "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "date": "2026-11-16T19:16:52+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Centros de datos a hiperescala consumen tanta energía eléctrica como estados enteros de EEUU",
+   "link": "https://www.naiz.eus/info/noticia/20261116/centros-de-datos-a-hiperescala-consumen-tanta-energia-electrica-como-estados-enteros-de-eeuu",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/235/news_landscape/campus_tecnologico.jpg",
+   "date": "2026-11-16T16:37:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Denuncian que el racismo inmobiliario e institucional dificulta el acceso a una vivienda digna",
+   "link": "https://www.naiz.eus/info/noticia/20261116/denuncian-que-el-racismo-inmobiliario-e-institucional-dificulta-el-acceso-a-una-vivienda-digna",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/226/news_landscape/derecho_vivienda.jpg",
+   "date": "2026-11-16T15:45:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
+   "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
+   "date": "2026-11-16T15:40:16+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
    "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/69ea/live/b856ca50-e18d-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-16T09:42:11+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg",
+   "date": "2026-11-16T13:19:33+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno aprobará este martes la subida del salario mínimo de 2027 a 1.286 euros",
+   "link": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-salario-minimo-de-2027-a-1286-euros.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/WDOM7QKBGNE6HFHNWMLI7BPPGA.jpg?auth=5862495ae1449f1ccd0773afac513f09fa4c6a75ab78389f0eef623c154ebbcb",
+   "date": "2026-11-16T13:00:18+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Indra, Santa Bárbara y el desafío de hacer blindados que alguien quiera comprar",
+   "link": "https://cincodias.elpais.com/companias/2026-11-16/indra-santa-barbara-y-el-desafio-de-hacer-blindados-que-alguien-quiera-comprar.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/KJKHKFU3SJKKLG4AFHLGWSWHFM.jpg?auth=c8ab0642248cc55533e27fef3341526924d983450f873121e9aebc03318b60d7",
+   "date": "2026-11-16T11:26:26+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Avoid this Black Friday scam - how to check it's a real deal",
+   "link": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f34/live/a04a1d00-e1c3-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-16T09:58:52+00:00"
   },
   {
    "lang": "es",
@@ -36,14 +100,6 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Bruselas se reserva la aprobación del último pago del plan de recuperación hasta el día después de las elecciones",
-   "link": "https://elpais.com/economia/2026-11-16/bruselas-se-reserva-la-aprobacion-del-ultimo-pago-del-plan-de-recuperacion-hasta-el-dia-despues-de-las-elecciones.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/D45ZJJQJPBLLLC2VAY2DHYZ254.jpg?auth=9a7a32c44f138dbbb61f3202fe9d71be6423ae34a29f39b645c8810d5193e1a3",
-   "date": "2026-11-16T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
    "title": "Izquierdismo infantil, o cuando te caes del guindo",
    "link": "https://cincodias.elpais.com/opinion/2026-11-16/izquierdismo-infantil-o-cuando-te-caes-del-guindo.html",
    "image": "https://imagenes.elpais.com/resizer/v2/EU5DQDHYLVK2JGOZXSBZ642ZX4.jpg?auth=55989832a5b6dfe7b375ef4d5d125a27cc5a6e9364ae519583e9f7c4ff59401b",
@@ -60,33 +116,17 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "La crisis de vivienda empuja a los jóvenes a invertir en cripto: “Si sigo así, en 10 años podré tener una casa”",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-16/la-crisis-de-vivienda-empuja-a-los-jovenes-a-invertir-en-cripto-si-sigo-asi-en-10-anos-podre-tener-una-casa.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/TMZCOFJ3GNJHVLOCWCYYHQP564.jpg?auth=d4bca6fea004e7e377dc4c571819068b35bb66248929f6263005c73e3f6acba8",
-   "date": "2026-11-16T04:25:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
    "title": "Decisiones inmobiliarias y el corte de pelo de 300.000 dólares",
    "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-16/decisiones-inmobiliarias-y-el-corte-de-pelo-de-300000-dolares.html",
    "image": "https://imagenes.elpais.com/resizer/v2/E4DZL6CG4NNE5CZTWZPDKGK22I.jpg?auth=eb6bed0164eb0a39670b2216f587444b654b4eea37f1d88443aaf3464e714d72",
    "date": "2026-11-16T04:25:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "El contrato de ciberseguridad del Estado se enreda tras el tira y afloja de TRC (Indra) y la vía judicial de Orange",
-   "link": "https://cincodias.elpais.com/companias/2026-11-16/el-contrato-de-ciberseguridad-del-estado-se-enreda-tras-el-tira-y-afloja-de-trc-indra-y-la-via-judicial-de-orange.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/VIT7PPC7WNMWNBK2OLZ5NFA5PQ.jpg?auth=cf76cefd47f6abb140da2eecdf1985915740ce65e25fd14ac7c4484f92ffe058",
-   "date": "2026-11-16T04:15:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Investors sue chip giant Intel after 29% stock plunge",
+   "title": "Intel sued by investors after PC sales slump hits share price",
    "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e63c/live/afebacc0-e14f-11f1-8fb1-c394c4317b6a.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b3/live/33bc54f0-e1a5-11f1-8433-4325183b3814.jpg",
    "date": "2026-11-16T03:04:01+00:00"
   },
   {
@@ -104,30 +144,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-16T01:47:57+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c7/live/353868b0-6be8-11f1-aa71-afd82ef74c53.jpg",
-   "date": "2026-11-15T22:00:24+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Minister backs legal right to job support for young people",
-   "link": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ee9/live/2745bfb0-e103-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-15T13:06:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El núcleo central del coste de la vida",
-   "link": "https://elpais.com/economia/negocios/2026-11-15/el-nucleo-central-del-coste-de-la-vida.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/463HN7GQ6RH5JDSHYIMDG5CU4E.JPG?auth=371deecc7711f9d4813973deead7f0dd9ae4219022d1f53ac53e567eb452e32e",
-   "date": "2026-11-15T04:45:00+00:00"
   },
   {
    "lang": "en",
