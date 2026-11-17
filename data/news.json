@@ -1,21 +1,93 @@
 {
- "updated": "2026-11-17T05:25:47.489990+00:00",
+ "updated": "2026-11-17T14:59:38.921012+00:00",
  "items": [
   {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "How new US chip restrictions on South East Asia will hit China",
+   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
+   "date": "2026-11-17T14:25:45+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+   "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+   "image": "",
+   "date": "2026-11-17T13:40:54+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Speed camera fault may have allowed drivers to escape fines",
+   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg",
+   "date": "2026-11-17T13:03:30+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Government must act now or lose Royal Mail, former minister warns",
+   "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-17T12:43:07+00:00"
+  },
+  {
    "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno eleva las sanciones a las empresas que oculten información contractual o salarial a sus empleados",
-   "link": "https://elpais.com/economia/2026-11-17/el-gobierno-eleva-las-sanciones-a-las-empresas-que-oculten-informacion-contractual-o-salarial-a-sus-empleados.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/LMR7FUEP5VEFZHGF7PEO27FIRM.jpg?auth=9ca8e58db6e59e21e980ed920d8045c15e97b23664581afa15fbb073f434aeba",
-   "date": "2026-11-17T04:45:01+00:00"
+   "source": "Naiz",
+   "title": "El Gobierno español aprueba la subida del 5,3% del salario mínimo, hasta los 1.286 euros al mes",
+   "link": "https://www.naiz.eus/info/noticia/20261117/el-gobierno-espanol-aprueba-la-subida-del-5-3-del-salario-minimo-hasta-los-1-286-euros-al-mes",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/409/news_landscape/yolanda_diaz.jpg",
+   "date": "2026-11-17T12:43:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Where are the most jobs for 18-24 year-olds?",
+   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
+   "date": "2026-11-17T12:35:53+00:00"
   },
   {
    "lang": "es",
    "source": "El País",
-   "title": "Más de 1,5 millones de viajeros en tren vuelven a estar pendientes de 24 horas de paro sindical",
+   "title": "El Gobierno elimina las retenciones del IRPF al salario mínimo para que la subida llegue íntegra desde enero",
+   "link": "https://elpais.com/economia/2026-11-17/el-gobierno-elimina-las-retenciones-del-irpf-al-salario-minimo-para-que-la-subida-llegue-integra-desde-enero.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/EAWE6EFEOVGVBFPW4WPFIAUTPQ.jpg?auth=c29fa3132aeb580cb4dbf34a59b6c302384465036c8ccdb762aebf1c6ba7c9a7",
+   "date": "2026-11-17T12:26:10+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
+   "link": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261117/1238708_132853_video_1800.mp4",
+   "date": "2026-11-17T11:50:39+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "US government confirms investigation into tech firm Megaspeed",
+   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+   "date": "2026-11-17T11:17:32+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
+   "link": "https://elpais.com/economia/2026-11-17/bruselas-mejora-las-previsiones-economicas-de-la-zona-euro-y-espana-pese-a-la-guerra-y-la-inflacion.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/7Y4DUAH65RPTVIHFRDF5EC7UIA.jpg?auth=3b26f1cfd14de7704403837f44a01b17d6b43fc1b87c80566dd6de0aac0278c6",
+   "date": "2026-11-17T10:02:40+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
    "link": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/F5DTE7AVOBDFTIW4GJDG2CELUY.jpeg?auth=a52e5d40acab7206b0571dbf43801c968f79d00729b56d8f4e0b7fdbda299167",
-   "date": "2026-11-17T04:45:01+00:00"
+   "image": "https://imagenes.elpais.com/resizer/v2/K5PJODWUQ5GCDAWXD434LHC7TY.jpg?auth=491e9de44fef43008daf40be44c5fc98c1f771858eff785b91a068c8181b868d",
+   "date": "2026-11-17T09:59:23+00:00"
   },
   {
    "lang": "es",
@@ -50,25 +122,9 @@
    "date": "2026-11-17T04:40:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Malestar en Hacienda por las insinuaciones del PP de que las cuentas públicas esconden irregularidades",
-   "link": "https://elpais.com/economia/2026-11-17/malestar-en-hacienda-por-las-insinuaciones-del-pp-de-que-las-cuentas-publicas-esconden-irregularidades.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/WD6ELFBIJBHF7NTT6LFPVWMQRY.jpg?auth=5ca6425148b28cef7fa43f5dea1dd93aeddb2ed4c063c01830fd0f1d154da641",
-   "date": "2026-11-17T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Mi hija comparte un piso con tres estudiantes en Madrid por el que pagan 2.254 euros, un 15% más que el año pasado. ¿Es legal la subida?",
-   "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-17/mi-hija-comparte-un-piso-con-tres-estudiantes-en-madrid-por-el-que-pagan-2254-euros-un-15-mas-que-el-ano-pasado-es-legal-la-subida.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/AELXHHLBFRFLVOUUGABDTNOOYI.jpg?auth=595da2ed24e340eb3843b21fb3332302c61b7cb6bb884edd819d3e2539348a4c",
-   "date": "2026-11-17T04:30:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
    "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
    "date": "2026-11-17T02:37:53+00:00"
@@ -84,82 +140,18 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Customers report service outages at major US banks",
-   "link": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d633/live/6fb04df0-e212-11f1-b9ca-b9964628501b.jpg",
-   "date": "2026-11-17T00:18:01+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
-   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-   "date": "2026-11-17T00:00:03+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "We couldn't afford a house alone, so we bought one with strangers",
    "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa8/live/134f7040-e181-11f1-9386-1b849272ca8f.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
    "date": "2026-11-17T00:00:02+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "California sues OpenAI over Hugging Face attack",
+   "title": "OpenAI sued by California over Hugging Face attack",
    "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
    "date": "2026-11-16T23:12:24+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Cae el sistema de United Airlines y sufren fallos varios grandes bancos de EEUU",
-   "link": "https://www.naiz.eus/info/noticia/20261116/cae-el-sistema-de-united-airlines-y-sufren-fallos-varios-grandes-bancos-de-eeuu",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/350/news_landscape/airlines.jpg",
-   "date": "2026-11-16T22:43:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-   "link": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a76/live/fbd49eb0-e1e2-11f1-9f14-b33806cfd783.jpg",
-   "date": "2026-11-16T22:32:47+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Centros de datos a hiperescala consumen tanta energía eléctrica como estados enteros de EEUU",
-   "link": "https://www.naiz.eus/info/noticia/20261116/centros-de-datos-a-hiperescala-consumen-tanta-energia-electrica-como-estados-enteros-de-eeuu",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/235/news_landscape/campus_tecnologico.jpg",
-   "date": "2026-11-16T16:37:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Denuncian que el racismo inmobiliario e institucional dificulta el acceso a una vivienda digna",
-   "link": "https://www.naiz.eus/info/noticia/20261116/denuncian-que-el-racismo-inmobiliario-e-institucional-dificulta-el-acceso-a-una-vivienda-digna",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/226/news_landscape/derecho_vivienda.jpg",
-   "date": "2026-11-16T15:45:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Faisal Islam: What's in the Brexit reset food deal and are there trade-offs?",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e49/live/adff9c60-e11c-11f1-a7a2-7bb21fac8f0b.jpg",
-   "date": "2026-11-16T15:40:16+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
-   "link": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283e/live/4753f640-e1ae-11f1-b0a4-450a350911f4.jpg",
-   "date": "2026-11-16T13:19:33+00:00"
   },
   {
    "lang": "en",
@@ -208,14 +200,6 @@
    "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
    "image": "",
    "date": "2026-11-12T08:02:15+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Consumers are showing signs of strain even as they keep spending, CNBC/NRF Retail Monitor shows",
-   "link": "https://www.cnbc.com/2026/11/11/october-retail-sales-cnbc-nrf-2026.html",
-   "image": "",
-   "date": "2026-11-11T12:27:47+00:00"
   },
   {
    "lang": "es",
