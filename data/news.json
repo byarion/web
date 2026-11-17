@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-17T14:59:38.921012+00:00",
+ "updated": "2026-11-17T22:47:10.768288+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-17T22:34:41+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
+   "link": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/6HT4YT5JMRCWTJKGLGP2ERF43Y.JPG?auth=e222737695980e512b6e33a662fac3f1818e8b98c2f723d9488f9746d2914e6c",
+   "date": "2026-11-17T21:49:21+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Speed camera fault may have allowed drivers to escape fines",
+   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg",
+   "date": "2026-11-17T20:04:54+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Cercanías de Madrid y Rodalies recuperan pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
+   "link": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/K5PJODWUQ5GCDAWXD434LHC7TY.jpg?auth=491e9de44fef43008daf40be44c5fc98c1f771858eff785b91a068c8181b868d",
+   "date": "2026-11-17T19:05:41+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-17T18:24:21+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
+   "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1236/live/f4363760-e29e-11f1-a094-5fdc692f3e33.png",
+   "date": "2026-11-17T15:56:04+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+   "image": "",
+   "date": "2026-11-17T15:35:13+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El Gobierno español autoriza la firma del Convenio para la II Fase del Canal de Navarra",
+   "link": "https://www.naiz.eus/info/noticia/20261117/el-gobierno-espanol-autoriza-una-financiacion-de-354-millones-la-ii-fase-del-canal-de-navarra",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/431/news_landscape/EuropaPress_7920775_ministra_inclusion_seguridad_social_migraciones_portavoz_gobierno_elma_saiz.jpg",
+   "date": "2026-11-17T15:03:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -16,30 +80,6 @@
    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
    "image": "",
    "date": "2026-11-17T13:40:54+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Speed camera fault may have allowed drivers to escape fines",
-   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg",
-   "date": "2026-11-17T13:03:30+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Government must act now or lose Royal Mail, former minister warns",
-   "link": "https://www.bbc.co.uk/news/articles/cjvg26p3z2gdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9890/live/489f1940-e1c1-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-17T12:43:07+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El Gobierno español aprueba la subida del 5,3% del salario mínimo, hasta los 1.286 euros al mes",
-   "link": "https://www.naiz.eus/info/noticia/20261117/el-gobierno-espanol-aprueba-la-subida-del-5-3-del-salario-minimo-hasta-los-1-286-euros-al-mes",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/409/news_landscape/yolanda_diaz.jpg",
-   "date": "2026-11-17T12:43:00+00:00"
   },
   {
    "lang": "en",
@@ -76,22 +116,6 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Bruselas mejora las previsiones económicas de la zona euro y España pese a la guerra y la inflación",
-   "link": "https://elpais.com/economia/2026-11-17/bruselas-mejora-las-previsiones-economicas-de-la-zona-euro-y-espana-pese-a-la-guerra-y-la-inflacion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7Y4DUAH65RPTVIHFRDF5EC7UIA.jpg?auth=3b26f1cfd14de7704403837f44a01b17d6b43fc1b87c80566dd6de0aac0278c6",
-   "date": "2026-11-17T10:02:40+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La huelga del ferrocarril paraliza por completo Cercanías de Madrid y deja en Rodalies un 40% de los servicios mínimos suspendidos",
-   "link": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/K5PJODWUQ5GCDAWXD434LHC7TY.jpg?auth=491e9de44fef43008daf40be44c5fc98c1f771858eff785b91a068c8181b868d",
-   "date": "2026-11-17T09:59:23+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
    "title": "150 años conectando el mundo: del primer cable de cobre a las redes 5G avanzadas",
    "link": "https://cincodias.elpais.com/opinion/2026-11-17/150-anos-conectando-el-mundo-del-primer-cable-de-cobre-a-las-redes-5g-avanzadas.html",
    "image": "https://imagenes.elpais.com/resizer/v2/RH4JAK62XZJO7WGOYYGI6A2MMA.jpg?auth=e8879d95c58222bdae27318c56fb526c0111c5ba010c47b101a17bfdbac903fd",
@@ -124,34 +148,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-   "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-   "date": "2026-11-17T02:37:53+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-   "image": "",
-   "date": "2026-11-17T00:42:33+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "We couldn't afford a house alone, so we bought one with strangers",
    "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
    "date": "2026-11-17T00:00:02+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "OpenAI sued by California over Hugging Face attack",
-   "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce1a/live/7c81aa70-e211-11f1-a541-6d0c391a4254.jpg",
-   "date": "2026-11-16T23:12:24+00:00"
   },
   {
    "lang": "en",
