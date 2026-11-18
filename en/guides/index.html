@@ -65,7 +65,7 @@
       <a class="card guide" href="euribor"><h3>What is the Euribor?</h3><p>Europe's reference interest rate. If you have a variable-rate mortgage, it directly affects your payment.</p><span class="more">Read guide →</span></a>
 </div>
 </main>
-<footer><div class="wrap"><div class="fl"><a href="../privacy">Privacy</a><a href="../legal-notice">Legal notice</a><a href="../contact">Contact</a></div>© Ondexi</div></footer>
+<footer><div class="wrap"><div class="fl"><a href="../privacy">Privacy</a><a href="../legal-notice">Legal notice</a><a href="../about">About</a><a href="../contact">Contact</a></div>© Ondexi</div></footer>
 <script>(function(){var q=document.getElementById("q"),none=document.getElementById("noRes");if(!q)return;var cards=[].slice.call(document.querySelectorAll("main .card.guide")),heads=[].slice.call(document.querySelectorAll("main h2"));function norm(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}var texts=cards.map(function(c){return norm(c.textContent)});function run(){var terms=norm(q.value).split(/\s+/).filter(Boolean),shown=0;cards.forEach(function(c,i){var ok=terms.every(function(t){return texts[i].indexOf(t)>-1});c.style.display=ok?"":"none";if(ok)shown++});heads.forEach(function(h){var g=h.nextElementSibling;if(!g||!g.classList.contains("grid"))return;var any=[].some.call(g.children,function(c){return c.style.display!=="none"});h.style.display=any?"":"none";g.style.display=any?"":"none"});none.hidden=shown>0}q.addEventListener("input",run);run()})();</script>
 </body>
 </html>

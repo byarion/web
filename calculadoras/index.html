@@ -39,7 +39,7 @@
 <h2>Calculadora de ahorro</h2>
 <div class="grid"><a class="card guide" href="../#calculadora"><h3>Calculadora de ahorro</h3><p>Simula cuánto crece tu ahorro con una aportación mensual.</p><span class="more">Usar calculadora →</span></a></div>
 </main>
-<footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
+<footer><div class="wrap"><div class="fl"><a href="../privacidad">Privacidad</a><a href="../aviso-legal">Aviso legal</a><a href="../sobre-ondexi">Sobre Ondexi</a><a href="../contacto">Contacto</a></div>© Ondexi</div></footer>
 <script>(function(){var q=document.getElementById("q"),none=document.getElementById("noRes");if(!q)return;var cards=[].slice.call(document.querySelectorAll("main .card.guide")),heads=[].slice.call(document.querySelectorAll("main h2"));function norm(s){return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"")}var texts=cards.map(function(c){return norm(c.textContent)});function run(){var terms=norm(q.value).split(/\s+/).filter(Boolean),shown=0;cards.forEach(function(c,i){var ok=terms.every(function(t){return texts[i].indexOf(t)>-1});c.style.display=ok?"":"none";if(ok)shown++});heads.forEach(function(h){var g=h.nextElementSibling;if(!g||!g.classList.contains("grid"))return;var any=[].some.call(g.children,function(c){return c.style.display!=="none"});h.style.display=any?"":"none";g.style.display=any?"":"none"});none.hidden=shown>0}q.addEventListener("input",run);run()})();</script>
 </body>
 </html>
