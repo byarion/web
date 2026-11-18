@@ -1,20 +1,100 @@
 {
- "updated": "2026-11-18T04:52:10.040435+00:00",
+ "updated": "2026-11-18T14:40:28.699800+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
+   "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
+   "image": "",
+   "date": "2026-11-18T14:09:26+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+   "date": "2026-11-18T13:55:14+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-18T13:17:06+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
+   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg",
+   "date": "2026-11-18T13:10:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La negociación del Metal de Bizkaia sigue bloqueada y los sindicatos advierten de huelgas",
+   "link": "https://www.naiz.eus/info/noticia/20261118/la-negociacion-del-metal-de-bizkaia-sigue-bloqueada-y-los-sindicatos-advierten-de-huelgas",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/646/news_landscape/metal-bizkaia.jpg",
+   "date": "2026-11-18T12:55:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "EH Bildu desvela la nueva propuesta sobre presupuestos que tenía para Noël d’Anjou",
+   "link": "https://www.naiz.eus/info/noticia/20261118/eh-bildu-afirma-que-tenia-preparada-una-nueva-oferta-presupuestaria-para-noel-d-anjou",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/638/news_landscape/PELLO.jpg",
+   "date": "2026-11-18T12:46:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "EH Bildu aboga por «regular el mercado para que la vivienda cumpla su función social»",
+   "link": "https://www.naiz.eus/info/noticia/20261118/eh-bildu-aboga-por-regular-el-mercado-para-que-la-vivienda-cumpla-su-funcion-social",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/628/news_landscape/maiz_ona.jpg",
+   "date": "2026-11-18T11:01:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los sindicatos UGT, CC OO y el ferroviario SCF firman la paz con Transportes en favor de reforzar la seguridad en las vías",
+   "link": "https://elpais.com/economia/2026-11-18/los-sindicatos-ugt-cc-oo-y-el-ferroviario-scf-firman-la-paz-con-transportes-en-favor-de-reforzar-la-seguridad-en-las-vias.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/SWL67YOXA5DJFJXUPGWI3LA7FQ.jpg?auth=d031539d7180d1b90be3619948a18bd33351b0dc85a0a08450ba6ffec1531b6f",
+   "date": "2026-11-18T10:50:51+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Hacienda obliga a los empleadores a recalcular las nóminas para dejar sin retención de IRPF al salario mínimo",
+   "link": "https://elpais.com/economia/2026-11-18/hacienda-obliga-a-los-empleadores-a-recalcular-las-nominas-para-dejar-sin-retencion-de-irpf-al-salario-minimo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/JLSAOYZM6NB3DMNSR27BIBH5CQ.jpg?auth=032d1684b82e5e027a76863e85c10a2050a06a0f82fadbbdf6959aa57a75d140",
+   "date": "2026-11-18T08:30:59+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
+   "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
+   "image": "",
+   "date": "2026-11-18T07:57:37+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "date": "2026-11-18T06:04:21+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
    "title": "El Gobierno entierra el registro horario pese a las promesas de aprobarlo antes de las elecciones",
    "link": "https://elpais.com/economia/2026-11-18/el-gobierno-entierra-el-registro-horario-pese-a-las-promesas-de-aprobarlo-antes-de-las-elecciones.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/R7BQNUCTCVF73JS6GCODDRA7H4.jpg?auth=02e36fb8d2a8b2f974cdca78ef097d228674f52baeb49702025f6f9ba4fd6231",
-   "date": "2026-11-18T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La vivienda protegida pierde peso en el mercado inmobiliario en plena crisis habitacional",
-   "link": "https://elpais.com/economia/vivienda/2026-11-18/la-vivienda-protegida-pierde-peso-en-el-mercado-inmobiliario-en-plena-crisis-habitacional.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/463HN7GQ6RH5JDSHYIMDG5CU4E.JPG?auth=371deecc7711f9d4813973deead7f0dd9ae4219022d1f53ac53e567eb452e32e",
+   "image": "https://imagenes.elpais.com/resizer/v2/NUU7YVLFLJGXPACKLEOQ7XJGVM.jpg?auth=0a25c8670b9dc2988a2ac23e022014dbe6da2b40fc7aa6a35f2acd9d4cad36ec",
    "date": "2026-11-18T04:45:01+00:00"
   },
   {
@@ -52,31 +132,23 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Vivo en un piso de alquiler cuya dueña ha fallecido. ¿Me pueden echar sus sobrinos antes de que acabe el año de renovación?",
-   "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-18/vivo-en-un-piso-de-alquiler-cuya-duena-ha-fallecido-me-pueden-echar-sus-sobrinos-antes-de-que-acabe-el-ano-de-renovacion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/I4KETG5GGBAHHCAGWXUYMVU35M.JPG?auth=113ed25587c0cc094296edd3a00a26f970a5ef94e7730ab7743f467f78936568",
-   "date": "2026-11-18T04:30:00+00:00"
+   "title": "Pensiones: la derecha evita hablar de sus dudas sobre el sistema y la izquierda promete reforzarlo pese a la tensión de las cuentas",
+   "link": "https://elpais.com/economia/2026-11-18/pensiones-la-derecha-evita-hablar-de-sus-dudas-sobre-el-sistema-y-la-izquierda-promete-reforzarlo-pese-a-la-tension-de-las-cuentas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ZD6HBAZU7ZBBTE3PPKYTIM5EIY.jpg?auth=2a72f936e2cfae2b1d21bf4f9742acbfc31cbf5600f7373ed93c2699f9976d33",
+   "date": "2026-11-18T04:30:01+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
    "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/650b/live/aea40010-e348-11f1-99b6-a35a62fa4264.jpg",
    "date": "2026-11-18T04:00:54+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Waymo pulls driverless taxis from all US freeways",
-   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
-   "date": "2026-11-18T03:07:22+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
    "date": "2026-11-18T01:18:18+00:00"
@@ -90,36 +162,12 @@
    "date": "2026-11-18T00:35:31+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
-   "link": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6HT4YT5JMRCWTJKGLGP2ERF43Y.JPG?auth=e222737695980e512b6e33a662fac3f1818e8b98c2f723d9488f9746d2914e6c",
-   "date": "2026-11-18T00:01:24+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Europe plans to catch the next computer chip wave",
    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-18T00:00:24+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-17T23:02:12+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Speed camera fault may have allowed drivers to escape fines",
-   "link": "https://www.bbc.co.uk/news/articles/c5y4j7z373kzo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a189/live/29535f50-e28a-11f1-b166-176de21e2352.jpg",
-   "date": "2026-11-17T20:04:54+00:00"
   },
   {
    "lang": "en",
@@ -131,27 +179,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-17T18:24:21+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
    "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
    "image": "",
    "date": "2026-11-17T15:35:13+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El Gobierno español autoriza la firma del Convenio para la II Fase del Canal de Navarra",
-   "link": "https://www.naiz.eus/info/noticia/20261117/el-gobierno-espanol-autoriza-una-financiacion-de-354-millones-la-ii-fase-del-canal-de-navarra",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/431/news_landscape/EuropaPress_7920775_ministra_inclusion_seguridad_social_migraciones_portavoz_gobierno_elma_saiz.jpg",
-   "date": "2026-11-17T15:03:00+00:00"
   },
   {
    "lang": "en",
@@ -180,26 +212,10 @@
   {
    "lang": "en",
    "source": "CNBC Economy",
-   "title": "Bessent blames Lutnick’s Commerce as he slams Nvidia chip ‘leakage’ to China",
-   "link": "https://www.cnbc.com/2026/11/13/us-inflation-outlook-federal-reserve-rate-hike.html",
-   "image": "",
-   "date": "2026-11-13T17:06:57+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
    "title": "Wholesale prices rose 0.3% in October, putting annual rate at 6.5%, the highest in nearly four years",
    "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-13T15:44:16+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "UK economy expands 0.7% in third quarter as AI provides 'extra engine of growth'",
-   "link": "https://www.cnbc.com/2026/11/12/uk-gdp-third-quarter-2026.html",
-   "image": "",
-   "date": "2026-11-12T08:02:15+00:00"
   },
   {
    "lang": "es",
