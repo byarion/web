@@ -1,13 +1,93 @@
 {
- "updated": "2026-11-17T22:47:10.768288+00:00",
+ "updated": "2026-11-18T04:52:10.040435+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno entierra el registro horario pese a las promesas de aprobarlo antes de las elecciones",
+   "link": "https://elpais.com/economia/2026-11-18/el-gobierno-entierra-el-registro-horario-pese-a-las-promesas-de-aprobarlo-antes-de-las-elecciones.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/R7BQNUCTCVF73JS6GCODDRA7H4.jpg?auth=02e36fb8d2a8b2f974cdca78ef097d228674f52baeb49702025f6f9ba4fd6231",
+   "date": "2026-11-18T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La vivienda protegida pierde peso en el mercado inmobiliario en plena crisis habitacional",
+   "link": "https://elpais.com/economia/vivienda/2026-11-18/la-vivienda-protegida-pierde-peso-en-el-mercado-inmobiliario-en-plena-crisis-habitacional.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/463HN7GQ6RH5JDSHYIMDG5CU4E.JPG?auth=371deecc7711f9d4813973deead7f0dd9ae4219022d1f53ac53e567eb452e32e",
+   "date": "2026-11-18T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: Deutsche Bank, demasiado pasado por explicar",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-18/las-claves-deutsche-bank-demasiado-pasado-por-explicar.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/HHS4X3BOY5NIRIFSOLUWYADTCE.jpg?auth=e82e7ddd4b3ee7dc4743f1b3f62175c414bc894cbfd6bbcea3243fa939ad45d0",
+   "date": "2026-11-18T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La geopolítica sepulta los planes estratégicos y activa los tácticos",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-18/la-geopolitica-sepulta-los-planes-estrategicos-y-activa-los-tacticos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/O6OSFCE3NZC63AEF3Z4JHODXSA.JPG?auth=f00a1fd58e04fe2451687e7211a12077217abcbe13a2721287ef20bcec74c13d",
+   "date": "2026-11-18T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Un horizonte más despejado para la eurozona",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-18/un-horizonte-mas-despejado-para-la-eurozona.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/APKUDQAKZVHPFMWPYZZCUUQC5I.jpg?auth=106cd6ac4afa6f0d30b6af0ea7675048a51ed075808eb4e8f861c5bddbd49e56",
+   "date": "2026-11-18T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Taiwán, encrucijada en la hegemonía del siglo XXI",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-18/taiwan-encrucijada-en-la-hegemonia-del-siglo-xxi.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/TCL2HS62BFMKPPCMQE4BMYRCDQ.jpg?auth=166ea568ba33205b2205d1511504f119ab2e00a8326c4477ba7798c38ac46cdd",
+   "date": "2026-11-18T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Vivo en un piso de alquiler cuya dueña ha fallecido. ¿Me pueden echar sus sobrinos antes de que acabe el año de renovación?",
+   "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-18/vivo-en-un-piso-de-alquiler-cuya-duena-ha-fallecido-me-pueden-echar-sus-sobrinos-antes-de-que-acabe-el-ano-de-renovacion.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/I4KETG5GGBAHHCAGWXUYMVU35M.JPG?auth=113ed25587c0cc094296edd3a00a26f970a5ef94e7730ab7743f467f78936568",
+   "date": "2026-11-18T04:30:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0369/live/387a8f10-e2ff-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-18T04:00:54+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Waymo pulls driverless taxis from all US freeways",
+   "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e7c/live/e9a84520-e2f5-11f1-910a-c953499d69d5.jpg",
+   "date": "2026-11-18T03:07:22+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
    "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/082e/live/14e6ac60-e2d1-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-17T22:34:41+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-18T01:18:18+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
+   "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
+   "image": "",
+   "date": "2026-11-18T00:35:31+00:00"
   },
   {
    "lang": "es",
@@ -15,7 +95,23 @@
    "title": "Nvidia bate previsiones al duplicar los ingresos y los beneficios, y defiende el poder de su tecnología",
    "link": "https://elpais.com/economia/2026-11-17/nvidia-bate-previsiones-al-disparar-sus-ingresos-un-103-y-defiende-el-poder-de-su-tecnologia-y-su-remuneracion-a-los-accionistas.html",
    "image": "https://imagenes.elpais.com/resizer/v2/6HT4YT5JMRCWTJKGLGP2ERF43Y.JPG?auth=e222737695980e512b6e33a662fac3f1818e8b98c2f723d9488f9746d2914e6c",
-   "date": "2026-11-17T21:49:21+00:00"
+   "date": "2026-11-18T00:01:24+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Europe plans to catch the next computer chip wave",
+   "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-18T00:00:24+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+   "link": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-17T23:02:12+00:00"
   },
   {
    "lang": "en",
@@ -26,12 +122,12 @@
    "date": "2026-11-17T20:04:54+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Cercanías de Madrid y Rodalies recuperan pulso tras tener las líneas paralizadas y 700.000 afectados por la huelga del ferrocarril",
-   "link": "https://elpais.com/economia/2026-11-17/mas-de-15-millones-de-viajeros-en-tren-vuelven-a-estar-pendientes-de-24-horas-de-paro-sindical.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/K5PJODWUQ5GCDAWXD434LHC7TY.jpg?auth=491e9de44fef43008daf40be44c5fc98c1f771858eff785b91a068c8181b868d",
-   "date": "2026-11-17T19:05:41+00:00"
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Government backs welfare shake-up to prevent 'lost generation'",
+   "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
+   "date": "2026-11-17T18:43:05+00:00"
   },
   {
    "lang": "en",
@@ -40,14 +136,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
    "date": "2026-11-17T18:24:21+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
-   "link": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1236/live/f4363760-e29e-11f1-a094-5fdc692f3e33.png",
-   "date": "2026-11-17T15:56:04+00:00"
   },
   {
    "lang": "en",
@@ -67,91 +155,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "How new US chip restrictions on South East Asia will hit China",
-   "link": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bfea/live/8fbafe20-e225-11f1-ae7e-97d0d3a43181.jpg",
-   "date": "2026-11-17T14:25:45+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
    "image": "",
    "date": "2026-11-17T13:40:54+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Where are the most jobs for 18-24 year-olds?",
-   "link": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca90/live/0c02f160-e1ac-11f1-8ee3-23d0d09d2796.jpg",
-   "date": "2026-11-17T12:35:53+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno elimina las retenciones del IRPF al salario mínimo para que la subida llegue íntegra desde enero",
-   "link": "https://elpais.com/economia/2026-11-17/el-gobierno-elimina-las-retenciones-del-irpf-al-salario-minimo-para-que-la-subida-llegue-integra-desde-enero.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EAWE6EFEOVGVBFPW4WPFIAUTPQ.jpg?auth=c29fa3132aeb580cb4dbf34a59b6c302384465036c8ccdb762aebf1c6ba7c9a7",
-   "date": "2026-11-17T12:26:10+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno aprueba subir el salario mínimo un 5,3% y el sueldo de los funcionarios un 4,5%",
-   "link": "https://elpais.com/economia/2026-11-17/el-gobierno-aprueba-subir-el-salario-minimo-un-53-y-el-sueldo-de-los-funcionarios-un-45.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261117/1238708_132853_video_1800.mp4",
-   "date": "2026-11-17T11:50:39+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "US government confirms investigation into tech firm Megaspeed",
-   "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
-   "date": "2026-11-17T11:17:32+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "150 años conectando el mundo: del primer cable de cobre a las redes 5G avanzadas",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-17/150-anos-conectando-el-mundo-del-primer-cable-de-cobre-a-las-redes-5g-avanzadas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/RH4JAK62XZJO7WGOYYGI6A2MMA.jpg?auth=e8879d95c58222bdae27318c56fb526c0111c5ba010c47b101a17bfdbac903fd",
-   "date": "2026-11-17T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La concentración bancaria británica llegará, pero sin prisas",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-17/la-concentracion-bancaria-britanica-llegara-pero-sin-prisas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/3LPQ7OURJLLWP26LGXS4VSAPVI.jpg?auth=2d95ad007fdca45c193e2ce3e024da3da796361ccf0c38c4cbc6d9f15a9fe03f",
-   "date": "2026-11-17T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La deuda española resiste la incertidumbre política",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-17/la-deuda-espanola-resiste-la-incertidumbre-politica.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FZUS7G5VUBEGVBX5252RM4ALK4.JPG?auth=f6e7581f348a2a95d622ab134a95817e7e99eed32cf2417f76dcc803d542e249",
-   "date": "2026-11-17T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Nadie hace vino para vender alcohol",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-17/nadie-hace-vino-para-vender-alcohol.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/XL2IOAXBJPTW4BMOGRT4HPECSE.jpg?auth=5a4df512cbfabfd76b2e6b14de793dd685839473a676b0130b4eb06d704315cb",
-   "date": "2026-11-17T04:40:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "We couldn't afford a house alone, so we bought one with strangers",
-   "link": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da1d/live/2cfb5880-e265-11f1-900c-895604014268.jpg",
-   "date": "2026-11-17T00:00:02+00:00"
   },
   {
    "lang": "en",
@@ -184,14 +192,6 @@
    "link": "https://www.cnbc.com/2026/11/13/ppi-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-13T15:44:16+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Analysis: Nvidia’s leadership crisis tests the chipmaker’s role as the ‘central bank of AI’",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-   "image": "",
-   "date": "2026-11-12T23:08:50+00:00"
   },
   {
    "lang": "en",
