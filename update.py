@@ -208,6 +208,47 @@ def save(name, items):
                                ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+
+def prerender_news():
+    """Escribe los titulares directamente en el HTML de las portadas (ES y EN),
+    para que los bots que no ejecutan JavaScript también los vean. El JS de la web
+    sigue refrescándolos al cargar."""
+    import html
+    from zoneinfo import ZoneInfo
+    root = Path(__file__).parent
+    try:
+        d = json.loads((DATA / "news.json").read_text(encoding="utf-8"))
+    except Exception as e:
+        print(f"[aviso] prerender noticias: {e}", file=sys.stderr)
+        return
+    tz = ZoneInfo("Europe/Madrid")
+    for lang, page, label in (("es", "index.html", "Actualizado"), ("en", "en/index.html", "Updated")):
+        path = root / page
+        if not path.exists():
+            continue
+        items = [i for i in d.get("items", []) if i.get("lang") == lang][:12]
+        if not items:
+            continue
+        lis = []
+        for i in items:
+            try:
+                dt = datetime.fromisoformat(i["date"]).astimezone(tz)
+                fecha = dt.strftime("%d/%m/%Y")
+            except Exception:
+                fecha = ""
+            meta = html.escape(i.get("source", "")) + (" · " + fecha if fecha else "")
+            lis.append('<li><div class="body"><a href="%s" target="_blank" rel="noopener nofollow">%s</a>'
+                       '<div class="meta">%s</div></div></li>' % (html.escape(i["link"], quote=True), html.escape(i["title"]), meta))
+        try:
+            upd = datetime.fromisoformat(d["updated"]).astimezone(tz).strftime("%d/%m/%Y %H:%M")
+        except Exception:
+            upd = ""
+        txt = path.read_text(encoding="utf-8")
+        new = re.sub(r'(<ul class="news-list" id="news-list">).*?(</ul>)', lambda m: m.group(1) + "".join(lis) + m.group(2), txt, count=1, flags=re.S)
+        new = re.sub(r'(<p class="note" id="updated">).*?(</p>)', lambda m: m.group(1) + (label + ": " + upd if upd else "") + m.group(2), new, count=1, flags=re.S)
+        if new != txt:
+            path.write_text(new, encoding="utf-8")
+
 if __name__ == "__main__":
     DATA.mkdir(exist_ok=True)
     if "--markets-only" in sys.argv:
@@ -218,4 +259,5 @@ if __name__ == "__main__":
     save("news.json", fetch_news())
     save("markets.json", fetch_markets())
     save("euribor.json", fetch_euribor())
+    prerender_news()
     print("Listo")
