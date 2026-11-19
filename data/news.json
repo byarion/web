@@ -1,13 +1,85 @@
 {
- "updated": "2026-11-18T22:24:15.232154+00:00",
+ "updated": "2026-11-19T04:43:54.977812+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Agnès Bénassy-Quéré: “El temor a una fuga de depósitos por el euro digital está fuera de lugar”",
+   "link": "https://elpais.com/economia/2026-11-19/agnes-benassy-quere-el-temor-a-una-fuga-de-depositos-por-el-euro-digital-esta-fuera-de-lugar.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/V4J43XK3ONBPVJBS5BTWYAUBAA.jpg?auth=f545b7e2623fe29008f9b47e5353ac69e327ae98be80d1fa3f6d6b65fc3c27d7",
+   "date": "2026-11-19T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Soy propietario de ocho pisos, de los que cinco están alquilados y uno vacío. ¿Soy gran tenedor? , ¿cómo se los transmito a mis hijos?",
+   "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-19/soy-propietario-de-ocho-pisos-de-los-que-cinco-estan-alquilados-y-uno-vacio-soy-gran-tenedor-como-se-los-transmito-a-mis-hijos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/2PICCLWKZVA2VC2PZMGW3NQ5F4.JPG?auth=bac8532978b5781716609c2c672a763d92260ae8d1f374a01b2d25ca19e98d1b",
+   "date": "2026-11-19T04:30:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
+   "date": "2026-11-19T02:59:06+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
+   "date": "2026-11-19T02:20:15+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
    "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
    "link": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
    "image": "https://imagenes.elpais.com/resizer/v2/6TCGBSQGXFKGLNZGXMR5ZSKEUI.jpg?auth=5d22c4d819abc6b9379e2fb8391a20ba70053a874318f224c4d2aebff82af1a6",
-   "date": "2026-11-18T21:41:11+00:00"
+   "date": "2026-11-19T00:25:13+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-19T00:00:59+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
+   "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
+   "date": "2026-11-18T23:47:46+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The seven Anthropic founders who are about to become multi-billionaires",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
+   "date": "2026-11-18T23:42:07+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-18T23:01:09+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+   "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-18T21:28:08+00:00"
   },
   {
    "lang": "es",
@@ -42,14 +114,6 @@
    "date": "2026-11-18T16:54:00+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los sindicatos UGT, CC OO y el ferroviario SCF firman la paz con Transportes en favor de reforzar la seguridad en las vías",
-   "link": "https://elpais.com/economia/2026-11-18/los-sindicatos-ugt-cc-oo-y-el-ferroviario-scf-firman-la-paz-con-transportes-en-favor-de-reforzar-la-seguridad-en-las-vias.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SWL67YOXA5DJFJXUPGWI3LA7FQ.jpg?auth=d031539d7180d1b90be3619948a18bd33351b0dc85a0a08450ba6ffec1531b6f",
-   "date": "2026-11-18T15:12:57+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
@@ -59,51 +123,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "The seven Anthropic founders who are about to become multi-billionaires",
-   "link": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg",
-   "date": "2026-11-18T13:55:14+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
-   "link": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a59/live/128bd8c0-e35b-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-18T13:17:06+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Heating bills, chocolate and cat food: What the inflation figures mean for you",
-   "link": "https://www.bbc.co.uk/news/articles/ckq6eg55n221o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f6a/live/8100d500-e345-11f1-99aa-0f40b013ad11.jpg",
-   "date": "2026-11-18T13:10:01+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
    "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
    "image": "",
    "date": "2026-11-18T07:57:37+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-   "date": "2026-11-18T06:04:21+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno entierra el registro horario pese a las promesas de aprobarlo antes de las elecciones",
-   "link": "https://elpais.com/economia/2026-11-18/el-gobierno-entierra-el-registro-horario-pese-a-las-promesas-de-aprobarlo-antes-de-las-elecciones.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/NUU7YVLFLJGXPACKLEOQ7XJGVM.jpg?auth=0a25c8670b9dc2988a2ac23e022014dbe6da2b40fc7aa6a35f2acd9d4cad36ec",
-   "date": "2026-11-18T04:45:01+00:00"
   },
   {
    "lang": "es",
@@ -131,22 +155,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new Bond",
-   "link": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/650b/live/aea40010-e348-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-18T04:00:54+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-18T01:18:18+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
    "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
@@ -160,14 +168,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c96b/live/b14b3a60-d9c8-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-18T00:00:24+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Government backs welfare shake-up to prevent 'lost generation'",
-   "link": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf5e/live/7e3d3ce0-e2b0-11f1-8226-87dfa5049e9a.jpg",
-   "date": "2026-11-17T18:43:05+00:00"
   },
   {
    "lang": "en",
