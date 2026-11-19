@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-19T14:47:08.488692+00:00",
+ "updated": "2026-11-19T22:29:31.352320+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-19T21:38:42+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+   "image": "",
+   "date": "2026-11-19T20:18:47+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -19,27 +35,11 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "El TSJPV revoca el reconocimiento como personal laboral fijo a 24 trabajadores de Lanbide",
-   "link": "https://www.naiz.eus/info/noticia/20261119/el-tsjpv-revoca-el-reconocimiento-como-personal-laboral-fijo-a-24-trabajadores-de-lanbide",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/943/news_landscape/lanbide.jpg",
-   "date": "2026-11-19T11:12:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "La luz de los gurús económicos se apaga en la política",
    "link": "https://elpais.com/economia/2026-11-19/la-luz-de-los-gurus-economicos-se-apaga-en-la-politica.html",
    "image": "https://imagenes.elpais.com/resizer/v2/PGHDO5YEQDR3IGO4T3MJNWO4WQ.jpg?auth=0d20932db0d92b6588d07b07601430d89a53789f056bb8ec878e8636d90dc7df",
    "date": "2026-11-19T06:39:56+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-19T06:15:57+00:00"
   },
   {
    "lang": "es",
@@ -164,14 +164,6 @@
   {
    "lang": "en",
    "source": "CNBC Economy",
-   "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-   "image": "",
-   "date": "2026-11-17T15:35:13+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
    "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
    "image": "",
@@ -204,18 +196,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Etxebarri, mejor restaurante del mundo en 2026",
-   "link": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/11/05/etxebarri-mejor-restaurante-mundo-2026.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938506977970.jpg",
-   "date": "2026-11-05T04:51:47+01:00"
-  },
-  {
-   "lang": "es",
-   "source": "Expansión",
-   "title": "Acesur y Dcoop ganan la puja por Deoleo, el dueño de Carbonell",
-   "link": "https://www.expansion.com/empresas/2026/11/05/acesur-dcoop-ganan-puja-deoleo-dueno-carbonell.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938351963794.jpg",
-   "date": "2026-11-05T00:33:24+01:00"
+   "title": "La nueva batalla entre OpenAI y Anthropic: atraer empresas con la IA más barata",
+   "link": "https://www.expansion.com/tecnologia/2026/11/05/nueva-batalla-openai-anthropic-atraer-empresas-ia-barata.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938347590518.png",
+   "date": "2026-11-05T00:26:32+01:00"
   },
   {
    "lang": "es",
@@ -228,10 +212,10 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "El tsunami demócrata acota el poder de Trump: de control del Capitolio al 'impeachment'",
-   "link": "https://www.expansion.com/elecciones/elecciones-estados-unidos/2026/11/05/tsunami-democrata-acota-trump-control-capitolio-impeachment.html",
-   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938335617445.jpg",
-   "date": "2026-11-05T00:06:23+01:00"
+   "title": "Los bancos venden un récord de deuda con más riesgo por tercer año consecutivo",
+   "link": "https://www.expansion.com/empresas/banca/2026/11/05/bancos-venden-record-deuda-riesgo-tercer-ano-consecutivo.html",
+   "image": "",
+   "date": "2026-11-05T00:08:01+01:00"
   },
   {
    "lang": "es",
@@ -252,18 +236,26 @@
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "Unicaja ficha a Spencer Stuart para que busque al sucesor de Sevilla",
-   "link": "https://www.expansion.com/empresas/banca/2026/11/05/unicaja-ficha-spencer-stuart-busque-sucesor-sevilla.html",
-   "image": "",
-   "date": "2026-11-05T00:00:53+01:00"
+   "title": "Álex Márquez se apunta a la nueva ronda de Momoven que capta 3,5 millones de euros",
+   "link": "https://www.expansion.com/empresas/motor/2026/11/05/alex-marquez-apunta-nueva-ronda-momoven-capta-3-5-millones-euros.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/05/17938332132015.png",
+   "date": "2026-11-05T00:00:20+01:00"
   },
   {
    "lang": "es",
    "source": "Expansión",
-   "title": "ACS negocia construir la sede mundial de Oracle por 4.000 millones",
-   "link": "https://www.expansion.com/empresas/construccion-servicios/2026/11/05/acs-negocia-construir-sede-mundial-oracle-4-000-millones.html",
-   "image": "",
-   "date": "2026-11-05T00:00:41+01:00"
+   "title": "La inflación acelera en la zona euro con la economía en frenada",
+   "link": "https://www.expansion.com/economia/2026/11/04/inflacion-acelera-zona-euro-economia-frenada.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938329194434.jpg",
+   "date": "2026-11-04T23:55:20+01:00"
+  },
+  {
+   "lang": "es",
+   "source": "Expansión",
+   "title": "El petróleo se desploma un 8,7% por la esperanza de un acuerdo de paz con Irán tras las elecciones",
+   "link": "https://www.expansion.com/economia/2026/11/04/petroleo-desploma-8-esperanza-acuerdo-paz-elecciones.html",
+   "image": "https://e00-expansion.uecdn.es/assets/multimedia/imagenes/2026/11/04/17938129688643.jpg",
+   "date": "2026-11-04T18:22:55+01:00"
   }
  ]
 }
