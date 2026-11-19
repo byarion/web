@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-19T04:43:54.977812+00:00",
+ "updated": "2026-11-19T14:47:08.488692+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Viagogo may have broken law on hidden fees, watchdog provisionally finds",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3865/live/755fe980-e407-11f1-ab35-e1af93fa5cce.jpg",
+   "date": "2026-11-19T13:35:52+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La jueza del siniestro ferroviario de Urda autoriza a Adif a reconstruir las vías en la línea Madrid-Sevilla",
+   "link": "https://elpais.com/economia/2026-11-19/la-jueza-del-siniestro-ferroviario-de-urda-autoriza-a-adif-a-reconstruir-las-vias-en-la-linea-madrid-sevilla.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/CJYH23QYONOMPKUHK2LOTV2TYA.jpg?auth=fafb8a4f1b2337fca7729fc2d1a7b948371357f2e2e4388bc4437056e75fc371",
+   "date": "2026-11-19T12:15:43+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "El TSJPV revoca el reconocimiento como personal laboral fijo a 24 trabajadores de Lanbide",
+   "link": "https://www.naiz.eus/info/noticia/20261119/el-tsjpv-revoca-el-reconocimiento-como-personal-laboral-fijo-a-24-trabajadores-de-lanbide",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/943/news_landscape/lanbide.jpg",
+   "date": "2026-11-19T11:12:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La luz de los gurús económicos se apaga en la política",
+   "link": "https://elpais.com/economia/2026-11-19/la-luz-de-los-gurus-economicos-se-apaga-en-la-politica.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PGHDO5YEQDR3IGO4T3MJNWO4WQ.jpg?auth=0d20932db0d92b6588d07b07601430d89a53789f056bb8ec878e8636d90dc7df",
+   "date": "2026-11-19T06:39:56+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-19T06:15:57+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Menos consumo, trabas laborales y más desigualdad: la crisis de la vivienda amenaza con enfriar el auge económico español",
+   "link": "https://elpais.com/economia/2026-11-19/menos-consumo-trabas-laborales-y-mas-desigualdad-la-crisis-de-la-vivienda-amenaza-con-enfriar-el-auge-economico-espanol.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ZJOJWRVVMFRLRGDWB77UEI5NVU.jpg?auth=93804f05535b7818f496ec97d08d13eddce87a84888c833ddf71f33a42d06ea8",
+   "date": "2026-11-19T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Ante un agujero financiero gigantesco, Alemania pierde el sueño joven de ascenso generacional",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-19/ante-un-agujero-financiero-gigantesco-alemania-pierde-el-sueno-joven-de-ascenso-generacional.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/VO4OE52AOJKGTPJEXO2VWAZGKI.jpg?auth=56528e69d6b23f69b2ae3a175ed28a7da9790aefc20e81d7b6e61f95b2dd7858",
+   "date": "2026-11-19T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Cómo evitar que la ‘economía de la seguridad’ asfixie el crecimiento",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-19/como-evitar-que-la-economia-de-la-seguridad-asfixie-el-crecimiento.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/KHM4LPA52FC3TNDEMI2YDKJ5AE.JPG?auth=f65f56461d9a5011a43a66703f55620b75fa59d0602e002f17c6b8d5f4b1598f",
+   "date": "2026-11-19T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: Nvidia se atreve a pensar en un futuro sin su gran líder",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-19/las-claves-nvidia-se-atreve-a-pensar-en-un-futuro-sin-su-gran-lider.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/CYRJWZLUS5KXDMU7DMGJRZQQXQ.jpg?auth=c021dc132e12546402e92920c07e529e5261f1373cc56405d501dc9dd0da9083",
+   "date": "2026-11-19T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El acceso a la vivienda, punto débil de la economía",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-19/el-punto-debil-del-acceso-a-la-vivienda.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/43M2A3K3DBHC5EOFUXGP33DBCY.JPG?auth=0d0be75b41d8ac05a1c9de75a079aa6c61422abe1ccb642a45281c3ac8c4fddf",
+   "date": "2026-11-19T04:40:00+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
@@ -10,17 +90,9 @@
    "date": "2026-11-19T04:30:01+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Soy propietario de ocho pisos, de los que cinco están alquilados y uno vacío. ¿Soy gran tenedor? , ¿cómo se los transmito a mis hijos?",
-   "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-19/soy-propietario-de-ocho-pisos-de-los-que-cinco-estan-alquilados-y-uno-vacio-soy-gran-tenedor-como-se-los-transmito-a-mis-hijos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/2PICCLWKZVA2VC2PZMGW3NQ5F4.JPG?auth=bac8532978b5781716609c2c672a763d92260ae8d1f374a01b2d25ca19e98d1b",
-   "date": "2026-11-19T04:30:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+   "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
    "link": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg",
    "date": "2026-11-19T02:59:06+00:00"
@@ -28,34 +100,18 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg",
-   "date": "2026-11-19T02:20:15+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Anthropic desbanca a SpaceX como la mayor salida a Bolsa de la historia y fija su valoración en 1,5 billones de dólares",
-   "link": "https://elpais.com/economia/2026-11-18/anthropic-desbanca-a-spacex-y-protagoniza-la-mayor-salida-a-bolsa-de-la-historia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6TCGBSQGXFKGLNZGXMR5ZSKEUI.jpg?auth=5d22c4d819abc6b9379e2fb8391a20ba70053a874318f224c4d2aebff82af1a6",
-   "date": "2026-11-19T00:25:13+00:00"
+   "title": "Crew unaware of risks before Mike Lynch's yacht Bayesian sank, say investigators",
+   "link": "https://www.bbc.co.uk/news/articles/c6e9kn15z9d7o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aec/live/3ca33b80-6077-11ef-aea1-e764981585c4.jpg",
+   "date": "2026-11-19T00:05:31+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
    "link": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/decb/live/a6ef9570-e364-11f1-99a1-253766e7ad8b.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b62/live/ccbeb3f0-e407-11f1-a094-5fdc692f3e33.jpg",
    "date": "2026-11-19T00:00:59+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-   "link": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cf8/live/3bc03860-e3a8-11f1-ae87-b7d1078e8448.jpg",
-   "date": "2026-11-18T23:47:46+00:00"
   },
   {
    "lang": "en",
@@ -68,50 +124,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Gilts v kilts: What is happening with Scottish government bonds?",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy8pgj2z8vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bef5/live/7cbd5260-e35a-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-18T23:01:09+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
+   "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
    "link": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcc1/live/0bb55690-e36d-11f1-99a1-253766e7ad8b.jpg",
    "date": "2026-11-18T21:28:08+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Itxaso (PSE) reprocha al PP que sus políticas de vivienda acabaron en «activos tóxicos»",
-   "link": "https://www.naiz.eus/info/noticia/20261118/el-pse-sigue-centrado-en-vivienda-itxaso-reprocha-al-pp-sus-politicas",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/706/news_landscape/itxaso.jpg",
-   "date": "2026-11-18T18:23:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Eurogrupo amplía el plazo para presentar candidatos a la dirección del BCE con Hernández de Cos como favorito a la presidencia",
-   "link": "https://elpais.com/economia/2026-11-18/el-eurogrupo-amplia-el-plazo-para-presentar-candidatos-a-la-direccion-del-bce-con-hernandez-de-cos-como-favorito-a-la-presidencia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SGZTEY7ZBJEWHB3T7XRDHQNUGQ.jpg?auth=7d724f184819def71ea6ebf695b5912d913f4d06339b61a122f0c49ed61a7a44",
-   "date": "2026-11-18T18:15:45+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El arte del candidato: prometer sin restricciones",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-18/el-arte-del-candidato-prometer-sin-restricciones.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/4BRPYMCI7RD6LACCYH6YUESJA4.jpg?auth=f0c8f05a2e07afd8d3e85fe15b6a5e9446157d34f4a5b066556e526d0811984a",
-   "date": "2026-11-18T17:50:21+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "LAB desconvoca la huelga de técnicos en Nafarroa tras la disposición patronal a negociar",
-   "link": "https://www.naiz.eus/info/noticia/20261118/lab-desconvoca-la-huelga-de-tecnicos-en-nafarroa-tras-la-disposicion-patronal-a-negociar",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/388/699/news_landscape/teknikariok.jpg",
-   "date": "2026-11-18T16:54:00+00:00"
   },
   {
    "lang": "en",
@@ -128,30 +144,6 @@
    "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
    "image": "",
    "date": "2026-11-18T07:57:37+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: Deutsche Bank, demasiado pasado por explicar",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-18/las-claves-deutsche-bank-demasiado-pasado-por-explicar.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/HHS4X3BOY5NIRIFSOLUWYADTCE.jpg?auth=e82e7ddd4b3ee7dc4743f1b3f62175c414bc894cbfd6bbcea3243fa939ad45d0",
-   "date": "2026-11-18T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La geopolítica sepulta los planes estratégicos y activa los tácticos",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-18/la-geopolitica-sepulta-los-planes-estrategicos-y-activa-los-tacticos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/O6OSFCE3NZC63AEF3Z4JHODXSA.JPG?auth=f00a1fd58e04fe2451687e7211a12077217abcbe13a2721287ef20bcec74c13d",
-   "date": "2026-11-18T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Un horizonte más despejado para la eurozona",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-18/un-horizonte-mas-despejado-para-la-eurozona.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/APKUDQAKZVHPFMWPYZZCUUQC5I.jpg?auth=106cd6ac4afa6f0d30b6af0ea7675048a51ed075808eb4e8f861c5bddbd49e56",
-   "date": "2026-11-18T04:40:00+00:00"
   },
   {
    "lang": "en",
