@@ -15,7 +15,7 @@ UA = {"User-Agent": "Mozilla/5.0 (compatible; OndexiBot/1.0)"}
 # mezclan deportes, cultura, etc., solo se guardan los titulares que hablan de economía.
 FEEDS = [
     ("es", "El País", "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada", False),
-    ("es", "Expansión", "https://e00-expansion.uecdn.es/rss/portada.xml", False),
+    ("es", "Expansión", "https://e00-expansion.uecdn.es/rss/portada.xml", True),
     ("es", "Naiz", "https://www.naiz.eus/es/rss/news.rss", True),
     ("en", "BBC Business", "https://feeds.bbci.co.uk/news/business/rss.xml", False),
     ("en", "CNBC Economy", "https://www.cnbc.com/id/20910258/device/rss/rss.html", False),
@@ -188,7 +188,7 @@ def fetch_euribor():
     except Exception as e:
         print(f"[aviso] Euríbor diario falló: {e}", file=sys.stderr)
     try:
-        m = series("M", 12)
+        m = series("M", 60)
         if m:
             out["monthly"] = [{"month": t, "value": v} for t, v in m]
             if "latest" not in out:
@@ -209,10 +209,15 @@ def save(name, items):
 
 
 
+PRERENDER_NEWS = False  # Noticias ocultas de la web: poner True para volver a escribirlas en el HTML
+
+
 def prerender_news():
     """Escribe los titulares directamente en el HTML de las portadas (ES y EN),
     para que los bots que no ejecutan JavaScript también los vean. El JS de la web
     sigue refrescándolos al cargar."""
+    if not PRERENDER_NEWS:
+        return
     import html
     from zoneinfo import ZoneInfo
     root = Path(__file__).parent
@@ -226,7 +231,7 @@ def prerender_news():
         path = root / page
         if not path.exists():
             continue
-        items = [i for i in d.get("items", []) if i.get("lang") == lang][:12]
+        items = [i for i in d.get("items", []) if i.get("lang") == lang][:6]
         if not items:
             continue
         lis = []
