@@ -1,6 +1,62 @@
 {
- "updated": "2026-11-20T14:28:22.087912+00:00",
+ "updated": "2026-11-20T22:00:29.293774+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+   "image": "",
+   "date": "2026-11-20T21:07:08+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-20T20:54:12+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+   "date": "2026-11-20T20:00:53+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El acuerdo francoalemán para la dirección del BCE coloca a Hernández de Cos a un paso de la presidencia",
+   "link": "https://elpais.com/economia/2026-11-20/hernandez-de-cos-roza-la-presidencia-del-bce-tras-conocerse-los-candidatos-de-francia-y-alemania-a-la-direccion.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/6C3YDLSKXNC2JDIDGOYLY3CTEA.jpg?auth=3363073cfe7bdfa413cf097426f58dc684a7abe9eb1707ee577a768581bc0855",
+   "date": "2026-11-20T16:42:05+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+   "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
+   "date": "2026-11-20T16:41:52+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Airbnb's divisive new house rules come into force",
+   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3342/live/1c7d3390-e4ca-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-20T15:48:35+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "La UE y Reino Unido estrechan lazos en energía y comercio pese a mantener flancos abiertos",
+   "link": "https://www.naiz.eus/info/noticia/20261120/la-ue-y-reino-unido-estrechan-lazos-en-energia-y-comercio-pese-a-mantener-flancos-abiertos",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/509/news_landscape/EuropaPress_7929002_handout_20_november_2026_belgium_brussels_uk_prime_minister_andy_burnham_is.jpg",
+   "date": "2026-11-20T14:33:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -18,22 +74,6 @@
    "date": "2026-11-20T12:31:22+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "El Instituto Navarro de Inversiones adquiere una participación del 5,1% en Grupo Azkoyen",
-   "link": "https://www.naiz.eus/info/noticia/20261120/el-instituto-navarro-de-inversiones-adquiere-una-participacion-del-5-1-en-grupo-azkoyen",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/337/news_landscape/Azkoyen.jpg",
-   "date": "2026-11-20T10:46:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Airbnb's divisive new house rules come into force",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3342/live/1c7d3390-e4ca-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-20T09:55:20+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
@@ -48,14 +88,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-20T07:32:19+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Mouldy, infested housing for vulnerable people sold as ethical investments abroad",
-   "link": "https://www.bbc.co.uk/news/articles/c6evre8j12vno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c60/live/a3312140-e43d-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-20T06:00:33+00:00"
   },
   {
    "lang": "es",
@@ -106,14 +138,6 @@
    "date": "2026-11-20T04:30:01+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Mi comunidad de propietarios se niega a asumir el coste de reparación de unas vigas centenarias. ¿Qué puedo hacer?",
-   "link": "https://elpais.com/economia/vivienda/consultorio/2026-11-20/mi-comunidad-de-propietarios-se-niega-a-asumir-el-coste-de-reparacion-de-unas-vigas-centenarias-que-puedo-hacer.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7WYRSE3E4JBLXLZGANN5ZATHUY.jpg?auth=fbece04c2fc92bbb634f394756336db7c77df325f767829bd56fae5a3f75d9ef",
-   "date": "2026-11-20T04:30:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
@@ -128,30 +152,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
    "date": "2026-11-20T00:08:37+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-   "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3db/live/57d6aa20-d769-11f1-a956-ff083523ef77.jpg",
-   "date": "2026-11-20T00:02:07+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b7d/live/94082910-e452-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-19T23:33:51+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-   "image": "",
-   "date": "2026-11-19T20:18:47+00:00"
   },
   {
    "lang": "en",
