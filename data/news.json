@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T13:47:57.303475+00:00",
+ "updated": "2026-11-21T20:41:56.380534+00:00",
  "items": [
   {
    "lang": "en",
@@ -7,15 +7,31 @@
    "title": "Tech outages are fueling a new doomsday economy",
    "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
    "image": "",
-   "date": "2026-11-21T13:00:01+00:00"
+   "date": "2026-11-21T15:04:56+00:00"
   },
   {
    "lang": "es",
    "source": "El País",
-   "title": "Chema Alonso, el ‘ex hacker’ de Telefónica, ficha por Meta (Facebook) y abandona Cloudflare",
-   "link": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GGLE6CADQZCN3GMBW3FAON7UWU.png?auth=af88fb2b5a975ce33b50291398128a4984a1081e91a2383670de7acabc457674",
-   "date": "2026-11-21T11:28:22+00:00"
+   "title": "Miles de personas marchan en Barcelona por la educación pública en vísperas a una nueva huelga",
+   "link": "https://elpais.com/espana/catalunya/2026-11-21/miles-de-personas-marchan-en-barcelona-por-la-educacion-publica-en-visperas-a-una-nueva-huelga.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/5S7MC776PZEFBIFZN3MEMLEBGI.jfif?auth=09a942f494a91709b786f976b53652cb9bf1e74358c6ad34658c47c8f26b2586",
+   "date": "2026-11-21T13:54:42+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Los pensionistas advierten ante futuros recortes que «no pasaron en 2018 y no pasarán en 2026»",
+   "link": "https://www.naiz.eus/info/noticia/20261121/los-pensionistas-advierten-ante-futuros-recortes-que-no-pasaron-en-2018-y-no-pasaran-en-2026",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/751/news_landscape/pensionistak.jpg",
+   "date": "2026-11-21T13:45:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
+   "link": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/6BIZQBAOXZIKRO6BAUUR2UIWQA.jpg?auth=9cbf6424a537eb6bc7c7c425a2e116a050027670d7b9455a0b78f71da01f25af",
+   "date": "2026-11-21T12:40:45+00:00"
   },
   {
    "lang": "es",
@@ -24,6 +40,14 @@
    "link": "https://www.naiz.eus/info/noticia/20261121/sanchez-anuncia-la-prorroga-del-impuesto-a-la-banca-en-2027-y-destinara-lo-recaudado-a-vivienda",
    "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/725/news_landscape/sanchez.jpg",
    "date": "2026-11-21T09:09:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "«Si gana la derecha, se van a cargar el sistema público de pensiones»",
+   "link": "https://www.naiz.eus/info/noticia/20261121/el-sistema-publico-de-pensiones-se-lo-van-a-cargar",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/314/news_landscape/Elma.jpg",
+   "date": "2026-11-21T05:24:00+00:00"
   },
   {
    "lang": "es",
@@ -60,9 +84,9 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "El escándalo sexual en Nvidia desnuda los puntos flacos de toda la industria de la IA",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-21/vale-todo-en-la-industria-de-la-ia-los-amorios-de-huang-no-son-el-unico-problema-de-nvidia.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GZCKZQIDWFAPHAHXHHH6AK3SZU.jpg?auth=79ac59602a5908a37ce5cc55a9b8a0aca657fa1a6ec305b4ea8c78de0a930dda",
+   "title": "Anthropic y las tecnológicas como signo de los tiempos",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-21/anthropic-y-las-tecnologicas-como-signo-de-los-tiempos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/MUD4LIPY2ZILRMC6JLRZLH2YJQ.jpg?auth=786b570323f4051d5336435459e899d521caf1548607028dd3f9ea80e9cc496b",
    "date": "2026-11-21T04:40:00+00:00"
   },
   {
@@ -72,14 +96,6 @@
    "link": "https://elpais.com/economia/negocios/2026-11-21/los-tics-del-dinero-negro-aun-manchan-el-ladrillo-hagamos-parte-de-la-compra-del-piso-en-efectivo-20000-euros-o-30000-lo-que-veamos.html",
    "image": "https://imagenes.elpais.com/resizer/v2/PINNLTAROJB7FOWZUDVM7RJOAM.jpg?auth=d8a2b6219328bdc0f4eb78320c1e18f6bf4fbae45339179e333d9b0d8899ea30",
    "date": "2026-11-21T04:30:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "«Si gana la derecha, se van a cargar el sistema público de pensiones»",
-   "link": "https://www.naiz.eus/info/noticia/20261121/el-sistema-publico-de-pensiones-se-lo-van-a-cargar",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/314/news_landscape/Elma.jpg",
-   "date": "2026-11-21T04:24:00+00:00"
   },
   {
    "lang": "en",
@@ -120,14 +136,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
    "date": "2026-11-20T17:49:48+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El acuerdo francoalemán para la dirección del BCE coloca a Hernández de Cos a un paso de la presidencia",
-   "link": "https://elpais.com/economia/2026-11-20/hernandez-de-cos-roza-la-presidencia-del-bce-tras-conocerse-los-candidatos-de-francia-y-alemania-a-la-direccion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6C3YDLSKXNC2JDIDGOYLY3CTEA.jpg?auth=3363073cfe7bdfa413cf097426f58dc684a7abe9eb1707ee577a768581bc0855",
-   "date": "2026-11-20T16:42:05+00:00"
   },
   {
    "lang": "en",
