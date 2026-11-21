@@ -1,13 +1,85 @@
 {
- "updated": "2026-11-21T04:28:39.678586+00:00",
+ "updated": "2026-11-21T13:47:57.303475+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Tech outages are fueling a new doomsday economy",
+   "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
+   "image": "",
+   "date": "2026-11-21T13:00:01+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
-   "title": "Botín, Galán o Torres no encajan en sus propias empresas: el buen gobierno que viene",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-21/botin-galan-o-torres-no-encajan-en-sus-empresas-la-paradoja-del-buen-gobierno.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/BJQFDGZFEBGS7JL6CS7UX3UKFI.jpg?auth=6f07a7929e9bcb9bb207b7a013d3ded3d841c35aeedfbf83573f5b3a19356816",
-   "date": "2026-11-21T04:15:00+00:00"
+   "title": "Chema Alonso, el ‘ex hacker’ de Telefónica, ficha por Meta (Facebook) y abandona Cloudflare",
+   "link": "https://cincodias.elpais.com/companias/2026-11-21/chema-alonso-el-ex-hacker-de-telefonica-ficha-por-meta-facebook-y-abandona-cloudflare.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GGLE6CADQZCN3GMBW3FAON7UWU.png?auth=af88fb2b5a975ce33b50291398128a4984a1081e91a2383670de7acabc457674",
+   "date": "2026-11-21T11:28:22+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Sánchez anuncia la prórroga del impuesto a la banca en 2027 y destinará lo recaudado a vivienda",
+   "link": "https://www.naiz.eus/info/noticia/20261121/sanchez-anuncia-la-prorroga-del-impuesto-a-la-banca-en-2027-y-destinara-lo-recaudado-a-vivienda",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/725/news_landscape/sanchez.jpg",
+   "date": "2026-11-21T09:09:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Guía práctica para sobrevivir a un fallo tecnológico",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-21/guia-practica-para-sobrevivir-a-un-fallo-tecnologico.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/MLTE6F4D6VODNF56XTJILI2C5I.jpg?auth=4eb84ad8cb28714f69f3753a2e97e7e7415127c87449f6104a3e635be8f6c5f8",
+   "date": "2026-11-21T04:46:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La crisis de la vivienda golpea más fuerte a los inmigrantes: “Soñamos con lo mínimo”",
+   "link": "https://elpais.com/economia/vivienda/2026-11-21/la-crisis-de-la-vivienda-golpea-mas-fuerte-a-los-inmigrantes-sonamos-con-lo-minimo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ZKXC7FDAIBD6JADDB65HWECGRA.jpg?auth=69b10c53677ae9e97cbee3f1ad6fe7771ecac1e7a5718b9f5c3ee8a8dde72cb7",
+   "date": "2026-11-21T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El escudo social, de Rajoy a Sánchez",
+   "link": "https://elpais.com/economia/2026-11-21/el-escudo-social-de-rajoy-a-sanchez.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/KRF56MU3INPZ5H5NSIUCCQ3HDE.jpg?auth=0589c5da73a54884397ebb94a5d28b329e53055a64826b966fa37fea3aa0246c",
+   "date": "2026-11-21T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La gente quiere volver a hablar de impuestos",
+   "link": "https://elpais.com/economia/2026-11-21/la-gente-quiere-volver-a-hablar-de-impuestos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GUW7IOZ5QBLK5FEPHO3IBKWHO4.jpg?auth=3c660c4f666ade8d7c390bb4362c4755ecb2e83233c6a7f2af7d9610e699b1e1",
+   "date": "2026-11-21T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El escándalo sexual en Nvidia desnuda los puntos flacos de toda la industria de la IA",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-21/vale-todo-en-la-industria-de-la-ia-los-amorios-de-huang-no-son-el-unico-problema-de-nvidia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GZCKZQIDWFAPHAHXHHH6AK3SZU.jpg?auth=79ac59602a5908a37ce5cc55a9b8a0aca657fa1a6ec305b4ea8c78de0a930dda",
+   "date": "2026-11-21T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los tics del dinero negro aún manchan el ladrillo: “Hagamos parte de la compra del piso en efectivo. 20.000 euros o 30.000, lo que veamos”",
+   "link": "https://elpais.com/economia/negocios/2026-11-21/los-tics-del-dinero-negro-aun-manchan-el-ladrillo-hagamos-parte-de-la-compra-del-piso-en-efectivo-20000-euros-o-30000-lo-que-veamos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PINNLTAROJB7FOWZUDVM7RJOAM.jpg?auth=d8a2b6219328bdc0f4eb78320c1e18f6bf4fbae45339179e333d9b0d8899ea30",
+   "date": "2026-11-21T04:30:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "«Si gana la derecha, se van a cargar el sistema público de pensiones»",
+   "link": "https://www.naiz.eus/info/noticia/20261121/el-sistema-publico-de-pensiones-se-lo-van-a-cargar",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/314/news_landscape/Elma.jpg",
+   "date": "2026-11-21T04:24:00+00:00"
   },
   {
    "lang": "en",
@@ -66,14 +138,6 @@
    "date": "2026-11-20T16:41:52+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Transportes confía en que la línea Madrid-Sevilla en Urda se repare en unas dos semanas",
-   "link": "https://elpais.com/economia/2026-11-20/transportes-confia-en-que-la-linea-madrid-sevilla-en-urda-se-repare-en-unas-dos-semanas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FFCC25XOXVEZZH456CNY7BWUPI.jpg?auth=4cea5366e353942da13aa7125381de665b2db81db3c624c23aded8de7dcc5404",
-   "date": "2026-11-20T12:31:22+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
@@ -88,46 +152,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
    "date": "2026-11-20T07:32:19+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las rentas más altas acaparan tres cuartas partes de las ventajas fiscales al alquiler de vivienda",
-   "link": "https://elpais.com/economia/2026-11-20/las-rentas-mas-altas-acaparan-tres-cuartas-partes-de-las-ventajas-fiscales-al-alquiler-de-vivienda.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/KZUJR5IV6ZA4PMQ5DCNMEL6KKM.jpg?auth=16d5809007f829f7f5ec0caa2ba4c71eb207f3364e9fae8ac4ff64379182f7a8",
-   "date": "2026-11-20T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El problema de la despoblación, escondido por los grandes partidos",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-20/el-problema-de-la-despoblacion-escondido-por-los-grandes-partidos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7HRTHEAEFRBUHKLY7NAO37QNUQ.jpg?auth=02b63d53a4ec0b4bf1c9e38e5fecf2c8b8358b8f5fbf17d664d840ebd1cda289",
-   "date": "2026-11-20T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: Alemania asume que Orcel tiene las de ganar en la compra de Commerzbank",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-20/las-claves-alemania-asume-que-orcel-tiene-las-de-ganar-en-la-compra-de-commerzbank.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CY7AJJUE6JKBXMADGQSXUDQQHE.jpg?auth=299bfd4ef2a75ca9a954896e9802ba8b04635cb73ef7b5c5fce670049a3b41e3",
-   "date": "2026-11-20T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La euforia por la OPV de Anthropic tiene su lógica",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-20/la-euforia-por-la-opv-de-anthropic-tiene-su-logica.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EO7SYHPVBRNSDCVKWEXP7YAF5Y.jpg?auth=5e77f627907d8626d22b24d5a31b3d6708e3c99ca6c32b91e0f7a782127e3d45",
-   "date": "2026-11-20T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La histórica OPV de Anthropic deja de lado a los inversores españoles: “Nunca nos llega nada de papel”",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-20/la-historica-opv-de-anthropic-deja-de-lado-a-los-inversores-espanoles-nunca-nos-llega-nada-de-papel.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/KDLLSCW2WBLQJBTXA4FFZWILM4.jpg?auth=061e89554a577b7aa6b1a3207f8541d0b21f92679f21f1f932b53eada6dd77f1",
-   "date": "2026-11-20T04:30:01+00:00"
   },
   {
    "lang": "en",
@@ -184,14 +208,6 @@
    "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
    "image": "",
    "date": "2026-11-16T02:56:24+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "AI risks are the biggest threat to the financial system, Fed survey finds",
-   "link": "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html",
-   "image": "",
-   "date": "2026-11-13T21:18:30+00:00"
   },
   {
    "lang": "es",
