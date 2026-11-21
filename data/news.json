@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-20T22:00:29.293774+00:00",
+ "updated": "2026-11-21T04:28:39.678586+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Botín, Galán o Torres no encajan en sus propias empresas: el buen gobierno que viene",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-21/botin-galan-o-torres-no-encajan-en-sus-empresas-la-paradoja-del-buen-gobierno.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BJQFDGZFEBGS7JL6CS7UX3UKFI.jpg?auth=6f07a7929e9bcb9bb207b7a013d3ded3d841c35aeedfbf83573f5b3a19356816",
+   "date": "2026-11-21T04:15:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-20T22:53:24+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
+   "date": "2026-11-20T22:42:47+00:00"
+  },
   {
    "lang": "en",
    "source": "CNBC Economy",
@@ -20,10 +44,10 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-   "link": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg",
-   "date": "2026-11-20T20:00:53+00:00"
+   "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+   "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-20T17:49:48+00:00"
   },
   {
    "lang": "es",
@@ -40,30 +64,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/fa851d90-e4fe-11f1-a8e4-b1e12a49db15.jpg",
    "date": "2026-11-20T16:41:52+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Airbnb's divisive new house rules come into force",
-   "link": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3342/live/1c7d3390-e4ca-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-20T15:48:35+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "La UE y Reino Unido estrechan lazos en energía y comercio pese a mantener flancos abiertos",
-   "link": "https://www.naiz.eus/info/noticia/20261120/la-ue-y-reino-unido-estrechan-lazos-en-energia-y-comercio-pese-a-mantener-flancos-abiertos",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/509/news_landscape/EuropaPress_7929002_handout_20_november_2026_belgium_brussels_uk_prime_minister_andy_burnham_is.jpg",
-   "date": "2026-11-20T14:33:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "GTA 6 drives spike in download demand, as estimated sales top $2.3bn",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-20T13:08:30+00:00"
   },
   {
    "lang": "es",
@@ -119,14 +119,6 @@
    "title": "La euforia por la OPV de Anthropic tiene su lógica",
    "link": "https://cincodias.elpais.com/opinion/2026-11-20/la-euforia-por-la-opv-de-anthropic-tiene-su-logica.html",
    "image": "https://imagenes.elpais.com/resizer/v2/EO7SYHPVBRNSDCVKWEXP7YAF5Y.jpg?auth=5e77f627907d8626d22b24d5a31b3d6708e3c99ca6c32b91e0f7a782127e3d45",
-   "date": "2026-11-20T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La brecha bursátil transatlántica deja de ser una montaña",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-20/la-brecha-bursatil-transatlantica-deja-de-ser-una-montana.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/V45CHVH7PJJFVNYJMVWDXKRQHE.jpg?auth=aa1e8c1a2c3de32ba2fe477ccbb56ca31b4dd04ee047d3983d3f9ffaa2edbdca",
    "date": "2026-11-20T04:40:00+00:00"
   },
   {

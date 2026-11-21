@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T22:00:30.773743+00:00",
+ "updated": "2026-11-21T04:28:40.436166+00:00",
  "items": [
   {
    "name": "Ibex 35",
@@ -47,43 +47,43 @@
    "name": "Nikkei 225 (Japón)",
    "name_en": "Nikkei 225 (Japan)",
    "price": 56436.65,
-   "change": -4.384011452913708
+   "change": -5.059468180445975
   },
   {
    "name": "Oro (USD)",
    "name_en": "Gold (USD)",
-   "price": 3533.7,
-   "change": -4.118844118844124
+   "price": 3539.0,
+   "change": -3.9750373083706414
   },
   {
    "name": "Petróleo Brent (USD)",
    "name_en": "Brent crude (USD)",
-   "price": 89.83,
-   "change": -2.3374682305570116
+   "price": 89.95,
+   "change": -2.2070050911566597
   },
   {
    "name": "EUR/USD",
    "name_en": "EUR/USD",
-   "price": 1.0971,
-   "change": -0.00921516863882187
+   "price": 1.0975,
+   "change": 0.0272412290756436
   },
   {
    "name": "Bitcoin (EUR)",
    "name_en": "Bitcoin (EUR)",
-   "price": 53747,
-   "change": -4.137000240810239
+   "price": 50797,
+   "change": -9.472769449973475
   },
   {
    "name": "Ethereum (EUR)",
    "name_en": "Ethereum (EUR)",
-   "price": 1474.55,
-   "change": -7.063815132645146
+   "price": 1411.79,
+   "change": -10.363696860765439
   },
   {
    "name": "Solana (EUR)",
    "name_en": "Solana (EUR)",
-   "price": 62.87,
-   "change": -4.456568256458554
+   "price": 59.52,
+   "change": -9.680710935601583
   }
  ]
 }
