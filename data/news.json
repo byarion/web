@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-22T00:45:13.417309+00:00",
+ "updated": "2026-11-22T10:26:13.399471+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "MP criticises Guernsey and Jersey company ownership register plans",
+   "link": "https://www.bbc.co.uk/news/articles/cqkgmy2nxy4lo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2875/live/5aa002d0-e4dc-11f1-9cc5-e9713e77fd78.jpg",
+   "date": "2026-11-22T07:22:05+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+   "date": "2026-11-22T07:12:41+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "“Tenemos el mejor candidato”: así lanzó España la carrera por la presidencia del BCE",
+   "link": "https://elpais.com/economia/2026-11-22/tenemos-el-mejor-candidato-asi-lanzo-espana-la-carrera-por-la-presidencia-del-bce.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/XETS57LMEJAZDMRIXLNNMVAJTA.jpg?auth=e9849b3439941eacc1547a10d5f77ee664c4cd3223b652200b0574bd47c78dba",
+   "date": "2026-11-22T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los fallos en los sistemas antiblanqueo ponen a Revolut y otros neobancos en el punto de mira",
+   "link": "https://elpais.com/economia/2026-11-22/los-fallos-en-los-sistemas-antiblanqueo-ponen-a-revolut-y-otros-neobancos-en-el-punto-de-mira.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/5KTGX5ROYBC2FJE36T3IZOKNXA.jpg?auth=3e2a342d746a14a33877a4955e5b0dd6477b983c7c03a7127d8f88d822dbbc0b",
+   "date": "2026-11-22T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Economistas e intelectuales denuncian en París la amenaza de la oligarquía internacional para las democracias",
+   "link": "https://elpais.com/economia/2026-11-22/economistas-e-intelectuales-denuncian-en-una-cumbre-en-paris-la-amenaza-de-la-oligarquia-internacional-para-las-democracias.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/NT6VETCSVRPMJDIUELLRDOC5TU.jpg?auth=8c7d9eee50b174b1af6d82040cf211080efa4d04e797902a31337b757c57335c",
+   "date": "2026-11-22T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Si hubiéramos tenido Presupuestos Generales",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-22/si-hubieramos-tenido-presupuestos-generales.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BWIFGFB33ZG2DDWL4AITRB74PU.jpg?auth=7bb554c4f7108c119190dfbde0b14e1d19ad7830fad508cc7471fe3c14fe56b1",
+   "date": "2026-11-22T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Christian Sewing, el aficionado al tenis que pelea otro revés para su banco",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-22/christian-sewing-el-aficionado-al-tenis-que-pelea-otro-reves-para-su-banco.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/G6A4G44SMJCGHMXB7INH332CZM.jpg?auth=7b628da3c37b930bec92e2e32be1c03757804130298203bed7857a84f0473dce",
+   "date": "2026-11-22T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: el largo corte del trayecto en tren Madrid-Sevilla es motivo para la reflexión",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-22/las-claves-el-largo-corte-del-trayecto-en-tren-madrid-sevilla-es-motivo-para-la-reflexion.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/4NLEANCQSJGJBGW6L5AVM5V7TQ.jpg?auth=332828fb79b32f5945b5db630cc0d315790293878a84b0b74d6eb17af3a25b1b",
+   "date": "2026-11-22T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Crisis de la vivienda, desigualdad y crecimiento",
+   "link": "https://elpais.com/economia/negocios/2026-11-22/crisis-de-la-vivienda-desigualdad-y-crecimiento.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/B6TFZ6ADP5FR7O5KD2YVH6FDXU.jpg?auth=093bd733c16d48d97f3924b9aa35618144a9a8ea037b2931721b007ee8f84640",
+   "date": "2026-11-22T04:40:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Employers are being asked to give interview feedback - here's what applicants want",
+   "link": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb80/live/784ad260-e4e1-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-22T00:04:07+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Multinacionales de pueblo: los pequeños municipios que ganaron la lotería con Zara, Ikea, Lego o Adidas",
+   "link": "https://elpais.com/economia/negocios/2026-11-21/multinacionales-de-pueblo-cuando-a-un-pequeno-municipio-le-toca-la-loteria.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/5OK7O3KWEBB7NEBL2QWCSXGO6U.JPG?auth=6505ff8be3e33a3d22b628d10557fc11684be9a11cd9ac8cf34f116c7f0d33ee",
+   "date": "2026-11-21T16:45:00+00:00"
+  },
   {
    "lang": "en",
    "source": "CNBC Economy",
@@ -10,92 +98,12 @@
    "date": "2026-11-21T15:04:56+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Miles de personas marchan en Barcelona por la educación pública en vísperas a una nueva huelga",
-   "link": "https://elpais.com/espana/catalunya/2026-11-21/miles-de-personas-marchan-en-barcelona-por-la-educacion-publica-en-visperas-a-una-nueva-huelga.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/5S7MC776PZEFBIFZN3MEMLEBGI.jfif?auth=09a942f494a91709b786f976b53652cb9bf1e74358c6ad34658c47c8f26b2586",
-   "date": "2026-11-21T13:54:42+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Los pensionistas advierten ante futuros recortes que «no pasaron en 2018 y no pasarán en 2026»",
-   "link": "https://www.naiz.eus/info/noticia/20261121/los-pensionistas-advierten-ante-futuros-recortes-que-no-pasaron-en-2018-y-no-pasaran-en-2026",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/751/news_landscape/pensionistak.jpg",
-   "date": "2026-11-21T13:45:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La UE plantea una tasa digital para financiar los próximos presupuestos europeos y reducir los recortes",
-   "link": "https://elpais.com/economia/2026-11-21/la-ue-plantea-una-tasa-digital-para-financiar-los-proximos-presupuestos-europeos-y-reducir-los-recortes.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6BIZQBAOXZIKRO6BAUUR2UIWQA.jpg?auth=9cbf6424a537eb6bc7c7c425a2e116a050027670d7b9455a0b78f71da01f25af",
-   "date": "2026-11-21T12:40:45+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Sánchez anuncia la prórroga del impuesto a la banca en 2027 y destinará lo recaudado a vivienda",
-   "link": "https://www.naiz.eus/info/noticia/20261121/sanchez-anuncia-la-prorroga-del-impuesto-a-la-banca-en-2027-y-destinara-lo-recaudado-a-vivienda",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/389/725/news_landscape/sanchez.jpg",
-   "date": "2026-11-21T09:09:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Guía práctica para sobrevivir a un fallo tecnológico",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-21/guia-practica-para-sobrevivir-a-un-fallo-tecnologico.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/MLTE6F4D6VODNF56XTJILI2C5I.jpg?auth=4eb84ad8cb28714f69f3753a2e97e7e7415127c87449f6104a3e635be8f6c5f8",
-   "date": "2026-11-21T04:46:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La crisis de la vivienda golpea más fuerte a los inmigrantes: “Soñamos con lo mínimo”",
-   "link": "https://elpais.com/economia/vivienda/2026-11-21/la-crisis-de-la-vivienda-golpea-mas-fuerte-a-los-inmigrantes-sonamos-con-lo-minimo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ZKXC7FDAIBD6JADDB65HWECGRA.jpg?auth=69b10c53677ae9e97cbee3f1ad6fe7771ecac1e7a5718b9f5c3ee8a8dde72cb7",
-   "date": "2026-11-21T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El escudo social, de Rajoy a Sánchez",
-   "link": "https://elpais.com/economia/2026-11-21/el-escudo-social-de-rajoy-a-sanchez.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/KRF56MU3INPZ5H5NSIUCCQ3HDE.jpg?auth=0589c5da73a54884397ebb94a5d28b329e53055a64826b966fa37fea3aa0246c",
-   "date": "2026-11-21T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La gente quiere volver a hablar de impuestos",
-   "link": "https://elpais.com/economia/2026-11-21/la-gente-quiere-volver-a-hablar-de-impuestos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GUW7IOZ5QBLK5FEPHO3IBKWHO4.jpg?auth=3c660c4f666ade8d7c390bb4362c4755ecb2e83233c6a7f2af7d9610e699b1e1",
-   "date": "2026-11-21T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Anthropic y las tecnológicas como signo de los tiempos",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-21/anthropic-y-las-tecnologicas-como-signo-de-los-tiempos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/MUD4LIPY2ZILRMC6JLRZLH2YJQ.jpg?auth=786b570323f4051d5336435459e899d521caf1548607028dd3f9ea80e9cc496b",
-   "date": "2026-11-21T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los tics del dinero negro aún manchan el ladrillo: “Hagamos parte de la compra del piso en efectivo. 20.000 euros o 30.000, lo que veamos”",
-   "link": "https://elpais.com/economia/negocios/2026-11-21/los-tics-del-dinero-negro-aun-manchan-el-ladrillo-hagamos-parte-de-la-compra-del-piso-en-efectivo-20000-euros-o-30000-lo-que-veamos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/PINNLTAROJB7FOWZUDVM7RJOAM.jpg?auth=d8a2b6219328bdc0f4eb78320c1e18f6bf4fbae45339179e333d9b0d8899ea30",
-   "date": "2026-11-21T04:30:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
-   "title": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-   "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3096/live/f678f6e0-e4cc-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-20T22:53:24+00:00"
+   "title": "Can AI really help spot Black Friday deals? We put it to the test",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv4jmnle2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcbf/live/85d51550-e435-11f1-8346-933d3547e297.jpg",
+   "date": "2026-11-21T00:06:11+00:00"
   },
   {
    "lang": "en",
@@ -116,14 +124,6 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Trump threatens ban on US firms building AI data centres overseas",
-   "link": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb0/live/a9cadc20-e529-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-20T20:54:12+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
    "link": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b92/live/7ef50e70-e511-11f1-a094-5fdc692f3e33.jpg",
@@ -140,14 +140,6 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Tinned food and long-life milk boost retail sales after 'Be Ready' campaign launch",
-   "link": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f3/live/616b7460-e4bd-11f1-bd65-4bcf15946188.jpg",
-   "date": "2026-11-20T09:44:56+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "Should AI be judging our credit worthiness?",
    "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5352/live/663fec10-d765-11f1-93e1-3b657b665bcf.jpg",
@@ -160,14 +152,6 @@
    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
    "image": "",
    "date": "2026-11-20T01:49:03+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Fish and eggs al desko? The dos and don'ts of lunch at work",
-   "link": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d971/live/c0e0ad80-e4cb-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-20T00:08:37+00:00"
   },
   {
    "lang": "en",
