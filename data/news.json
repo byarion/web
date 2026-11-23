@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-23T11:25:01.316760+00:00",
+ "updated": "2026-11-23T22:58:10.783380+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+   "date": "2026-11-23T21:23:42+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
+   "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
+   "image": "",
+   "date": "2026-11-23T21:00:59+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno ampliará este martes el permiso de duelo por fallecimiento a 10 días",
+   "link": "https://elpais.com/economia/2026-11-23/el-gobierno-ampliara-este-martes-el-permiso-de-fallecimiento-a-10-dias.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/3XTKFXTF7FA5LPH6VPLY24ZFYU.jpg?auth=5b583086e83c566b823021897f1a55a70dfd1e5a9329ff8b29dfa65ee3303cc1",
+   "date": "2026-11-23T17:55:55+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
+   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-23T17:11:58+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "How important are Nvidia and Jensen Huang to the US economy?",
+   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
+   "date": "2026-11-23T16:12:35+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The rise and fall and rise again of Jensen Huang",
+   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
+   "date": "2026-11-23T15:49:52+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno aprobará la limitación de los intereses del crédito al consumo en un paquete de medidas que afectan a la banca",
+   "link": "https://elpais.com/economia/2026-11-23/el-gobierno-aprobara-la-limitacion-de-los-intereses-del-credito-al-consumo-en-un-paquete-de-medidas-que-afectan-a-la-banca.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/H65YPVJQ4JONXJP6BHFS7H43MY.jpg?auth=6fe7bade755b130e07acbbf014ca1ca7bd7cb500f37a9cb225912f553602a72f",
+   "date": "2026-11-23T13:41:21+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "CC OO y UGT llaman a votar a la izquierda: “Lo mejor para España es reeditar el Gobierno de coalición progresista”",
+   "link": "https://elpais.com/economia/2026-11-23/cc-oo-y-ugt-llaman-a-votar-a-la-izquierda-lo-mejor-para-espana-es-reeditar-el-gobierno-de-coalicion-progresista.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/53Q5UUE735G2RAYQTK4UAPJAOI.jpg?auth=f326bdcf6e73e62da5442513b70d2ece8f7355801f7c73a011c90f490795079c",
+   "date": "2026-11-23T13:19:53+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Next data accessed in cyber breach",
+   "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg",
+   "date": "2026-11-23T12:34:07+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -8,30 +80,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
    "date": "2026-11-23T11:24:37+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La ocupación hotelera en España marca otro récord en octubre aunque los precios suben un 8%",
-   "link": "https://elpais.com/economia/2026-11-23/la-ocupacion-hotelera-en-espana-marca-otro-record-en-octubre-aunque-los-precios-suben-un-8.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/NC234RBGDFG5DIUQPLHXLA4TZQ.JPG?auth=94d682073997d5d5b5c7e7e1f7d42c4704fda02b072d4cd8a3be187ac4732385",
-   "date": "2026-11-23T10:26:54+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "South East Water reports loss after supply issues",
-   "link": "https://www.bbc.co.uk/news/articles/c6n90j1qxel8o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2480/live/c4c28920-e71c-11f1-914b-6d226d813a52.jpg",
-   "date": "2026-11-23T10:19:46+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Poundland is facing collapse - what's gone wrong?",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/419f/live/4c718920-e713-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-23T10:09:25+00:00"
   },
   {
    "lang": "en",
@@ -46,32 +94,8 @@
    "source": "El País",
    "title": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
    "link": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SMLCWYNCEZHCBHVFUVYRKJBSGM.jpg?auth=e69471d3b7cc2cdd884a022b3c73b1c9533431008d8244c311a6dfba91607541",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261123/1241118_114026_video_1800.mp4",
    "date": "2026-11-23T09:51:45+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Pip assessments need 'fundamental overhaul', report to say",
-   "link": "https://www.bbc.co.uk/news/articles/cvlyj3rn201xo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e9d/live/6a04c6f0-e6f5-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-23T09:37:07+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las aerolíneas anticipan una subida de precios y un recorte de plazas para el próximo verano",
-   "link": "https://elpais.com/economia/2026-11-23/las-aerolineas-anticipan-una-subida-de-precios-y-un-recorte-de-plazas-para-el-proximo-verano.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/TEBV3N3EKND3FF2FNCNIAMKL6Y.jpg?auth=ae40d7473b4f0a5c127dc6cd37dd647a681540534f461bad324d4bef76d8ea5f",
-   "date": "2026-11-23T04:45:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los jubilados al PSOE y los policías a Vox: la diferencia del voto por ocupación",
-   "link": "https://elpais.com/espana/elecciones-generales/2026-11-23/los-jubilados-al-psoe-y-los-policias-a-vox-la-diferencia-del-voto-por-ocupacion.html",
-   "image": "",
-   "date": "2026-11-23T04:30:01+00:00"
   },
   {
    "lang": "es",
@@ -92,26 +116,18 @@
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Energy bills will soar - here's how you can ease the pain",
-   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
-   "date": "2026-11-23T01:05:07+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
    "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
    "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
    "date": "2026-11-23T00:08:00+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Centrica boss says he is 'hugely concerned' over impact of soaring energy bills",
-   "link": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/d02d4240-e682-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-22T13:50:21+00:00"
+   "lang": "es",
+   "source": "El País",
+   "title": "Si hubiéramos tenido Presupuestos Generales",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-22/si-hubieramos-tenido-presupuestos-generales.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BWIFGFB33ZG2DDWL4AITRB74PU.jpg?auth=7bb554c4f7108c119190dfbde0b14e1d19ad7830fad508cc7471fe3c14fe56b1",
+   "date": "2026-11-22T04:40:00+00:00"
   },
   {
    "lang": "es",
@@ -119,14 +135,6 @@
    "title": "Christian Sewing, el aficionado al tenis que pelea otro revés para su banco",
    "link": "https://cincodias.elpais.com/opinion/2026-11-22/christian-sewing-el-aficionado-al-tenis-que-pelea-otro-reves-para-su-banco.html",
    "image": "https://imagenes.elpais.com/resizer/v2/G6A4G44SMJCGHMXB7INH332CZM.jpg?auth=7b628da3c37b930bec92e2e32be1c03757804130298203bed7857a84f0473dce",
-   "date": "2026-11-22T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: el largo corte del trayecto en tren Madrid-Sevilla es motivo para la reflexión",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-22/las-claves-el-largo-corte-del-trayecto-en-tren-madrid-sevilla-es-motivo-para-la-reflexion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/4NLEANCQSJGJBGW6L5AVM5V7TQ.jpg?auth=332828fb79b32f5945b5db630cc0d315790293878a84b0b74d6eb17af3a25b1b",
    "date": "2026-11-22T04:40:00+00:00"
   },
   {
@@ -184,14 +192,6 @@
    "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
    "image": "",
    "date": "2026-11-17T13:40:54+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
-   "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
-   "image": "",
-   "date": "2026-11-16T02:56:24+00:00"
   },
   {
    "lang": "es",
