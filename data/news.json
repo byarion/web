@@ -1,29 +1,93 @@
 {
- "updated": "2026-11-24T07:15:58.731213+00:00",
+ "updated": "2026-11-24T19:45:25.643073+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
+   "date": "2026-11-24T18:55:59+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
+   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+   "image": "",
+   "date": "2026-11-24T18:34:43+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
+   "date": "2026-11-24T18:21:43+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Bruselas advierte a España de que se arriesga a un expediente de la UE si no contiene el gasto público",
+   "link": "https://elpais.com/economia/2026-11-24/bruselas-advierte-a-espana-de-que-se-arriesga-a-un-expediente-de-la-ue-si-no-contiene-el-gasto-publico.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/6PIG6HISCBDFTCWFYKAYCXBDV4.jpg?auth=b6879481e4b0e34c004ba7816d18588a12e244486495bac9ecee00b87fb048a5",
+   "date": "2026-11-24T15:04:10+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "World Cup drove profits surge, says Marston's",
+   "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ca/live/b659c4e0-e7fb-11f1-ab60-79086b6495b8.jpg",
+   "date": "2026-11-24T13:03:20+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El nuevo equilibrio político de EE UU cambia el escenario para los mercados",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-24/el-nuevo-equilibrio-politico-de-ee-uu-cambia-el-escenario-para-los-mercados.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GIUMYYV5OVJIVGWUTOPXU5C7HU.jpg?auth=9f9366e37916af6edd2003d4cb636bbfc8f602bb66cb4c208428a995d43d347d",
+   "date": "2026-11-24T12:02:42+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los sueños milenaristas de las ‘big tech’ evocan los cultos del pasado",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-24/los-suenos-milenaristas-de-las-big-tech-evocan-los-cultos-del-pasado.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/O3SYB6USURLGJGDZG5FO7J6DJA.jpg?auth=17fbb5874fcfe1d8a0c9d2bea1b2c1e4c82297b7f65775ebc43a276dbb0f5c8b",
+   "date": "2026-11-24T12:02:08+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Claves del nuevo permiso de duelo por fallecimiento: cuánto crece y a qué familiares beneficia",
+   "link": "https://elpais.com/economia/2026-11-24/claves-del-nuevo-permiso-de-duelo-por-fallecimiento-cuanto-crece-y-a-que-familiares-beneficia.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261124/1241624_131615_video_1800.mp4",
+   "date": "2026-11-24T11:37:02+00:00"
+  },
   {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Why France is at risk of recession — and what could keep it out of one",
    "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
    "image": "",
-   "date": "2026-11-24T06:55:36+00:00"
+   "date": "2026-11-24T11:15:30+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Nvidia restituye a Jensen Huang como CEO tras intervención de Trump y se dispara en bolsa",
-   "link": "https://www.naiz.eus/info/noticia/20261124/nvidia-restituye-a-jensen-huang-como-ceo-tras-intervencion-de-trump-y-se-dispara-en-bolsa",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/390/291/news_landscape/Nvidia-Huang.jpg",
-   "date": "2026-11-24T06:33:00+00:00"
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+   "date": "2026-11-24T10:53:37+00:00"
   },
   {
    "lang": "es",
    "source": "El País",
-   "title": "Alemania planea poner fin al carbón empleando más centrales de gas para garantizar el suministro eléctrico",
-   "link": "https://elpais.com/economia/2026-11-24/alemania-planea-poner-fin-al-carbon-empleando-mas-centrales-de-gas-para-garantizar-el-suministro-electrico.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/4A6HPOLKIRCJVOIQMZGT5A5XKA.jpg?auth=0985e6c22c85118bca9f3f36af44c66c75783f2f4f52c56179b4c8d4190af53b",
-   "date": "2026-11-24T04:45:01+00:00"
+   "title": "Nvidia no es equipo de fútbol de segunda división mal dirigido, pero lo parece",
+   "link": "https://elpais.com/economia/2026-11-24/nvidia-no-es-equipo-de-futbol-de-segunda-division-mal-dirigido-pero-lo-parece.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/7KAUA676SFMLHOWEE6PYKDXGMM.jpg?auth=54e2d157dbbc351581e6c1ff77e7c1fc1e71a84496df1df4984225d174663458",
+   "date": "2026-11-24T09:26:32+00:00"
   },
   {
    "lang": "es",
@@ -36,42 +100,26 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Las claves: la IA y los centros de datos están en revisión desde septiembre",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-24/las-claves-la-ia-y-los-centros-de-datos-estan-en-revision-desde-septiembre.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/TE4Q3PYNSZPY7FMET4GB54HITA.jpg?auth=8695e0386b7945463abf3463443210049566789b8077aa7934f28d742637dd65",
-   "date": "2026-11-24T04:40:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-   "date": "2026-11-24T04:36:31+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
    "title": "Los ultrarricos españoles a los que quiere gravar la izquierda: 21 milmillonarios entre 623 contribuyentes con más de 100 millones",
    "link": "https://elpais.com/economia/2026-11-24/los-ultrarricos-espanoles-a-los-que-quiere-gravar-la-izquierda-21-milmillonarios-entre-623-contribuyentes-con-mas-de-100-millones.html",
    "image": "https://imagenes.elpais.com/resizer/v2/IUES37LLRFMFLJOKWZAOT5GY54.jpg?auth=7e301e56807725c52deb9c932239851e41b7909d342f516d7b79e698cffa949e",
    "date": "2026-11-24T04:30:01+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los analistas se preparan para nuevos episodios de inestabilidad en un mercado más frágil",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-24/los-analistas-se-preparan-para-nuevos-episodios-de-inestabilidad-en-un-mercado-mas-fragil.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/RLSXUODYVRNDRDDAUAMGVBTIM4.jpg?auth=e566b4da7edf21c929763264a8fcb95b321be206f99a0ae1310629c8499b95d8",
-   "date": "2026-11-24T04:30:01+00:00"
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "The shake-up facing renters as a new kind of landlord emerges",
+   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-24T00:28:48+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
-   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-24T00:28:48+00:00"
+   "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
+   "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
+   "date": "2026-11-24T00:11:08+00:00"
   },
   {
    "lang": "en",
@@ -104,54 +152,6 @@
    "link": "https://elpais.com/economia/2026-11-23/el-gobierno-ampliara-este-martes-el-permiso-de-fallecimiento-a-10-dias.html",
    "image": "https://imagenes.elpais.com/resizer/v2/3XTKFXTF7FA5LPH6VPLY24ZFYU.jpg?auth=5b583086e83c566b823021897f1a55a70dfd1e5a9329ff8b29dfa65ee3303cc1",
    "date": "2026-11-23T17:55:55+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-   "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d27/live/d9940160-e7d2-11f1-939f-471cde339c0e.jpg",
-   "date": "2026-11-23T17:11:58+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "How important are Nvidia and Jensen Huang to the US economy?",
-   "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8241/live/e3e3a9c0-e2a7-11f1-8226-87dfa5049e9a.jpg",
-   "date": "2026-11-23T16:12:35+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "The rise and fall and rise again of Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg",
-   "date": "2026-11-23T15:49:52+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
-   "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
-   "date": "2026-11-23T11:24:37+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Promesas electorales bajo sospecha",
-   "link": "https://elpais.com/economia/2026-11-23/promesas-electorales-bajo-sospecha.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/463HN7GQ6RH5JDSHYIMDG5CU4E.JPG?auth=371deecc7711f9d4813973deead7f0dd9ae4219022d1f53ac53e567eb452e32e",
-   "date": "2026-11-23T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Tokenización de activos reales: el punto de inflexión que redefine los mercados financieros",
-   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-23/tokenizacion-de-activos-reales-el-punto-de-inflexion-que-redefine-los-mercados-financieros.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/SX2GZQ3WP5MADIAO7I3247FPOQ.jpg?auth=21e768c7405f16e517c5f5f58a3be8ead6579541bf4b60ad9c0c7b849163cac5",
-   "date": "2026-11-23T04:30:00+00:00"
   },
   {
    "lang": "en",
@@ -192,14 +192,6 @@
    "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
    "image": "",
    "date": "2026-11-18T00:35:31+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
-   "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
-   "image": "",
-   "date": "2026-11-17T13:40:54+00:00"
   },
   {
    "lang": "es",
