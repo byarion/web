@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-23T22:58:10.783380+00:00",
+ "updated": "2026-11-24T07:15:58.731213+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Why France is at risk of recession — and what could keep it out of one",
+   "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
+   "image": "",
+   "date": "2026-11-24T06:55:36+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Nvidia restituye a Jensen Huang como CEO tras intervención de Trump y se dispara en bolsa",
+   "link": "https://www.naiz.eus/info/noticia/20261124/nvidia-restituye-a-jensen-huang-como-ceo-tras-intervencion-de-trump-y-se-dispara-en-bolsa",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/390/291/news_landscape/Nvidia-Huang.jpg",
+   "date": "2026-11-24T06:33:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Alemania planea poner fin al carbón empleando más centrales de gas para garantizar el suministro eléctrico",
+   "link": "https://elpais.com/economia/2026-11-24/alemania-planea-poner-fin-al-carbon-empleando-mas-centrales-de-gas-para-garantizar-el-suministro-electrico.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/4A6HPOLKIRCJVOIQMZGT5A5XKA.jpg?auth=0985e6c22c85118bca9f3f36af44c66c75783f2f4f52c56179b4c8d4190af53b",
+   "date": "2026-11-24T04:45:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Vía de urgencia para una necesaria ley de crédito al consumo",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-24/via-de-urgencia-para-una-necesaria-ley-de-credito-al-consumo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/FZUS7G5VUBEGVBX5252RM4ALK4.JPG?auth=f6e7581f348a2a95d622ab134a95817e7e99eed32cf2417f76dcc803d542e249",
+   "date": "2026-11-24T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: la IA y los centros de datos están en revisión desde septiembre",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-24/las-claves-la-ia-y-los-centros-de-datos-estan-en-revision-desde-septiembre.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/TE4Q3PYNSZPY7FMET4GB54HITA.jpg?auth=8695e0386b7945463abf3463443210049566789b8077aa7934f28d742637dd65",
+   "date": "2026-11-24T04:40:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
+   "date": "2026-11-24T04:36:31+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los ultrarricos españoles a los que quiere gravar la izquierda: 21 milmillonarios entre 623 contribuyentes con más de 100 millones",
+   "link": "https://elpais.com/economia/2026-11-24/los-ultrarricos-espanoles-a-los-que-quiere-gravar-la-izquierda-21-milmillonarios-entre-623-contribuyentes-con-mas-de-100-millones.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/IUES37LLRFMFLJOKWZAOT5GY54.jpg?auth=7e301e56807725c52deb9c932239851e41b7909d342f516d7b79e698cffa949e",
+   "date": "2026-11-24T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los analistas se preparan para nuevos episodios de inestabilidad en un mercado más frágil",
+   "link": "https://cincodias.elpais.com/mercados-financieros/2026-11-24/los-analistas-se-preparan-para-nuevos-episodios-de-inestabilidad-en-un-mercado-mas-fragil.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/RLSXUODYVRNDRDDAUAMGVBTIM4.jpg?auth=e566b4da7edf21c929763264a8fcb95b321be206f99a0ae1310629c8499b95d8",
+   "date": "2026-11-24T04:30:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Britain's landlords are getting bigger. A two-tier rental market may follow",
+   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/f0d58200-e4d4-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-24T00:28:48+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
+   "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
+   "date": "2026-11-24T00:01:04+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -30,7 +110,7 @@
    "source": "BBC Business",
    "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
    "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc0b/live/456f5c10-e772-11f1-99a1-253766e7ad8b.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d27/live/d9940160-e7d2-11f1-939f-471cde339c0e.jpg",
    "date": "2026-11-23T17:11:58+00:00"
   },
   {
@@ -50,52 +130,12 @@
    "date": "2026-11-23T15:49:52+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno aprobará la limitación de los intereses del crédito al consumo en un paquete de medidas que afectan a la banca",
-   "link": "https://elpais.com/economia/2026-11-23/el-gobierno-aprobara-la-limitacion-de-los-intereses-del-credito-al-consumo-en-un-paquete-de-medidas-que-afectan-a-la-banca.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/H65YPVJQ4JONXJP6BHFS7H43MY.jpg?auth=6fe7bade755b130e07acbbf014ca1ca7bd7cb500f37a9cb225912f553602a72f",
-   "date": "2026-11-23T13:41:21+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "CC OO y UGT llaman a votar a la izquierda: “Lo mejor para España es reeditar el Gobierno de coalición progresista”",
-   "link": "https://elpais.com/economia/2026-11-23/cc-oo-y-ugt-llaman-a-votar-a-la-izquierda-lo-mejor-para-espana-es-reeditar-el-gobierno-de-coalicion-progresista.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/53Q5UUE735G2RAYQTK4UAPJAOI.jpg?auth=f326bdcf6e73e62da5442513b70d2ece8f7355801f7c73a011c90f490795079c",
-   "date": "2026-11-23T13:19:53+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Next data accessed in cyber breach",
-   "link": "https://www.bbc.co.uk/news/articles/cqj3kjr7ez3vo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/295f/live/f2adb050-e738-11f1-8294-033bd8ee7e95.jpg",
-   "date": "2026-11-23T12:34:07+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Capita shares plunge 70% as boss quits after civil service pensions failure",
    "link": "https://www.bbc.co.uk/news/articles/c65y1qqw3kjxo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d59/live/4828e850-e726-11f1-914b-6d226d813a52.jpg",
    "date": "2026-11-23T11:24:37+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Catering giant to switch main share listing to US in further blow to UK",
-   "link": "https://www.bbc.co.uk/news/articles/ckz74098jq5po?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d35/live/6c293750-e726-11f1-914b-6d226d813a52.jpg",
-   "date": "2026-11-23T09:54:04+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Sánchez propone un impuesto para “ultrarricos” con fortunas superiores a 100 millones de euros",
-   "link": "https://elpais.com/economia/2026-11-23/sanchez-propone-un-impuesto-para-ultrarricos-con-fortunas-superiores-a-100-millones-de-euros.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261123/1241118_114026_video_1800.mp4",
-   "date": "2026-11-23T09:51:45+00:00"
   },
   {
    "lang": "es",
@@ -115,43 +155,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
-   "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d6/live/b3d40440-e712-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-23T00:08:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Si hubiéramos tenido Presupuestos Generales",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-22/si-hubieramos-tenido-presupuestos-generales.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/BWIFGFB33ZG2DDWL4AITRB74PU.jpg?auth=7bb554c4f7108c119190dfbde0b14e1d19ad7830fad508cc7471fe3c14fe56b1",
-   "date": "2026-11-22T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Christian Sewing, el aficionado al tenis que pelea otro revés para su banco",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-22/christian-sewing-el-aficionado-al-tenis-que-pelea-otro-reves-para-su-banco.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/G6A4G44SMJCGHMXB7INH332CZM.jpg?auth=7b628da3c37b930bec92e2e32be1c03757804130298203bed7857a84f0473dce",
-   "date": "2026-11-22T04:40:00+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Tech outages are fueling a new doomsday economy",
    "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
    "image": "",
    "date": "2026-11-21T15:04:56+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
-   "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
-   "image": "",
-   "date": "2026-11-20T21:07:08+00:00"
   },
   {
    "lang": "en",
