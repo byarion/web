@@ -1,29 +1,157 @@
 {
- "updated": "2026-11-25T03:51:07.961111+00:00",
+ "updated": "2026-11-25T16:17:19.892675+00:00",
  "items": [
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "US attorney general dodges questions about Nvidia investigation",
-   "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-   "date": "2026-11-25T03:44:07+00:00"
+   "source": "CNBC Economy",
+   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "image": "",
+   "date": "2026-11-25T16:16:40+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
-   "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-25T01:03:05+00:00"
+   "title": "US stocks fall further as fears over AI intensify",
+   "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
+   "date": "2026-11-25T16:07:26+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "US preparing to unveil plan for new tariffs on global trading partners",
-   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
-   "date": "2026-11-25T00:38:01+00:00"
+   "title": "Poundland collapses putting 11,000 jobs at risk",
+   "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eda/live/616fb5d0-e8bd-11f1-ac76-db9e97f93d67.jpg",
+   "date": "2026-11-25T16:03:07+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+   "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+   "image": "",
+   "date": "2026-11-25T14:18:45+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "España concede más de la mitad de las ayudas a empresas en la UE por la crisis energética",
+   "link": "https://elpais.com/economia/2026-11-25/espana-concede-mas-de-la-mitad-de-las-ayudas-a-empresas-en-la-ue-por-la-crisis-energetica.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/OCMRG5GKLNNNTELICVQDHVUGL4.jpg?auth=448877ccd2458db9fb6784515c75ee561b65a9f70f3f28372d902b565de6a541",
+   "date": "2026-11-25T14:04:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Energy bills to rise by 26% from January after gas prices surge",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/654f/live/9096f7c0-e8df-11f1-a3b9-79c60ec9ab33.jpg",
+   "date": "2026-11-25T13:42:08+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Muere Carlos Martínez Mongay, la excelencia europea",
+   "link": "https://elpais.com/economia/2026-11-25/muere-carlos-martinez-mongay-la-excelencia-europea.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BNSCPQZ3TZEGXPSSSSIDEERPZU.jpg?auth=4a448fb87fb4d8f63e0527c5d13ad634ec3ea7e18ffc17f5bfc46f9e740b6b2c",
+   "date": "2026-11-25T12:59:15+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Confebask, a las mujeres jóvenes: «El talento no tiene género, la industria vasca os necesita»",
+   "link": "https://www.naiz.eus/info/noticia/20261125/confebask-a-las-mujeres-jovenes-el-talento-no-tiene-genero-la-industria-vasca-os-necesita",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/390/758/news_landscape/Argazkia02.jpeg",
+   "date": "2026-11-25T12:42:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El salario medio mensual roza los 2.500 euros brutos, tras avanzar un 4,7% en 2025",
+   "link": "https://elpais.com/economia/2026-11-25/el-salario-medio-mensual-roza-los-2500-euros-brutos-tras-avanzar-un-47-en-2025.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/GWQ2RQBIJFGCBDHW2KIEW77XVE.jpg?auth=03d6629fa0065ab75e728dae135980bb901c738d4e4660b94fbb241e52419007",
+   "date": "2026-11-25T12:35:49+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-25T12:12:11+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Energy bills will soar - here's how you can ease the pain",
+   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
+   "date": "2026-11-25T10:42:20+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
+   "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
+   "date": "2026-11-25T10:03:12+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What will the energy cap changes mean for my bills?",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
+   "date": "2026-11-25T09:54:32+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El nuevo permiso de duelo por fallecimiento entra en vigor para muertes ocurridas desde este jueves",
+   "link": "https://elpais.com/economia/2026-11-25/el-nuevo-permiso-de-duelo-por-fallecimiento-entra-en-vigor-para-muertes-ocurridas-desde-este-jueves.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/YID7RLHI6ZMT5NAMSZMFJXWCNQ.jpg?auth=f53d788f0226abbabf089e011fce418f1c56195138741868865339954a102f6b",
+   "date": "2026-11-25T08:13:27+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La clase media nominal, la clase media real y el salario mínimo",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-25/la-clase-media-nominal-la-clase-media-real-y-el-salario-minimo.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/CDKAZSPSORMXNEJWC6CEUZST6U.jpg?auth=56aa7eec590ff1886f53c6ad9b174767bd19e6f0928d3d5cff0f49bb116b4f62",
+   "date": "2026-11-25T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El retorno de Huang desnuda la frágil interdependencia de la IA",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-25/el-retorno-de-huang-desnuda-la-fragil-interdependencia-de-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/LZ2MHMWNKNIW7G7VZICO2DYMJU.jpg?auth=c6019d1dee5424433c680b4086cfe7d6f7dfde92eed5a43c18876dad6889acaa",
+   "date": "2026-11-25T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El triunfo de Huang ignora a sabiendas los problemas futuros",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-25/el-triunfo-de-huang-ignora-a-sabiendas-los-problemas-futuros.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/RM42A7AREVOM5AUMLD2KVGXEQE.jpg?auth=3af00d1d681fcef8c4167e2d3f3887db3946dad49b197836590483605b3f05ab",
+   "date": "2026-11-25T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El agujero negro fiscal de España que la izquierda quiere taponar: los milmillonarios solo tributan el 0,12% de su patrimonio",
+   "link": "https://elpais.com/economia/2026-11-25/el-agujero-negro-fiscal-de-espana-que-la-izquierda-quiere-taponar-los-multimillonarios-solo-tributan-el-012-de-su-patrimonio.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/XSSFTXHWRBCSVEVSUFP45QCOME.jpg?auth=fec2b48280edbd19e6e0dc12f9c31b65eb86a52b61c24179ee0e2f9c6645ab66",
+   "date": "2026-11-25T04:30:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "image": "",
+   "date": "2026-11-25T04:06:01+00:00"
   },
   {
    "lang": "en",
@@ -35,30 +163,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "What will the energy cap changes mean for my bills?",
-   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
-   "date": "2026-11-25T00:33:25+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-25T00:30:52+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Households braced for soaring energy bills with new price cap to be announced",
-   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
-   "date": "2026-11-25T00:29:58+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
@@ -67,83 +171,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-   "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ec8/live/8b0c59c0-e831-11f1-917e-35f1674fb52c.jpg",
-   "date": "2026-11-24T18:21:43+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La patronal madrileña, tras la aprobación de los nuevos permisos: “Cada día más cerca de la Venezuela chavista”",
-   "link": "https://elpais.com/economia/2026-11-24/la-patronal-madrilena-tras-la-aprobacion-de-los-nuevos-permisos-cada-dia-mas-cerca-de-la-venezuela-chavista.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/72RWTJZGCNNQJIE4CIVPPW46RQ.jpg?auth=babbb52eb5e566384bb527b541277e7a9a5caa6deee441f55daee47d38147438",
-   "date": "2026-11-24T16:57:40+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El nuevo equilibrio político de EE UU cambia el escenario para los mercados",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-24/el-nuevo-equilibrio-politico-de-ee-uu-cambia-el-escenario-para-los-mercados.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/GIUMYYV5OVJIVGWUTOPXU5C7HU.jpg?auth=9f9366e37916af6edd2003d4cb636bbfc8f602bb66cb4c208428a995d43d347d",
-   "date": "2026-11-24T12:02:42+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los sueños milenaristas de las ‘big tech’ evocan los cultos del pasado",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-24/los-suenos-milenaristas-de-las-big-tech-evocan-los-cultos-del-pasado.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/O3SYB6USURLGJGDZG5FO7J6DJA.jpg?auth=17fbb5874fcfe1d8a0c9d2bea1b2c1e4c82297b7f65775ebc43a276dbb0f5c8b",
-   "date": "2026-11-24T12:02:08+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Claves del nuevo permiso de duelo por fallecimiento: cuánto crece y a qué familiares beneficia",
-   "link": "https://elpais.com/economia/2026-11-24/claves-del-nuevo-permiso-de-duelo-por-fallecimiento-cuanto-crece-y-a-que-familiares-beneficia.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261124/1241624_131615_video_1800.mp4",
-   "date": "2026-11-24T11:37:02+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Why France is at risk of recession — and what could keep it out of one",
    "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
    "image": "",
    "date": "2026-11-24T11:15:30+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
-   "link": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
-   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261124/1241625_131719_video_1800.mp4",
-   "date": "2026-11-24T10:39:53+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Nvidia no es equipo de fútbol de segunda división mal dirigido, pero lo parece",
-   "link": "https://elpais.com/economia/2026-11-24/nvidia-no-es-equipo-de-futbol-de-segunda-division-mal-dirigido-pero-lo-parece.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/7KAUA676SFMLHOWEE6PYKDXGMM.jpg?auth=54e2d157dbbc351581e6c1ff77e7c1fc1e71a84496df1df4984225d174663458",
-   "date": "2026-11-24T09:26:32+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Vía de urgencia para una necesaria ley de crédito al consumo",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-24/via-de-urgencia-para-una-necesaria-ley-de-credito-al-consumo.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/FZUS7G5VUBEGVBX5252RM4ALK4.JPG?auth=f6e7581f348a2a95d622ab134a95817e7e99eed32cf2417f76dcc803d542e249",
-   "date": "2026-11-24T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los ultrarricos españoles a los que quiere gravar la izquierda: 21 milmillonarios entre 623 contribuyentes con más de 100 millones",
-   "link": "https://elpais.com/economia/2026-11-24/los-ultrarricos-espanoles-a-los-que-quiere-gravar-la-izquierda-21-milmillonarios-entre-623-contribuyentes-con-mas-de-100-millones.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/IUES37LLRFMFLJOKWZAOT5GY54.jpg?auth=7e301e56807725c52deb9c932239851e41b7909d342f516d7b79e698cffa949e",
-   "date": "2026-11-24T04:30:01+00:00"
   },
   {
    "lang": "en",
@@ -168,30 +200,6 @@
    "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
    "image": "",
    "date": "2026-11-20T01:49:03+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Southeast Asia’s data center boom leaned on Chinese demand. New U.S. rules put that pipeline at risk",
-   "link": "https://www.cnbc.com/2026/11/18/nvidia-us-ai-chip-export-controls-data-centers-.html",
-   "image": "",
-   "date": "2026-11-18T14:09:26+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Record diesel prices drive UK inflation to 1-year high of 3.6%",
-   "link": "https://www.cnbc.com/2026/11/18/uk-inflation-cpi-fuel-prices.html",
-   "image": "",
-   "date": "2026-11-18T07:57:37+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Japan exports in October surge 20.5%, beating estimates on robust chip shipments",
-   "link": "https://www.cnbc.com/2026/11/18/japan-exports-october-imports-chips.html",
-   "image": "",
-   "date": "2026-11-18T00:35:31+00:00"
   },
   {
    "lang": "es",
