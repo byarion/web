@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T19:45:25.643073+00:00",
+ "updated": "2026-11-25T03:51:07.961111+00:00",
  "items": [
   {
    "lang": "en",
@@ -7,7 +7,55 @@
    "title": "US attorney general dodges questions about Nvidia investigation",
    "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png",
-   "date": "2026-11-24T18:55:59+00:00"
+   "date": "2026-11-25T03:44:07+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "With Huang rescue, Trump riskily ties his political fortunes to Nvidia",
+   "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e638/live/844e1780-e864-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-25T01:03:05+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "US preparing to unveil plan for new tariffs on global trading partners",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/511d/live/da29c130-e860-11f1-a330-6153c8fb2fad.jpg",
+   "date": "2026-11-25T00:38:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Why tiny cars are taking off across Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
+   "date": "2026-11-25T00:34:05+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What will the energy cap changes mean for my bills?",
+   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
+   "date": "2026-11-25T00:33:25+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
+   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-25T00:30:52+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Households braced for soaring energy bills with new price cap to be announced",
+   "link": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ca0/live/03fac650-e7fb-11f1-ab60-79086b6495b8.jpg",
+   "date": "2026-11-25T00:29:58+00:00"
   },
   {
    "lang": "en",
@@ -28,18 +76,10 @@
   {
    "lang": "es",
    "source": "El País",
-   "title": "Bruselas advierte a España de que se arriesga a un expediente de la UE si no contiene el gasto público",
-   "link": "https://elpais.com/economia/2026-11-24/bruselas-advierte-a-espana-de-que-se-arriesga-a-un-expediente-de-la-ue-si-no-contiene-el-gasto-publico.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/6PIG6HISCBDFTCWFYKAYCXBDV4.jpg?auth=b6879481e4b0e34c004ba7816d18588a12e244486495bac9ecee00b87fb048a5",
-   "date": "2026-11-24T15:04:10+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "World Cup drove profits surge, says Marston's",
-   "link": "https://www.bbc.co.uk/news/articles/cm7523pyk75lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87ca/live/b659c4e0-e7fb-11f1-ab60-79086b6495b8.jpg",
-   "date": "2026-11-24T13:03:20+00:00"
+   "title": "La patronal madrileña, tras la aprobación de los nuevos permisos: “Cada día más cerca de la Venezuela chavista”",
+   "link": "https://elpais.com/economia/2026-11-24/la-patronal-madrilena-tras-la-aprobacion-de-los-nuevos-permisos-cada-dia-mas-cerca-de-la-venezuela-chavista.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/72RWTJZGCNNQJIE4CIVPPW46RQ.jpg?auth=babbb52eb5e566384bb527b541277e7a9a5caa6deee441f55daee47d38147438",
+   "date": "2026-11-24T16:57:40+00:00"
   },
   {
    "lang": "es",
@@ -74,12 +114,12 @@
    "date": "2026-11-24T11:15:30+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg",
-   "date": "2026-11-24T10:53:37+00:00"
+   "lang": "es",
+   "source": "El País",
+   "title": "El Gobierno amplía el permiso por nacimiento y cuidado hasta las 20 semanas",
+   "link": "https://elpais.com/sociedad/2026-11-24/el-gobierno-amplia-el-permiso-por-nacimiento-que-podra-llegar-hasta-las-20-semanas.html",
+   "image": "https://vdmedia.elpais.com/mcv/elpais/multimedia/20261124/1241625_131719_video_1800.mp4",
+   "date": "2026-11-24T10:39:53+00:00"
   },
   {
    "lang": "es",
@@ -107,51 +147,11 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "The shake-up facing renters as a new kind of landlord emerges",
-   "link": "https://www.bbc.co.uk/news/articles/c6n90g2l82d1o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8db7/live/089748f0-e7e7-11f1-99b6-a35a62fa4264.jpg",
-   "date": "2026-11-24T00:28:48+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "BBC secret filming shows dog breeder selling sick puppies for £2k each",
-   "link": "https://www.bbc.co.uk/news/articles/c8d36d43y8po?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbbd/live/db7cd3b0-e7d4-11f1-939f-471cde339c0e.jpg",
-   "date": "2026-11-24T00:11:08+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "I pay £250 a month for someone else to do my life admin - it's worth it",
-   "link": "https://www.bbc.co.uk/news/articles/c6zjr3g13zkno?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a207/live/9dc35180-e378-11f1-b879-03485a55c082.jpg",
-   "date": "2026-11-24T00:01:04+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-   "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e297/live/7eb9d0a0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-   "date": "2026-11-23T21:23:42+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Peterson: Here’s what Bessent’s about-face on Jensen Huang reveals about Trump and China",
    "link": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-trump-bessent-china.html",
    "image": "",
    "date": "2026-11-23T21:00:59+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El Gobierno ampliará este martes el permiso de duelo por fallecimiento a 10 días",
-   "link": "https://elpais.com/economia/2026-11-23/el-gobierno-ampliara-este-martes-el-permiso-de-fallecimiento-a-10-dias.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/3XTKFXTF7FA5LPH6VPLY24ZFYU.jpg?auth=5b583086e83c566b823021897f1a55a70dfd1e5a9329ff8b29dfa65ee3303cc1",
-   "date": "2026-11-23T17:55:55+00:00"
   },
   {
    "lang": "en",
