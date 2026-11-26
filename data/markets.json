@@ -1,29 +1,29 @@
 {
- "updated": "2026-11-26T01:13:40.187061+00:00",
+ "updated": "2026-11-26T11:36:59.047914+00:00",
  "items": [
   {
    "name": "Ibex 35",
    "name_en": "Ibex 35",
-   "price": 18635.8,
-   "change": -2.842900670347798
+   "price": 18981.4,
+   "change": 1.8544908416155557
   },
   {
    "name": "Euro Stoxx 50",
    "name_en": "Euro Stoxx 50",
-   "price": 5894.46,
-   "change": -2.963389538134072
+   "price": 6013.08,
+   "change": 2.0123987583017477
   },
   {
    "name": "DAX (Alemania)",
    "name_en": "DAX (Germany)",
-   "price": 24702.13,
-   "change": -2.506740240761313
+   "price": 25181.2,
+   "change": 1.9393838667289849
   },
   {
    "name": "FTSE 100 (Reino Unido)",
    "name_en": "FTSE 100 (UK)",
-   "price": 10426.94,
-   "change": -0.5138902153575234
+   "price": 10593.23,
+   "change": 1.5951970685799326
   },
   {
    "name": "S&P 500",
@@ -46,44 +46,44 @@
   {
    "name": "Nikkei 225 (Japón)",
    "name_en": "Nikkei 225 (Japan)",
-   "price": 58002.43,
-   "change": -1.09506858211453
+   "price": 57499.16,
+   "change": 0.8551570660449975
   },
   {
    "name": "Oro (USD)",
    "name_en": "Gold (USD)",
-   "price": 3602.2,
-   "change": 1.1314213976010985
+   "price": 3591.2,
+   "change": 1.5668293004927158
   },
   {
    "name": "Petróleo Brent (USD)",
    "name_en": "Brent crude (USD)",
-   "price": 91.11,
-   "change": -0.31728831623355724
+   "price": 91.06,
+   "change": -3.752246683701156
   },
   {
    "name": "EUR/USD",
    "name_en": "EUR/USD",
-   "price": 1.0975,
-   "change": 0.11614280710457081
+   "price": 1.0972,
+   "change": 0.08877620770399854
   },
   {
    "name": "Bitcoin (EUR)",
    "name_en": "Bitcoin (EUR)",
-   "price": 55185,
-   "change": 1.597414402317487
+   "price": 55251,
+   "change": 3.3832791801364186
   },
   {
    "name": "Ethereum (EUR)",
    "name_en": "Ethereum (EUR)",
-   "price": 1547.7,
-   "change": 1.6759014249483535
+   "price": 1548.42,
+   "change": 3.541129623685394
   },
   {
    "name": "Solana (EUR)",
    "name_en": "Solana (EUR)",
-   "price": 64.61,
-   "change": 1.9017727738550525
+   "price": 64.47,
+   "change": 4.642889873163146
   }
  ]
 }
