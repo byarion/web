@@ -1,29 +1,77 @@
 {
- "updated": "2026-11-25T16:17:19.892675+00:00",
+ "updated": "2026-11-26T01:13:38.758610+00:00",
  "items": [
   {
    "lang": "en",
+   "source": "BBC Business",
+   "title": "US announces new tariffs on host of countries including China",
+   "link": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9117/live/98cd84e0-e92a-11f1-9929-f96d7c6cbd39.jpg",
+   "date": "2026-11-26T01:00:06+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "US approves SpaceX plan to send a million data satellites to space",
+   "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd78/live/4cbffd10-e91d-11f1-9108-c5b270b0703d.jpg",
+   "date": "2026-11-26T00:07:51+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Guitar wars - the transatlantic battle over the Stratocaster",
+   "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-26T00:01:37+00:00"
+  },
+  {
+   "lang": "en",
    "source": "CNBC Economy",
-   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "title": "Liesman: Why Greenspan could bet on productivity — and Warsh needs to hike",
+   "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
    "image": "",
-   "date": "2026-11-25T16:16:40+00:00"
+   "date": "2026-11-25T21:56:43+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "US stocks fall further as fears over AI intensify",
    "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76b3/live/acdb5650-e8e0-11f1-a3b9-79c60ec9ab33.jpg",
-   "date": "2026-11-25T16:07:26+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-25T21:43:18+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
    "title": "Poundland collapses putting 11,000 jobs at risk",
    "link": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6eda/live/616fb5d0-e8bd-11f1-ac76-db9e97f93d67.jpg",
-   "date": "2026-11-25T16:03:07+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5177/live/c7a2f690-e8fa-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-25T21:31:10+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "What's gone wrong at Poundland?",
+   "link": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbc6/live/78341a50-e8f8-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-25T17:00:32+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
+   "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9436/live/251a8890-e8d5-11f1-99b6-a35a62fa4264.jpg",
+   "date": "2026-11-25T16:42:11+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "image": "",
+   "date": "2026-11-25T16:17:13+00:00"
   },
   {
    "lang": "en",
@@ -59,51 +107,11 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "Confebask, a las mujeres jóvenes: «El talento no tiene género, la industria vasca os necesita»",
-   "link": "https://www.naiz.eus/info/noticia/20261125/confebask-a-las-mujeres-jovenes-el-talento-no-tiene-genero-la-industria-vasca-os-necesita",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/390/758/news_landscape/Argazkia02.jpeg",
-   "date": "2026-11-25T12:42:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "El salario medio mensual roza los 2.500 euros brutos, tras avanzar un 4,7% en 2025",
    "link": "https://elpais.com/economia/2026-11-25/el-salario-medio-mensual-roza-los-2500-euros-brutos-tras-avanzar-un-47-en-2025.html",
    "image": "https://imagenes.elpais.com/resizer/v2/GWQ2RQBIJFGCBDHW2KIEW77XVE.jpg?auth=03d6629fa0065ab75e728dae135980bb901c738d4e4660b94fbb241e52419007",
    "date": "2026-11-25T12:35:49+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "'I only use the washing machine on a Sunday' - how we're keeping our energy bills down",
-   "link": "https://www.bbc.co.uk/news/articles/c820qnznkrn4o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a8e/live/565f9af0-e806-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-25T12:12:11+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Energy bills will soar - here's how you can ease the pain",
-   "link": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/9b2f4a60-bd7f-11f1-bc2e-018d645d8d21.jpg",
-   "date": "2026-11-25T10:42:20+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-   "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde3/live/fa4083e0-e8b6-11f1-9e64-bddd508b9881.jpg",
-   "date": "2026-11-25T10:03:12+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "What will the energy cap changes mean for my bills?",
-   "link": "https://www.bbc.co.uk/news/articles/cdd29v8mp9jo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4155/live/6d965910-59d2-11f1-8b8c-6d33e1d5abb6.jpg",
-   "date": "2026-11-25T09:54:32+00:00"
   },
   {
    "lang": "es",
@@ -155,14 +163,6 @@
   },
   {
    "lang": "en",
-   "source": "BBC Business",
-   "title": "Why tiny cars are taking off across Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cmwy9jne0g7qo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2edb/live/5d054030-ddcf-11f1-b441-2b33b063138f.jpg",
-   "date": "2026-11-25T00:34:05+00:00"
-  },
-  {
-   "lang": "en",
    "source": "CNBC Economy",
    "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
@@ -192,14 +192,6 @@
    "link": "https://www.cnbc.com/2026/11/21/emergency-prep-spending-tech-outages.html",
    "image": "",
    "date": "2026-11-21T15:04:56+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Japan core inflation soars to highest this year as energy subsidy expiry pushes up consumer prices",
-   "link": "https://www.cnbc.com/2026/11/20/japan-inflation-cpi-october.html",
-   "image": "",
-   "date": "2026-11-20T01:49:03+00:00"
   },
   {
    "lang": "es",
