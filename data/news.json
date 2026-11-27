@@ -1,6 +1,54 @@
 {
- "updated": "2026-11-26T20:37:31.894613+00:00",
+ "updated": "2026-11-27T03:19:40.301441+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
+   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "image": "",
+   "date": "2026-11-27T02:04:09+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg",
+   "date": "2026-11-27T00:54:45+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Why is there a shortage of 'wizard' elevator mechanics?",
+   "link": "https://www.bbc.co.uk/news/articles/c52e8k19y94mo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c0e/live/0c8a5940-e7e0-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-27T00:02:19+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "UK to pay 'participation' fee to deliver EU deals",
+   "link": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e264/live/8e58c180-e9e5-11f1-ab41-f1f84c0c758a.png",
+   "date": "2026-11-26T23:17:12+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "Asia made a big AI bet on Nvidia. What happens now?",
+   "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c76/live/9f54a560-e956-11f1-a629-63e812fa871f.jpg",
+   "date": "2026-11-26T23:08:12+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Absueltos después de seis años los dos activistas por la vivienda del caso Olzinelles",
+   "link": "https://www.naiz.eus/info/noticia/20261126/absueltos-despues-de-seis-anos-los-dos-activistas-por-la-vivienda-del-caso-olzinelles",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/165/news_landscape/Olzinelles.jpeg",
+   "date": "2026-11-26T20:56:00+00:00"
+  },
   {
    "lang": "en",
    "source": "BBC Business",
@@ -18,14 +66,6 @@
    "date": "2026-11-26T17:46:25+00:00"
   },
   {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "When will Poundland shops close? Five key questions answered",
-   "link": "https://www.bbc.co.uk/news/articles/c6z9d3pv93glo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b760/live/084c3aa0-e9b2-11f1-859a-37130cd3a1d7.jpg",
-   "date": "2026-11-26T17:21:21+00:00"
-  },
-  {
    "lang": "es",
    "source": "Naiz",
    "title": "Drame de Kakuetta : 80 000 euros d’amende requis contre la mairie de Sainte-Engrâce",
@@ -40,14 +80,6 @@
    "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
    "image": "",
    "date": "2026-11-26T15:28:26+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Norse Atlantic suspends all flights as it faces potential collapse",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df47/live/6f07a020-e98c-11f1-9d1c-4dcc8fcde666.jpg",
-   "date": "2026-11-26T14:28:22+00:00"
   },
   {
    "lang": "en",
@@ -91,14 +123,6 @@
   },
   {
    "lang": "es",
-   "source": "Naiz",
-   "title": "La oposición enmienda a la totalidad las cuentas de Lakua, con el foco en la vivienda",
-   "link": "https://www.naiz.eus/info/noticia/20261126/la-oposicion-enmienda-a-la-totalidad-las-cuentas-de-lakua-con-el-foco-en-la-vivienda",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/107/news_landscape/EH_Bildu_1.jpeg",
-   "date": "2026-11-26T13:24:00+00:00"
-  },
-  {
-   "lang": "es",
    "source": "El País",
    "title": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
    "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
@@ -120,14 +144,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
    "date": "2026-11-26T12:03:49+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Drivers over 70 face eye tests every three years under new plans",
-   "link": "https://www.bbc.co.uk/news/articles/cjqlqerzv1eyo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b37/live/d36e1fb0-e993-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-26T11:21:45+00:00"
   },
   {
    "lang": "es",
@@ -152,14 +168,6 @@
    "link": "https://cincodias.elpais.com/opinion/2026-11-26/autorregulacion-y-empatia-virtudes-escasas-en-la-economia-de-la-atencion.html",
    "image": "https://imagenes.elpais.com/resizer/v2/CQO4MN3NZZDENEOFUZFEJNMTS4.JPG?auth=cc62f0c7b02a0bda51359c6b6ec2cfee95c4b5f9d62f42d92a9f1a82a7ae7149",
    "date": "2026-11-26T04:40:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "Guitar wars - the transatlantic battle over the Stratocaster",
-   "link": "https://www.bbc.co.uk/news/articles/cqd01l9x8k48o?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/67c1/live/7aa1e2b0-e80b-11f1-99a1-253766e7ad8b.jpg",
-   "date": "2026-11-26T00:01:37+00:00"
   },
   {
    "lang": "en",
@@ -200,14 +208,6 @@
    "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
    "image": "",
    "date": "2026-11-24T18:34:43+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Why France is at risk of recession — and what could keep it out of one",
-   "link": "https://www.cnbc.com/2026/11/24/france-recession-risk-pmi.html",
-   "image": "",
-   "date": "2026-11-24T11:15:30+00:00"
   },
   {
    "lang": "es",
