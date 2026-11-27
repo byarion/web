@@ -1,21 +1,109 @@
 {
- "updated": "2026-11-27T03:19:40.301441+00:00",
+ "updated": "2026-11-27T15:42:47.798166+00:00",
  "items": [
   {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "China industrial profits growth surges to a 5-month high of 20.1% in October",
-   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
-   "image": "",
-   "date": "2026-11-27T02:04:09+00:00"
+   "lang": "es",
+   "source": "El País",
+   "title": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
+   "link": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/UCQXKJVJOBDW3CB55VFC73YUGA.jpg?auth=b044af3b3bcc400baf39ceddf85e3ca06c63af4a1387ca72a272230108f53130",
+   "date": "2026-11-27T15:00:24+00:00"
   },
   {
    "lang": "en",
    "source": "BBC Business",
-   "title": "I spend £200 a month on fancy meals by myself - would you dine solo?",
+   "title": "My self-care ritual is a meal at a fancy restaurant - on my own",
    "link": "https://www.bbc.co.uk/news/articles/cw8dv11dp2yeo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d8d/live/b5d26cb0-e9cd-11f1-a094-5fdc692f3e33.jpg",
-   "date": "2026-11-27T00:54:45+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4715/live/6ec7a880-ea5e-11f1-99b6-a35a62fa4264.png",
+   "date": "2026-11-27T10:10:36+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
+   "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
+   "image": "",
+   "date": "2026-11-27T08:47:36+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
+   "link": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/X5OIUMOA5RAZHGOFPVNVGCZMLA.jpg?auth=db188a7aba1a177bc231cdd37d4973412ca0075ecb8a851d53df180f409a47f2",
+   "date": "2026-11-27T08:00:08+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+   "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
+   "image": "",
+   "date": "2026-11-27T06:50:38+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "China’s factories are growing profits again, but the AI boom is picking the winners",
+   "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
+   "image": "",
+   "date": "2026-11-27T06:09:51+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Hernández de Cos, el valor del prestigio",
+   "link": "https://elpais.com/economia/2026-11-27/hernandez-de-cos-el-valor-del-prestigio.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/HWGHGBMOTZCTZI7DF5VTXNFDZE.jpg?auth=56b90678eb880377251adf248ee7ad191d65964e723fc8634db01ceb8675f322",
+   "date": "2026-11-27T05:03:52+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Leapmotor, socio de Stellantis, alerta al coche eléctrico chino",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-27/leapmotor-socio-de-stellantis-alerta-al-coche-electrico-chino.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/ZKYVQCW6NZFQ5CVI3QGBO2PVKI.jpg?auth=2e1512690d9f1dad3448626817ea14d5d86ef109b986ecbf2e20ebd78b8b933f",
+   "date": "2026-11-27T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "El retorno de Huang y la destrucción de la cultura corporativa",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-27/el-retorno-de-huang-y-la-destruccion-de-la-cultura-corporativa.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/3ZZTG24PARLH5EHIMZIK5KSHKQ.jpg?auth=c2f51a34ec0df5675bdb3870c0815fa78528ef082069f2d5a398419ca97876cb",
+   "date": "2026-11-27T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las claves: la caída del cigarrillo empuja a las tabaqueras a unir fuerzas",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-27/las-claves-la-caida-del-cigarrillo-empuja-a-las-tabaqueras-a-unir-fuerzas.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/IZT4FJHBH6SUAMEYQNIEUFIGLI.jpg?auth=82751b56918e695a1c74dae4d363c58a0b75f49f8c6a7783c4408543598fd874",
+   "date": "2026-11-27T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "De Francia a la inflación y de la IA a la integración europea: la larga lista de deberes de Hernández de Cos",
+   "link": "https://elpais.com/economia/2026-11-27/de-francia-a-la-inflacion-y-de-la-ia-a-la-integracion-europea-la-larga-lista-de-deberes-de-hernandez-de-cos.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/YEXH5RJRIFH7XLIHBEAKLYD7FY.jpg?auth=0c2c0ed6454ef9808bde520312288cd603a5a8292b49b8b769bae651d6182ed3",
+   "date": "2026-11-27T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Los diez minutos que desenredaron el nudo para encumbrar a Hernández de Cos como presidente del BCE",
+   "link": "https://elpais.com/economia/2026-11-27/los-diez-minutos-que-desenredaron-el-nudo-para-encumbrar-a-hernandez-de-cos-como-presidente-del-bce.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/G42PPHMLUVKKVPV37C6Q6IWP34.jpg?auth=26119aa7815d3855eca52656b81756d5f29c41ef27dd93f92193b4e931a709b3",
+   "date": "2026-11-27T04:30:01+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "BBC Business",
+   "title": "From £250 job to £9,000 bill: Inside the rogue trader networks scamming customers at scale",
+   "link": "https://www.bbc.co.uk/news/articles/c65yme31k7m2o?at_medium=RSS&at_campaign=rss",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3451/live/fbe22210-e9cb-11f1-99a1-253766e7ad8b.jpg",
+   "date": "2026-11-27T00:58:49+00:00"
   },
   {
    "lang": "en",
@@ -42,44 +130,12 @@
    "date": "2026-11-26T23:08:12+00:00"
   },
   {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Absueltos después de seis años los dos activistas por la vivienda del caso Olzinelles",
-   "link": "https://www.naiz.eus/info/noticia/20261126/absueltos-despues-de-seis-anos-los-dos-activistas-por-la-vivienda-del-caso-olzinelles",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/165/news_landscape/Olzinelles.jpeg",
-   "date": "2026-11-26T20:56:00+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Faisal Islam: Why Trump's new tariffs are less of a threat",
    "link": "https://www.bbc.co.uk/news/articles/c6r7g4e3yep1o?at_medium=RSS&at_campaign=rss",
    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a44e/live/be7b3450-e9af-11f1-859a-37130cd3a1d7.jpg",
    "date": "2026-11-26T19:55:58+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El BCE se pertrecha ante tiempos turbulentos",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-26/el-bce-se-pertrecha-ante-tiempos-turbulentos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/AHP7VFBVHNCQ5NQPSBYU5IBVVM.jpg?auth=8d602c759dcaed70560e4497025b8c71008dd6b58f9e30d1f04c59a2a8372317",
-   "date": "2026-11-26T17:46:25+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Drame de Kakuetta : 80 000 euros d’amende requis contre la mairie de Sainte-Engrâce",
-   "link": "https://www.mediabask.eus/info_mbsk/20261126/drame-de-kakuetta-la-mairie-de-sainte-engrace-devant-la-justice",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/133/news_landscape/etx_250226_962200.jpg",
-   "date": "2026-11-26T16:57:00+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
-   "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html",
-   "image": "",
-   "date": "2026-11-26T15:28:26+00:00"
   },
   {
    "lang": "en",
@@ -90,44 +146,12 @@
    "date": "2026-11-26T14:00:20+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Cientos de transportistas se manifiestan frente a la Seguridad Social porque aún no ha anticipado su jubilación",
-   "link": "https://elpais.com/economia/2026-11-26/cientos-de-transportistas-se-manifiestan-frente-a-la-seguridad-social-porque-aun-no-ha-anticipado-su-jubilacion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/RQVIHMQQH5BTJJH7QZACQCBMGI.jpg?auth=808d75c5cad258267ef19f4267e0700c994b650fd47bcce326978fdfe8ce6fb2",
-   "date": "2026-11-26T13:55:47+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "De cómo Pablo ha ganado por goleada",
-   "link": "https://elpais.com/economia/2026-11-26/de-como-pablo-ha-ganado-por-goleada.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/EEUDTX4XTJBALCSTIEMUZFFJ34.jpg?auth=29f643ac53fdc46cda9368fd47b212cb6268498b07fedb108618e35bd552262a",
-   "date": "2026-11-26T13:40:54+00:00"
-  },
-  {
    "lang": "en",
    "source": "BBC Business",
    "title": "Simon Jack: Is Poundland's US owner to blame for its collapse?",
    "link": "https://www.bbc.co.uk/news/articles/c62klzxvyzyqo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db70/live/c33d5240-e999-11f1-a094-5fdc692f3e33.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76ab/live/16b33890-ea30-11f1-b33b-b39c81e690e4.jpg",
    "date": "2026-11-26T13:40:46+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Perfil | Hernández de Cos, un liberal pragmático experto en forjar consensos",
-   "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-un-liberal-pragmatico-experto-en-forjar-consensos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/23NF5AG5QRFV3MPZT6T3ZGD6VY.jpg?auth=a6c81c83d18606ae93983cfe411b2b563a94b1b6cb58cf284625949216ce3617",
-   "date": "2026-11-26T13:32:35+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Hernández de Cos se convertirá en febrero en el primer español en presidir el BCE",
-   "link": "https://elpais.com/economia/2026-11-26/hernandez-de-cos-se-convertira-en-febrero-en-el-primer-espanol-en-presidir-el-bce.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/5ECJ3PRMCZG2PD3YPJ3E6UZDWM.jpg?auth=977ad8b774d84ff4ca609ba92c7665f911cf2d4260d25dedcb8dcc6750a8dcd2",
-   "date": "2026-11-26T13:19:27+00:00"
   },
   {
    "lang": "en",
@@ -136,38 +160,6 @@
    "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
    "image": "",
    "date": "2026-11-26T12:46:55+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "BBC Business",
-   "title": "New boss appointed to lead Travelodge",
-   "link": "https://www.bbc.co.uk/news/articles/cqx2wx89kg0eo?at_medium=RSS&at_campaign=rss",
-   "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c6/live/aeced5c0-e98c-11f1-9d1c-4dcc8fcde666.jpg",
-   "date": "2026-11-26T12:03:49+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: la derrota electoral no disuade a Trump de su empeño proteccionista",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-26/las-claves-la-derrota-electoral-no-disuade-a-trump-de-su-empeno-proteccionista.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/NJG5S2U5GJOK3E4MUQSG7LTU5Q.jpg?auth=67e8f8304bedc5d0965e5824ffefc519edd372831cad065a3f3452f085692b76",
-   "date": "2026-11-26T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La IA, entre el vértigo y la realidad",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-26/la-ia-entre-el-vertigo-y-la-realidad.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/B6QLJOJM75M53B63RBXJKJSAIM.jpg?auth=2e10a2bc9e7b184cb6fc3a5f7d643457f8323efe8de8f1699a812a7a6fc1f09c",
-   "date": "2026-11-26T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Autorregulación y empatía, virtudes escasas en la economía de la atención",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-26/autorregulacion-y-empatia-virtudes-escasas-en-la-economia-de-la-atencion.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/CQO4MN3NZZDENEOFUZFEJNMTS4.JPG?auth=cc62f0c7b02a0bda51359c6b6ec2cfee95c4b5f9d62f42d92a9f1a82a7ae7149",
-   "date": "2026-11-26T04:40:00+00:00"
   },
   {
    "lang": "en",
@@ -192,14 +184,6 @@
    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-25T14:18:45+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast",
-   "link": "https://www.cnbc.com/2026/11/25/uae-iran-war-economy-oil.html",
-   "image": "",
-   "date": "2026-11-25T04:06:01+00:00"
   },
   {
    "lang": "en",
