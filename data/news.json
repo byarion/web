@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-27T15:42:47.798166+00:00",
+ "updated": "2026-11-28T00:45:57.689044+00:00",
  "items": [
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
+   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
+   "image": "",
+   "date": "2026-11-27T21:45:41+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Black Friday con pocas gangas, precios más caros y denuncia en Donostia",
+   "link": "https://www.naiz.eus/info/noticia/20261127/black-friday-con-pocas-gangas-precios-mas-caros-y-denuncia-en-donostia",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/484/news_landscape/utikan-blackfriday.jpg",
+   "date": "2026-11-27T17:42:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Denuncian que una familia de Arrigorriaga tiene que residir en una vivienda «inhabitable»",
+   "link": "https://www.naiz.eus/info/noticia/20261127/denuncian-que-una-familia-de-arrigorriaga-tiene-que-residir-en-una-vivienda-inhabitable",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/479/news_landscape/HXZBAHBWQAAP3Ed.jpg",
+   "date": "2026-11-27T16:53:00+00:00"
+  },
   {
    "lang": "es",
    "source": "El País",
@@ -168,14 +192,6 @@
    "link": "https://www.cnbc.com/2026/11/25/kevin-warsh-greenspan-fed-rates-ai-inflation.html",
    "image": "",
    "date": "2026-11-25T21:56:43+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Even the price of toys is on the rise. How Americans are scaling back holiday plans",
-   "link": "https://www.cnbc.com/2026/11/25/holiday-inflation-thanksgiving-travel-food-gifts.html",
-   "image": "",
-   "date": "2026-11-25T16:17:13+00:00"
   },
   {
    "lang": "en",
