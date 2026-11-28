@@ -1,6 +1,86 @@
 {
- "updated": "2026-11-28T00:45:57.689044+00:00",
+ "updated": "2026-11-28T10:59:23.085355+00:00",
  "items": [
+  {
+   "lang": "es",
+   "source": "Naiz",
+   "title": "Israel mata a dos trabajadores de Médicos Sin Fronteras en un ataque en ciudad de Gaza",
+   "link": "https://www.naiz.eus/info/noticia/20261128/israel-mata-a-dos-trabajadores-de-medicos-sin-fronteras-en-un-ataque-en-ciudad-de-gaza",
+   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/606/news_landscape/GAZA.jpg",
+   "date": "2026-11-28T08:21:00+00:00"
+  },
+  {
+   "lang": "en",
+   "source": "CNBC Economy",
+   "title": "Saudi Arabia shifts Vision 2030 spending amid economic and security pressure",
+   "link": "https://www.cnbc.com/2026/11/28/saudi-arabia-vision-2030-spending.html",
+   "image": "",
+   "date": "2026-11-28T06:00:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La ilusión de la certeza",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-28/la-ilusion-de-la-certeza.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/5OA6UIAAGFHPVMPT4HCIJKT5OE.JPG?auth=962a3bc5921ca4a465d289a32c844da5a86a37beeb7ca85be7ed11e157b95dc3",
+   "date": "2026-11-28T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Inflación e incertidumbre, un lastre para la campaña navideña",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-28/inflacion-e-incertidumbre-un-lastre-para-la-campana-navidena.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/PJ5BYF3UD5L3FBYMGNMVFPUYTU.jpg?auth=80d79047f839e833b8e552382882786401d16004fbedf320b610124301e2e3fc",
+   "date": "2026-11-28T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "La nueva dirección del BCE hereda un manual fallido",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-28/la-nueva-direccion-del-bce-hereda-un-manual-fallido.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/XGZZDVZDPJON7HTRON6MVWQJXQ.jpg?auth=2d43efc99dfa23f320cb0348ec185f953adb7fa0c045573ca04e04566dcd6779",
+   "date": "2026-11-28T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Las coaliciones impepinables o por qué se hace tarde para el cordón sanitario",
+   "link": "https://cincodias.elpais.com/opinion/2026-11-28/las-coaliciones-impepinables-o-por-que-se-hace-tarde-para-el-cordon-sanitario.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BVIDDBEGVRHKREXEX56LKVBZ5Y.jpg?auth=33face65287c9357d19e34d21c07620d950f4fb65ec59c6ca40e5416db7109c0",
+   "date": "2026-11-28T04:40:00+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Desatascar el suelo, una de las claves contra la crisis de la vivienda",
+   "link": "https://elpais.com/economia/vivienda/2026-11-28/desatascar-el-suelo-una-de-las-claves-contra-la-crisis-de-la-vivienda.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/X5B5TO7AEFOR5PUC6VUZEXJGUE.jpg?auth=a3532fe0b5af2105908d5699d2119c4dcf986e17d0cb5da344e503129a81d19d",
+   "date": "2026-11-28T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Economía prepara una herramienta para que empresas y autónomos se relacionen con la Administración a través de la IA",
+   "link": "https://elpais.com/economia/2026-11-28/economia-prepara-una-herramienta-para-que-empresas-y-autonomos-se-relacionen-con-la-administracion-a-traves-de-la-ia.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/C46OAXQH3FH7ZL6J4B7RUCI4R4.JPG?auth=c37cff4894ba9a43370caa7e41171494444e288af60ccaedb7a1edfbb2365085",
+   "date": "2026-11-28T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Rodrigo Valdés, director de Asuntos Fiscales del FMI: “La situación fiscal en España requiere atención a las pensiones”",
+   "link": "https://elpais.com/economia/2026-11-28/rodrigo-valdes-director-de-asuntos-fiscales-del-fmi-la-situacion-fiscal-en-espana-requiere-atencion-a-las-pensiones.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/BUQLHFN5F5FDZIIY5QGMJCUCHY.jpg?auth=2c9eceea7d8d2331483be90850ef55a86900c6e1b9a707a32cf02512760b1af9",
+   "date": "2026-11-28T04:30:01+00:00"
+  },
+  {
+   "lang": "es",
+   "source": "El País",
+   "title": "Economía podrá bloquear cuentas y transacciones bancarias si tiene sospechas de blanqueo de capitales",
+   "link": "https://cincodias.elpais.com/companias/2026-11-28/economia-podra-bloquear-cuentas-y-transacciones-bancarias-si-tiene-sospechas-de-blanqueo-de-capitales.html",
+   "image": "https://imagenes.elpais.com/resizer/v2/54ZCKXKCHRJVBPAGFUB2TQCYKA.jpg?auth=f6158a8a77dabab200e8ab63218f4c0b1abc04420b8d05c09623b6f4e691a25e",
+   "date": "2026-11-28T04:15:00+00:00"
+  },
   {
    "lang": "en",
    "source": "CNBC Economy",
@@ -16,22 +96,6 @@
    "link": "https://www.naiz.eus/info/noticia/20261127/black-friday-con-pocas-gangas-precios-mas-caros-y-denuncia-en-donostia",
    "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/484/news_landscape/utikan-blackfriday.jpg",
    "date": "2026-11-27T17:42:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "Naiz",
-   "title": "Denuncian que una familia de Arrigorriaga tiene que residir en una vivienda «inhabitable»",
-   "link": "https://www.naiz.eus/info/noticia/20261127/denuncian-que-una-familia-de-arrigorriaga-tiene-que-residir-en-una-vivienda-inhabitable",
-   "image": "https://www.naiz.eus/media/asset_publics/resources/001/391/479/news_landscape/HXZBAHBWQAAP3Ed.jpg",
-   "date": "2026-11-27T16:53:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "La pensión media de jubilación de los hombres ya supera los 1.800 euros al mes",
-   "link": "https://elpais.com/economia/2026-11-27/la-pension-media-de-jubilacion-de-los-hombres-ya-supera-los-1800-euros-al-mes.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/UCQXKJVJOBDW3CB55VFC73YUGA.jpg?auth=b044af3b3bcc400baf39ceddf85e3ca06c63af4a1387ca72a272230108f53130",
-   "date": "2026-11-27T15:00:24+00:00"
   },
   {
    "lang": "en",
@@ -50,14 +114,6 @@
    "date": "2026-11-27T08:47:36+00:00"
   },
   {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las pensiones subirán un 3,5% en 2027 tras crecer la inflación el 4,1% en noviembre",
-   "link": "https://elpais.com/economia/2026-11-27/las-pensiones-subiran-un-35-en-2027.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/X5OIUMOA5RAZHGOFPVNVGCZMLA.jpg?auth=db188a7aba1a177bc231cdd37d4973412ca0075ecb8a851d53df180f409a47f2",
-   "date": "2026-11-27T08:00:08+00:00"
-  },
-  {
    "lang": "en",
    "source": "CNBC Economy",
    "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
@@ -72,54 +128,6 @@
    "link": "https://www.cnbc.com/2026/11/27/china-industrial-profits-october.html",
    "image": "",
    "date": "2026-11-27T06:09:51+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Hernández de Cos, el valor del prestigio",
-   "link": "https://elpais.com/economia/2026-11-27/hernandez-de-cos-el-valor-del-prestigio.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/HWGHGBMOTZCTZI7DF5VTXNFDZE.jpg?auth=56b90678eb880377251adf248ee7ad191d65964e723fc8634db01ceb8675f322",
-   "date": "2026-11-27T05:03:52+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Leapmotor, socio de Stellantis, alerta al coche eléctrico chino",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-27/leapmotor-socio-de-stellantis-alerta-al-coche-electrico-chino.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/ZKYVQCW6NZFQ5CVI3QGBO2PVKI.jpg?auth=2e1512690d9f1dad3448626817ea14d5d86ef109b986ecbf2e20ebd78b8b933f",
-   "date": "2026-11-27T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "El retorno de Huang y la destrucción de la cultura corporativa",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-27/el-retorno-de-huang-y-la-destruccion-de-la-cultura-corporativa.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/3ZZTG24PARLH5EHIMZIK5KSHKQ.jpg?auth=c2f51a34ec0df5675bdb3870c0815fa78528ef082069f2d5a398419ca97876cb",
-   "date": "2026-11-27T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Las claves: la caída del cigarrillo empuja a las tabaqueras a unir fuerzas",
-   "link": "https://cincodias.elpais.com/opinion/2026-11-27/las-claves-la-caida-del-cigarrillo-empuja-a-las-tabaqueras-a-unir-fuerzas.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/IZT4FJHBH6SUAMEYQNIEUFIGLI.jpg?auth=82751b56918e695a1c74dae4d363c58a0b75f49f8c6a7783c4408543598fd874",
-   "date": "2026-11-27T04:40:00+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "De Francia a la inflación y de la IA a la integración europea: la larga lista de deberes de Hernández de Cos",
-   "link": "https://elpais.com/economia/2026-11-27/de-francia-a-la-inflacion-y-de-la-ia-a-la-integracion-europea-la-larga-lista-de-deberes-de-hernandez-de-cos.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/YEXH5RJRIFH7XLIHBEAKLYD7FY.jpg?auth=0c2c0ed6454ef9808bde520312288cd603a5a8292b49b8b769bae651d6182ed3",
-   "date": "2026-11-27T04:30:01+00:00"
-  },
-  {
-   "lang": "es",
-   "source": "El País",
-   "title": "Los diez minutos que desenredaron el nudo para encumbrar a Hernández de Cos como presidente del BCE",
-   "link": "https://elpais.com/economia/2026-11-27/los-diez-minutos-que-desenredaron-el-nudo-para-encumbrar-a-hernandez-de-cos-como-presidente-del-bce.html",
-   "image": "https://imagenes.elpais.com/resizer/v2/G42PPHMLUVKKVPV37C6Q6IWP34.jpg?auth=26119aa7815d3855eca52656b81756d5f29c41ef27dd93f92193b4e931a709b3",
-   "date": "2026-11-27T04:30:01+00:00"
   },
   {
    "lang": "en",
@@ -200,14 +208,6 @@
    "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
    "image": "",
    "date": "2026-11-25T14:18:45+00:00"
-  },
-  {
-   "lang": "en",
-   "source": "CNBC Economy",
-   "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-   "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
-   "image": "",
-   "date": "2026-11-24T18:34:43+00:00"
   },
   {
    "lang": "es",
